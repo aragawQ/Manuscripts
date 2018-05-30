@@ -58,10 +58,15 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </msItem>
                       <msItem xml:id="p1_i2.2">
                           <locus from = "104v" to = "105v"/>
-                          <title>Second Song of Moses</title>
-                          <title> type="complete" ref="LIT2278salota"</title>
+                          <title> Second Song of Moses </title>
+                          <title type = "complete" ref = "LIT2278salota"/>
                           <textLang mainLang="gez">Gə‘əz</textLang>
                           </msItem>
+                        <msItem xml:id="p1_i2.3">
+                              <locus from = "105v" to = "107r"/>
+                              <title> Third Song of Moses </title>
+                              <textLang mainLang="gez">Gə‘əz</textLang>
+                            </msItem>
                       <msItem xml:id="p1_i3">
                           <title>Song of Songs</title>
                           <textLang mainLang="gez">Gə‘əz</textLang>
