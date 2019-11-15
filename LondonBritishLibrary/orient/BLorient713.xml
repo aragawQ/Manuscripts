@@ -72,6 +72,12 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                             <title type="complete" ref="LIT5481MashafaAhbero">መጽሐፈ፡ አኅብሮ፡</title>
                             <textLang mainLang="gez"/>
                             <colophon xml:id="coloph1">
+                                <locus target="#81v"></locus>
+                                <q xml:lang="geez">ቅፍጻሜሁሰ፡ ኮነ፡ ፪ለወርኃ፡ ታስሪን፡ ቀዳማይ፡ በሐሳቦሙ፡ ለዕብራዊያን፡ 
+                                    ወበግዕዝ፡ አመ፡ ፬ለጥቅምት፡ በሐሳበ፡ ፀሐይ፡  ወበሳልስ፡ ኆኅት፡  በጊዜ፡ ግብአቱ፡  እምራ
+                                    ብዕ፡  በ፱ዓውደ፡ ቀመር፡ በ፩ጥንትዮን፡  ወበ፱ ዓውደ፡ ዕለት።  በ፱አበቅቴ፡ በካልእ፡ ዓምተ፡   መንግሥቱ፡
+                                    ለ<persName ref="PRS6229LebnaDe">ዳዊት፡</persName>  ንጉሠ፡ አግዓዜ፡  ወልደ፡  <persName ref="PRS7481NaodA">ናዖድ፡</persName> ንጉሥ፡ ርቱዓ፡ ሃይማኖት፡  በዕለተ፡  ሰኑይ፡ በ፲ሰዓት፡ ዘመዓልት፡ አመ፡ ከርመ፡
+                                    በምድረ፡ <placeName ref="LOC1669Azazo">አዘዞ።</placeName></q>
                          
                                 <note>The colophon contains the names of the <persName ref="PRS12580FessehaSeyon "/> and 
                                     his father <persName ref="PRS12581Anorewos"/> and his mother <persName ref="PRS12584Aqelesya"/>
@@ -222,6 +228,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
         </profileDesc>
         <revisionDesc>
             <change who="SG" when="2019-04-01">Created catalogue entry</change>
+            <change who="SG" when="2019-04-01">Complete record</change>
             <change who="DR" when="2019-04-26">Added link to images</change>
             
         </revisionDesc>
