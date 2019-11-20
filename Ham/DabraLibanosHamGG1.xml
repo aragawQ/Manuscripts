@@ -12,7 +12,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <editor key="NV"/>
          </titleStmt>
          <editionStmt>
-            <p>Photo Credit: Alessandro Bausi © MIE (Missione Italiana in Eritrea 1993-1994), 
+            <p>Photo Credit: Alessandro Bausi © MIE (Missione Italiana in Eritrea 1993-1994),
                Consiglio Nazionale delle Ricerche and University of Bologna.</p>
          </editionStmt>
          <publicationStmt>
@@ -69,22 +69,18 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
                   <msContents>
 
-                     <msItem xml:id="p1_i1">
-                        <!--                                    <locus></locus>-->
+                    <msPart xml:id="p1.1">
+ <msItem xml:id="p1_i1.1">
+<locus from="1v" to="3r"/>
+<title type="complete" ref="LIT1349EpistlEusebius"/>
+<textLang mainLang="gez"></textLang>
+</msItem>
+<msItem xml:id="p1_i1.2">
+<locus from="3v" to="7r"/>
+<title type="complete" ref="LIT1224Canons"/>
+<textLang mainLang="gez"></textLang>
+</msItem>
 
-                        <title>hymn for Libānos</title>
-
-
-                        <textLang mainLang="gez"> </textLang>
-
-                        <incipit/>
-                        <explicit/>
-
-                        <note> ff.1rv and 2r have not been photographed yet, f.2v contain a
-                           colophon.</note>
-
-
-                     </msItem>
                      <msItem xml:id="p1_i2">
                         <!--    <locus></locus>-->
                         <textLang mainLang="gez">Donation note </textLang>
@@ -187,7 +183,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   </physDesc>
 
                </msPart>
-               
+
             </msDesc>
          </sourceDesc>
 
