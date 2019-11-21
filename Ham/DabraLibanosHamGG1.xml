@@ -14,6 +14,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <editionStmt>
             <p>Photo Credit: Alessandro Bausi © MIE (Missione Italiana in Eritrea 1993-1994),
                Consiglio Nazionale delle Ricerche and University of Bologna.</p>
+           <p>The third photos set is by Roger Schneider and was taken in 1975. The originals of these photos
+             are at the Institute of Ethiopian Studies, at the  Walda Masqal centre.</p>
          </editionStmt>
          <publicationStmt>
             <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
