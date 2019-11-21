@@ -74,7 +74,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
                   <msContents>
 
-                    <msItem xml:id="p1.1">
+                    <msItem xml:id="p1_i1">
  <msItem xml:id="p1_i1.1">
 <locus from="1v" to="3r"/>
 <title type="complete" ref="LIT1349EpistlEusebius"/>
@@ -94,7 +94,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <additional></additional>
 </msPart>
 </msDesc>
-<bibl></bibl>
+
 <list>
                 <item xml:id="a1">
                     <locus target="#1r"></locus>
@@ -130,6 +130,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 እንዘ፡ይጸንሑ፡ብ
 ዕለ፡ዘአልቦ፡መም
 ስለ
+
 </q>
 </item>
 <item xml:id="a4">
@@ -147,80 +148,37 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
   ለ፡ጻድቃን።።
   ወለእለ፡ይገብሩ፡
 ተዝካሮ፡እመሂ፡
-  <lb>አንስት፡ወእመ</lb>
-  <lb>ሂ፡ተባዕት፡ይም</lb>
-  <lb>ሐሮሙ፡እግዚ</lb>
-  <lb>ኣብሔር፡በጸሎ</lb>
-  <lb>ቱ፡ወይስረይ፡ኀ</lb>
-  <lb>ጢአቶሙ፡ለዓ</lb>
-    <lb>ለም፡አሜን።</lb>
-  </cb></pb>
+  አንስት፡ወእመ
+  ሂ፡ተባዕት፡ይም
+ሐሮሙ፡እግዚ
+ኣብሔር፡በጸሎ
+ቱ፡ወይስረይ፡ኀ
+ጢአቶሙ፡ለዓ
+  ለም፡አሜን።
+
+  </q>
 </item>
   <item xml:id="a5">
     <locus target="#7v"/>
-                    <desc type="GuestText"/>
-                      <title type="incomplete" ref="NAR0022gwelt"></title></desc>
+                    <desc type="GuestText">
+                     <title type="incomplete" ref="NAR0022gwelt"/></desc>
                      <q xml:lang="gez">
-                       <ab>
-                    <pb><lb> <seg ana="#invocation" type="interpretation">በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡</seg></lb>
-                   <seg ana="#suscription" type="interpretation">
-<lb> አ  <supplied reason="lost">ጐለት</supplied>ኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala">
-<roleName>ሐፃ</lb>
-<lb>ኒ፡</roleName>ላሊባላ፡ወስመ መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀ</addName></persName></lb>
-<lb>ል፡</persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
-በ፬፻ወ፱ ዓመተ ምሕረት፡አመ፡፫፡ለወር</lb>
-<lb>ኀ መያዝያ </date>ብእሲ ዓዛል ዘኢይትመዋእ</lb>
-<lb>ለፀር በኀይለ መስቀሉ ለኢየሱስ ክርስ</lb>
-  <lb>ቶስ ወልደ <persName ref="PRS12816Morara">ሞራራ </persName>ወልደ <persName ref="PRS12817ZanSeyum">ዛንሥዩም</persName> ወልደ</lb>
-    <lb>  <persName ref="PRS12818Aseda">ኣስዳ </persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ ለ
-      <placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
-መ <persName ref="PRS6859MasqalK">ብ</lb>
-  <lb> እሲትየኒ  መስቀል ክብራ </persName>ፈራሂተ እግዚ
-  ብሔር <placeName ref="LOC1914Bihat">ቢሐት፡</placeName>
-  በባሕረ ኀጸሮ <placeName ref="">እ<add place="above">ን</add>ቀርዖ </placeName><placeName ref="LOC6447Zareda">ዘሬ</placeName></lb>
-    <lb>ዳ ክርስቲያን ምስለ ምድሮሙ በ<add place="above">ን</add>ጽፉ፡ወ</lb>
-    <lb>በቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName><placeName ref="">ወድዕዱዕ፡</placeName>ዘኢይበውእ</lb>
-      <lb><roleName>ዓቃቤ፡ጸንጻን፡ወኢከንቲባ፡</roleName>ዘአልቦ፡ግብረ፡ለ</lb>
-      <lb>ባዕድ፡ዘእንበለ፡<roleName>አበ ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመ</lb>
-        <lb>ቦ፡ዘተኀየሎ ወዘዐገሎ ወዘተገሰሶ እ</lb>
-          <lb>መሂ ዘነግሠ ወእመሂ ዘአንገሥጋሠ ወእ</lb>
-            <lb>መሂ ዘተጳጳሰ ወእመሂ ዘተመኰነነ እመ</lb>
-            <lb>ሂሥዩም ወእመሂ፡ስዑር፡ወዘተአገሎ</lb>
-                <lb>ለዝንቱ፡ጕልት ወለዝንቱ፡ክሱም፡ውጉዘ፡</lb>
-                <lb>ለይኩን፡በቅድመ፡አብ፡ወወልድ ወመንፈስ</lb>
-                <lb>ቅዱስ፡በአፉሁ፡ለአቡነ፡  <persName ref="PRS6298Libanos">መጣዕ፡</persName>በአፈ፡ጳጳ</lb>
-                  <lb>ሳት፡በኣፈ፡፫፻፲ወ፰ ርቱዐነ፡ሃይማኖት በአ</lb>
-                    <lb>ፈ፡፲ወ፭ ነቢያት፡በአፈ፡፲ወ፪ ሐዋርያት፡አሜ</lb>
-                      <lb>ን፡ወአሜን።</seg></ab>
 
-                  </ab>
+
                   </q>
-                </item>
+                  </item>
                 <item xml:id="a6">
                   <locus target="#7v"/>
-                                  <desc type="GuestText"/>
+                                  <desc type="GuestText">
                                     <title type="complete" ref="NAR0023gwelt"></title></desc>
                                    <q xml:lang="gez">
-                                     <ab>
-                           <ab>
-                            <lb><seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመ</lb>
-                             <lb>ንፈስ፡ቅዱስ፡</seg>
-                             <seg ana="#suscription" type="interpretation">ወሀብኩ፡አነ፡ገብረ፡መስቀል፡</seg>
-                              <seg ana="#provision" type="interpretation"> በ<placeName ref="LOC2296DabraL">አ</lb>
-                              <lb>ሃም፡</placeName>፷፡ገራህት፡ለቤተ፡ክርስቲያን፡ወከመ፡ይ</lb>
-                                <lb>ግ<add place="above">በ</add>ሩ፡ተዝካሮ፡ለ<persName ref="PRS6298Libanos">መጣዕ፡</persName>ከመ፡ይትወሀስኒ፡በመ</lb>
-                                  <lb>ንግሥተ፡ሰማያት፡እመቦ፡ዘተኀየሎ፡ወዘአባሎ፡</lb>
-                                    <lb>ውጉዘ፡ለይ<add place="above">ኩ</add>ን።በአፈ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።space </seg></pb>
-                                    </q>
-                                  </item>
 
+
+                                    </q>
+                            </item>
 </list>
 
-</additions>
-
-
-
-
+</sourceDesc>
       </fileDesc>
       <encodingDesc>
          <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
@@ -244,4 +202,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">
-</TEI>
+     <body><ab>
+     </ab></body>
+     </text>
+     </TEI>
