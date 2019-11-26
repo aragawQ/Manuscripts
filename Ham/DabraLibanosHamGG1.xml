@@ -86,39 +86,179 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
      <layout></layout>
    </layoutDesc>
 </objectDesc>
-<handDesc>
+  <!--to be updated<handDesc>
   <handNote xml:id="h1" script="Ethiopic">
     <desc></desc>
     <seg type="script">accurate</seg>
     <seg type="ink">black</seg>
 </handNote>
-</handDesc>
+</handDesc>-->
+<decoDesc>
+<summary>
+
+            </summary>
+            <decoNote type="miniature" xml:id="d1">
+               <locus target="#2r" facs="f17"/>
+               <desc> The <title type="complete" ref="LIT1349EpistlEusebius"/> runs between
+                     <locus from="2r" to="3r"/> and is placed under brightly coloured <term key="arch">arches</term> that rest on <term key="curtain">curtained</term>
+                  <term key="column">columns</term>. Several <term key="bird">birds</term>
+                  are placed atop the arch. The opening page, <locus target="#2r"/>
+                  features a pair of <foreign xml:lang="gez">ጣዎስ፡</foreign> flanking a
+                     <term key="cross">cross</term> and four <foreign xml:lang="gez">ዱራ፡</foreign> birds. The following pages feature the <foreign xml:lang="gez">ጠይራት፡</foreign> birds on arches decorated with <term key="interlace"/> patterns. </desc>
+            </decoNote>
+
+            <decoNote type="miniature" xml:id="d2">
+               <locus target="#3v" facs="f20"/>
+               <desc> The Canon Tables run between <locus from="3v" to="6v"/>. The artists
+                  adopts the same decorative devices used to frame the preceding letter.
+                  The Canons are placed under brightly coloured <term key="arch">arches</term> that rest on <term key="curtain">curtained</term>
+                  <term key="column">columns</term>. A number of <term key="bird">birds</term>, placed symmetrically on opposite pages, are placed atop
+                  the arches, namely: <foreign xml:lang="gez"> ካይር፡</foreign> on <locus from="3v" to="4r"/> and <locus from="5v" to="6r"/>; and <foreign xml:lang="gez">ጣይር፡</foreign> on <locus from="4v" to="5r"/>. The birds
+                  on <locus target="#6v"/> are not identified by a caption and left
+                  unfinished. </desc>
+            </decoNote>
+
+            <decoNote type="miniature" xml:id="d3">
+               <locus target="#7r"/>
+               <desc> A representation of the <ref type="authFile" corresp="AT1034Tempietto"/> follows, as is conventional, the Eusebian
+                  Apparatus. Highly stylized, it features six <term key="column">columns</term>, an <term key="interlace">interlace</term> pattern,
+                  and a low chancel. The <term key="architecture">building</term> is
+                  flanked by two antelopes, each identified by the caption <foreign xml:lang="gez">ባቡላ፡</foreign> and has two ostrich <term key="bird">
+                     birds</term>, each identified by the caption <foreign xml:lang="gez">ሰገነ፡ ባሕር<supplied reason="omitted">፡</supplied>
+                  </foreign>, above its <term key="cross">cross-topped</term> roof. The
+                  caption inside the Tempietto highlights its symbolism. <q xml:lang="gez">ኑባሬ፡ ሥርዐት፡ ዘኅብሩ፡ አርባዕቱ፡ ወንጌላት።</q>
+               </desc>
+            </decoNote>
+
+            <decoNote type="miniature" xml:id="d4">
+               <locus target="#7v"/>
+               <desc>The <ref type="authFile" corresp="AT1005Crucifixion"/> miniature
+                  features an <term key="emptycross"/> topped by the <persName ref="PRS5684JesusCh">Lamb of God</persName>. Above it is an arch
+                  resting on a <term key="architecture">lintel</term> supported by <term key="column"> two columns</term>. At its sides are the <term key="sunandmoon"/>, the former with anthropomorphic features, which
+                  are respectively captioned <foreign xml:lang="gez">ፀሓይ፡ ኀበ፡ ኀብአ፡
+                     ብርሃኖ፡</foreign>
+                  <foreign xml:lang="gez">ወርኅ፡ ደመ፡ ኮነ፡</foreign>. The <term key="twothieves">Two Thieves</term>, identified by captions as
+                     <foreign xml:lang="gez">ፈያታይ፡ ዘየማን፡</foreign> and <foreign xml:lang="gez">ፈያታይ፡ ፀጋም፡</foreign>, who have their hands tied behind
+                  the <term key="cross"/> and turn their gaze towards the centre.
+                  Stephaton, to the right, holds a <term key="sponge"/>, as is conventional
+                  for this motif. However, Longinus, to the left,holds a flask instead of
+                  the usual <term key="spear"/>, this points towards the possibility that
+                  the miniature is based on an Early Byzantine prototype. <q xml:lang="gez">ነዋ፡ በግዑ፡ ለእግዚአብሔር፡ ዘያአትት፡ ኀጢአተ፡ ዓለም።</q>
+               </desc>
+            </decoNote>
+
+            <decoNote type="miniature" xml:id="d5">
+               <locus target="#8r"/>
+               <desc> A miniature of the <ref type="authFile" corresp="AT1017WomenAtTomb"/>,
+                  featuring <persName ref="PRS6820MaryMag"/> and Marta, respectively
+                  identified by the captions <foreign xml:lang="gez">ሥዕለ፡ ማርያ፡
+                     መግደላዊት</foreign> and <foreign xml:lang="gez">ሥዕለ፡ ማርታ</foreign>. The
+                  two Holy Women hold a <term key="censer"/> in one hand and raise their
+                  other hand to their chest. They advance towards an <term key="angel"/>
+                  who announces the Resurrection and is placed under an <term key="arch"/>.
+                  Two guards, each with a <term key="sword"/>, a <term key="shield"/>, and
+                  a <term key="vestment">pointed hat</term>, are sprawled beneath them. The
+                  scene is placed under a large <term key="architecture">dome</term>
+                  surmounted by <term key="cross">three crosses</term>. <q xml:lang="gez">መልአክ፡ ኀበ፡ ተናገሮን፡ ለአንሰት፡</q>
+               </desc>
+            </decoNote>
+
+            <decoNote type="miniature" xml:id="d6">
+               <locus target="#8v"/>
+               <desc> A miniature of the <ref type="authFile" corresp="AT1033Ascension"/>
+                  divided into two framed registers. The upper register features <persName ref="PRS5684JesusCh"/> performing a <term key="gestureblessing"/> with
+                  his right hand and holding a <term key="codex"/> in his left. He has a
+                  cruciform <term key="halo"/> and is placed in a <term key="mandorla">circular mandorla</term> which contains the <term key="sunandmoon"/>
+                  and is surrounded by the <term key="tetramorph">Tetramorph</term>. The
+                  Four Beasts are arranged in the <term>Angel⇨Lion⇨Eagle⇨Ox</term> order,
+                  identified by the captions <foreign xml:lang="gez">
+                     <supplied reason="lost">ገ</supplied>ጸ፡ ሰ<supplied reason="lost">ብእ፡</supplied>
+                  </foreign> ⇨<foreign xml:lang="gez">ገጸ፡ አ<supplied reason="lost">ን</supplied>በሳ፡</foreign> ⇨<foreign xml:lang="gez">ገጸ፡ <supplied reason="lost">ን</supplied>ስር፡</foreign> ⇨<foreign xml:lang="gez">ገጸ፡ ላህም፡</foreign>. The lower register features the <persName ref="PRS6819Mary"/> at its centre. She is in the <term key="gesture">orans pose</term> and wears a <term key="vestment">shawl</term> over
+                  a spotted <term key="vestment">tunic</term> fastened at the waist by a
+                     <term key="vestment">belt</term>. <persName ref="PRS4377Gabriel"/>,
+                  identified by the caption <foreign xml:lang="gez">ሥዕለ፡ ገብርኤል፡</foreign>
+                  to her left, and <persName ref="PRS7049Michael"/>, identified by the
+                  caption <foreign xml:lang="gez">ሥዕለ፡ ሚካኤል፡</foreign> to her right,
+                  stretch a wing over her head. They hold a <term key="scroll"/> or
+                     <term>rod</term> in their right hand and hold a <term key="eucharist"/> or <term>globe</term>. </desc>
+            </decoNote>
+
+            <decoNote type="miniature" xml:id="d7">
+               <locus target="#11v"/>
+               <desc> A <term>standing</term>
+                  <ref type="authFile" corresp="AT1013EvaPortrait"/> of <persName ref="PRS6902Matthew">Matthew</persName> in a <term>cruciform
+                     frame</term>. He is <term key="halo">nimbed</term> and <term key="beardless"/>. He holds a <term key="codex"/> in his left hand and
+                  what could be a <term key="scroll"/> in his right. <q xml:lang="gez">ሥዕለ፡
+                     ማቴዎስ፡</q>
+               </desc>
+            </decoNote>
+
+            <decoNote type="miniature" xml:id="d8">
+               <locus target="#68v"/>
+               <desc> A <term>standing</term>
+                  <ref type="authFile" corresp="AT1013EvaPortrait"/> of <persName ref="PRS6751Mark">Mark</persName> inserted in a <term>trilobe
+                     frame</term>. He has a <term key="halo"/> and is <term key="beardless"/>. He holds a <term key="codex"/> in his left hand and what could be a
+                     <term key="scroll"/> in his right. <q xml:lang="gez">ሥዕለ፡ ማርቆስ፡ ጸሎቱ፡
+                     ትዕቀበነ፡ አሜን።</q>
+               </desc>
+            </decoNote>
+
+            <decoNote type="miniature" xml:id="d9">
+               <locus target="#104v"/>
+               <desc> A <term>standing</term>
+                  <ref type="authFile" corresp="AT1013EvaPortrait"/> of <persName ref="PRS6387Luke">Luke</persName>inserted in a <term>rectangular
+                     frame</term>. He is <term key="halo">nimbed</term> and <term key="beardless"/>. He holds a <term key="codex"/> in his left hand and
+                  what could be a <term key="scroll"/> in his right. <q xml:lang="gez">ሥዕለ፡
+                     ሉቃስ፡ ጸሎቱ፡ ወበረከቱ፡ የሃሉ፡ ሰሌነ፡ አሜን።</q>
+               </desc>
+            </decoNote>
+
+            <decoNote type="miniature" xml:id="d10">
+               <locus target="#162v"/>
+               <desc> A <term>standing</term>
+                  <ref type="authFile" corresp="AT1013EvaPortrait"/> of <persName ref="PRS5695John"/> inserted in a <term>trilobe frame</term>. He has
+                     a<term key="halo"/> and a short black <term key="bearded">beard</term>. He holds a <term key="codex"/> in his left hand and what
+                  could be a <term key="scroll"/> in his right. <q xml:lang="gez">ሥዕለ፡
+                     ወንጌላዊ፡ ዮሐንስ</q>
+               </desc>
+            </decoNote>
+
+</decoDesc>
 <additions>
 <list>
 <item xml:id="a1">
 <desc type="GuestText"/>
 <locus target="#1r"/>
 <q xml:lang="gez">
-ዘማርያም።እግዚእትየ፡ማርያም፡እስመ፡በዝንቱ፡ደመ፡ወልድ፡ተቀደሱ፡ቅዱሳን፡እስመ፡በዝንቱ፡ኅብስት፡ወበዝንቱ፡ጽዋዐ፡በደኀሪት፡ዕለት፡ኅቱማኒሆሙ፡ይትረከቡ፡ሰአሊ፡ለነ፡ማርያም፡በግርምት፡ዕለት ከመ፡ይምሐረነ።
-<handShift cert="low"/>
-ይቤ፡እግዚእ፡አክብሩ፡ሰንበተ ተገበሩ፡ጽድቀ፡ወፈድፋድስ፡ለማርያም፡አክብርዋ፡እስመ፡ኵሉ፡ዘሰአለ፡ኀቤሃ፡ተዐስዮ፡ፍሥሐ።
-<handShift cert="low"/>
-እለ፡ጐዩ፡እምነውር፡እምዝ፡ዓለም፡ነኪር፡እምወርቅ፡ወእምብሩር፡ዘይትበደር፡አክሊለ፡ነሥኡ፡ዘሕብሩ፡ሱሩረ፡ከመ፡እንስሳ፡ገዳም፡ውስተ፡አርእስተ፡አድባር፡ነበሩ፡ከመ፡ኀረበጻማ፡ተገበሩ፡እንዘ፡ይጸንሑ፡ብዕለ፡ዘአልቦ፡መምስለ
-<handShift cert="low"/>
-በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።ተዝከሩ፡ለበርናባስ፡እም፡፳።ለሶንይ፡ይምሐሮ፡በሰማያ።ወይደምሮ፡ምስለ፡ጻድቃን።።ወለእለ፡ይገብሩ፡ተዝካሮ፡እመሂ፡አንስት፡ወእመሂ፡ተባዕት፡ይምሐሮሙ፡እግዚኣብሔር፡በጸሎቱ፡ወይስረይ፡ኀጢአቶሙ፡ለዓለም፡አሜን።
-</q>
+<ab>
+  <cb n="a"/><handShift cert="high" new="#h4"/>ዘማርያም።እግዚእትየ፡ማርያም፡እስመ፡በዝንቱ፡ደመ፡ወልድ፡ተቀደሱ፡ቅዱሳን፡እስመ፡በዝንቱ፡ኅብስት፡ወበዝንቱ፡ጽዋዐ፡በደኀሪት፡ዕለት፡ኅቱማኒሆሙ፡ይትረከቡ፡ሰአሊ፡ለነ፡ማርያም፡በግርምት፡ዕለት፡ከመ፡ይምሐረነ።
+  <note>dotted line</note>
+ይቤ፡እግዚእ፡አክብሩ፡ሰንበተ፡ተገበሩ፡ጽድቀ፡<handShift cert="low" new="#h5"/>ወፈድፋድስ፡ለማርያም፡አክብርዋ፡እስመ፡ኵሉ፡ዘሰአለ፡ኀቤሃ፡ተዐስዮ፡ፍሥሐ።
+  <note>dotted line</note>እለ፡ጐዩ፡እምነውር፡እምዝ፡ዓለም፡ነኪር፡እምወርቅ፡ወእምብሩር፡ዘይትበደር፡አክሊለ፡ነሥኡ፡ዘሕብሩ፡ሱሩረ፡ከመ፡እንስሳ፡ገዳም፡ውስተ፡አርእስተ፡አድባር፡ነበሩ፡ከመ፡ኀረ//፡በጻማ፡ተገበሩ፡
+<cb n="b"/>እንዘ፡ይጸንሑ፡ብዕለ፡ዘአልቦ፡መምስለ
+  <note>empty space followed by a dotted line</note>
+በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።ተዝከሩ፡ለበርናባስ፡እም፡፳።ለሶንይ፡ይምሐሮ፡እግዚኣብሔር፡በሰማያት።ወይደምሮ፡ምስለ፡ጻድቃን።።ወለእለ፡ይገብሩ፡ተዝካሮ፡እመሂ፡አንስት፡ወእመሂ፡ተባዕት፡ይምሐሮሙ፡እግዚኣብሔር፡በጸሎቱ፡ወይስረይ፡ኀጢአቶሙ፡ለዓለም፡አሜን።
+</ab></q>
 </item>
 <item xml:id="a2">
 <desc type="GuestText">
 <title type="incomplete" ref="NAR0022gwelt"/></desc>
 <locus target="#7v"/>
+<!--<q xml:lang="gez">
+  <seg ana="#invocation" type="interpretation">በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡</seg>
+<seg ana="#suscription" type="interpretation">አ<supplied reason="lost">ጐለት</supplied>ኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala"><roleName type="title">ሐፃኒ፡</roleName>ላሊባላ፡ወስመ መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀል፡</addName></persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
+በ፬፻ወ፱ ዓመተ ምሕረት፡አመ፡፫፡ለወርኀ መያዝያ </date>ብእሲ ዓዛል ዘኢይትመዋእለፀር በኀይለ መስቀሉ ለኢየሱስ ክርስቶስ ወልደ <persName ref="PRS12816Morara">ሞራራ </persName>ወልደ <persName ref="PRS12817ZanSeyum">ዛንሥዩም</persName> ወልደ <persName ref="PRS12818Aseda">ኣስዳ </persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ ለ<placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
+መ <persName ref="PRS6859MasqalK">ብእሲትየኒ  መስቀል ክብራ </persName>ፈራሂተ እግዚብሔር <placeName ref="LOC1914Bihat">ቢሐት፡</placeName>በባሕረ ኀጸሮ እንቀርዖ <placeName ref="LOC6447Zareda">ዘሬዳ ክርስቲያን </placeName>ምስለ ምድሮሙ በ<add place="above">ን</add>ጽፉ፡ወበቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName>ወድዕዱዕ፡ዘኢይበውእ ዓቃቤ፡ጸንጻን፡ወኢከንቲባ፡ዘአልቦ፡ግብረ፡ለባዕድ፡ዘእንበለ፡<roleName type="title">አበ ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመቦ፡ዘተኀየሎ ወዘዐገሎ ወዘተገሰሶ እመሂ ዘነግሠ ወእመሂ ዘአንገሥጋሠ ወእመሂ ዘተጳጳሰ ወእመሂ ዘተመኰነነ እመሂሥዩም ወእመሂ፡ስዑር፡ወዘተአገሎ ለዝንቱ፡ጕልት ወለዝንቱ፡ክሱም፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ ወመንፈስ ቅዱስ፡በአፉሁ፡ለአቡነ፡  <persName ref="PRS6298Libanos">መጣዕ፡</persName>በአፈ፡ጳጳሳት፡በኣፈ፡፫፻፲ወ፰ ርቱዐነ፡ሃይማኖት በአፈ፡፲ወ፭ ነቢያት፡በአፈ፡፲ወ፪ ሐዋርያት፡አሜን፡ወአሜን።</seg>
+</q-->
 </item>
 <item xml:id="a3">
 <locus target="#7v"/>
 <desc type="GuestText">
 <title type="complete" ref="NAR0023gwelt"/></desc>
-<q xml:lang="gez">
-  </q>
+<q>
+  <ab>
+<handNote xml:id="h3" script="Ethiopic"/>
+</ab></q>
 </item>
 </list>
 </additions>
