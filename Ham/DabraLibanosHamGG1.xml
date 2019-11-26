@@ -86,12 +86,33 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
      <layout></layout>
    </layoutDesc>
 </objectDesc>
-  <!--to be updated-->
   <handDesc>
-  <handNote xml:id="h1" script="Ethiopic">
-    <desc></desc>
-    <seg type="script">accurate</seg>
-    <seg type="ink">black</seg>
+  <handNote xml:id="h1" script="Ethiopic" corresp="#p1_i1">
+    <seg type="script">Monumental script, definitly of type 1a, resembeles the script attested in Abbā Garimā Gospels A and C.
+<date cert="medium">fourth/fifth to sixth/seventh century</date>
+     </seg>
+    <seg type="ink">brownish, red</seg>
+    <seg type="rubrication">Red ink was used to layout the letter. Each of three pages has the same mise en texte: three  red lines from the top interchange with the black lines.</seg>
+    </handNote>
+    <handNote xml:id="h2" script="Ethiopic">
+      <seg type="script">Monumental script</seg>
+      <date cert="high">the script can be considered contemporary to <persName ref="PRS6152Lalibala"> <roleName type="title">King</roleName>Lālibālā </persName></date>
+      <seg type="ink">black</seg>
+      <note>Some strokes to mark numerals seem to be added later.</note>
+</handNote>
+<handNote xml:id="h3" script="Ethiopic">
+  <seg type="script">Monumental script</seg>
+  <seg type="ink">blownish</seg>
+</handNote>
+<handNote xml:id="h4" script="Ethiopic">
+  <seg type="script">This hand is attested three time, in CCR 6 and CCR 14, added in the empty spaces in the Gospel. CCR 14 mentions certain ዐቃቤ ሰዐታት ሰንበት መሓረ and <persName ref="PRS10111WedemR"><roleName type="title">ንጉሥ፡ </roleName>ውድም፡ አርዐድ፡ </persName>, which gives us terminus non ante quem this hand had its additions. </seg>
+  <seg type="ink">black</seg>
+<date cert="medium">1294-1299</date>
+</handNote>
+<handNote xml:id="h5" script="Ethiopic">
+  <seg type="script"></seg>
+  <seg type="ink">black</seg>
+  <date cert="high">the script seems to be contemporary to h4,1294-1299.</date>
 </handNote>
 </handDesc>
 <decoDesc>
