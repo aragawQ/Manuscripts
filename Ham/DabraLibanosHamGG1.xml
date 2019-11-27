@@ -44,9 +44,6 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <objectDesc form="Codex">
      <supportDesc><support>parchment</support>
           </supportDesc>
-     <layoutDesc>
-       <layout></layout>
-     </layoutDesc>
   </objectDesc>
 <bindingDesc>
 <binding contemporary="false">
@@ -74,8 +71,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <msContents>
 <msItem xml:id="p1_i1">
 <locus from="1v" to="7r"/>
-<title type="complete" ref="LIT4877LetterCanons"/>
-<textLang mainLang="gez"></textLang>
+<title type="complete" ref="LIT4877LetterCanons" xml:lang="geez"/>
+  <incipit>እውሴብስ፡ለቃጲያኖስ፡ለዘ፡ኣፈቅር፡እኁየ፡ፍሥሓ፡ወዳኅና፡ለከ፡እምኃቤ፡እግዚአ፡ብሔር፡አሞንስ፡እንከ፡አሌክሰንደርያዊ፡በብዙኅ፡አስተኃምሞ፡ወጺሂቀ፡ገብረ፡</incipit>
+  <explicit>ወጸሐፍኩ፡ዓዲ፡ውስተ፡ወንጌል፡ትእምርተ፡አኀዘ፡ዘበ፡ሲራክ፡ኀበ፡ገብረ፡ተአምረ፡እግዚእነ፡ኢየሱስ፡ክርስቶስ፡ወኃበሂ፡አዘዘ፡ወኃበሂ፡ገሠጸ፡ወኃበሂ፡መሃረ፡ወኃበሂ፡ነበረ፡ወትእምርተ፡አኀዘ፡ማዕተበ፡መስቀል።</explicit>
+
 </msItem>
 </msContents>
 <physDesc>
