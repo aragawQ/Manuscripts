@@ -93,22 +93,22 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <seg type="ink">brownish, red</seg>
     <seg type="rubrication">Red ink was used to layout the letter. Each of three pages has the same mise en texte: three  red lines from the top interchange with the black lines.</seg>
     </handNote>
-    <handNote xml:id="h2" script="Ethiopic">
+    <handNote xml:id="h2" script="Ethiopic" corresp="#a2">
       <seg type="script">Monumental script</seg>
       <date cert="high">the script can be considered contemporary to <persName ref="PRS6152Lalibala"> <roleName type="title">King</roleName>Lālibālā </persName></date>
       <seg type="ink">black</seg>
       <note>Some strokes to mark numerals seem to be added later.</note>
 </handNote>
-<handNote xml:id="h3" script="Ethiopic">
+<handNote xml:id="h3" script="Ethiopic" corresp="#a3">
   <seg type="script">Monumental script</seg>
   <seg type="ink">blownish</seg>
 </handNote>
-<handNote xml:id="h4" script="Ethiopic">
+<handNote xml:id="h4" script="Ethiopic" corresp="#a1">
   <seg type="script">This hand is attested three time, in CCR 6 and CCR 14, added in the empty spaces in the Gospel. CCR 14 mentions certain ዐቃቤ ሰዐታት ሰንበት መሓረ and <persName ref="PRS10111WedemR"><roleName type="title">ንጉሥ፡ </roleName>ውድም፡ አርዐድ፡ </persName>, which gives us terminus non ante quem this hand had its additions. </seg>
   <seg type="ink">black</seg>
 <date cert="medium">1294-1299</date>
 </handNote>
-<handNote xml:id="h5" script="Ethiopic">
+<handNote xml:id="h5" script="Ethiopic" corresp="#a1">
   <seg type="script"></seg>
   <seg type="ink">black</seg>
   <date cert="high">the script seems to be contemporary to h4,1294-1299.</date>
@@ -183,13 +183,30 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <desc type="GuestText">
 <title type="complete" ref="NAR0023gwelt"/></desc>
 <q>
-  <ab>
+<seg ana="#invocation" type="interpretation"></seg>
+<seg ana="#suscription" type="interpretation"></seg>
+<seg ana="#provision" type="interpretation"></seg>
 
-</ab></q>
+</q>
+<q xml:lang="en">
+  <seg ana="#invocation" type="interpretation"></seg>
+  <seg ana="#suscription" type="interpretation"></seg>
+  <seg ana="#provision" type="interpretation"></seg>
+    </q>
 </item>
 </list>
 </additions>
 </physDesc>
+</msPart>
+<msPart xml:id="p2">
+  <msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p2_i1">
+    <locus from="14r" to="14v"/>
+  <title type="incomplete" ref="NAR0022gwelt"/>
+  </msItem>
+  </msContents>
+
 </msPart>
 </msDesc>
 </sourceDesc>
@@ -218,8 +235,36 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </teiHeader>
 <text xml:base="https://betamasaheft.eu/">
 <body>
-<div type="bibliography"/>
- <!---->
+     <div type="edition" xml:lang="gez">
+  <div type="textpart" subtype="folio" n="14r">
+<ab>
+  <pb n="14r"/>
+  ወእንዘ፡ሀለዉ፡ከል፡ኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ <pb/>
+ሳት፡ምስለ፡ሳራ፡ወሰራሜ፡ምስለ፡ሐና፡ወሶፍያ፡ወኢይዝክር፡ላቲ፡ኀጢአታ፡ወይደምስስ፡መጸሐፈ፡ጌጋያ፡አሜን።ወአሜን።ለይኩን፡ለይኩን።ወእንዘ፡ሀለዉ፡ዓበይተ፡<placeName ref="LOC2002Bugna">܆ብጕና፡</placeName>
+ቃለጳስ፡አብት፡
+<persName ref="PRS11336Giyorgis"><roleName type="title">ጳጳስ፡</roleName>አባ፡ጊዮርጊስ፡</persName>
+<persName ref="PRS5107Harayo"><roleName type="title">ወኤጲስ፡ቆጶስ፡</roleName>ኀረዮ፡</persName>
+<persName ref="PRS10332Yerdea"><roleName type="title">ዓቃቤ፡ሰዓት፡መጣዕ፡</roleName>ይርድአነ፡ክርስቶስ፡</persName>
+<persName ref=""><roleName type="title">ሊቀ፡ዲያቆናት፡</roleName>ሰውን፡</persName>
+<persName ref=""><roleName type="title">ቀይሰ፡ገበዝ፡</roleName>ጽዮን፡አብ፡ይኩን፡<persName></persName>
+<persName ref=""><roleName type="title">መልሐዘ፡</roleName>ይትባረክ፡</persName>
+<persName ref=""><roleName type="title">ቀስ፡ሐጺን፡</roleName>ዘአዶናየ፡</persName>
+<persName ref=""><roleName type="title">ጸዋር፡ናርጌ፡መኣሰሬ፡</roleName>ክርስቶስ፡ብነ፡</persName>
+<persName ref=""><roleName type="title">ጸሐፍ፡ላም፡</roleName>ስብሐት፡</persName>
+<persName ref=""><roleName type="title">ሐስጓ፡</roleName>ይዕቀበነ፡</persName>
+<persName ref=""><roleName type="title">ማእከለ፡ባሕር፡ኣስገደ፡ዓቃ፡ጸንጸን፡</roleName>ባራ፡ጽዮን፡</persName>
+<persName ref=""><roleName type="title">ዐቃብ፡ደጌ፡ማሰረይ፡</roleName>ይምሐረነ፡</persName>
+<persName ref=""><roleName type="title">ሊቀ፡አቀይታት፡</roleName>ዘረውድም፡</persName>
+እንዘ፡
+<persName ref=""><roleName type="title">ሊቀ፡ኬኖት፡</roleName>ዘአመላይ፡</persName>
+ወእንዘ፡
+<persName ref=""><roleName type="title">ሊቀ፡ኅዳር፡</roleName>ያም፡</persName>
+<persName ref=""><roleName type="title">ሊቀ፡መስንቆ፡</roleName>ወልደ፡ቦጕናይ፡</persName>
+ወከመዝ፡ኣጐላትኩ፡ዘኣልቦ፡ግብረ፡ወገብጋበ፡መፍቀሬ፡እግዚአብሔር፡ዘወሀቦ፡<persName ref="PRS6152Lalibala">ላሊበላ፡</persName>ዘንተ፡ጕልተ፡ዘገፍዓ፡ውጉዘ፡ለይኩን፡አሜን፡ዘንተ፡ዘአጽሐፈ፡
+<persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡ስዐተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስቶስ፡ከመ፡ምንኵስናሁ፡ጸጋ፡መጣዕ፡</persName>
+ለዘአጽሐፈ፡ወለዘጸሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።
+</div>
+</div>
 </body>
  </text>
 </TEI>

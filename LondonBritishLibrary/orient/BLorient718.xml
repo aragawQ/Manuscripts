@@ -100,7 +100,7 @@
                   same incipit on f. 6ra, it will end with a following explicit and incipit of a
                   portion, which goes further into SaintsLal end ends with the same explicit as
                   JerusLal.</note>
-                
+
                         <msItem xml:id="ms_i1.2.1">
                            <locus from="6ra" to="8va"/>
                            <incipit xml:lang="gez">
@@ -157,7 +157,7 @@
                   ይድቢ፡ አለ፡ ተሰምዩ፡ ናዝራዊያነ፨ እስመ፡ ሰምዓነ፡ እንዘ፡ ናውግዞ፡ መይጠነ፡ ገጸነ፡ መንገለ፡ ምሥራቅ፡ በዕለተ፡ ለበስናሁ፡
                   ለመርዓዊ፡ ሰማያዊ፡ ብእሲ፡ ሐዲስ፡ ዘውእቱ፡ ክርስቶስ። ወኃደግናሁ፡ ለብሉይ፡ ብእሲ፡ ዘውእቱ፡ ዲያብሎስ፡ እንዘ፡ ንብሎ፡ ርጉም፡
                   አንተ፡ ወርጉም፡ ሕሊናከ፡ ወርጉም፡ ግብርከአ ወበእንተዝኬ፡ ይትመዓዕ፡ ላዕሌነ፨</explicit>
-            
+
 
                         <msItem xml:id="ms_i1.4.1">
                            <locus from="8va" to="17va"/>
@@ -223,7 +223,7 @@
 
                      <msItem xml:id="ms_i1.6">
                         <locus from="21va" to="33va"/>
-                        <title type="complete" ref="LIT5086TUsixLal"/>  
+                        <title type="complete" ref="LIT5086TUsixLal"/>
 
                         <incipit xml:lang="gez">
                            <locus target="#21va"/>ወበዝ፡ ካዕበ፡ ላሊበላ፡ ብፁዕ፡ ንጉሠ፡ ኢትዮጵያ፡ ወምክሐ፡ ኵሉ፡ አድያሚሃ፡ ተመሰሎሙ፡
@@ -1053,7 +1053,7 @@
                   ውስተ፡ ምድር። </explicit>
 
                         <explicit xml:lang="gez" type="supplication">
-                           <locus target="122vb"/>ጸሎቱ፡ ወስእለቱ፡ ለገብረ፡ መስቀል፡ የሃሉ፡ ምስለ፡ ንግሥትነ፡ ወለተ፡ ኢየሱስ፡ ወሐብለ፡
+                           <locus target="#122vb"/>ጸሎቱ፡ ወስእለቱ፡ ለገብረ፡ መስቀል፡ የሃሉ፡ ምስለ፡ ንግሥትነ፡ ወለተ፡ ኢየሱስ፡ ወሐብለ፡
                   ረድኤቱ፡ ይሕንቆ፡ ለዕድውነ፡ አሜን። </explicit>
 
                         <note>Abstract incipit and explicit of HagMir5 corresponds to the articulated
@@ -1318,7 +1318,7 @@
 
 
                      <decoNote type="miniature" xml:id="d1">
-                        <locus target="'#38r"/>
+                        <locus target="#38r"/>
                         <desc>Full-page miniature <q xml:lang="gez">ዘከመ፡ ተወልደ፡ ቅዱስ፡ ላሊበላ፡ በሀገረ፡ ሮሐ።</q>
                            <q xml:lang="en">How Saint Lālibalā was born in the town of Roḥa</q>
                         </desc>
