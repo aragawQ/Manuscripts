@@ -72,7 +72,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <msItem xml:id="p1_i1">
 <locus from="1v" to="7r"/>
 <title type="complete" ref="LIT4877LetterCanons" xml:lang="geez"/>
-  <incipit>እውሴብስ፡ለቃጲያኖስ፡ለዘ፡ኣፈቅር፡እኁየ፡ፍሥሓ፡ወዳኅና፡ለከ፡እምኃቤ፡እግዚአ፡ብሔር፡አሞንስ፡እንከ፡አሌክሰንደርያዊ፡በብዙኅ፡አስተኃምሞ፡ወጺሂቀ፡ገብረ፡</incipit>
+  <incipit><foreign xml:lang="gez">እውሴብስ፡ለቃጲያኖስ፡</foreign>ለዘ፡ኣፈቅር፡እኁየ፡ፍሥሓ፡ወዳኅና፡ለከ፡እምኃቤ፡እግዚአ፡ብሔር፡አሞንስ፡እንከ፡አሌክሰንደርያዊ፡በብዙኅ፡አስተኃምሞ፡ወጺሂቀ፡ገብረ፡</incipit>
   <explicit>ወጸሐፍኩ፡ዓዲ፡ውስተ፡ወንጌል፡ትእምርተ፡አኀዘ፡ዘበ፡ሲራክ፡ኀበ፡ገብረ፡ተአምረ፡እግዚእነ፡ኢየሱስ፡ክርስቶስ፡ወኃበሂ፡አዘዘ፡ወኃበሂ፡ገሠጸ፡ወኃበሂ፡መሃረ፡ወኃበሂ፡ነበረ፡ወትእምርተ፡አኀዘ፡ማዕተበ፡መስቀል።</explicit>
 
 </msItem>
@@ -131,19 +131,19 @@ The first miniature according to the sequence attested by Carlo Conti Rossini,  
 <decoNote type="miniature" xml:id="d3">
 <desc> The <title type="complete" ref="LIT1224Canons"/> run between <locus from="3v" to="6v"/>. The artists
   adopts the same decorative devices used to frame the preceding letter.
-                  The Canons are placed under coloured <term key="arch">arches</term>, ornamented variously, that rest on <term key="curtain">curtained</term>
-                  <term key="column">columns</term>.
-                </desc>
-            </decoNote>
-          <decoNote type="miniature" xml:id="d4">
-               <locus target="#7r"/>
-               <desc> A representation of the <ref type="authFile" corresp="AT1034Tempietto"/> follows, as is conventional, the Eusebian
-                  Apparatus. Highly stylized, it features four <term key="column">columns</term>, an <term key="interlace">interlace</term> pattern,
-                  and a low chancel. Above its <term key="cross">cross-topped</term> roof, there are two ostrich <term key="bird">
-                     birds</term>, sitting on the both sides of a tree. The
-                  caption inside the Tempietto, which normally highlights its symbolism, is vanishing but still visible. <q xml:lang="gez"><supplied reason="lost"></supplied>ኑባሬ፡ ሥርዐት፡ ዘኅብሩ፡ አርባዕቱ፡ ወንጌላት።</q>
-               </desc>
-            </decoNote>
+The Canons are placed under coloured <term key="arch">arches</term>, ornamented variously, that rest on <term key="curtain">curtained</term>
+<term key="column">columns</term>.
+</desc>
+</decoNote>
+<decoNote type="miniature" xml:id="d4">
+<locus target="#7r"/>
+<desc> A representation of the <ref type="authFile" corresp="AT1034Tempietto"/> follows, as is conventional, the Eusebian
+Apparatus. Highly stylized, it features four <term key="column">columns</term>, an <term key="interlace">interlace</term> pattern,
+and a low chancel. Above its <term key="cross">cross-topped</term> roof, there are two ostrich <term key="bird">
+birds</term>, sitting on the both sides of a tree. The
+caption inside the Tempietto, which normally highlights its symbolism, is vanishing but still visible. <q xml:lang="gez"><supplied reason="lost"></supplied>ኑባሬ፡ ሥርዐት፡ ዘኅብሩ፡ አርባዕቱ፡ ወንጌላት።</q>
+</desc>
+</decoNote>
 </decoDesc>
 <additions>
 <list>
@@ -166,11 +166,17 @@ The first miniature according to the sequence attested by Carlo Conti Rossini,  
 <title type="incomplete" ref="NAR0022gwelt"/></desc>
 <locus target="#7v"/>
 <q xml:lang="gez">
-  <seg ana="#invocation" type="interpretation">በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡</seg>
+<seg ana="#invocation" type="interpretation">በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡</seg>
 <seg ana="#suscription" type="interpretation">አ<supplied reason="lost">ጐለት</supplied>ኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala"><roleName type="title">ሐፃኒ፡</roleName>ላሊባላ፡ወስመ መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀል፡</addName></persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
 በ፬፻ወ፱ ዓመተ ምሕረት፡አመ፡፫፡ለወርኀ መያዝያ </date>ብእሲ ዓዛል ዘኢይትመዋእለፀር በኀይለ መስቀሉ ለኢየሱስ ክርስቶስ ወልደ <persName ref="PRS12816Morara">ሞራራ </persName>ወልደ <persName ref="PRS12817ZanSeyum">ዛንሥዩም</persName> ወልደ <persName ref="PRS12818Aseda">ኣስዳ </persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ ለ<placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
 መ <persName ref="PRS6859MasqalK">ብእሲትየኒ  መስቀል ክብራ </persName>ፈራሂተ እግዚብሔር <placeName ref="LOC1914Bihat">ቢሐት፡</placeName>በባሕረ ኀጸሮ እንቀርዖ <placeName ref="LOC6447Zareda">ዘሬዳ ክርስቲያን </placeName>ምስለ ምድሮሙ በ<add place="above">ን</add>ጽፉ፡ወበቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName>ወድዕዱዕ፡ዘኢይበውእ ዓቃቤ፡ጸንጻን፡ወኢከንቲባ፡ዘአልቦ፡ግብረ፡ለባዕድ፡ዘእንበለ፡<roleName type="title">አበ ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመቦ፡ዘተኀየሎ ወዘዐገሎ ወዘተገሰሶ እመሂ ዘነግሠ ወእመሂ ዘአንገሥጋሠ ወእመሂ ዘተጳጳሰ ወእመሂ ዘተመኰነነ እመሂሥዩም ወእመሂ፡ስዑር፡ወዘተአገሎ ለዝንቱ፡ጕልት ወለዝንቱ፡ክሱም፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ ወመንፈስ ቅዱስ፡በአፉሁ፡ለአቡነ፡  <persName ref="PRS6298Libanos">መጣዕ፡</persName>በአፈ፡ጳጳሳት፡በኣፈ፡፫፻፲ወ፰ ርቱዐነ፡ሃይማኖት በአፈ፡፲ወ፭ ነቢያት፡በአፈ፡፲ወ፪ ሐዋርያት፡አሜን፡ወአሜን።</seg>
 </q>
+<q xml:lang="en">
+<seg ana="#invocation" type="interpretation">In the Name of the Father and the Son and the Holy Spirit,</seg>
+<seg ana="#suscription" type="interpretation">አጐለትኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala"><roleName type="title">ሐፃኒ፡</roleName>ላሊባላ፡ወስመ መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀል፡</addName></persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
+    on the third day of the month of <foreign>Mayazya</foreign>in 409th year of mercy በ፬፻ወ፱ ዓመተ ምሕረት፡አመ፡፫፡ለወርኀ መያዝያ </date>ብእሲ ዓዛል ዘኢይትመዋእለፀር በኀይለ መስቀሉ ለኢየሱስ ክርስቶስ ወልደ <persName ref="PRS12816Morara">ሞራራ </persName>ወልደ <persName ref="PRS12817ZanSeyum">ዛንሥዩም</persName> ወልደ <persName ref="PRS12818Aseda">ኣስዳ </persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ ለ<placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
+    መ <persName ref="PRS6859MasqalK">ብእሲትየኒ  መስቀል ክብራ </persName>ፈራሂተ እግዚብሔር <placeName ref="LOC1914Bihat">ቢሐት፡</placeName>በባሕረ ኀጸሮ እንቀርዖ <placeName ref="LOC6447Zareda">ዘሬዳ ክርስቲያን </placeName>ምስለ ምድሮሙ በ<add place="above">ን</add>ጽፉ፡ወበቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName>ወድዕዱዕ፡ዘኢይበውእ ዓቃቤ፡ጸንጻን፡ወኢከንቲባ፡ዘአልቦ፡ግብረ፡ለባዕድ፡ዘእንበለ፡<roleName type="title">አበ ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመቦ፡ዘተኀየሎ ወዘዐገሎ ወዘተገሰሶ እመሂ ዘነግሠ ወእመሂ ዘአንገሥጋሠ ወእመሂ ዘተጳጳሰ ወእመሂ ዘተመኰነነ እመሂሥዩም ወእመሂ፡ስዑር፡ወዘተአገሎ ለዝንቱ፡ጕልት ወለዝንቱ፡ክሱም፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ ወመንፈስ ቅዱስ፡በአፉሁ፡ለአቡነ፡  <persName ref="PRS6298Libanos">መጣዕ፡</persName>በአፈ፡ጳጳሳት፡በኣፈ፡፫፻፲ወ፰ ርቱዐነ፡ሃይማኖት በአፈ፡፲ወ፭ ነቢያት፡በአፈ፡፲ወ፪ ሐዋርያት፡አሜን፡ወአሜን።</seg>
+    </q>
 </item>
 <item xml:id="a3">
 <locus target="#7v"/>
