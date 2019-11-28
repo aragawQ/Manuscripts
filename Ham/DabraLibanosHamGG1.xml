@@ -4,205 +4,222 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="mss" xml:lang="en" xml:id="DabraLibanosHamGG1">
-   <teiHeader xml:base="https://betamasaheft.eu/">
-      <fileDesc>
-         <titleStmt>
-            <title xml:id="t1" type="académique">Golden Gospel of Beta Mata za-Ham </title>
-            <editor role="generalEditor" key="AB"/>
-            <editor key="NV"/>
-         </titleStmt>
-         <editionStmt>
-            <p>Photo Credit: Alessandro Bausi © MIE (Missione Italiana in Eritrea 1993-1994),
+<teiHeader xml:base="https://betamasaheft.eu/">
+<fileDesc>
+<titleStmt>
+<title xml:id="t1" type="académique">Golden Gospel of Beta Mata za-Ham </title>
+<editor role="generalEditor" key="AB"/>
+<editor key="NV"/>
+</titleStmt>
+<editionStmt>
+<p>Photo Credit: Alessandro Bausi © MIE (Missione Italiana in Eritrea 1993-1994),
                Consiglio Nazionale delle Ricerche and University of Bologna.</p>
-           <p>The third photos set is by Roger Schneider and was taken in 1975. The originals of these photos
-             are at the Institute of Ethiopian Studies, at the  Walda Masqal centre.</p>
-         </editionStmt>
-         <publicationStmt>
-            <authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
-            <publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
+<p>Photo Credit (the third photos set): Roger Schneider, 1975, invented and scanned by Marie-Laure Derat. © Roger Schneider archive, Institute of Ethiopian Studies, Walda Masqal centre.</p>
+</editionStmt>
+<publicationStmt>
+<authority>Hiob-Ludolf-Zentrum für Äthiopistik</authority>
+<publisher>Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale
                Forschungsumgebung / Beta maṣāḥǝft</publisher>
-            <pubPlace>Hamburg</pubPlace>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">
-                  <p> This file is licensed under the Creative Commons Attribution-ShareAlike 4.0.
-                  </p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc xml:id="ms">
-               <msIdentifier>
-                  <repository ref="INS0346DL"/>
-                  <idno facs="Ham/1993/Eri_1993_" n="39">Golden Gospel</idno>
-                  <altIdentifier xml:id="photos1994">
-                     <idno facs="Ham/1994/Eri_1994_" n="19"/>
-                  </altIdentifier>
-                 <altIdentifier xml:id="photos1975">
-                   <idno facs="Ham/1975/" n="24"/>
-                 </altIdentifier>
-               </msIdentifier>
-               <physDesc>
-                  <objectDesc form="Codex">
-                     <supportDesc>
-                        <support>
-                           <material key="parchment"/>
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <bindingDesc>
-                     <binding contemporary="false">
-                        <decoNote xml:id="b1"> remaining of binding, some new sewing</decoNote>
-                     </binding>
-                  </bindingDesc>
-               </physDesc>
-               <additional>
-                  <adminInfo>
-                     <recordHist>
-                        <source>
-                           <listBibl type="catalogue">
-                              <bibl>
-                                 <ptr target="bm:Bausi1997ManoscrittiEritreaParteIII"/>
-                                 <citedRange unit="page">13-23</citedRange>
-                              </bibl>
-                           </listBibl>
-                        </source>
-                     </recordHist>
-                  </adminInfo>
-               </additional>
-               <msPart xml:id="p1">
-                  <msIdentifier/>
+<pubPlace>Hamburg</pubPlace>
+<availability>
+ <licence target="http://creativecommons.org/licenses/by-sa/4.0/">
+<p> This file is licensed under the Creative Commons Attribution-ShareAlike 4.0.
+</p>
+ </licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc xml:id="ms">
+<msIdentifier>
+<repository ref="INS0346DL"/>
+<idno facs="Ham/1993/Eri_1993_" n="39">Golden Gospel</idno>
+<altIdentifier xml:id="photos1994">
+<idno facs="Ham/1994/Eri_1994_" n="19"/>
+</altIdentifier>
+<altIdentifier xml:id="photos1975">
+<idno facs="Ham/1975/" n="24"/>
+</altIdentifier>
+</msIdentifier>
+<physDesc>
+  <objectDesc form="Codex">
+     <supportDesc><support>parchment</support>
+          </supportDesc>
+  </objectDesc>
+<bindingDesc>
+<binding contemporary="false">
+<decoNote xml:id="b1"> remaining of binding, some new sewing</decoNote>
+</binding>
+</bindingDesc>
+</physDesc>
+<additional>
+<adminInfo>
+<recordHist>
+<source>
+<listBibl type="catalogue">
+<bibl>
+<ptr target="bm:Bausi1997ManoscrittiEritreaParteIII"/>
+<citedRange unit="page">13-23</citedRange>
+</bibl>
+</listBibl>
+  </source>
+</recordHist>
+</adminInfo>
+</additional>
 
-                  <msContents>
+<msPart xml:id="p1">
+  <msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p1_i1">
+<locus from="1v" to="7r"/>
+<title type="complete" ref="LIT4877LetterCanons" xml:lang="geez"/>
+  <incipit><foreign xml:lang="gez">እውሴብስ፡ለቃጲያኖስ፡</foreign>ለዘ፡ኣፈቅር፡እኁየ፡ፍሥሓ፡ወዳኅና፡ለከ፡እምኃቤ፡እግዚአ፡ብሔር፡አሞንስ፡እንከ፡አሌክሰንደርያዊ፡በብዙኅ፡አስተኃምሞ፡ወጺሂቀ፡ገብረ፡</incipit>
+  <explicit>ወጸሐፍኩ፡ዓዲ፡ውስተ፡ወንጌል፡ትእምርተ፡አኀዘ፡ዘበ፡ሲራክ፡ኀበ፡ገብረ፡ተአምረ፡እግዚእነ፡ኢየሱስ፡ክርስቶስ፡ወኃበሂ፡አዘዘ፡ወኃበሂ፡ገሠጸ፡ወኃበሂ፡መሃረ፡ወኃበሂ፡ነበረ፡ወትእምርተ፡አኀዘ፡ማዕተበ፡መስቀል።</explicit>
 
-                    <msItem xml:id="p1_i1">
- <msItem xml:id="p1_i1.1">
-<locus from="1v" to="3r"/>
-<title type="complete" ref="LIT1349EpistlEusebius"/>
-<textLang mainLang="gez"></textLang>
-</msItem>
-<msItem xml:id="p1_i1.2">
-<locus from="3v" to="7r"/>
-<title type="complete" ref="LIT1224Canons"/>
-<textLang mainLang="gez"></textLang>
-</msItem>
 </msItem>
 </msContents>
 <physDesc>
-</physDesc>
-<history>
-</history>
-<additional></additional>
-</msPart>
-</msDesc>
-
+<objectDesc form="Codex">
+   <supportDesc><support>parchment</support>
+        </supportDesc>
+   <layoutDesc>
+     <layout></layout>
+   </layoutDesc>
+</objectDesc>
+  <handDesc>
+  <handNote xml:id="h1" script="Ethiopic" corresp="#p1_i1">
+    <seg type="script">Monumental script, definitly of type 1a, resembeles the script attested in Abbā Garimā Gospels A and C.
+<date cert="medium">fourth/fifth to sixth/seventh century</date>
+     </seg>
+    <seg type="ink">brownish, red</seg>
+    <seg type="rubrication">Red ink was used to layout the letter. Each of three pages has the same mise en texte: three  red lines from the top interchange with the black lines.</seg>
+    </handNote>
+    <handNote xml:id="h2" script="Ethiopic">
+      <seg type="script">Monumental script</seg>
+      <date cert="high">the script can be considered contemporary to <persName ref="PRS6152Lalibala"> <roleName type="title">King</roleName>Lālibālā </persName></date>
+      <seg type="ink">black</seg>
+      <note>Some strokes to mark numerals seem to be added later.</note>
+</handNote>
+<handNote xml:id="h3" script="Ethiopic">
+  <seg type="script">Monumental script</seg>
+  <seg type="ink">blownish</seg>
+</handNote>
+<handNote xml:id="h4" script="Ethiopic">
+  <seg type="script">This hand is attested three time, in CCR 6 and CCR 14, added in the empty spaces in the Gospel. CCR 14 mentions certain ዐቃቤ ሰዐታት ሰንበት መሓረ and <persName ref="PRS10111WedemR"><roleName type="title">ንጉሥ፡ </roleName>ውድም፡ አርዐድ፡ </persName>, which gives us terminus non ante quem this hand had its additions. </seg>
+  <seg type="ink">black</seg>
+<date cert="medium">1294-1299</date>
+</handNote>
+<handNote xml:id="h5" script="Ethiopic">
+  <seg type="script"></seg>
+  <seg type="ink">black</seg>
+  <date cert="high">the script seems to be contemporary to h4,1294-1299.</date>
+</handNote>
+</handDesc>
+<decoDesc>
+<summary>
+According to the foliation introduced by Alessandro Bausi, f.1v contains a big cross of one-page size. It is followed by 11 illustrated pages, ff. 2r-7r. These pages include the Eusebian Apparatus (3+7 arrangement), followed by a «Fontana della vita» or «tempietto» or θόλος, the <term key="ShortCycle">Short Cycle</term>, set under arches made of coloured bands. The manuscript’s decorative features, Bluetenblattstil were not dated precisely, but the XIV century was proposed as a terminus non poste quem. They appear to all be by the same artist.
+</summary>
+<decoNote type="miniature" xml:id="d1">
+<locus target="#1v"/>
+The first miniature according to the sequence attested by Carlo Conti Rossini,  Roger Schneider and Alessandro Bausi contains a big cross of one-page size, belonging to the same style as the rest.
+</decoNote>
+<decoNote type="miniature" xml:id="d2">
+<desc> The <title type="complete" ref="LIT1349EpistlEusebius"/> runs between
+<locus from="2r" to="3r"/> and is placed under coloured <term key="arch">arches</term>, ornamented variously, that rest on <term key="curtain">curtained</term>
+<term key="column">columns</term>.
+</desc>
+</decoNote>
+<decoNote type="miniature" xml:id="d3">
+<desc> The <title type="complete" ref="LIT1224Canons"/> run between <locus from="3v" to="6v"/>. The artists
+  adopts the same decorative devices used to frame the preceding letter.
+The Canons are placed under coloured <term key="arch">arches</term>, ornamented variously, that rest on <term key="curtain">curtained</term>
+<term key="column">columns</term>.
+</desc>
+</decoNote>
+<decoNote type="miniature" xml:id="d4">
+<locus target="#7r"/>
+<desc> A representation of the <ref type="authFile" corresp="AT1034Tempietto"/> follows, as is conventional, the Eusebian
+Apparatus. Highly stylized, it features four <term key="column">columns</term>, an <term key="interlace">interlace</term> pattern,
+and a low chancel. Above its <term key="cross">cross-topped</term> roof, there are two ostrich <term key="bird">
+birds</term>, sitting on the both sides of a tree. The
+caption inside the Tempietto, which normally highlights its symbolism, is vanishing but still visible. <q xml:lang="gez"><supplied reason="lost"></supplied>ኑባሬ፡ ሥርዐት፡ ዘኅብሩ፡ አርባዕቱ፡ ወንጌላት።</q>
+</desc>
+</decoNote>
+</decoDesc>
+<additions>
 <list>
-                <item xml:id="a1">
-                    <locus target="#1r"></locus>
-                      <desc type="GuestText"/>
-                            <title>Hymn of Mary</title>
-                    <q xml:lang="gez">
-                      ዘማርያም።እግዚእትየ፡ማርያም፡እስመ፡በዝንቱ፡ደመ፡ወልድ፡ተቀደሱ፡ቅዱሳን፡እስመ፡በዝንቱ፡ኅብስት፡ወበዝንቱ፡ጽዋዐ፡በደኀሪት፡ዕለት፡ኅቱማኒሆሙ፡ይትረከቡ፡ሰአሊ፡ለነ፡ማርያም፡በግርምት፡ዕለት ከመ፡ይምሐረነ።
-                                        </q>
-                                      </item>
-                                        <item xml:id="a2">
-                                            <locus target="#1r"></locus>
-                                              <desc type="GuestText"/>
-                                                    <title>Hymn </title>
-                                            <q xml:lang="gez">
-                                              ይቤ፡እግዚእ፡አክብሩ፡ሰንበተ ተገበሩ፡ጽድቀ፡ወፈድፋድስ፡ለማርያም፡አክብርዋ፡እስመ፡ኵሉ፡ዘሰአለ፡ኀቤሃ፡ተዐስዮ፡ፍሥሐ።
+<item xml:id="a1">
+<desc type="GuestText"/>
+<locus target="#1r"/>
+<q xml:lang="gez">
+<ab>
+  <cb n="a"/><handShift cert="high" new="#h4"/>ዘማርያም።እግዚእትየ፡ማርያም፡እስመ፡በዝንቱ፡ደመ፡ወልድ፡ተቀደሱ፡ቅዱሳን፡እስመ፡በዝንቱ፡ኅብስት፡ወበዝንቱ፡ጽዋዐ፡በደኀሪት፡ዕለት፡ኅቱማኒሆሙ፡ይትረከቡ፡ሰአሊ፡ለነ፡ማርያም፡በግርምት፡ዕለት፡ከመ፡ይምሐረነ።
+  <note>dotted line</note>
+ይቤ፡እግዚእ፡አክብሩ፡ሰንበተ፡ተገበሩ፡ጽድቀ፡<handShift cert="low" new="#h5"/>ወፈድፋድስ፡ለማርያም፡አክብርዋ፡እስመ፡ኵሉ፡ዘሰአለ፡ኀቤሃ፡ተዐስዮ፡ፍሥሐ።
+  <note>dotted line</note>እለ፡ጐዩ፡እምነውር፡እምዝ፡ዓለም፡ነኪር፡እምወርቅ፡ወእምብሩር፡ዘይትበደር፡አክሊለ፡ነሥኡ፡ዘሕብሩ፡ሱሩረ፡ከመ፡እንስሳ፡ገዳም፡ውስተ፡አርእስተ፡አድባር፡ነበሩ፡ከመ፡ኀረ//፡በጻማ፡ተገበሩ፡
+<cb n="b"/>እንዘ፡ይጸንሑ፡ብዕለ፡ዘአልቦ፡መምስለ
+  <note>empty space followed by a dotted line</note>
+በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።ተዝከሩ፡ለበርናባስ፡እም፡፳።ለሶንይ፡ይምሐሮ፡እግዚኣብሔር፡በሰማያት።ወይደምሮ፡ምስለ፡ጻድቃን።።ወለእለ፡ይገብሩ፡ተዝካሮ፡እመሂ፡አንስት፡ወእመሂ፡ተባዕት፡ይምሐሮሙ፡እግዚኣብሔር፡በጸሎቱ፡ወይስረይ፡ኀጢአቶሙ፡ለዓለም፡አሜን።
+</ab></q>
+</item>
+<item xml:id="a2">
+<desc type="GuestText">
+<title type="incomplete" ref="NAR0022gwelt"/></desc>
+<locus target="#7v"/>
+<q xml:lang="gez">
+<seg ana="#invocation" type="interpretation">በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡</seg>
+<seg ana="#suscription" type="interpretation">አ<supplied reason="lost">ጐለት</supplied>ኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala"><roleName type="title">ሐፃኒ፡</roleName>ላሊባላ፡ወስመ መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀል፡</addName></persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
+በ፬፻ወ፱ ዓመተ ምሕረት፡አመ፡፫፡ለወርኀ መያዝያ </date>ብእሲ ዓዛል ዘኢይትመዋእለፀር በኀይለ መስቀሉ ለኢየሱስ ክርስቶስ ወልደ <persName ref="PRS12816Morara">ሞራራ </persName>ወልደ <persName ref="PRS12817ZanSeyum">ዛንሥዩም</persName> ወልደ <persName ref="PRS12818Aseda">ኣስዳ </persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ ለ<placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
+መ <persName ref="PRS6859MasqalK">ብእሲትየኒ  መስቀል ክብራ </persName>ፈራሂተ እግዚብሔር <placeName ref="LOC1914Bihat">ቢሐት፡</placeName>በባሕረ ኀጸሮ እንቀርዖ <placeName ref="LOC6447Zareda">ዘሬዳ ክርስቲያን </placeName>ምስለ ምድሮሙ በ<add place="above">ን</add>ጽፉ፡ወበቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName>ወድዕዱዕ፡ዘኢይበውእ ዓቃቤ፡ጸንጻን፡ወኢከንቲባ፡ዘአልቦ፡ግብረ፡ለባዕድ፡ዘእንበለ፡<roleName type="title">አበ ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመቦ፡ዘተኀየሎ ወዘዐገሎ ወዘተገሰሶ እመሂ ዘነግሠ ወእመሂ ዘአንገሥጋሠ ወእመሂ ዘተጳጳሰ ወእመሂ ዘተመኰነነ እመሂሥዩም ወእመሂ፡ስዑር፡ወዘተአገሎ ለዝንቱ፡ጕልት ወለዝንቱ፡ክሱም፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ ወመንፈስ ቅዱስ፡በአፉሁ፡ለአቡነ፡  <persName ref="PRS6298Libanos">መጣዕ፡</persName>በአፈ፡ጳጳሳት፡በኣፈ፡፫፻፲ወ፰ ርቱዐነ፡ሃይማኖት በአፈ፡፲ወ፭ ነቢያት፡በአፈ፡፲ወ፪ ሐዋርያት፡አሜን፡ወአሜን።</seg>
 </q>
+<q xml:lang="en">
+<seg ana="#invocation" type="interpretation">In the Name of the Father and the Son and the Holy Spirit,</seg>
+<seg ana="#suscription" type="interpretation">አጐለትኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala"><roleName type="title">ሐፃኒ፡</roleName>ላሊባላ፡ወስመ መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀል፡</addName></persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
+    on the third day of the month of <foreign>Mayazya</foreign>in 409th year of mercy በ፬፻ወ፱ ዓመተ ምሕረት፡አመ፡፫፡ለወርኀ መያዝያ </date>ብእሲ ዓዛል ዘኢይትመዋእለፀር በኀይለ መስቀሉ ለኢየሱስ ክርስቶስ ወልደ <persName ref="PRS12816Morara">ሞራራ </persName>ወልደ <persName ref="PRS12817ZanSeyum">ዛንሥዩም</persName> ወልደ <persName ref="PRS12818Aseda">ኣስዳ </persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ ለ<placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
+    መ <persName ref="PRS6859MasqalK">ብእሲትየኒ  መስቀል ክብራ </persName>ፈራሂተ እግዚብሔር <placeName ref="LOC1914Bihat">ቢሐት፡</placeName>በባሕረ ኀጸሮ እንቀርዖ <placeName ref="LOC6447Zareda">ዘሬዳ ክርስቲያን </placeName>ምስለ ምድሮሙ በ<add place="above">ን</add>ጽፉ፡ወበቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName>ወድዕዱዕ፡ዘኢይበውእ ዓቃቤ፡ጸንጻን፡ወኢከንቲባ፡ዘአልቦ፡ግብረ፡ለባዕድ፡ዘእንበለ፡<roleName type="title">አበ ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመቦ፡ዘተኀየሎ ወዘዐገሎ ወዘተገሰሶ እመሂ ዘነግሠ ወእመሂ ዘአንገሥጋሠ ወእመሂ ዘተጳጳሰ ወእመሂ ዘተመኰነነ እመሂሥዩም ወእመሂ፡ስዑር፡ወዘተአገሎ ለዝንቱ፡ጕልት ወለዝንቱ፡ክሱም፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ ወመንፈስ ቅዱስ፡በአፉሁ፡ለአቡነ፡  <persName ref="PRS6298Libanos">መጣዕ፡</persName>በአፈ፡ጳጳሳት፡በኣፈ፡፫፻፲ወ፰ ርቱዐነ፡ሃይማኖት በአፈ፡፲ወ፭ ነቢያት፡በአፈ፡፲ወ፪ ሐዋርያት፡አሜን፡ወአሜን።</seg>
+    </q>
 </item>
 <item xml:id="a3">
-<locus target="#1r"></locus>
-  <desc type="GuestText"/>
-        <title></title>
-<q xml:lang="gez">
-  እለ፡ጐዩ፡እምነው
-ር፡እምዝ፡ዓለም፡ነ
-ኪር፡እምወርቅ፡ወ
-እምብሩር፡ዘይትበ
-ደር፡አክሊለ፡ነሥኡ፡
-ዘሕብሩ፡ሱሩረ፡ከ
-መ፡እንስሳ፡ገዳም፡ው
-ስተ፡አርእስተ፡አድባ
-ር፡ነበሩ፡ከመ፡ኀረ
-በጻማ፡ተገበሩ፡
-እንዘ፡ይጸንሑ፡ብ
-ዕለ፡ዘአልቦ፡መም
-ስለ
+<locus target="#7v"/>
+<desc type="GuestText">
+<title type="complete" ref="NAR0023gwelt"/></desc>
+<q>
+  <ab>
 
-</q>
+</ab></q>
 </item>
-<item xml:id="a4">
-<locus target="#1r"/>
-  <desc type="GuestText"/>
-        <title></title>
-<q xml:lang="gez">
-  በስመ፡አብ፡ወወ
-ልድ፡ወመንፈስ፡
-  ቅዱስ።ተዝከሩ፡
-  ለበርናባስ፡እም፡
-  ፳።ለሶንይ፡ይም
-ሐሮ፡በሰማያ።
-  ወይደምሮ፡ምስ
-  ለ፡ጻድቃን።።
-  ወለእለ፡ይገብሩ፡
-ተዝካሮ፡እመሂ፡
-  አንስት፡ወእመ
-  ሂ፡ተባዕት፡ይም
-ሐሮሙ፡እግዚ
-ኣብሔር፡በጸሎ
-ቱ፡ወይስረይ፡ኀ
-ጢአቶሙ፡ለዓ
-  ለም፡አሜን።
-
-  </q>
-</item>
-  <item xml:id="a5">
-    <locus target="#7v"/>
-                    <desc type="GuestText">
-                     <title type="incomplete" ref="NAR0022gwelt"/></desc>
-                     <q xml:lang="gez">
-
-
-                  </q>
-                  </item>
-                <item xml:id="a6">
-                  <locus target="#7v"/>
-                                  <desc type="GuestText">
-                                    <title type="complete" ref="NAR0023gwelt"></title></desc>
-                                   <q xml:lang="gez">
-
-
-                                    </q>
-                            </item>
 </list>
-
+</additions>
+</physDesc>
+</msPart>
+</msDesc>
 </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-            href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
-            <xi:fallback>
-               <p>Definitions of prefixes used.</p>
-            </xi:fallback>
-         </xi:include>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="en">English</language>
-            <language ident="it">Italian</language>
-            <language ident="gez">Gǝʿǝz</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc>
-         <change who="ES" when="2018-06-01">Created stub record</change>
-         <change who="PL" when="2019-06-28">some fixes for validation</change>
-          <change who="NV" when="2019-11-20">updates</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:base="https://betamasaheft.eu/">
-     <body><ab>
-     </ab></body>
-     </text>
-     </TEI>
+</fileDesc>
+<encodingDesc>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+  href="https://raw.githubusercontent.com/BetaMasaheft/Documentation/master/prefixDef.xml">
+<xi:fallback>
+<p>Definitions of prefixes used.</p>
+</xi:fallback>
+</xi:include>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="it">Italian</language>
+<language ident="gez">Gǝʿǝz</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+ <change who="ES" when="2018-06-01">Created stub record</change>
+ <change who="PL" when="2019-06-28">some fixes for validation</change>
+<change who="NV" when="2019-11-20">updates</change>
+<change who="NV" when="2019-11-26">encoded Decodesc</change>
+</revisionDesc>
+</teiHeader>
+<text xml:base="https://betamasaheft.eu/">
+<body>
+<div type="bibliography"/>
+ <!---->
+</body>
+ </text>
+</TEI>
