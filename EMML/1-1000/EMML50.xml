@@ -52,11 +52,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                   <summary/>
                   <msItem xml:id="ms_i1">
                      <locus from="1" to="129"/>
-                     <title type="complete" ref="LIT1709Kebran" xml:lang="gez">ክብረ፡ ነገሥት፡</title><!-- vérifier et suivre le titre du ms s'il existe ! -->
+                     <title type="complete" ref="LIT1709Kebran" xml:lang="gez">ክብረ፡ ነገሥት፡</title>
                      <textLang mainLang="gez"/>
-                     <note>This copy of the Kebra Nagast does not have colophon nor King's list. </note>
+                     <note>This copy of the Kebra Nagaśt does not have colophon nor Kings' list. </note>
 
-                     <listBibl type="editions">
+                     <listBibl type="text">
                         <bibl>
                            <ptr target="bm:Bezold1905KebraN"/>
                         </bibl>
@@ -67,6 +67,17 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                   <msItem xml:id="ms_i2">
                      <locus from="129v" to="164"></locus>
                      <title type="complete" ref="LIT1913Mashaf" xml:lang="gez">ታሪከ፡ አክሱም፡</title> <!-- vérifier et suivre le titre du ms s'il existe  ! -->
+
+<decoNote xml:id="d01" type="diagram">
+  <locus target="#129v"></locus>
+  <desc>Circular diagram with Aksum in the center, surrounded by two concentric circles. The first one mentions 8 geographical directions. The second one mentions 12 provinces of Tigrāy. </desc>
+  </decoNote>
+  <decoNote xml:id="d02" type="diagram">
+    <locus target="#130"></locus>
+    <desc>Rose wind (ሰረገላ፡ ዘነፋስ፡) with the same directions as in the inner circle but in a slightly different position. </desc>
+    <bibl type="secondary"><ptr target="bm:Heldman2011diagrams"/>
+    </bibl>
+    </decoNote>
                      <msItem xml:id="ms_i2.1">
                         <title ref="LIT4682Kamaze"></title>
                      </msItem>
@@ -200,7 +211,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 
                      <msItem xml:id="ms_i2.15">
                         <locus from="141v"></locus>
-                        <title ref="LIT4688Taxes"></title><!-- les deux textes relatifs aux ẓan ṣegē peuvent entrer dans ce LIT4688 mais on peut allors le séparer en deux sous-parties. -->
+                        <title ref="LIT4688Taxes"></title><!-- les deux textes relatifs aux ẓan ṣegē peuvent entrer dans ce LIT4688 mais on peut alors le séparer en deux sous-parties. -->
                      </msItem>
 
                      <msItem xml:id="ms_i2.16">
@@ -244,7 +255,12 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                         <note>Ce document n'est présent que dans EMML50.</note>
                      </msItem>
 
-
+                     <msItem xml:id="ms_i2.23">
+                        <locus from="151"></locus>
+                        <title> </title>
+                        <incipit xml:lang="gez"></incipit>
+                        <note></note>
+                     </msItem>
 
                   </msItem>
                </msContents>
@@ -271,7 +287,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
 
                               <item xml:id="fol2">
                                  <locus from="2r" to="164"></locus>
-                                 Arabic numbers on the right bottom corner, starting with number 1 of folio 2r.
+                                 Arabic numbers on the right bottom corner, starting with number 1 on folio 2r.
                               </item>
 
 
@@ -291,7 +307,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                   <provenance>
                      This manuscript might have been possessed by the church of Madḫānē Alam in Gondar (fol. 1, marginal note). It has been looted by King Tēwodros (1855-68) and ended up in his fortress in Maqdālā, where the British army looted it in 1868. It was then given to the British Library (see the stamp on the guardleaf: "Presented by the Secretary of State for India. Aug. 1868").
                   </provenance>
-                  <acquisition><persName ref="PRS10378Yohanne">King Yohannes IV (1871-89)</persName> asked Queen Victoria to have this manuscript back to Ethiopia. The transfer was done in 1872 (see fol. 163v:  « This volume was returned to the King of Ethiopia by  order of the Trustees of the British Museum- dated Dec. 14 1872. J. Winter Jones, Principal Librarian »). The manuscript stayed in the royal collection as it was stored in Enṭoṭṭo Raguēl, founded by King Menelik, when it was microfilmed by the EMML project in 1974. </acquisition>
+                  <acquisition><persName ref="PRS10378Yohanne">King Yohannes IV (1871-89)</persName> asked Queen Victoria to have this manuscript back to Ethiopia. The transfer was done in 1872 (see fol. 163v:  « This volume was returned to the King of Ethiopia by  order of the Trustees of the British Museum- dated Dec. 14 1872. J. Winter Jones, Principal Librarian »). The manuscript remained in the Ethiopian royal collection as it was stored in Enṭoṭṭo Raguēl, founded by King Menelik, when it was microfilmed by the EMML project in 1974. </acquisition>
                </history>
 
                <additional>
@@ -301,12 +317,16 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                            <listBibl type="catalogue">
                               <bibl>
                                  <ptr target="bm:EMML1"/>
+                                 <citedRange unit="page">p. 54</citedRange>
 
+                                 <ptr target="bm:Wright1870Magdala"/><!-- c'est moi qui ai créé la réf bm dans Zotero, voir si ça tient ! -->
+                                 <citedRange unit="page">pp. 614-615</citedRange>
                               </bibl>
                            </listBibl>
                            <listBibl type="secondary">
-                              <bibl></bibl>
-                              <!-- Heldman 2011 ; Wion 2015 -->
+                              <bibl><ptr target="bm:Heldman2011diagrams"/><ptr target="bm:Wion2015acteIyasu"/>
+                            </bibl>
+
                            </listBibl>
                         </source>
                      </recordHist>
