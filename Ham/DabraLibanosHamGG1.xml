@@ -241,7 +241,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
   <pb n="14r"/>
   ወእንዘ፡ሀለዉ፡ከል፡ኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ <pb/>
 ሳት፡ምስለ፡ሳራ፡ወሰራሜ፡ምስለ፡ሐና፡ወሶፍያ፡ወኢይዝክር፡ላቲ፡ኀጢአታ፡ወይደምስስ፡መጸሐፈ፡ጌጋያ፡አሜን።ወአሜን።ለይኩን፡ለይኩን።ወእንዘ፡ሀለዉ፡ዓበይተ፡<placeName ref="LOC2002Bugna">܆ብጕና፡</placeName>
-ቃለጳስ፡አብት፡
+<persName ref="PRS12848Abt"><roleName type="title">ቃለጳስ፡</roleName>አብት፡</persName>
 <persName ref="PRS11336Giyorgis"><roleName type="title">ጳጳስ፡</roleName>አባ፡ጊዮርጊስ፡</persName>
 <persName ref="PRS5107Harayo"><roleName type="title">ወኤጲስ፡ቆጶስ፡</roleName>ኀረዮ፡</persName>
 <persName ref="PRS10332Yerdea"><roleName type="title">ዓቃቤ፡ሰዓት፡መጣዕ፡</roleName>ይርድአነ፡ክርስቶስ፡</persName>
@@ -270,6 +270,32 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <div type="textpart" subtype="folio" n="14r">
 <ab>
 <pb n="14r"/>
+<persName ref="PRS6152Lalibala">Lālibālā<roleName type="title">King</roleName></persName>and<persName ref="PRS6859MasqalK"><roleName type="function">his wife</roleName>Masqal Kǝbra<roleName type="title">baʾalt of Biḥat
+</roleName></persName> <pb/>
+<placeName ref="LOC2002Bugna">Bǝgwǝna</placeName>
+<persName ref="PRS12848Abt"><roleName type="title">qālaṗās</roleName>Abt</persName>
+<persName ref="PRS11336Giyorgis"><roleName type="title">pāpās</roleName><roleName type="title">ʾabuna</roleName>Giyorgis</persName>
+ወ<persName ref="PRS5107Harayo"><roleName type="title">ኤጲስ፡ቆጶስ፡</roleName>ኀረዮ፡</persName>
+<persName ref="PRS10332Yerdea"><roleName type="title">ዓቃቤ፡ሰዓት፡መጣዕ፡</roleName>ይርድአነ፡ክርስቶስ፡</persName>
+<persName ref="PRS12839PRS12836Sawen"><roleName type="title">ሊቀ፡ዲያቆናት፡</roleName>ሰውን፡</persName>
+<persName ref="PRS12840PRS12837AbYekun"><roleName type="title">ቀይሰ፡ገበዝ፡ጽዮን፡</roleName>አብ፡ይኩን፡</persName>
+<persName ref="PRS12838Yetbarak"><roleName type="title">መልሐዘ፡</roleName>ይትባረክ፡</persName>
+<persName ref="PRS12839ZaAdonay"><roleName type="title">ቀስ፡ሐጺን፡</roleName>ዘአዶናየ፡</persName>
+<persName ref="PRS12840KrestosBen"><roleName type="title">ጸዋር፡ናርጌ፡መኣሰሬ፡</roleName>ክርስቶስ፡ብነ፡</persName>
+<persName ref="PRS12841Sebhat"><roleName type="title">ጸሐፍ፡ላም፡</roleName>ስብሐት፡</persName>
+<persName ref="PRS12842Yeqbeena"><roleName type="title">ሐስጓ፡</roleName>ይዕቀበነ፡</persName>
+<persName ref="PRS12844Asgada"><roleName type="title">ማእከለ፡ባሕር፡</roleName>ኣስገደ፡</persName>
+<persName ref="PRS12843BarSeyon"><roleName type="title">ዓቃ፡ጸንጸን፡</roleName>ባራ፡ጽዮን፡</persName>
+<persName ref="PRS12845Yemheranna"><roleName type="title">ዐቃብ፡ደጌ፡ማሰረይ፡</roleName>ይምሐረነ፡</persName>
+<persName ref="PRS12846Zarawedem"><roleName type="title">ሊቀ፡አቀይታት፡</roleName>ዘረውድም፡</persName>
+እንዘ፡
+<persName ref="PRS12847ZaAmalay"><roleName type="title">ሊቀ፡ኬኖት፡</roleName>ዘአመላይ፡</persName>
+ወእንዘ፡
+<persName ref="PRS12848Yamo"><roleName type="title">ሊቀ፡ኅዳር፡</roleName>ያሞ፡</persName>
+<persName ref="PRS12849WaldaBegwenay"><roleName type="title">ሊቀ፡መሰንቆ፡</roleName>ወልደ፡ብጕናይ፡</persName>
+ወከመዝ፡ኣጐላትኩ፡ዘኣልቦ፡ግብረ፡ወገብጋበ፡መፍቀሬ፡እግዚአብሔር፡ዘወሀቦ፡<persName ref="PRS6152Lalibala">ላሊበላ፡</persName>ዘንተ፡ጕልተ፡ዘገፍዓ፡ውጉዘ፡ለይኩን፡አሜን፡ዘንተ፡ዘአጽሐፈ፡
+<persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡ስዐተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስቶስ፡ከመ፡ምንኵስናሁ፡ጸጋ፡መጣዕ፡</persName>
+ለዘአጽሐፈ፡ወለዘጸሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።
 </ab>
 </div>
 </div>
