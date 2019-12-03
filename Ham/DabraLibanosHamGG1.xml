@@ -12,7 +12,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <editor key="NV"/>
          </titleStmt>
          <editionStmt>
-            <p>Photo Credit: Alessandro Bausi © MIE (Missione Italiana in Eritrea 1993-1994), 
+            <p>Photo Credit: Alessandro Bausi © MIE (Missione Italiana in Eritrea 1993-1994),
                Consiglio Nazionale delle Ricerche and University of Bologna.</p>
          </editionStmt>
          <publicationStmt>
@@ -187,7 +187,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   </physDesc>
 
                </msPart>
-               
+
             </msDesc>
          </sourceDesc>
 
