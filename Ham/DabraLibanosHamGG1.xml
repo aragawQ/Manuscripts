@@ -202,12 +202,59 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
   <msIdentifier></msIdentifier>
 <msContents>
 <msItem xml:id="p2_i1">
-    <locus from="14r" to="14v"/>
+    <locus target="#14r"/>
   <title type="incomplete" ref="NAR0022gwelt"/>
   </msItem>
-  </msContents>
+  <msItem xml:id="p2_i2">
+      <locus target="#14v"/>
+    <title type="complete"/>
+    </msItem>
+    </msContents>
+    </msPart>
+    <msPart xml:id="p3">
+      <msIdentifier></msIdentifier>
+    <msContents>
+      <msItem xml:id="p3_i1">
+        <title type="complete"/>
+        </msItem>
+        <msItem xml:id="p3_i2">
+          <title type="complete"/>
+          </msItem>
+          <msItem xml:id="p3_i3">
+            <title type="complete"/>
+            </msItem>
+            <msItem xml:id="p3_i4">
+              <title type="complete"/>
+              </msItem>
+      </msContents>
+        <physDesc>
+        <additions>
+        <list>
+          <item xml:id="a01"><!-- correct the id -->
+            <locus target="#23r"/>
+            <desc type="GuestText">
+            <title type="complete"/></desc>
+            <ab>
+            <pb n="23r"/><cb n="a"/>
+            <q>
+              <seg ana="#invocation" type="interpretation">በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡</seg>
+              <seg ana="#suscription" type="interpretation">አጕለትኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala"><roleName type="title">ሐፃኒ፡</roleName>ላሊባላ፡ወስመ፡መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀል፡</addName></persName>
+              በ፲፻፹፱ ዓመተ፡ምሕረት፡አመ፡፫፡ለወርኀ :::: ብእሲ፡ዓዛል፡ዘኢይትመዋእ፡ለፀር፡በኀይለ፡መስቀሉ፡ለኢየሱስ፡ክርስቶስ፡ወልደ፡<persName ref="PRS12816Morara">ሞራራ፡</persName>ወልደ፡<persName ref="PRS12817ZanSeyum">ዛንሥዩም፡</persName>ወልደ፡<persName ref="PRS12818Aseda">ኣስዳ፡</persName></seg><seg ana="#provision" type="interpretation">
+              ለቤተ፡መስቀል፡ወለቤተ፡ማርያም፡ለደናግል፡ለአንስተ፡መነኮሳት፡ለኣብርቅሲያ፡ወለሶሰና፡ሠጠ፡ምድረ፡ዴረ፡ምድረ፡ምድረ፡አላፎ፡ምድረ፡ውሕረ፡መዓጠውሎ፡መከመከ፡ምድረ፡መስተፈ፡ምድረ፡ለከረነ፡?ጋ፡በመኮሳይት፡ወግር፡ብፁዓ፡በዘ፡አኀዘ፡
+              //ፎ፡ርዘ፡አኀዘ፡ወሰረ፡በዘ፡አኃዘ፡ፍቁሮ፡
+          <cb n="b"/>
+              በዘ፡አኀዘ፡ወዓሬዝ፡በዘ፡አኀዘ፡ወከመዝ፡አጕልትኩ፡ኣነ፡
+              <persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName>  </persName>ከመ፡ይዘከረኒ፡ክርስቶስ፡በመንግሥቱ፡ወከመ፡ይደምረኒ፡ምስለ፡ጻድቃን፡ወቅዱሳን፡ወከመዝ፡ጐለትኩ፡ዘአልቦ፡ግብረ፡ወገብጋበ፡ወኢተክጠ፡ወኢመኃለፍተ፡ዘአልቦ፡ዘናቤ፡ወዓዛቤ፡ዘኢይበውእ፡ፈረስ፡ወአንበሳ፡ዘኢይበውእ፡ቀስታኒያ፡ባዕድ፡ዘእንበለ፡እመ፡መኔት፡ወእመቦ፡ዘተኀየለ፡ወዘተገሰሰ፡ወዘተአገለ፡ለዝንተ፡ጕልት፡ወለዝንተ፡ክ?ም፡ውጉዘ፡ለይኩን፡ዘቅድመ፡ኣብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በአፈ፡ጳጳሳት፡በአፈ፡በ፲ወ፰፡ርቱዓነ፡ሃይማኖት፡በአፈ፡፲ወ፭፡ነቢያት፡በአፈ፡፲ወ?፡ሐዋርያት፡አሜን፡ወአሜን። ። ።
+            </seg>
 
-</msPart>
+            </q>
+            </ab>
+          </item>
+
+    </list>
+    </additions>
+    </physDesc>
+      </msPart>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -239,7 +286,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
   <div type="textpart" subtype="folio" n="14r">
 <ab>
   <pb n="14r"/>
-  ወእንዘ፡ሀለዉ፡ከል፡ኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ
+  ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ
 ሳት፡ምስለ፡ሳራ፡ወሰራሜ፡ምስለ፡ሐና፡ወሶፍያ፡ወኢይዝክር፡ላቲ፡ኀጢአታ፡ወይደምስስ፡መጸሐፈ፡ጌጋያ፡አሜን።ወአሜን።ለይኩን፡ለይኩን።ወእንዘ፡ሀለዉ፡ዓበይተ፡<placeName ref="LOC2002Bugna">܆ብጕና፡</placeName>
 <persName ref="PRS12848Abt"><roleName type="title">ቃለጳስ፡</roleName>አብት፡</persName>
 <persName ref="PRS11336Giyorgis"><roleName type="title">ጳጳስ፡</roleName>አባ፡ጊዮርጊስ፡</persName>
@@ -253,7 +300,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <persName ref="PRS12841Sebhat"><roleName type="title">ጸሐፍ፡ላም፡</roleName>ስብሐት፡</persName>
 <persName ref="PRS12842Yeqbeena"><roleName type="title">ሐስጓ፡</roleName>ይዕቀበነ፡</persName>
 <persName ref="PRS12844Asgada"><roleName type="title">ማእከለ፡ባሕር፡</roleName>ኣስገደ፡</persName>
-<persName ref="PRS12843BarSeyon"><roleName type="title">ዓቃ፡ጸንጸን፡</roleName>ባራ፡ጽዮን፡</persName>
+<persName ref="PRS12843BaraSeyon"><roleName type="title">ዓቃ፡ጸንጸን፡</roleName>ባራ፡ጽዮን፡</persName>
 <persName ref="PRS12845Yemheranna"><roleName type="title">ዐቃብ፡ደጌ፡ማሰረይ፡</roleName>ይምሐረነ፡</persName>
 <persName ref="PRS12846Zarawedem"><roleName type="title">ሊቀ፡አቀይታት፡</roleName>ዘረውድም፡</persName>
 እንዘ፡
@@ -271,7 +318,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <ab>
 <pb n="14r"/>
 And while two were united, <persName ref="PRS6152Lalibala"><roleName type="title">King</roleName>Lālibālā</persName>and<persName ref="PRS6859MasqalK"><roleName type="function">his wife</roleName>Masqal Kǝbra<roleName type="title">baʾalt of Biḥat,
-</roleName></persName> so that it become salvation of their souls in the Heavenly Kingdom, and for my wife may it associate her with saint women, with Sārā and Salome, with Ḥānnā and Sofiā and may her sins not to be remembered and may the book of her transgressions be obliterated, Amen and Amen.Let it be, let it be. 
+</roleName></persName> so that it become salvation of their souls in the Heavenly Kingdom, and for my wife may it associate her with saint women, with Sārā and Salome, with Ḥānnā and Sofiā and may He not remember her sin and may the book of her transgressions be obliterated, Amen and Amen.Let it be, let it be.
 And while the greats of<placeName ref="LOC2002Bugna">Bǝgwǝna</placeName> were
 <persName ref="PRS12848Abt"><roleName type="title">qālaṗās</roleName>Abt,</persName>
 <persName ref="PRS11336Giyorgis"><roleName type="title">pāpās</roleName><roleName type="title">ʾabuna</roleName>Giyorgis</persName>
@@ -294,9 +341,79 @@ and while
 <persName ref="PRS12848Yamo"><roleName type="title">liqa ḫǝdār</roleName>Yāmo,</persName>
 <persName ref="PRS12849WaldaBegwenay"><roleName type="title">liqa masanqo</roleName>Walda Bǝgwǝnāy.</persName>
 Thus at that time I promoted this gwǝlt given by <persName ref="PRS6152Lalibala">Lālibālā</persName>, lover of God, without taxation or forced labour; who will restrain this gwǝlt, shall that one be excommunicated, Amen.
-This was written upon the request of <persName ref="PRS10332Yerdea"><roleName type="title">ʿāqābe saʿāt Maṭāʿ,</roleName> [named] at birth Yǝrdǝʾanna Krǝstos and  at entering monkhood as Ṣaggā Maṭāʿ.</persName> Relent that one who requested to write [this] and that one who wrote [this] and bless us, Amen.</ab>
+This was written upon the request of <persName ref="PRS10332Yerdea"><roleName type="title">ʿāqābe saʿāt Maṭāʿ,</roleName> [named] at birth Yǝrdǝʾanna Krǝstos and  at entering monkhood as Ṣaggā Maṭāʿ.</persName> Relent that one who requested to write [this] and that one who wrote [this] and bless us, Amen.
+</ab>
 </div>
 </div>
+<div type="textpart" subtype="folio" n="8-9r">
+<ab>
+<pb n="8r"/><cb n="b"/>
+ወእንዘ፡ሀለዉ፡ከል፡ኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኃኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ
+<pb n="8v"/><cb n="a"/>ሳት፡ምስለ፡ሳራ፡ወ<sic>ሰራሜ፡</sic>ምስለ፡ሐና፡ወሶፍያ፡ወኢይዝከር፡ላቲ፡ኀጢአታ፡ወይደምስስ፡መጸሐፈ፡ጌጋያ፡አሜን።ወአሜን።ለይኩን፡ለይኩን።ወእንዘ፡ሀለዉ፡ዓበይተ፡በኵናት፡
+<persName ref="PRS12848Abt"><roleName type="title">ቃለጳስ፡</roleName>አብት፡</persName>
+<persName ref="PRS11336Giyorgis"><roleName type="title">ጳጳስ፡</roleName>አባ፡ጊዮርጊስ፡</persName>
+<persName ref="PRS5107Harayo"><roleName type="title">ወኤጲስ፡ቆጶስ፡</roleName>ኀረዮ፡</persName>
+<persName ref="PRS10332Yerdea"><roleName type="title">ዓቃቤ፡ሰዐት፡መጣዕ፡</roleName>ይርድአነ፡ክርስቶስ፡</persName>
+<persName ref="PRS12836Sawen"><roleName type="title">ሊቀ፡ዲያቆናት፡</roleName>ሰውን፡</persName>
+<persName ref="PRS12837AbYekun"><roleName type="title">ቀይሰ፡ገበዝ፡ጽዮን፡</roleName>አብ፡ይኩን፡</persName>
+<persName ref="PRS12838Yetbarak"><roleName type="title">መልሐዘ፡</roleName>ይትባረክ፡</persName>
+<persName ref="PRS12839ZaAdonay"><roleName type="title">ቀስ፡ሐጺን፡</roleName>ዘአዶናየ፡</persName>
+<persName ref="PRS12840KrestosBen"><roleName type="title">ጸዋር፡ናርጌ፡መኣሰሬ፡</roleName>ክርስቶስ፡ብነ፡</persName>
+<persName ref="PRS12841Sebhat"><roleName type="title">ጸሐፍ፡ላም፡</roleName>ስብሐት፡</persName>
+<persName ref="PRS12842Yeqbeena"><roleName type="title">ሐስጓ፡0</roleName>
+<cb n="a"/>ይዕቀበነ፡</persName>
+<persName ref="PRS12844Asgada"><roleName type="title">ማእከለ፡ባሕር፡</roleName>ኣስገደ፡</persName>
+<persName ref="PRS12843BaraSeyon"><roleName type="title">ዕቃ፡ጸንጸን፡</roleName>ባራ፡ጽዮን፡</persName>
+<persName ref="PRS12845Yemheranna"><roleName type="title">ዐቃብ፡ደጌ፡ማሰረይ፡</roleName>ይምሐረነ፡</persName>
+<persName ref="PRS12846Zarawedem"><roleName type="title">ሊቀ፡አቀይታት፡</roleName>ዘረውድም፡</persName>
+እንዘ፡
+<persName ref="PRS12847ZaAmalay"><roleName type="title">ሊቀ፡ኬኖት፡</roleName>ዘአመላይ፡</persName>
+ወእንዘ፡
+<persName ref="PRS12848Yamo"><roleName type="title">ሊቀ፡ኅዳር፡</roleName>ያሞ፡</persName>
+<persName ref="PRS12849WaldaBegwenay"><roleName type="title">ሊቀ፡መሰንቆ፡</roleName>ወልደ፡ብጕናይ፡</persName>
+ወከመዝ፡ኣጐላትኩ፡ዘኣልቦ፡ግብረ፡ወገብጋበ፡መፍቀሬ፡እግዚአብሔር፡ዘወሀቦ፡<persName ref="PRS6152Lalibala">ላሊበላ፡</persName>ዘንተ፡<sic>ጕልት፡</sic>ዘገፍዐ፡ውጉዘ፡ለይኩን፡አሜን፡ዘንተ፡ዘአጽሐፈ፡
+<persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡ሰዐተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስቶስ፡ከመ፡ምንኵስና
+<pb n="9r"/><cb n="a"/>ሁ፡ጸጋ፡መጣዕ፡</persName>
+ለዘአጽሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።
+</ab>
+</div>
+<div type="edition" xml:lang="en">
+<div type="textpart" subtype="folio" n="8-9r">
+<ab>
+<pb n="8r"/><cb n="8v"/>
+And while two were united, <persName ref="PRS6152Lalibala"><roleName type="title">King</roleName>Lālibālā</persName>and<persName ref="PRS6859MasqalK"><roleName type="function">his wife</roleName>Masqal Kǝbra<roleName type="title">baʾalt of Biḥat,
+</roleName></persName> so that it become salvation of their souls in the Heavenly Kingdom, and for my wife may it associate her with saint
+<pb n="8v"/><cb n="a"/>
+women, with Sārā and Salome, with Ḥānnā and Sofiā and may her sin not to be remembered and may the book of her transgressions be obliterated, Amen and Amen.Let it be, let it be.
+And while the greats were in strike,
+<persName ref="PRS12848Abt"><roleName type="title">qālaṗās</roleName>Abt,</persName>
+<persName ref="PRS11336Giyorgis"><roleName type="title">pāpās</roleName><roleName type="title">ʾabuna</roleName>Giyorgis</persName>
+and<persName ref="PRS5107Harayo"><roleName type="title">ʾeṗisqoṗos </roleName>Ḫarayo,</persName>
+<persName ref="PRS10332Yerdea"><roleName type="title">ʿāqābe saʿāt Maṭāʿ</roleName>Yǝrdǝʾanna Krǝstos,</persName>
+<persName ref="PRS12836Sawen"><roleName type="title">liqa diyāqonāt</roleName>Sawǝn,</persName>
+<persName ref="PRS12837AbYekun"><roleName type="title">qaysa gabaz Ṣǝyon</roleName>ʾAb Yǝkun,</persName>
+<persName ref="PRS12838Yetbarak"><roleName type="title">malḥaza</roleName>Yǝtbārak,</persName>
+<persName ref="PRS12839ZaAdonay"><roleName type="title">qas ḥaṣin</roleName>Za-’Adonāya,</persName>
+<persName ref="PRS12840KrestosBena"><roleName type="title">ṣawar nārge ma’āsare</roleName>Krǝstos Bǝna,</persName>
+<persName ref="PRS12841Sebhat"><roleName type="title">ṣaḥaf lām</roleName>Sǝbḥat,</persName>
+<persName ref="PRS12842Yeqbeena"><roleName type="title">ḥasgwā</roleName>
+<cb n="b"/>Yǝ‘ǝqabanna,</persName>
+<persName ref="PRS12844Asgada"><roleName type="title">mā’ǝkala bāḥr</roleName>ʾAsgada,</persName>
+<persName ref="PRS12843BaraSeyon"><roleName type="title">‘ǝqā ṣanṣan</roleName>Bārā Ṣeyon,</persName>
+<persName ref="PRS12845Yemheranna"><roleName type="title">‘aqāb dage māsaray</roleName>Yǝmḥaranna,</persName>
+<persName ref="PRS12846Zarawedem"><roleName type="title">liqa ’aqqaytāt</roleName>Zara Wǝdǝm,</persName>
+while
+<persName ref="PRS12847ZaAmalay"><roleName type="title">liqa kenot</roleName>Za-ʾAmalāy</persName>
+and while
+<persName ref="PRS12848Yamo"><roleName type="title">liqa ḫǝdār</roleName>Yāmo,</persName>
+<persName ref="PRS12849WaldaBegwenay"><roleName type="title">liqa masanqo</roleName>Walda Bǝgwǝnāy.</persName>
+Thus at that time I promoted this gwǝlt given by <persName ref="PRS6152Lalibala">Lālibālā</persName>, lover of God, without taxation or forced labour; who will restrain this gwǝlt, shall that one be excommunicated, Amen.
+This was written upon the request of <persName ref="PRS10332Yerdea"><roleName type="title">ʿāqābe saʿāt Maṭāʿ,</roleName> [named] at birth Yǝrdǝʾanna Krǝstos and  at entering monkhood
+ <pb n="9r"/><cb n="a"/>as
+ Ṣaggā Maṭāʿ.</persName> Relent that one who requested to write [this] and bless us, Amen.</ab>
+</div>
+</div>
+
 </div>
 </body>
  </text>
