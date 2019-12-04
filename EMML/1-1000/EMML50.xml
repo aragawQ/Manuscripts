@@ -79,7 +79,9 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
     </bibl>
     </decoNote>
                      <msItem xml:id="ms_i2.1">
+
                        <locus target="#129v"></locus>
+                       <docDate><date notAfter="1538" type="production">Not after 1538</date></docDate>
                         <title type="complete" xml:lang="gez" ref="LIT4682Kamaze"></title>
                         <textLang mainLang="gez"/>
                          <incipit xml:lang="gez">ከመዝ፡ ኑባሬ፡ ሥርዓታ፡ ለእምነ፡ ጽዮን፡ ገበዘ፡ አክሱም፡</incipit>
@@ -101,7 +103,7 @@ The importance of this document, and the authoritative effect that this enumerat
                             </bibl>
                          </listBibl>
                          <listBibl type="secondary">
-                         <bibl><ptr target="bm:DAE2"/><ptr target="bm:BeckHunt1961PresterJohn"/>
+                         <bibl><ptr target="bm:DAE2"/><ptr target="bm:BeckHunt1961PresterJohn"/><ptr target="bm:Monneret1938Aksum"/>
                        </bibl>
                      </listBibl>
 
@@ -389,8 +391,41 @@ The importance of this document, and the authoritative effect that this enumerat
       <body>
         <div type="edition">
 <div type="textpart" corresp="ms_i2.1">
-  <ab>ከመዝ፡ ኑባሬ፡ ሥርዓታ፡ ለእምነ፡ ጽዮን፡ ገበዘ፡ አክሱም፡ እስከ፡ ፲ወ፭፡ በእመት፡ ኢረከቡ፡ መሠረታ። ወጸፍጸፈ፡ ከዲሕ፡ ፯፡ በእመት፡ እምድር፡ እስከ፡ አፈ፡ ጽዮን። ወከርሠ፡ ንድቁ፡ ፯በእመት። ወኑኁ፡ እምሥራቅ፡ እስከ፡ ምዕራብ፡ ፻፳፭፡ በእመት። ወእምደቡብ፡ እስከ፡ ሰሜን፡ ፺፪፡ በእመት። ወስፍሑ፡ ፶ወ፫፡ በእመት። ወኑኁ፡ እምድር፡ እስከ፡ ርእሰ፡ ቀመር፡ ፴ወ፪፡ በእመት። አዕማድ፡ ዘንድቅ፡ ፴ወአዕማድ፡ ዘእብን፡ ፴ወ፪። ወኵሉ፡ ድሙር፡ ፷፪፡ ማዕፆዉ፡ ዓቢያን፡ ዘአናቅጽ፡ መንገለ፡ ዐረብ፡ በአፍአ፡ ፬። ወበውሥጥ፡ ፬፡ ወጽርሕ፡ ፩፡ ሰሜናዊ፡ ፩። ወደቡባዊ፡ ፩። ዘቤተ፡ ጊዮርጊስ፡ ፩። ዘቤተ፡ ዮሐንስ፡ ፩። ዘቤተ፡ መዛግብት፡ ፪። ዘቤተ፡ ገብርኤል፡ ፪። ዘቤተ፡ ማኅበር፡ ፩። ዘቤተ፡ ማርያም፡ መግደላዊት፡ ፩፡ ወኵሉ፡ድሙር፡ ፳፡ ማዕፆ። ወማዕፆ፡ ዘቄድሮስ፡ ፬፻፷ወ፩። ወመሳክዊሃ፡ ፻፷ወ፰። ወመንኰራኵራቲሃ፡ ፯፻፰፡ ወቀስተ፡ ደመና፡ ፲፡ወርእሰ፡ ኅበይ፡ ፴፻፰፻፲ወ፭። ወመስረበ፡ ማይሂ፡ ፺ወ፩። በ፵ወ፱ ዓመተ፡ ምሕረት፡ ኮነ፡ ሡራሬሃ። ወተፍጸሜታሂ፡ ኮነ፡ በ፺ወ፩፡ ዓመተ፡ ምሕረት። ዓለምሰ፡ ሕልም፡ ወጽላሎት፡ ውእቱ፡ ወአልቦ፡ ዘይዌስክ፡ ዘእንበለ፡ ዘያነትግ (sic)።</ab>
+  <ab>ከመዝ፡ ኑባሬ፡ ሥርዓታ፡ ለእምነ፡ ጽዮን፡ ገበዘ፡ አክሱም፡ እስከ፡ ፲ወ፭፡ በእመት፡ ኢረከቡ፡ መሠረታ። ወጸፍጸፈ፡ ከዲሕ፡ ፯፡ በእመት፡ እምድር፡ እስከ፡ አፈ፡ ጽዮን። ወከርሠ፡ ንድቁ፡ ፯በእመት። ወኑኁ፡ እምሥራቅ፡ እስከ፡ ምዕራብ፡ ፻፳፭፡ በእመት። ወእምደቡብ፡ እስከ፡ ሰሜን፡ ፺፪፡ በእመት። ወስፍሑ፡ ፶ወ፫፡ በእመት። ወኑኁ፡ እምድር፡ እስከ፡ ርእሰ፡ ቀመር፡ ፴ወ፪፡ በእመት። አዕማድ፡ ዘንድቅ፡ ፴ወአዕማድ፡ ዘእብን፡ ፴ወ፪። ወኵሉ፡ ድሙር፡ ፷፪፡ ማዕፆዉ፡ ዓቢያን፡ ዘአናቅጽ፡ መንገለ፡ ዐረብ፡ በአፍአ፡ ፬። ወበውሥጥ፡ ፬፡ ወጽርሕ፡ ፩፡ ሰሜናዊ፡ ፩። ወደቡባዊ፡ ፩። ዘ<placeName ref="LOC7339BetaGiyo">ቤተ፡ ጊዮርጊስ፡</placeName> ፩። ዘቤተ፡ ዮሐንስ፡ ፩። ዘቤተ፡ መዛግብት፡ ፪። ዘቤተ፡ ገብርኤል፡ ፪። ዘቤተ፡ ማኅበር፡ ፩። ዘቤተ፡ ማርያም፡ መግደላዊት፡ ፩፡ ወኵሉ፡ድሙር፡ ፳፡ ማዕፆ። ወማዕፆ፡ ዘቄድሮስ፡ ፬፻፷ወ፩። ወመሳክዊሃ፡ ፻፷ወ፰። ወመንኰራኵራቲሃ፡ ፯፻፰፡ ወቀስተ፡ ደመና፡ ፲፡ወርእሰ፡ ኅበይ፡ ፴፻፰፻፲ወ፭። ወመስረበ፡ ማይሂ፡ ፺ወ፩። በ፵ወ፱ ዓመተ፡ ምሕረት፡ ኮነ፡ ሡራሬሃ። ወተፍጸሜታሂ፡ ኮነ፡ በ፺ወ፩፡ ዓመተ፡ ምሕረት። ዓለምሰ፡ ሕልም፡ ወጽላሎት፡ ውእቱ፡ ወአልቦ፡ ዘይዌስክ፡ ዘእንበለ፡ ዘያነትግ (sic)።</ab>
 </div>
+        </div>
+        <div type="translation"><div type="textpart" corresp="ms_i2.1"><ab>
+          Here is a report of the disposition of our mother Ṣeyon gabaza Aksum.
+
+Up to fifteen cubits <note>One cubit is about 50 cm.</note> there is no foundation and the paved platform (the podium) (ṣafṣafa kadiḥ) is seven cubits high from ground level to the entrance of Ṣeyon.
+
+And the thickness of the wall (karśa nedqu) [is] seven cubits and its size is 125 cubits from west to east and 92 cubits from south to north.
+
+Its width [in the church] is 53 cubits, and its size from the ground to the top of the vault (re'esa qamar) is 32 cubits.
+
+There are 30 masonry columns and 32 stone columns, a total of 62.
+
+The large doors are towards the sunset, four on the entrance side and four inside;
+one in the private chapel (ṣerḥ) <note>It can be the place where the Ark of the Covenant was kept. </note> ;
+one in the north;
+one in the south.
+And one at Bēta Giyorgis.
+One at Bēta Yohannes.
+Two at the stewardship (bēta mazāgbet)<note>It can be the treasury, a store, the sacristy, the library, or all of these at once, that is, the place where the material possessions of the church are kept under lock and key. </note>.
+And two to Bēta Gabr' ēl.
+At the common house (bēta māḫbar) one.
+At Bēta Maryām Magdalāwit one.
+All this is 20 doors<note>The count is actually 19</note>.
+
+And cedar doors, 461 <note>Botanically, Ethiopian juniper or ṣed is a cedar, but here it still seems that the reference is the Old Testament and the cedar orders from Lebanon placed by Solomon for the construction of the Temple</note>.
+Its windows [are] 168.
+And his plugs (mankwarākwerāt) 780 <note>For Litman, it is Querbalken or "transverse beams", DAE2, p. 139. The Amharic version of this text in the BnF Eth. 215 manuscript has: maqān medrāhu According to GuidiVoc col. 81, maqān means "door frame or doorframe", and to Kane 239: "doorpost, jamb; crosspiece above the door", while Kane 324 also has medr āf = doorpost, jamb, doorway, entrance, and maqā madrāf : piece of wood which fastens the door and doorframe together </note>
+There are ten arches.
+And the monkey heads<note>It is a well-known element of Aksumite architecture designating the round heads of the exposed supporting beams in the walls. </note> 3815.
+There are 91 gutters (masraba māy).
+
+Its foundation began in the year 49 of Mercy and was completed in the year 91 of Mercy. But the world is made up of dreams and shadows. Nothing increases, on the contrary, everything perishes.</ab></div>
+
         </div>
 
       </body>
