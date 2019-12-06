@@ -96,15 +96,20 @@ The importance of this document, and the authoritative effect that this enumerat
                                <citedRange unit="page">6–7</citedRange>
                             </bibl>
                          </listBibl>
+
                          <listBibl type="translation">
                             <bibl>
                                <ptr target="bm:ContiRossini1910LiberV"/>
                                <citedRange unit="page">7</citedRange>
                             </bibl>
-                         </listBibl>
+                            <bibl><ptr target="bm:DAE2"/><citedRange unit="page">139</citedRange></bibl>
+
+                        </listBibl>
                          <listBibl type="secondary">
-                         <bibl><ptr target="bm:DAE2"/><ptr target="bm:BeckHunt1961PresterJohn"/><ptr target="bm:Monneret1938Aksum"/>
-                       </bibl>
+                         <bibl><ptr target="bm:DAE2"/><citedRange unit="page">139-140</citedRange></bibl>
+
+                       <bibl><ptr target="bm:BeckHunt1961PresterJohn"/></bibl>
+                       <bibl><ptr target="bm:Monneret1938Aksum"/><citedRange unit="page">52</citedRange></bibl>
                      </listBibl>
 
 
@@ -347,7 +352,7 @@ The importance of this document, and the authoritative effect that this enumerat
                                  <ptr target="bm:EMML1"/>
                                  <citedRange unit="page">p. 54</citedRange>
 
-                                 <ptr target="bm:Wright1870Magdala"/><!-- c'est moi qui ai créé la réf bm dans Zotero, voir si ça tient ! -->
+                                 <ptr target="bm:Wright1870Magdala"/>
                                  <citedRange unit="page">pp. 614-615</citedRange>
                               </bibl>
                            </listBibl>
