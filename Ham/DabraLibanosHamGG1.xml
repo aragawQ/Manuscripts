@@ -192,7 +192,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <q xml:lang="en">
 <seg ana="#invocation" type="interpretation"></seg>In the Name of the Father and the Son and the Holy Spirit,
 
-  <seg ana="#provision" type="interpretation">I, Gabra Masqal, gave sixty fields of ʾAham to the church, so that they shall celebrate the commemoration of  Maṭāʿ, to obtain a loan in the Heavenly Kingdom. If there is someone who would violate it or defraud it, be excommunicated by the mouth of the Father and the Son and the Holy Spirit.</seg>
+  <seg ana="#provision" type="interpretation">I, Gabra Masqal, gave sixty fields of ʾAham to the church, so that they shall celebrate the commemoration of  Maṭāʿ, to be granted in the Heavenly Kingdom. If there is someone who would violate it or defraud it, be excommunicated by the mouth of the Father and the Son and the Holy Spirit.</seg>
     </q>
 </item>
 </list>
@@ -283,6 +283,31 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </teiHeader>
 <text xml:base="https://betamasaheft.eu/">
 <body>
+  <div type="edition"  xml:lang="gez" >
+<div type="textpart" subtype="folio" n="8r">
+<ab>
+<pb n="8r"/>
+  <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡
+  </seg>
+  <seg ana="#subscription" type="interpretation">በ፭፻ወ፭፡ዓመተ፡ምሕረት፡ወሀብኩ፡አነ፡
+    <persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<roleName type="title">ንጉሥ፡</roleName></persName>ለአባ፡መጣዕ፡ዘአሀም፡ከመ፡ይትወኀሰኒ፡በመንግሥተ፡ሰማያት።
+  </seg><seg ana="#provision" type="interpretation">ወርቅ፡፻፹ወ፪፡፪፡መስቀል፡ዘወርቅ፡ወ፩፡ጻሕል፡ዘወርቅ፡ወ፩፡ጽዋዕ፡ዘወርቅ።ወ፩፡ጻሕል፡ዘብሩር፡ወ፩፡ጽዋዕ፡ዘብሩር።ወአልባስ፡ክቡር፡፻፫፡ለቤተ፡ክርስትያን፡ዘመጣዕ፡ወለቅዱሳንሂ፡፵፡ብዙት፡ወለካልኣንሂ፡አብያተ፡ክርስትያን፡እለ፡ውስተ፡ሀገሩ፡፴፡ልብስ፡ክቡራት፡ወአልህምትሂ፡፲፻፡ወእምድኅረ፡ኵሎን፡ወሀብኩ፡ልብስ፡ወርቅ፡ዘላዕሌየ፡ወዕጠቅየ፡ወ፪፡ስራ፡ዌልየ፡አውጺእየ፡እምውስተ፡ሐቋየ፡ወ፪፡አሣእንየ፡እምእገርየ።ወዘንተ፡ኵሎ፡ዘወሀብኩ፡አእሚርየ፡ከመ፡የሐልፍ፡ንብረተ፡ዘንቱ፡ዓለም፡ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ። </seg>
+</ab>
+</div>
+</div>
+<div type="edition"  xml:lang="en" >
+<div type="textpart" subtype="folio" n="8r">
+<ab>
+<pb n="8r"/>
+<seg ana="#invocation" type="interpretation">
+To the glory of the Father and the Son and the Holy Spirit,
+</seg><seg ana="#subscription" type="interpretation">in 505 year of mercy, I, king ʿAmda Ṣǝyon, gave to ’abbā Maṭā‘ of ’Aham that he would admit me in the Heavenly Kingdom,
+</seg>
+<seg ana="#provision" type="interpretation">gold 182, 2 crosses of gold and one dish of gold and ine chalice of gold; and one dish of silver, and one chalice of silver; 103 rich vetments to the church of Maṭā‘ and to the holy ones 40 fine cloths, and 30 rich vetments and 12 cows to the other churches in his land. And after all, I gave my own golden robe and my weapon and two ስራዌልየ taken from my wrist, and my pair of shoes from my feet. And all this I gave, knowing that the wealth of this world will pass, so that beloved Maṭā‘ would admit me to the Heavenly Kingdom, forever and ever, Amen.  
+</seg>
+</ab>
+</div>
+</div>
      <div type="edition" corresp="#p2_i1" xml:lang="gez" >
   <div type="textpart" subtype="folio" n="14r">
 <ab>
@@ -313,6 +338,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡ስዐተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስቶስ፡ከመ፡ምንኵስናሁ፡ጸጋ፡መጣዕ፡</persName>
 ለዘአጽሐፈ፡ወለዘጸሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።
 </ab>
+</div>
 </div>
 <div type="edition" xml:lang="en">
 <div type="textpart" subtype="folio" n="14r">
@@ -346,15 +372,30 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
 </ab>
 </div>
 </div>
-<div type="textpart" corresp="#p2_i2" subtype="folio" n="14v">
+<div type="edition" xml:lang="geez">
+<div type="textpart" corresp="#p2_i2" subtype="folio" n="14v" xml:lang="geez">
 <ab>
 <pb n="14v"/>
 <seg ana="#inovacation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።</seg>
-<seg ana="#suscription" type="interpretation">ወሀብኩ፡አነ፡ይርድአነ፡ክርስቶስ፡ብጕናይ፡ዘጽላላ፡ዐቃቤ፡ሰዐተ፡መጣዕ፡</seg>
+<seg ana="#suscription" type="interpretation">ወሀብኩ፡አነ፡<persName ref="PRS10332Yerdea">ይርድአነ፡ክርስቶስ፡ብጕናይ፡ዘጽላላ፡<roleName type="title">ዐቃቤ፡ሰዐተ፡መጣዕ፡</roleName></persName></seg>
 <seg ana="#provision" type="interpretation">ገራውሀ፡በቢሓት፡፴፪፡ከመ፡ይትወሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወሀብኩ፡ለመጣዕ፡ለመባእ፡ዘዋህበኒ፡በዐለ፡ምድራ፡ሠሚሮ፡ወፈቲዎ፡ወልደ፡ማእከሊ፡ዘእመረ፡ዘአልቦ፡ዘተአገሎ፡ዘተኀየሎ፡ለመጣዕ፡እመሂ፡ሥዩም፡ወእመሂ፡ስዑር፡ውጉዘ፡ለይኩን፡በዝ፡ዓለም፡ወበዘ፡ይመጽእ፡ዓለም፡ውጉዘ፡ለይኩን፡በአፉሁ፡ለአቡነ፡መጣዕ፡ወበአፈ፡ኢየሱስ፡ክርስቶስ፡አሜን።ይኩን፡ለይኩን። ። ።
 </seg>
   </ab>
   </div>
+  </div>
+  <div type="edition" xml:lang="geez">
+  <div type="textpart" corresp="#p2_i2" subtype="folio" n="14v" xml:lang="en">
+  <ab>
+  <pb n="14v"/>
+  <seg ana="#inovacation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit,</seg>
+<seg ana="#suscription" type="interpretation">I, <persName ref="PRS10332Yerdea">Yǝrdǝʾanna Krǝstos of Bəgwənāy of Ṣəlālā, <roleName type="title">‘aqābe sa‘āta Maṭā‘</roleName></persName>gave</seg>
+<seg ana="#provision" type="interpretation">thirty two fields of Biḥāt, to be granted by Maṭā‘ in the Heavenly Kingdom. I gave to Maṭā‘ as a donation what Walda Ma’əkali, the lord of the land, gave me agreeing and willing, who knows that what I took was not by force or violence. If someone would violate or defraud Maṭā‘, whether appointed or whether displaced, be excommunicated, in this world and in the coming world, by the mouth of Maṭā‘ and by the mouth of Jesus Christ. Amen. Let it be, let it be.</seg>
+  በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡አነ፡መጣዕ፡ወሀብኩ፡ለመጣዕ፡ሰርፍ፡ከመ፧//በመንግስተ፡ሰማያት፡ጸልዩ፡ላዕሌየ፡ደቂቀ፡መካን፡ይምሐሮ፡እግዚአብሔር፡በዓለም፡አሜን።ወአሜን፡ለይኩን፡ለይምኩን
+  ወሀበ፡አነ፡ሣህለ፡ወረድ፡ለመጣዕ፡እግዚእ፡ኃይሌ፡ከመ፡ይምሐረኒ፡እግዚአ
+  </ab>
+  </div>
+  </div>
+  <div type="edition" xml:lang="geez">
 <div type="textpart" subtype="folio" n="8-9r">
 <ab>
 <pb n="8r"/><cb n="b"/>
@@ -386,6 +427,7 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
 <pb n="9r"/><cb n="a"/>ሁ፡ጸጋ፡መጣዕ፡</persName>
 ለዘአጽሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።
 </ab>
+</div>
 </div>
 <div type="edition" xml:lang="en">
 <div type="textpart" subtype="folio" n="8-9r">
@@ -422,8 +464,6 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
  <pb n="9r"/><cb n="a"/>as
  Ṣaggā Maṭāʿ.</persName> Relent that one who requested to write [this] and bless us, Amen.</ab>
 </div>
-</div>
-
 </div>
 </body>
  </text>
