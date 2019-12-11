@@ -41,10 +41,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 </altIdentifier>
 </msIdentifier>
 <physDesc>
-  <objectDesc form="Codex">
-     <supportDesc><support>parchment</support>
-          </supportDesc>
-  </objectDesc>
+<objectDesc form="Codex">
+<supportDesc><support>parchment</support>
+</supportDesc>
+</objectDesc>
 <bindingDesc>
 <binding contemporary="false">
 <decoNote xml:id="b1"> remaining of binding, some new sewing</decoNote>
@@ -61,55 +61,55 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <citedRange unit="page">13-23</citedRange>
 </bibl>
 </listBibl>
-  </source>
+</source>
 </recordHist>
 </adminInfo>
 </additional>
 <msPart xml:id="p1">
-  <msIdentifier></msIdentifier>
+<msIdentifier></msIdentifier>
 <msContents>
 <msItem xml:id="p1_i1">
 <locus from="1v" to="7r"/>
 <title type="complete" ref="LIT4877LetterCanons" xml:lang="geez"/>
-  <incipit><foreign xml:lang="gez">እውሴብስ፡ለቃጲያኖስ፡</foreign>ለዘ፡ኣፈቅር፡እኁየ፡ፍሥሓ፡ወዳኅና፡ለከ፡እምኃቤ፡እግዚአ፡ብሔር፡አሞንስ፡እንከ፡አሌክሰንደርያዊ፡በብዙኅ፡አስተኃምሞ፡ወጺሂቀ፡ገብረ፡</incipit>
-  <explicit>ወጸሐፍኩ፡ዓዲ፡ውስተ፡ወንጌል፡ትእምርተ፡አኀዘ፡ዘበ፡ሲራክ፡ኀበ፡ገብረ፡ተአምረ፡እግዚእነ፡ኢየሱስ፡ክርስቶስ፡ወኃበሂ፡አዘዘ፡ወኃበሂ፡ገሠጸ፡ወኃበሂ፡መሃረ፡ወኃበሂ፡ነበረ፡ወትእምርተ፡አኀዘ፡ማዕተበ፡መስቀል።</explicit>
+<incipit><foreign xml:lang="gez">እውሴብስ፡ለቃጲያኖስ፡</foreign>ለዘ፡ኣፈቅር፡እኁየ፡ፍሥሓ፡ወዳኅና፡ለከ፡እምኃቤ፡እግዚአ፡ብሔር፡አሞንስ፡እንከ፡አሌክሰንደርያዊ፡በብዙኅ፡አስተኃምሞ፡ወጺሂቀ፡ገብረ፡</incipit>
+<explicit>ወጸሐፍኩ፡ዓዲ፡ውስተ፡ወንጌል፡ትእምርተ፡አኀዘ፡ዘበ፡ሲራክ፡ኀበ፡ገብረ፡ተአምረ፡እግዚእነ፡ኢየሱስ፡ክርስቶስ፡ወኃበሂ፡አዘዘ፡ወኃበሂ፡ገሠጸ፡ወኃበሂ፡መሃረ፡ወኃበሂ፡ነበረ፡ወትእምርተ፡አኀዘ፡ማዕተበ፡መስቀል።</explicit>
 </msItem>
 </msContents>
 <physDesc>
 <objectDesc form="Codex">
-   <supportDesc><support>parchment</support>
-        </supportDesc>
-   <layoutDesc>
-     <layout></layout>
-   </layoutDesc>
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout></layout>
+</layoutDesc>
 </objectDesc>
-  <handDesc>
-  <handNote xml:id="h1" script="Ethiopic" corresp="#p1_i1">
-    <seg type="script">Monumental script, definitly of type 1a, resembeles the script attested in Abbā Garimā Gospels A and C.
+<handDesc>
+<handNote xml:id="h1" script="Ethiopic" corresp="#p1_i1">
+<seg type="script">Monumental script, definitly of type 1a, resembeles the script attested in Abbā Garimā Gospels A and C.
 <date cert="medium">fourth/fifth to sixth/seventh century</date>
-     </seg>
-    <seg type="ink">brownish, red</seg>
-    <seg type="rubrication">Red ink was used to layout the letter. Each of three pages has the same mise en texte: three  red lines from the top interchange with the black lines.</seg>
-    </handNote>
-    <handNote xml:id="h2" script="Ethiopic" corresp="#a2">
-      <seg type="script">Monumental script</seg>
-      <date cert="high">the script can be considered contemporary to <persName ref="PRS6152Lalibala"> <roleName type="title">King</roleName>Lālibālā </persName></date>
-      <seg type="ink">black</seg>
-      <note>Some strokes to mark numerals seem to be added later.</note>
+</seg>
+<seg type="ink">brownish, red</seg>
+<seg type="rubrication">Red ink was used to layout the letter. Each of three pages has the same mise en texte: three  red lines from the top interchange with the black lines.</seg>
+</handNote>
+<handNote xml:id="h2" script="Ethiopic" corresp="#a2">
+<seg type="script">Monumental script</seg>
+<date cert="high">the script can be considered contemporary to <persName ref="PRS6152Lalibala"> <roleName type="title">King</roleName>Lālibālā </persName></date>
+<seg type="ink">black</seg>
+<note>Some strokes to mark numerals seem to be added later.</note>
 </handNote>
 <handNote xml:id="h3" script="Ethiopic" corresp="#a3">
-  <seg type="script">Monumental script</seg>
-  <seg type="ink">blownish</seg>
+<seg type="script">Monumental script</seg>
+<seg type="ink">blownish</seg>
 </handNote>
 <handNote xml:id="h4" script="Ethiopic" corresp="#a1">
-  <seg type="script">This hand is attested three time, in CCR 6 and CCR 14, added in the empty spaces in the Gospel. CCR 14 mentions certain ዐቃቤ ሰዐታት ሰንበት መሓረ and <persName ref="PRS10111WedemR"><roleName type="title">ንጉሥ፡ </roleName>ውድም፡ አርዐድ፡ </persName>, which gives us terminus non ante quem this hand had its additions. </seg>
-  <seg type="ink">black</seg>
+<seg type="script">This hand is attested three time, in CCR 6 and CCR 14, added in the empty spaces in the Gospel. CCR 14 mentions certain ዐቃቤ ሰዐታት ሰንበት መሓረ and <persName ref="PRS10111WedemR"><roleName type="title">ንጉሥ፡ </roleName>ውድም፡ አርዐድ፡ </persName>, which gives us terminus non ante quem this hand had its additions. </seg>
+<seg type="ink">black</seg>
 <date cert="medium">1294-1299</date>
 </handNote>
 <handNote xml:id="h5" script="Ethiopic" corresp="#a1">
-  <seg type="script"></seg>
-  <seg type="ink">black</seg>
-  <date cert="high">the script seems to be contemporary to h4,1294-1299.</date>
+<seg type="script"></seg>
+<seg type="ink">black</seg>
+<date cert="high">the script seems to be contemporary to h4,1294-1299.</date>
 </handNote>
 </handDesc>
 <decoDesc>
@@ -150,12 +150,12 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <locus target="#1r"/>
 <q xml:lang="gez">
 <ab>
-  <cb n="a"/><handShift cert="high" new="#h4"/>ዘማርያም።እግዚእትየ፡ማርያም፡እስመ፡በዝንቱ፡ደመ፡ወልድ፡ተቀደሱ፡ቅዱሳን፡እስመ፡በዝንቱ፡ኅብስት፡ወበዝንቱ፡ጽዋዐ፡በደኀሪት፡ዕለት፡ኅቱማኒሆሙ፡ይትረከቡ፡ሰአሊ፡ለነ፡ማርያም፡በግርምት፡ዕለት፡ከመ፡ይምሐረነ።
-  <note>dotted line</note>
+<cb n="a"/><handShift cert="high" new="#h4"/>ዘማርያም።እግዚእትየ፡ማርያም፡እስመ፡በዝንቱ፡ደመ፡ወልድ፡ተቀደሱ፡ቅዱሳን፡እስመ፡በዝንቱ፡ኅብስት፡ወበዝንቱ፡ጽዋዐ፡በደኀሪት፡ዕለት፡ኅቱማኒሆሙ፡ይትረከቡ፡ሰአሊ፡ለነ፡ማርያም፡በግርምት፡ዕለት፡ከመ፡ይምሐረነ።
+<note>dotted line</note>
 ይቤ፡እግዚእ፡አክብሩ፡ሰንበተ፡ተገበሩ፡ጽድቀ፡<handShift cert="low" new="#h5"/>ወፈድፋድስ፡ለማርያም፡አክብርዋ፡እስመ፡ኵሉ፡ዘሰአለ፡ኀቤሃ፡ተዐስዮ፡ፍሥሐ።
-  <note>dotted line</note>እለ፡ጐዩ፡እምነውር፡እምዝ፡ዓለም፡ነኪር፡እምወርቅ፡ወእምብሩር፡ዘይትበደር፡አክሊለ፡ነሥኡ፡ዘሕብሩ፡ሱሩረ፡ከመ፡እንስሳ፡ገዳም፡ውስተ፡አርእስተ፡አድባር፡ነበሩ፡ከመ፡ኀረ//፡በጻማ፡ተገበሩ፡
+<note>dotted line</note>እለ፡ጐዩ፡እምነውር፡እምዝ፡ዓለም፡ነኪር፡እምወርቅ፡ወእምብሩር፡ዘይትበደር፡አክሊለ፡ነሥኡ፡ዘሕብሩ፡ሱሩረ፡ከመ፡እንስሳ፡ገዳም፡ውስተ፡አርእስተ፡አድባር፡ነበሩ፡ከመ፡ኀረ//፡በጻማ፡ተገበሩ፡
 <cb n="b"/>እንዘ፡ይጸንሑ፡ብዕለ፡ዘአልቦ፡መምስለ
-  <note>empty space followed by a dotted line</note>
+<note>empty space followed by a dotted line</note>
 በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።ተዝከሩ፡ለበርናባስ፡እም፡፳።ለሶንይ፡ይምሐሮ፡እግዚኣብሔር፡በሰማያት።ወይደምሮ፡ምስለ፡ጻድቃን።።ወለእለ፡ይገብሩ፡ተዝካሮ፡እመሂ፡አንስት፡ወእመሂ፡ተባዕት፡ይምሐሮሙ፡እግዚኣብሔር፡በጸሎቱ፡ወይስረይ፡ኀጢአቶሙ፡ለዓለም፡አሜን።
 </ab></q>
 </item>
@@ -173,8 +173,8 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <seg ana="#invocation" type="interpretation">In the Name of the Father and the Son and the Holy Spirit,</seg>
 <seg ana="#suscription" type="interpretation">I promoted, I assinged, I devided.I, <persName ref="PRS6152Lalibala"><roleName type="title">ḥaṣāni</roleName> Lālibālā, my royal name being <addName type="regnal">Gabra Masqal</addName></persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
     on the third day of the month of <foreign>Mayazya</foreign>in 409th year of mercy, </date>mighty man, who is not conquered by an enemy  by the power of the Cross of Jesus Christ, son of <persName ref="PRS12816Morara">Morārā, </persName>son of <persName ref="PRS12817ZanSeyum">Zānsəyum,</persName> son of <persName ref="PRS12818Aseda"> ʾĀsdā, </persName></seg><seg ana="#provision" type="interpretation">I gave to <placeName ref="LOC2296DabraL" type="church">Maṭāʿ of ʾAham, </placeName>  the name of<pb/>my wife is Masqal Kəbrā,fearer of God, Biḥat on the river Ḫaṣaro, ʾƎnqarʿo, christian Zaredā, with their land,  lying low (ጽዱፉ) and in its steep of ʿĀgāmā and Də’du‘,
-    where neither ‘āqābē ṣanṣan, nor kantibā should enter, where no other tax from anyone set apart from
-<roleName type="title">  ʾabbot of the monastery of <placeName ref="LOC2296DabraL">Maṭāʿ.</placeName></roleName>
+    where neither ‘āqābē ṣanṣan, nor kantibā should enter, where no other tax from anyone [sould be] set apart from
+<roleName type="title"> ʾabbot of the monastery of <placeName ref="LOC2296DabraL">Maṭāʿ.</placeName></roleName>
   And whoever would violate it or defraud it or withdraw it, whether he would reign or provoke, whether he would be appointed or would hold rulership, whether appointed or displaced,
   who ever will restrain this gwǝlt, shall that one assigned be excommunicated in front of the Father and the Son and the Holy Spirit, by the mouth of our father <persName ref="PRS6298Libanos">Maṭāʿ,</persName>by
   the mouth of ṗāṗāsāt, by the mouth of the 318 orthodox, by the mouth of 15 prophets, by the mouth of 12 apostles, Amen. Amen.</seg>
@@ -184,16 +184,15 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <locus target="#7v"/>
 <desc type="GuestText">
 <title type="complete"/></desc>
-<q>
-<seg ana="#invocation" type="interpretation"></seg>
-<seg ana="#suscription" type="interpretation"></seg>
-<seg ana="#provision" type="interpretation"></seg>
-
+<q xml:lang="geez">
+<seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+<seg ana="#provision" type="interpretation">ወሀብኩ፡አነ፡ገብረ፡መስቀል፡በአሃም፡፷፡ገራህት፡ለቤተ፡ክርስቲያን፡ወከመ፡ይግ<add>በ</add>ሩ፡ተዝካሮ፡ለመጣዕ፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተኀየሎ፡ወዘአገሎ፡ውጉዘ፡ለይ<add>ኩ</add>ን።በአፈ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ። <pb/></seg>
+<note>CCR 4 = [5.0]: (II f. 7v), CCR 185 : Atto indubbiamente apocrifo, che trae dal Gadla Libanos.</note>
 </q>
 <q xml:lang="en">
-  <seg ana="#invocation" type="interpretation"></seg>
-  <seg ana="#suscription" type="interpretation"></seg>
-  <seg ana="#provision" type="interpretation"></seg>
+<seg ana="#invocation" type="interpretation"></seg>In the Name of the Father and the Son and the Holy Spirit,
+
+  <seg ana="#provision" type="interpretation">I, Gabra Masqal, gave sixty fields of ʾAham to the church, so that they shall celebrate the commemoration of  Maṭāʿ, to obtain a loan in the Heavenly Kingdom. If there is someone who would violate it or defraud it, be excommunicated by the mouth of the Father and the Son and the Holy Spirit.</seg>
     </q>
 </item>
 </list>
@@ -284,11 +283,11 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </teiHeader>
 <text xml:base="https://betamasaheft.eu/">
 <body>
-     <div type="edition" xml:lang="gez">
+     <div type="edition" corresp="#p2_i1" xml:lang="gez" >
   <div type="textpart" subtype="folio" n="14r">
 <ab>
   <pb n="14r"/>
-  ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ
+ ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ
 ሳት፡ምስለ፡ሳራ፡ወሰራሜ፡ምስለ፡ሐና፡ወሶፍያ፡ወኢይዝክር፡ላቲ፡ኀጢአታ፡ወይደምስስ፡መጸሐፈ፡ጌጋያ፡አሜን።ወአሜን።ለይኩን፡ለይኩን።ወእንዘ፡ሀለዉ፡ዓበይተ፡<placeName ref="LOC2002Bugna">܆ብጕና፡</placeName>
 <persName ref="PRS12848Abt"><roleName type="title">ቃለጳስ፡</roleName>አብት፡</persName>
 <persName ref="PRS11336Giyorgis"><roleName type="title">ጳጳስ፡</roleName>አባ፡ጊዮርጊስ፡</persName>
@@ -347,6 +346,15 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
 </ab>
 </div>
 </div>
+<div type="textpart" corresp="#p2_i2" subtype="folio" n="14v">
+<ab>
+<pb n="14v"/>
+<seg ana="#inovacation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።</seg>
+<seg ana="#suscription" type="interpretation">ወሀብኩ፡አነ፡ይርድአነ፡ክርስቶስ፡ብጕናይ፡ዘጽላላ፡ዐቃቤ፡ሰዐተ፡መጣዕ፡</seg>
+<seg ana="#provision" type="interpretation">ገራውሀ፡በቢሓት፡፴፪፡ከመ፡ይትወሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወሀብኩ፡ለመጣዕ፡ለመባእ፡ዘዋህበኒ፡በዐለ፡ምድራ፡ሠሚሮ፡ወፈቲዎ፡ወልደ፡ማእከሊ፡ዘእመረ፡ዘአልቦ፡ዘተአገሎ፡ዘተኀየሎ፡ለመጣዕ፡እመሂ፡ሥዩም፡ወእመሂ፡ስዑር፡ውጉዘ፡ለይኩን፡በዝ፡ዓለም፡ወበዘ፡ይመጽእ፡ዓለም፡ውጉዘ፡ለይኩን፡በአፉሁ፡ለአቡነ፡መጣዕ፡ወበአፈ፡ኢየሱስ፡ክርስቶስ፡አሜን።ይኩን፡ለይኩን። ። ።
+</seg>
+  </ab>
+  </div>
 <div type="textpart" subtype="folio" n="8-9r">
 <ab>
 <pb n="8r"/><cb n="b"/>
