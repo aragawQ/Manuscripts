@@ -169,10 +169,12 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 በ፬፻ወ፱ ዓመተ ምሕረት፡አመ፡፫፡ለወርኀ መያዝያ </date>ብእሲ ዓዛል ዘኢይትመዋእለፀር በኀይለ መስቀሉ ለኢየሱስ ክርስቶስ ወልደ <persName ref="PRS12816Morara">ሞራራ </persName>ወልደ <persName ref="PRS12817ZanSeyum">ዛንሥዩም</persName> ወልደ <persName ref="PRS12818Aseda">ኣስዳ </persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ ለ<placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
 መ <persName ref="PRS6859MasqalK">ብእሲትየኒ  መስቀል ክብራ </persName>ፈራሂተ እግዚብሔር <placeName ref="LOC1914Bihat">ቢሐት፡</placeName>በባሕረ ኀጸሮ እንቀርዖ <placeName ref="LOC6447Zareda">ዘሬዳ ክርስቲያን </placeName>ምስለ ምድሮሙ በ<add place="above">ን</add>ጽፉ፡ወበቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName>ወድዕዱዕ፡ዘኢይበውእ ዓቃቤ፡ጸንጻን፡ወኢከንቲባ፡ዘአልቦ፡ግብረ፡ለባዕድ፡ዘእንበለ፡<roleName type="title">አበ ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመቦ፡ዘተኀየሎ ወዘዐገሎ ወዘተገሰሶ እመሂ ዘነግሠ ወእመሂ ዘአንገሥጋሠ ወእመሂ ዘተጳጳሰ ወእመሂ ዘተመኰነነ እመሂሥዩም ወእመሂ፡ስዑር፡ወዘተአገሎ ለዝንቱ፡ጕልት ወለዝንቱ፡ክሱም፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ ወመንፈስ ቅዱስ፡በአፉሁ፡ለአቡነ፡  <persName ref="PRS6298Libanos">መጣዕ፡</persName>በአፈ፡ጳጳሳት፡በኣፈ፡፫፻፲ወ፰ ርቱዐነ፡ሃይማኖት በአፈ፡፲ወ፭ ነቢያት፡በአፈ፡፲ወ፪ ሐዋርያት፡አሜን፡ወአሜን።</seg>
 </q>
+<note>CCR 7 I parte = [5.0]: (II f. 7v). "A scrittura del secolo XVII, su due colonne. B scrittura incerta, forse del secolo XVIII." As Roger Scnheider commented in his unpublished notes, "La version A de Conti Rossini a du se trouver dans la parti du début, parmi les textes varies et n’a pas été photographiée. D’après les variantes graphies de A données par Conti Rossini, la copie plus récente que B. B n’a pas de colonnes. Photo p.2. Ligne pointillée au-dessus du texte."
+</note>
 <q xml:lang="en">
 <seg ana="#invocation" type="interpretation">In the Name of the Father and the Son and the Holy Spirit,</seg>
 <seg ana="#suscription" type="interpretation">I promoted, I assinged, I devided.I, <persName ref="PRS6152Lalibala"><roleName type="title">ḥaṣāni</roleName> Lālibālā, my royal name being <addName type="regnal">Gabra Masqal</addName></persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
-    on the third day of the month of <foreign>Mayazya</foreign>in 409th year of mercy, </date>mighty man, who is not conquered by an enemy  by the power of the Cross of Jesus Christ, son of <persName ref="PRS12816Morara">Morārā, </persName>son of <persName ref="PRS12817ZanSeyum">Zānsəyum,</persName> son of <persName ref="PRS12818Aseda"> ʾĀsdā, </persName></seg><seg ana="#provision" type="interpretation">I gave to <placeName ref="LOC2296DabraL" type="church">Maṭāʿ of ʾAham, </placeName>  the name of<pb/>my wife is Masqal Kəbrā,fearer of God, Biḥat on the river Ḫaṣaro, ʾƎnqarʿo, christian Zaredā, with their land,  lying low (ጽዱፉ) and in its steep of ʿĀgāmā and Də’du‘,
+    on the third day of the month of <foreign>Mayazya</foreign>in 409th year of mercy, </date>mighty man, who is not conquered by an enemy  by the power of the Cross of Jesus Christ, son of <persName ref="PRS12816Morara">Morārā, </persName>son of <persName ref="PRS12817ZanSeyum">Zānsəyum,</persName> son of <persName ref="PRS12818Aseda"> ʾĀsdā, </persName></seg><seg ana="#provision" type="interpretation">I gave to <placeName ref="LOC2296DabraL" type="church">Maṭāʿ of ʾAham, </placeName>  the name of<pb/><persName ref="PRS6859MasqalK">my wife is Masqal Kəbrā</persName>,fearer of God, Biḥat on the river Ḫaṣaro, ʾƎnqarʿo, christian Zaredā, with their land,  lying low (ጽዱፉ) and in its steep of ʿĀgāmā and Də’du‘,
     where neither ‘āqābē ṣanṣan, nor kantibā should enter, where no other tax from anyone [sould be] set apart from
 <roleName type="title"> ʾabbot of the monastery of <placeName ref="LOC2296DabraL">Maṭāʿ.</placeName></roleName>
   And whoever would violate it or defraud it or withdraw it, whether he would reign or provoke, whether he would be appointed or would hold rulership, whether appointed or displaced,
@@ -187,7 +189,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <q xml:lang="geez">
 <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
 <seg ana="#provision" type="interpretation">ወሀብኩ፡አነ፡ገብረ፡መስቀል፡በአሃም፡፷፡ገራህት፡ለቤተ፡ክርስቲያን፡ወከመ፡ይግ<add>በ</add>ሩ፡ተዝካሮ፡ለመጣዕ፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተኀየሎ፡ወዘአገሎ፡ውጉዘ፡ለይ<add>ኩ</add>ን።በአፈ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ። <pb/></seg>
-<note>CCR 4 = [5.0]: (II f. 7v), CCR 185 : Atto indubbiamente apocrifo, che trae dal Gadla Libanos.</note>
+<note>CCR 4 = [5.0]: (II f. 7v), CCR 185 : Atto indubbiamente apocrifo, che trae dal Gadla Libanos. It is page 5 according to Roger Schneider.</note>
 </q>
 <q xml:lang="en">
 <seg ana="#invocation" type="interpretation"></seg>In the Name of the Father and the Son and the Holy Spirit,
@@ -200,62 +202,28 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </physDesc>
 </msPart>
 <msPart xml:id="p2">
-  <msIdentifier></msIdentifier>
+  <msIdentifier>
+  </msIdentifier>
 <msContents>
 <msItem xml:id="p2_i1">
-    <locus target="#14r"/>
-  <title type="incomplete" ref="NAR0022gwelt"/>
+  <locus target="#8r"/>
+  <incipit>በ፭፻ወ፭፡ዓመተ፡ምሕረት፡ወሀብኩ፡አነ፡ዐምደ፡ጽዮን፡ንጉሥ፡ለአባ፡መጣዕ፡ዘአሀም፡</incipit>
+  <explicit>ዘወሀብኩ፡አእሚርየ፡ከመ፡የሐልፍ፡ንብረተ፡ዘንቱ፡ዓለም፡ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ።</explicit>
+</msItem>
+<msItem xml:id="p2_i2">
+  <locus from="8r" to="8v"/>
+  <title>a prayer about the king</title>
+  <incipit>ወለንጉሥነ፡ዐምደ፡ጽዮን፡ዘአዕበዮ፡እምነገሥተ፡ምድር፡</incipit>
+  <explicit>ምስለ፡ዳዊት፡ወቈስጠንጢኖስ፡ወአኖርዮስ፡ለዓለመ፡ዓለም፡አሜን።</explicit>
   </msItem>
-  <msItem xml:id="p2_i2">
-      <locus target="#14v"/>
-    <title type="complete"/>
-    </msItem>
-    </msContents>
-    </msPart>
-    <msPart xml:id="p3">
-      <msIdentifier></msIdentifier>
-    <msContents>
-      <msItem xml:id="p3_i1">
-        <title type="complete"/>
-        </msItem>
-        <msItem xml:id="p3_i2">
-          <title type="complete"/>
-          </msItem>
-          <msItem xml:id="p3_i3">
-            <title type="complete"/>
-            </msItem>
-            <msItem xml:id="p3_i4">
-              <title type="complete"/>
-              </msItem>
-      </msContents>
-        <physDesc>
-        <additions>
-        <list>
-          <item xml:id="a01"><!-- correct the id -->
-            <locus target="#23r"/>
-            <desc type="GuestText">
-            <title type="complete"/></desc>
-            <ab>
-            <pb n="23r"/><cb n="a"/>
-            <q>
-              <seg ana="#invocation" type="interpretation">በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡</seg>
-              <seg ana="#suscription" type="interpretation">አጕለትኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala"><roleName type="title">ሐፃኒ፡</roleName>ላሊባላ፡ወስመ፡መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀል፡</addName></persName>
-              በ፲፻፹፱ ዓመተ፡ምሕረት፡አመ፡፫፡ለወርኀ :::: ብእሲ፡ዓዛል፡ዘኢይትመዋእ፡ለፀር፡በኀይለ፡መስቀሉ፡ለኢየሱስ፡ክርስቶስ፡ወልደ፡<persName ref="PRS12816Morara">ሞራራ፡</persName>ወልደ፡<persName ref="PRS12817ZanSeyum">ዛንሥዩም፡</persName>ወልደ፡<persName ref="PRS12818Aseda">ኣስዳ፡</persName></seg><seg ana="#provision" type="interpretation">
-              ለቤተ፡መስቀል፡ወለቤተ፡ማርያም፡ለደናግል፡ለአንስተ፡መነኮሳት፡ለኣብርቅሲያ፡ወለሶሰና፡ሠጠ፡ምድረ፡ዴረ፡ምድረ፡ምድረ፡አላፎ፡ምድረ፡ውሕረ፡መዓጠውሎ፡መከመከ፡ምድረ፡መስተፈ፡ምድረ፡ለከረነ፡?ጋ፡በመኮሳይት፡ወግር፡ብፁዓ፡በዘ፡አኀዘ፡
-              //ፎ፡ርዘ፡አኀዘ፡ወሰረ፡በዘ፡አኃዘ፡ፍቁሮ፡
-          <cb n="b"/>
-              በዘ፡አኀዘ፡ወዓሬዝ፡በዘ፡አኀዘ፡ወከመዝ፡አጕልትኩ፡ኣነ፡
-              <persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName>  </persName>ከመ፡ይዘከረኒ፡ክርስቶስ፡በመንግሥቱ፡ወከመ፡ይደምረኒ፡ምስለ፡ጻድቃን፡ወቅዱሳን፡ወከመዝ፡ጐለትኩ፡ዘአልቦ፡ግብረ፡ወገብጋበ፡ወኢተክጠ፡ወኢመኃለፍተ፡ዘአልቦ፡ዘናቤ፡ወዓዛቤ፡ዘኢይበውእ፡ፈረስ፡ወአንበሳ፡ዘኢይበውእ፡ቀስታኒያ፡ባዕድ፡ዘእንበለ፡እመ፡መኔት፡ወእመቦ፡ዘተኀየለ፡ወዘተገሰሰ፡ወዘተአገለ፡ለዝንተ፡ጕልት፡ወለዝንተ፡ክ?ም፡ውጉዘ፡ለይኩን፡ዘቅድመ፡ኣብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በአፈ፡ጳጳሳት፡በአፈ፡በ፲ወ፰፡ርቱዓነ፡ሃይማኖት፡በአፈ፡፲ወ፭፡ነቢያት፡በአፈ፡፲ወ?፡ሐዋርያት፡አሜን፡ወአሜን። ። ።
-            </seg>
-
-            </q>
-            </ab>
-          </item>
-
-    </list>
-    </additions>
-    </physDesc>
-      </msPart>
+  <msItem xml:id="p2_i3">
+      <locus target="#8v"/>
+        <title>a request for a prayer about the king</title>
+        <incipit>ወአንትሙሂ፡ቅዱሳን፡እለ፡ሀለውክሙ፡ውስተ፡መካነ፡መጣዕ፡ጸልዩ፡ለንጉሥ፡ዐምደ፡ጽዮን፡</incipit>
+        <explicit>ወበውስተ፡ማኅበርሂ፡ወኀበ፡ተጋባእክሙሂ፡ለዓለመ፡ዓለም፡አሜን። ።</explicit>
+</msItem>
+</msContents>
+</msPart>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -283,7 +251,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </teiHeader>
 <text xml:base="https://betamasaheft.eu/">
 <body>
-  <div type="edition"  xml:lang="gez" >
+  <div type="edition"  xml:lang="gez" corresp="#p2_i1">
 <div type="textpart" subtype="folio" n="8r">
 <ab>
 <pb n="8r"/>
@@ -295,7 +263,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </ab>
 </div>
 </div>
-<div type="edition"  xml:lang="en" >
+<div type="edition"  xml:lang="en" corresp="#p2_i1">
 <div type="textpart" subtype="folio" n="8r">
 <ab>
 <pb n="8r"/>
@@ -303,12 +271,40 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 To the glory of the Father and the Son and the Holy Spirit,
 </seg><seg ana="#subscription" type="interpretation">in 505 year of mercy, I, king ʿAmda Ṣǝyon, gave to ’abbā Maṭā‘ of ’Aham that he would admit me in the Heavenly Kingdom,
 </seg>
-<seg ana="#provision" type="interpretation">gold 182, 2 crosses of gold and one dish of gold and ine chalice of gold; and one dish of silver, and one chalice of silver; 103 rich vetments to the church of Maṭā‘ and to the holy ones 40 fine cloths, and 30 rich vetments and 12 cows to the other churches in his land. And after all, I gave my own golden robe and my weapon and two ስራዌልየ taken from my wrist, and my pair of shoes from my feet. And all this I gave, knowing that the wealth of this world will pass, so that beloved Maṭā‘ would admit me to the Heavenly Kingdom, forever and ever, Amen.  
+<seg ana="#provision" type="interpretation">gold 182, 2 crosses of gold and one dish of gold and ine chalice of gold; and one dish of silver, and one chalice of silver; 103 rich vetments to the church of Maṭā‘ and to the holy ones 40 fine cloths, and 30 rich vetments and 12 cows to the other churches in his land. And after all, I gave my own golden robe and my weapon and two ስራዌልየ taken from my wrist, and my pair of shoes from my feet. And all this I gave, knowing that the wealth of this world  will pass, so that beloved Maṭā‘ would admit me to the Heavenly Kingdom, forever and ever, Amen.
 </seg>
 </ab>
 </div>
 </div>
-     <div type="edition" corresp="#p2_i1" xml:lang="gez" >
+<div type="edition"  xml:lang="gez" corresp="#p2_i2">
+<div type="textpart" subtype="folio" n="8rv">
+<ab>
+ወለ<persName ref="PRS1854Amdase"><roleName type="title">ንጉሥነ፡</roleName>ዐምደ፡ጽዮን፡</persName>ዘአዕበዮ፡እምነገሥተ፡ምድር፡ያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡ወይረስዮ፡እግዚኣብሔ፡ሥሩዐ፡ከመ፡ወርኅ፡ወብሩሀ፡ከመ፡ፀሓይ፡ወይዕቀብ፡አንስትያሁ፡ወደቂቁ፡ወደቂቀ፡ደቂቁ፡ወዓዲ፡ያድኅኖሙ፡ለስራዊቱ፡እምስ<damage/>፡ኀጽ፡ወውግረተ፡እብን።ወያግርር፡<pb/>ጾሮ፡ወጻላእቶ፡ሞቱሂ፡ይኈልቆ፡ምስለ፡ቅዱሳን፡ወሰማዕት፡ምስለ፡እለ፡አስመርዎ፡ለእግዚኣብሔር፡ምስለ፡ዳዊት፡ወቈስጠንጢኖስ፡ወአኖርዮስ፡ለዓለመ፡ዓለም፡አሜን።
+</ab>
+</div>
+  </div>
+  <div type="edition"  xml:lang="en" corresp="#p2_i2">
+  <div type="textpart" subtype="folio" n="8rv">
+  <ab>
+    And for our King ʿAmda Ṣǝyon, who is the greatest among the kings on the earth, may God extend his days on the earth and establish him his ሥርዑ፡ as a moon and clearly as the Sun and may He protect his wives and his children and children of his children and may He save his army from <damage/> of an arrow and from throwinging of a stone. And may He subdue his enemy and his adversaries. And on the day of his death, may He count him among the saints and martyrs and among those who pleased God, with Dawit and Qwosṭanṭinos and ʾAnoryos, for ever and ever, Amen.
+    </ab>
+    </div>
+    </div>
+    <div type="edition"  xml:lang="gez" corresp="#p2_i3">
+    <div type="textpart" subtype="folio" n="8v">
+    <ab>ወአንትሙሂ፡ቅዱሳን፡እለ፡ሀለውክሙ፡ውስተ፡መካነ፡መጣዕ፡ጸልዩ፡ለ<persName ref="PRS1854Amdase"><roleName type="title">
+      ንጉሥ፡</roleName>ዐምደ፡ጽዮን፡</persName>ሰርከ፡ወነግሀ፡ሌሊት፡ወምዐልተ፡ቀትረ፡ወሰዐተ፡በውስተ፡ቊርባንሂ፡ወበውስተ፡ማኅበርሂ፡ወኀበ፡ተጋባእክሙሂ፡ለዓለመ፡ዓለም፡አሜን። ።
+      </ab>
+      </div>
+    </div>
+    <div type="edition"  xml:lang="en" corresp="#p2_i3">
+    <div type="textpart" subtype="folio" n="8v">
+      <ab>And you, saints, those who dwells in the place of Maṭā‘, pray for the King ʿAmda Ṣǝyon, at the evenings and at the daybreak, at time of noons,and at the hour of Qwǝrbān and during the māḫbar and by assembling, forever and ever, Amen.
+      </ab>
+      </div>
+      </div>
+      
+     <div type="edition"  xml:lang="gez" >
   <div type="textpart" subtype="folio" n="14r">
 <ab>
   <pb n="14r"/>
