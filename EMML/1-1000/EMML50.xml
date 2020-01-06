@@ -13,6 +13,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
             <title xml:id="t1">EMML 50</title>
             <editor role="generalEditor" key="AB"/>
             <editor role="editor" key="AWi"></editor>
+
             <funder>Akademie der Wissenschaften in Hamburg</funder>
          </titleStmt>
          <editionStmt>
@@ -387,6 +388,7 @@ The importance of this document, and the authoritative effect that this enumerat
          <change who="PL" when="2017-11-30">Created minimal record with link from data sent from Daniel Gullo, HMML
                             project.</change>
                             <change who="AWi" when="2019-11-18">test création branche</change>
+                            <change when="2019-01-06" who="AWi">test github a ccount</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -396,7 +398,10 @@ The importance of this document, and the authoritative effect that this enumerat
       <body>
         <div type="edition">
 <div type="textpart" corresp="ms_i2.1">
-  <ab>ከመዝ፡ ኑባሬ፡ ሥርዓታ፡ ለ<placeName ref="LOC1311AksumS">እምነ፡ ጽዮን፡ ገበዘ፡ አክሱም፡</placeName> እስከ፡ ፲ወ፭፡ <term type="measure">በእመት፡</term> ኢረከቡ፡ መሠረታ። ወ<term type="building">ጸፍጸፈ፡ ከዲሕ፡</term> ፯፡ በእመት፡ እምድር፡ እስከ፡ <term type="building">አፈ፡ ጽዮን</term>። ወ<term type="building">ከርሠ፡ ንድቁ፡</term> ፯በእመት። ወኑኁ፡ እምሥራቅ፡ እስከ፡ ምዕራብ፡ ፻፳፭፡ በእመት። ወእምደቡብ፡ እስከ፡ ሰሜን፡ ፺፪፡ በእመት። ወስፍሑ፡ ፶ወ፫፡ በእመት። ወኑኁ፡ እምድር፡ እስከ፡ <term type="building">ርእሰ፡ ቀመር፡</term> ፴ወ፪፡ በእመት። <term type="building">አዕማድ፡ ዘንድቅ፡</term> ፴ወ<term type="building">አዕማድ፡ ዘእብን፡</term> ፴ወ፪። ወኵሉ፡ ድሙር፡ ፷፪፡ <term type="building">ማዕፆዉ፡ ዓቢያን፡</term> ዘአናቅጽ፡ መንገለ፡ ዐረብ፡ በአፍአ፡ ፬። ወበውሥጥ፡ ፬፡ ወ<term type="building">ጽርሕ፡</term> ፩፡ ሰሜናዊ፡ ፩። ወደቡባዊ፡ ፩። ዘ<placeName ref="LOC7339BetaGiyo">ቤተ፡ ጊዮርጊስ፡</placeName> ፩። ዘ<placeName ref="LOC7340BetaYo">ቤተ፡ ዮሐንስ፡</placeName> ፩። ዘ<term type="building">ቤተ፡ መዛግብት፡</term> ፪። ዘ<placeName ref="LOC7341BetaGa">ቤተ፡ ገብርኤል፡</placeName> ፪። ዘ<term type="building">ቤተ፡ ማኅበር፡</term> ፩። ዘ<placeName ref="LOC7342BetaMaMa">ቤተ፡ ማርያም፡ መግደላዊት፡</placeName> ፩፡ ወኵሉ፡ድሙር፡ ፳፡ ማዕፆ። ወማዕፆ፡ ዘቄድሮስ፡ ፬፻፷ወ፩። ወ<term type="building">መሳክዊ</term>ሃ፡ ፻፷ወ፰። ወ<term type="building">መንኰራኵራቲ</term>ሃ፡ ፯፻፰፡ ወ<term type="building">ቀስተ፡ ደመና፡</term> ፲፡ወ<term type="building">ርእሰ፡ ኅበይ፡</term> ፴፻፰፻፲ወ፭። ወ<term type="building">መስረበ፡ ማይ</term>ሂ፡ ፺ወ፩። በ፵ወ፱ ዓመተ፡ ምሕረት፡ ኮነ፡ ሡራሬሃ። ወተፍጸሜታሂ፡ ኮነ፡ በ፺ወ፩፡ ዓመተ፡ ምሕረት። ዓለምሰ፡ ሕልም፡ ወጽላሎት፡ ውእቱ፡ ወአልቦ፡ ዘይዌስክ፡ ዘእንበለ፡ ዘያነትግ (sic)።</ab>
+  <ab>ከመዝ፡ ኑባሬ፡ ሥርዓታ፡ ለ<placeName ref="LOC1311AksumS">እምነ፡ ጽዮን፡ ገበዘ፡ አክሱም፡</placeName> እስከ፡ ፲ወ፭፡ <term type="measure">በእመት፡</term> ኢረከቡ፡ መሠረታ። ወ<term type="building">ጸፍጸፈ፡ ከዲሕ፡</term> ፯፡ በእመት፡ እምድር፡ እስከ፡ <term type="building">አፈ፡ ጽዮን</term>። ወ<term type="building">ከርሠ፡ ንድቁ፡</term> ፯በእመት። ወኑኁ፡ እምሥራቅ፡ እስከ፡ ምዕራብ፡ ፻፳፭፡ በእመት። ወእምደቡብ፡ እስከ፡ ሰሜን፡ ፺፪፡ በእመት። ወስፍሑ፡ ፶ወ፫፡ በእመት። ወኑኁ፡ እምድር፡ እስከ፡ <term type="building">ርእሰ፡ ቀመር፡</term> ፴ወ፪፡ በእመት። <term type="building">አዕማድ፡ ዘንድቅ፡</term> ፴ወ
+  <term type="building">አዕማድ፡ ዘእብን፡</term> ፴ወ፪። ወኵሉ፡ ድሙር፡ ፷፪፡ <term type="building">ማዕፆዉ፡ ዓቢያን፡</term> ዘአናቅጽ፡ መንገለ፡ ዐረብ፡ በአፍአ፡ ፬። ወበውሥጥ፡ ፬፡ ወ<term type="building">ጽርሕ፡</term> ፩፡ ሰሜናዊ፡ ፩። ወደቡባዊ፡ ፩። ዘ<placeName ref="LOC7339BetaGiyo">ቤተ፡ ጊዮርጊስ፡</placeName> ፩። ዘ<placeName ref="LOC7340BetaYo">ቤተ፡ ዮሐንስ፡</placeName>
+   ፩። ዘ<term type="building">ቤተ፡ መዛግብት፡</term> ፪። ዘ<placeName ref="LOC7341BetaGa">ቤተ፡ ገብርኤል፡</placeName> ፪። ዘ<term type="building">ቤተ፡ ማኅበር፡</term> ፩። ዘ<placeName ref="LOC7342BetaMaMa">ቤተ፡ ማርያም፡ መግደላዊት፡</placeName> ፩፡ ወኵሉ፡ድሙር፡ ፳፡ ማዕፆ። ወማዕፆ፡ ዘቄድሮስ፡ ፬፻፷ወ፩። ወ<term type="building">መሳክዊ</term>ሃ፡ ፻፷ወ፰። ወ<term type="building">መንኰራኵራቲ</term>ሃ፡ ፯፻፰፡ ወ<term type="building">ቀስተ፡ ደመና፡</term> ፲፡ወ<term type="building">ርእሰ፡ ኅበይ፡</term> ፴፻፰፻፲ወ፭። ወ
+  <term type="building">መስረበ፡ ማይ</term>ሂ፡ ፺ወ፩። በ፵ወ፱ ዓመተ፡ ምሕረት፡ ኮነ፡ ሡራሬሃ። ወተፍጸሜታሂ፡ ኮነ፡ በ፺ወ፩፡ ዓመተ፡ ምሕረት። ዓለምሰ፡ ሕልም፡ ወጽላሎት፡ ውእቱ፡ ወአልቦ፡ ዘይዌስክ፡ ዘእንበለ፡ ዘያነትግ (sic)።</ab>
 </div>
 
         </div>
