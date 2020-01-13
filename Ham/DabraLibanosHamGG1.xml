@@ -99,7 +99,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 </handNote>
 <handNote xml:id="h3" script="Ethiopic" corresp="#a3">
 <seg type="script">Monumental script</seg>
-<seg type="ink">blownish</seg>
+<seg type="ink">brownish</seg>
 </handNote>
 <handNote xml:id="h4" script="Ethiopic" corresp="#a1">
 <seg type="script">This hand is attested three time, in CCR 6 and CCR 14, added in the empty spaces in the Gospel. CCR 14 mentions certain ዐቃቤ ሰዐታት ሰንበት መሓረ and <persName ref="PRS10111WedemR"><roleName type="title">ንጉሥ፡ </roleName>ውድም፡ አርዐድ፡ </persName>, which gives us terminus non ante quem this hand had its additions. </seg>
@@ -254,7 +254,6 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
   <div type="edition"  xml:lang="gez" corresp="#p2_i1">
 <div type="textpart" subtype="folio" n="8r">
 <ab>
-<pb n="8r"/>
   <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡
   </seg>
   <seg ana="#subscription" type="interpretation">በ፭፻ወ፭፡ዓመተ፡ምሕረት፡ወሀብኩ፡አነ፡
@@ -265,11 +264,10 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </div>
 <div type="edition"  xml:lang="en" corresp="#p2_i1">
 <div type="textpart" subtype="folio" n="8r">
-<ab>
-<pb n="8r"/>
-<seg ana="#invocation" type="interpretation">
-To the glory of the Father and the Son and the Holy Spirit,
-</seg><seg ana="#subscription" type="interpretation">in 505 year of mercy, I, king ʿAmda Ṣǝyon, gave to ’abbā Maṭā‘ of ’Aham that he would admit me in the Heavenly Kingdom,
+<ab><seg ana="#invocation" type="interpretation">
+To the glory of the Father and the Son and the Holy Spirit.
+</seg>
+<seg ana="#subscription" type="interpretation">in 505 year of mercy, I, king ʿAmda Ṣǝyon, gave to ’abbā Maṭā‘ of ’Aham so that he would beseech a reward for me in the Heavenly Kingdom,
 </seg>
 <seg ana="#provision" type="interpretation">gold 182, 2 crosses of gold and one dish of gold and ine chalice of gold; and one dish of silver, and one chalice of silver; 103 rich vetments to the church of Maṭā‘ and to the holy ones 40 fine cloths, and 30 rich vetments and 12 cows to the other churches in his land. And after all, I gave my own golden robe and my weapon and two ስራዌልየ taken from my wrist, and my pair of shoes from my feet. And all this I gave, knowing that the wealth of this world  will pass, so that beloved Maṭā‘ would admit me to the Heavenly Kingdom, forever and ever, Amen.
 </seg>
@@ -306,8 +304,10 @@ To the glory of the Father and the Son and the Holy Spirit,
       <div type="edition"  xml:lang="gez" corresp="#p2_i4">
       <div type="textpart" subtype="folio" n="8v10r">
         <ab>
-          በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።
-          በ፭፻፡ወ፯፡ዓመተ፡ምሕረት፡ወሀብኩ፡ኣነ፡ብሌን፡ሰባ፡በዐልተ፡ቢሐት፡ብእሲቱ:ለ<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<roleName type="title">ንጉሥ፡</roleName></persName>በእንተ፡ፍቅሩ፡ለመጣዕ፡ከመ፡ይትወኅሰኒ፡ለመንግሥተ፡ሰማያት፡አመ፡እቀውም፡ዕሬቅየ፡ቅድመ፡ሰማያዊ፡ንጉሥ፡ገለባ፡ወእንቀርዖ፡ወሀብኩ፡ዘንተ፡ጕልተ፡ለብፁዕ፡መጣዕ፡ፍቁርየ፡ዘኢይበኦ፡ፈረስ፡ወኢአንበሳ፡ወኢስዩመ፡ደብረ፡ማዕጾ፡ወኢስዩመ፡ዘረዳ፡ኢዘተሰይመ፡ወኢዘተስዕረ፡ኢዘነገሠ፡ወኢዘአንገስገስ፡ዘኢይ
+          <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።</seg>
+          <seg ana="#subscription" type="interpretation">በ፭፻፡ወ፯፡ዓመተ፡ምሕረት፡ወሀብኩ፡ኣነ፡ብሌን፡ሰባ፡በዐልተ፡ቢሐት፡ብእሲቱ:ለ<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<roleName type="title">ንጉሥ፡</roleName></persName>በእንተ፡ፍቅሩ፡ለመጣዕ፡ከመ፡ይትወኅሰኒ፡ለመንግሥተ፡ሰማያት፡አመ፡እቀውም፡ዕሬቅየ፡ቅድመ፡ሰማያዊ፡ንጉሥ፡
+          </seg>
+          <seg ana="#provision" type="interpretation">ገለባ፡ወእንቀርዖ፡ወሀብኩ፡ዘንተ፡ጕልተ፡ለብፁዕ፡መጣዕ፡ፍቁርየ፡ዘኢይበኦ፡ፈረስ፡ወኢአንበሳ፡ወኢስዩመ፡ደብረ፡ማዕጾ፡ወኢስዩመ፡ዘረዳ፡ኢዘተሰይመ፡ወኢዘተስዕረ፡ኢዘነገሠ፡ወኢዘአንገስገስ፡ዘኢይ
           <pb n="9r"/>
 በኦ፡ቃል፡ነጋሲ፡ወኢደቀ፡ጽርኅ፡ወለእመቦ፡ዘተአገለ፡ወዘተኅየለ፡ዘንተ፡ጕልተ፡ዘወሀብኩ፡ለአባ፡መጣዕ፡ዘአሀም፡እንዘ፡<persName ref="PRS1854Amdase"><roleName type="title">ንጉሥ፡</roleName>ዐምደ፡ጽዮን፡</persName>ወእንዘ፡
 ስይምተ፡እንትርታ፡ብሌን፡ሳባ፡በዐልተ፡ቢኅት፡
@@ -320,16 +320,54 @@ To the glory of the Father and the Son and the Holy Spirit,
 <pb n="9v"/>ወበዝ፡ይመጽእ፡ዓለም፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በስኢል፡ወበሰጊድ፡ለዓለመ፡ዓለም፡አሜን።
 ወ<space/>ዘአግበእኩ፡ዘንተ፡ጕልተ፡<space/>ወዘንተ፡ኵሎ፡ዘገበርኩ፡ዘአዘዘኒ፡<persName ref="PRS1854Amdase"><roleName type="title"> እግዚእየ፡ንጉሥ፡
 </roleName>ዐምደ፡ጽዮን፡</persName>ወይቤለኒ፡ሖሪ፡ብጽሒ፡ኀበ፡መጣዕ፡ዘአሀም፡ወግበሪ፡ፈቃዶ፡ለብፁዕ፡መጣዕ፡ፍቁየ፡ወበሊ፡ኢትንሥኦ፡እግዚኦ፡በመዋዕለ፡ውርዙቱ፡ <persName ref="PRS1854Amdase"><roleName type="title"> ለእግዚእየ፡ </roleName> ዐምደ፡ጽዮን፡ </persName> ወበጻሕኩ፡አነኒ፡ወበከይኩ፡ወላሐውኩ፡ወአንገርገርኩ፡ኀበ፡መቃብሩ፡ለመጣዕ፡በከመ፡አዘዘኒ፡ <persName ref="PRS1854Amdase"><roleName type="title"><sic>እግዚዚየ፡
-</sic></roleName>ዐምደ፡ጽዮን፡</persName>ግበር፡ሎቱ፡እግዚኦ፡በከመ፡ፈቃደ፡ልቡ፡ወይቤለኒ፡ሀቢ፡እንቀርዖ፡ወገለባ፡ከመ፡የሀበኒ፡እግዚኣብሔር፡በመንግሥተ፡ሰማያት፡ህየንተ፡ኅዳጥ፡ብዙኅ፡አሜን፡የሀቦ፡እግዚኣብሔር፡ህየንተ፡ንስቲት፡ዐቢየ፡አሜን።የሀቦ፡እግዚኣብሔር፡ህየንተ፡ዘበምድር፡ዘበ፡ሰማያት፡አሜን።ህየንተ፡ዘይበሊ፡ዘኢይበሊ፡አሜን።ወህየንተ፡ዘይማስን፡ዘኢይማስን፡አሜን።ወያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡አሜን።ወያግርር፡ጾሮ፡<pb n="10r"/>ወጻላእቶ፡አሜን።
+</sic></roleName>ዐምደ፡ጽዮን፡</persName>ግበር፡ሎቱ፡እግዚኦ፡በከመ፡ፈቃደ፡ልቡ፡ወይቤለኒ፡ሀቢ፡እንቀርዖ፡ወገለባ፡ከመ፡የሀበኒ፡እግዚኣብሔር፡በመንግሥተ፡ሰማያት፡ህየንተ፡ኅዳጥ፡ብዙኅ፡አሜን፡የሀቦ፡እግዚኣብሔር፡ህየንተ፡ንስቲት፡ዐቢየ፡አሜን።የሀቦ፡እግዚኣብሔር፡ህየንተ፡ዘበምድር፡ዘበ፡ሰማያት፡አሜን።ህየንተ፡ዘይበሊ፡ዘኢይበሊ፡አሜን።ወህየንተ፡ዘይማስን፡ዘኢይማስን፡አሜን።ወያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡አሜን።ወያግርር፡ጸሮ፡<pb n="10r"/>ወጻላእቶ፡አሜን።
 ወይስረይ፡ኀጢአቶ፡ወይደምስስ፡መጽሐፈ፡ዕዳሁ፡አሜን።የሀቦ፡እግዚአብሔር፡ጥበበ፡ከመ፡ሰሎሞን፡አሜን።የሀቦ፡እግዚአብሔር፡ሞገሰ፡በከመ፡ዳዊት፡አሜን።የሀቦ፡እግዚአብሔር፡ትዕግሥተ፡ከመ፡እዮብ፡አሜን።የሀቦ፡እግዚአብሔር፡መዊአ፡ከመ፡ኢያሱ፡አሜን።
+</seg>
+</ab>
+</div>
+</div>
+<div type="edition"  xml:lang="en" corresp="#p2_i4">
+<div type="textpart" subtype="folio" n="8v10r">
+  <ab>
+    <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+<seg ana="#subscription" type="interpretation">
+In the 507th year of Mercy, I,<persName ref="PRS2633BelenSa"> Bǝlen Sabā, <title>the lady of Biḥat</title> </persName>, wife of <persName ref="PRS1854Amdase">
+ʿĀmda Ṣǝyon,<roleName type="title">the king,</roleName></persName>because of the love to Maṭā‘, so that he would beseech a reward for me in the Heavenly Kingdom, while I shall stay naked infront of the Heavenly King, <placeName ref="LOC3198Galaba">Galabā</placeName>and ʾƎnqarʿo, I gave this gwəlt to blessed Maṭā‘, my beloved, which should not penestrate neither a horse nor an animal, neither a sǝyum of Dabra Māʿəṣo nor a sǝyum of Zaradā, neither an appointed one, nor the deposed one, neither the one who reigns nor who is agitated, neither who
+<pb n="9r"/>
+gave a word to a king nor a child of the palace.
+And if there is anyone who transgresses or violate this gwəlt, which I gave to ʾabbā Maṭā‘ of ʾAham, while the <persName ref="PRS1854Amdase"><roleName type="title">king</roleName>ʿĀmda Ṣǝyon</persName>and while
+the śǝyum of <placeName ref="LOC2947Endart">ʾƎntartā </placeName> <persName ref="PRS2633BelenSa"> Bǝlen Sabā <title>the lady of Biḥat</title></persName>
+and while <persName ref="PRS8449Samay"><title>māʾǝkala baḥǝr</title> Samāy,</persName>
+and while śǝyum of Dabra Māʿəṣo Maṭre ʾEgziʾ,
+and while śǝyum of Zaredā Zarʾa Dāwit,
+and while ʿaqābe saʿata Maṭāʿ Gabra Krəstos.
+I gave this, knowing that the whole world will pass, and I heard the word of Ecclesiastes saying, 'Vanity, all is vanity, unless one prepares his provisions beforehead alive'. And I gave to Maṭā‘ and to the holly ones
+150 cows and linen vestments and loaded offerings that I brought from ʾAmḥarā.
+If there will be anyone who usurps this gwəlt which I gave
+for offering and for commemoration of Maṭāʿ my beloved, may he be excommunicated
+by the mouth of the 15 prophets and by the mouth of 12 Apostles, by the mouth of 318 righteous of faith, by the mouth of Ṗeṭros liqa ṗāṗāsāt, by the prayer of the blessed Maṭāʿ and by the mouth of the Father. And the Son and the Holy Spirit may he be excommunicated in this world<pb n="9v"/>and in the world that comes. This [transgression] can not be released through fasting or prayer, begging or bows for ages of ages, Amen.
+ I offered this gwəlt and did all this as <persName ref="PRS1854Amdase"><roleName type="title">my lord King
+</roleName>ʿĀmda Ṣǝyon </persName> ordered me, saying, 'Go, come to Maṭāʿof ʾAham and do the will of the blessed Maṭāʿ my beloved. And say: "Do not abandon, o Lord, <persName ref="PRS1854Amdase"><roleName type="title"> my Lord </roleName>ʿĀmda Ṣǝyon </persName>in the days of his youth"'. So I came and cried, wept and rolled myself on the grave of Maṭāʿ as ordered me <persName ref="PRS1854Amdase"><roleName type="title"><sic>my lord
+</sic></roleName>ʿĀmda Ṣǝyon. </persName> 'Do for him, o Lord, according to the desire of his heart, saying "Give ʾƎnqarʿo and <placeName ref="LOC3198Galaba">Galabā</placeName>, so that God give me in return for this little a lot in the Heavenly Kingdom, amen." May God give hime in return of a litle - great, amen. May God give him in return for that on the earth - that on the heaven, amen. In return for what ages - what does not age, amen. In return perished - what does not perish, amen. And may He prolong his days on the earth, amen. And may He subdue his rival <pb n="10r"/> and his enemies, amen.
+And may he forgive his sins and obliterate the book of his debts, amen. May God give him wisdom as to Solomon, amen. May God give him benevolence as to Dāwit, amen. May God give him patience as to ʾƎyob, amen.  May God give him victory as to ʾIyāsu, amen.
+</seg>
 </ab>
 </div>
 </div>
 <div type="edition"  xml:lang="gez" corresp="#p2_i5">
 <div type="textpart" subtype="folio" n="10r">
   <ab>
-ወለይእቲኒ፡<persName ref="PRS2633BelenSa">ብሌን፡ሳባ፡<roleName type="title">በዐልተ፡ቢሐት፡</roleName></persName>የሀባ፡እግዚኣብሔር፡ፍቅረ፡ምስለ፡<persName ref="PRS1854Amdase"><roleName type="function">ምታ፡</roleName>ዐምደ፡ጽዮን፡</persName>ዘገብረ፡ፈቃዶ፡በመልእክናሃ፡በከመ፡ገብር፡ብፁዕ፡ኄር፡ዘያስተፌሥሕ፡እግዚኡ፡በመልእክቱ፡ከማሁ፡ሠናየ፡ገብረት፡በመልእክታ፡የሀባ፡እግዚኣብሔር፡ዕሴተ፡ሠናየ፡አሜን።የሀባ፡እግዚኣብሔር፡መዋዕለ፡ብዙኅ፡በፍሥሐ፡ዘአልቦ፡ሐዘነ፡ምስለ፡<persName ref="PRS1854Amdase"><roleName type="function">ምታ፡</roleName>ዐምደ፡ጽዮን፡</persName>አሜን።ወአመ፡ዕለተ፡ጽዋዓሆሙ፡ያስምዖሙ፡እግዚኣብሔር፡ቃለ፡ፍሥሓ፡ዘይብል፡ንዑ፡ኀቤየ፡ቡሩካኑ፡ለአቡየ፡ትረሱ፡መንግሥተ፡ዘአስተዳለወ፡ለክሙ፡እምቅድመ፡ዓለም፡አሜን።ወይባርክ፡ውሉዶሙ፡አሜን፡ወያብዝኅ፡ዘርኦሙ፡ከመ፡ኮከበ፡
+ወለይእቲኒ፡<persName ref="PRS2633BelenSa">ብሌን፡ሳባ፡<roleName type="title">በዐልተ፡ቢሐት፡</roleName></persName>የሀባ፡እግዚኣብሔር፡ፍቅረ፡ምስለ፡<persName ref="PRS1854Amdase"><roleName type="function">ምታ፡</roleName>ዐምደ፡ጽዮን፡</persName>ዘገብረት፡ፈቃዶ፡በመልእክናሃ፡በከመ፡ገብር፡ብፁዕ፡ኄር፡ዘያስተፌሥሕ፡እግዚኡ፡በመልእክቱ፡ከማሁ፡ሠናየ፡ገብረት፡በመልእክታ፡የሀባ፡እግዚኣብሔር፡ዕሴተ፡ሠናየ፡አሜን።የሀባ፡እግዚኣብሔር፡መዋዕለ፡ብዙኅ፡በፍሥሐ፡ዘአልቦ፡ሐዘነ፡ምስለ፡<persName ref="PRS1854Amdase"><roleName type="function">ምታ፡</roleName>ዐምደ፡ጽዮን፡</persName>አሜን።ወአመ፡ዕለተ፡ጽዋዓሆሙ፡ያስምዖሙ፡እግዚኣብሔር፡ቃለ፡ፍሥሓ፡ዘይብል፡ንዑ፡ኀቤየ፡ቡሩካኑ፡ለአቡየ፡ትረሱ፡መንግሥተ፡ዘአስተዳለወ፡ለክሙ፡እምቅድመ፡ዓለም፡አሜን።ወይባርክ፡ውሉዶሙ፡አሜን፡ወያብዝኅ፡ዘርኦሙ፡ከመ፡ኮከበ፡
 <pb n="10v"/>ሰማይ፡ወከመ፡ኆጻ፡ባሕር፡አሜን፡ወአሜን።ወይበል፡ኵሉ፡ሕዝብ፡አሜን፡ወአሜን።
+</ab>
+</div>
+</div>
+<div type="edition"  xml:lang="en" corresp="#p2_i5">
+<div type="textpart" subtype="folio" n="10r">
+  <ab>
+And for this <persName ref="PRS2633BelenSa">Bǝlen Sabā<roleName type="title">
+the lady of Biḥat,</roleName></persName> may God give her love with <persName ref="PRS1854Amdase"><roleName type="function">her husband</roleName>ʿĀmda Ṣǝyon, </persName>who fullfilled his will with her authority, as a good blessed servant that pleases his lord by his service, like this she did good by her service. May God give her good reward, amen. May God give her many days in joy, which do not have sadness, with <persName ref="PRS1854Amdase"><roleName type="function">her husband</roleName>ʿĀmda Ṣǝyon,</persName>amen. And on the day of their summons may God announce them the word of joy saying: 'Come to me blessed by Father, inherit the kingdom, which was prepared for you from before the world, amen.' And may he bless their children, amen and may He multiply their seed like the stars of
+<pb n="10v"/>Heaven and like the sand of the sea, amen and amen. And let all people say 'Amen and amen'.
 </ab>
 </div>
 </div>
@@ -346,10 +384,144 @@ To the glory of the Father and the Son and the Holy Spirit,
     </ab>
     </div>
     </div>
-
-
-
-     <div type="edition"  xml:lang="gez" >
+<div type="edition"  xml:lang="gez" >
+<div type="textpart" subtype="folio" n="10v-11r">
+<ab>
+ <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
+ ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡ይግበሩ፡ሎቱ፡ተዝካሩ፡ለ<add place="overstrike">መጣ</add>ዕ፡ወሊተሂ፡ከመ፡ትዘከረኒ፡እግዚእትየ፡ማርያም፡በጸሎታ፡በኀበ፡ፍቁር፡ወልዳ፡ወዘአጐለትኩ፡በ፭የወ፯፡ዓመተ፡ምሕረት፡አነ፡<persName ref="PRS1854Amdase">ዓምደ፡ጽዮን፡</persName>እንዘ፡<persName ref="PRS2633BelenSa"><title>ሥይምተ፡<placeName ref="LOC2947Endart">እንትርታ፡</placeName></title>ብሌን፡ሰብአ፡</persName>
+ እንዘ፡<persName ref="PRS8449Samay"><title>መእከለ፡ባሕር፡</title>ስማይ፡</persName>
+ ወእንዘ፡<persName ref="PRS11566Degna"><title>አውፋሪ፡</title>
+ ድግነ፡</persName>
+ እመቦ፡ዘተሐየሎ፡እማርያም፡ዘሰዐጋ፡ <add place="overstrike">አንፈ፡በዓት፡ሕፂን፡</add>ዘወሀብኩ፡አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>እመቦ፡ባሕር፡ወእመሂ፡ሥዩመ፡እንትርታ፡ወእመሂ፡አውፋሪ፡ወእመሂ፡ሥዩም፡አጽቢ፡እመሂ፡ኅዱግ፡ወቃል፡ነጋሢ፡ውጉዛን፡ይኵኑ፡አሜን፡በአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡አሜን፡በአፈ፡፫፻፡፲ወ፷፡ርቱዓነ፡ሃይማኖት፡አሜን።ወበማርያም፡ወላዲ
+ <pb/>ተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።
+ </ab>
+ </div>
+ </div>
+ <div type="edition"  xml:lang="en" >
+<div type="textpart" subtype="folio" n="10v-11r">
+<ab>
+ <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+ I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName>
+gave ʾAnfa Baʿat [to] Māryām za-Saʿagā Ḥǝṣen so that they celebrate the commemoration of Maṭāʿ and for me, so that my Lady Mary remember me in her prayer to her beloved Son. It was in 507 year of Mercy that I promoted, I,  <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName>
+while <persName ref="PRS2633BelenSa"><title>śǝyǝmt of <placeName ref="LOC2947Endart">ʾƎntǝrtā</placeName></title>Bǝlen Sabā, </persName>
+ while<persName ref="PRS8449Samay"><title>maʾǝkala bāḥr</title>Samāy,</persName>
+ and while <persName ref="PRS11566Degna"><title>ʾawfāri</title>
+ Dǝgnā.</persName>
+ If there is anyone who usurps from Māryām za-Saʿagā ʾAnfa Baʿat Ḥǝṣen, which I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon</persName>gave, if there is anyone who violates or transgresses it, if even maʾǝkala bāḥr or
+ śǝyum of ʾƎntǝrtā, if even ʾawfāri or  śǝyum of ʾAṣbi, if even a deputy or qāl nagāsi, may they be excommunicated, amen, by the mouth of
+ Ṗeṭros liqa ṗāṗāsāt, amen; by the mouth of 318 righteous of faith, amen. And by Māryām, bearer of
+ <pb/>Lord, may they be excommunicated, amen.
+</ab>
+</div>
+</div>
+<div type="edition"  xml:lang="gez" >
+<div type="textpart" subtype="folio" n="11r">
+<ab>
+  <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+  ወሀብኩ፡አነ፡
+  <persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ለአባ፡መጣዕ፡ዘንተ፡ጕልተ፡ጽዳእ፡አሲራ፡ለባሲሮ፡ገማእ፡ዜና፡ኩዶ፡አድ፡ሕልሞ፡አና፡ሰባይ፡ስናጋ፡ማርያሌ፡ሠርዔ፡ለጎ፡ወንከብ፡ገዳሞሙ፡ለመነኮሳት፡ቤተ፡ሰማእት፡አናንያ፡አዛርያ፡ወሚሳኤል፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተአገሎ፡ወዘተኃየሎ፡ውጉዘ፡ለይኩን።
+</ab>
+</div>
+</div>
+<div type="edition"  xml:lang="en" >
+<div type="textpart" subtype="folio" n="11r">
+<ab>
+  <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+Donated I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName> to  ʾabbā Maṭāʿ this gwəlt
+ጽዳእ፡አሲራ፡ለባሲሮ፡ገማእ፡ዜና፡ኩዶ፡አድ፡ሕልሞ፡አና፡ሰባይ፡ስናጋ፡ማርያሌ፡ሠርዔ፡ለጎ፡ወንከብ፡ገዳሞሙ፡ለመነኮሳት፡ቤተ፡ሰማእት፡አናንያ፡አዛርያ፡ወሚሳኤል፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተአገሎ፡ወዘተኃየሎ፡ውጉዘ፡ለይኩን።
+  </ab>
+  </div>
+  </div>
+  <div type="edition"  xml:lang="geez" >
+  <div type="textpart" subtype="folio" n="11rv">
+  <ab>
+    <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+    አግባእኩ፡አነ፡
+    <persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ዘንተ፡ጕልተ፡ከመዝ፡ጉና!ና፡ቤት፡ነበይት፡አገርሕሤ፡አዲ፡ግዶም፡
+  ! ፅፅ፡!ማሬ፡አንበሳት፡አጋሜ፡ምስለ፡ምድሮሙ፡ከመ፡ይኵኖ፡መርሐ፡በመንግሥተ፡
+  <pb/>ሰማያት፡ለዓለመ፡ዓለም፡አሜን።
+    </ab>
+    </div>
+    </div>
+    <div type="edition"  xml:lang="en" >
+    <div type="textpart" subtype="folio" n="11rv">
+    <ab>
+      <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+</ab>
+      </div>
+      </div>
+      <div type="edition"  xml:lang="geez" >
+      <div type="textpart" subtype="folio" n="11v">
+      <ab>
+        <seg ana="#invocation" type="interpretation">በአኰቴተ፡ኣብ፡ወወልደ፡ወመንፈስ፡ቅዱስ፡</seg>
+        አግባእኩ፡ኣነ፡
+        <persName ref="PRS6073Krestos">ክርስቶስ፡አቡሁ፡</persName>በአፈ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<title>ንጉሥ፡</title></persName>ተርካ፡ዘቀዳሚ፡ምድሮሙ፡ለቅዱሳን፡እለ፡ቤተ፡መጣዕ፡እንዘ፡ዐቃቤ፡ሰዐት፡ዕቅባ፡እግዚእ፡ወእመቦ፡ዘተኃየሎሙ፡ወዘተዐገሎሙ፡ለቅዱሳን፡ይእቲ፡ምድር፡በጽንፋ፡ወበቀልቀላ፡ለተርካ፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በኣ
+        <cb/>
+ፈ፡፫፻፡ወ፷፡ርቱዐነ፡ሃይማኖት፡ወበአፈ፡፲ወ፭፡ነቢያት፡ወበአፈ፡፲ወ፪፡ሐዋርያት፡ወበአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በስኢል፡ወበሰጊድ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን።ወእመቦ፡ዘደምሰሳ፡ወዘቀደዳ፡በጽልሑት፡ከማሁ፡ለይኩን፡ውጉዘ፡ለዓለመ፡ዓለም፡አሜን።
+  </ab>
+        </div>
+        </div>
+        <div type="edition"  xml:lang="geez" >
+        <div type="textpart" subtype="folio" n="11v">
+        <ab>
+          <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+    </ab>
+          </div>
+          </div>
+          <div type="edition"  xml:lang="geez" >
+          <div type="textpart" subtype="folio" n="11v">
+          <ab>
+            ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወባናዕሌ፡ወበአረገን።በክኤቱ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኃነ፡ውእቱ፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡<pb/>
+            </ab>
+            </div>
+            </div>
+            <div type="edition"  xml:lang="geez" >
+            <div type="textpart" subtype="folio" n="12r">
+            <ab>
+              to transcribe
+              </ab>
+              </div>
+              </div>
+              <div type="edition"  xml:lang="geez" >
+              <div type="textpart" subtype="folio" n="12r">
+              <ab>
+                to transcribe
+                </ab>
+                </div>
+                </div>
+                <div type="edition"  xml:lang="geez" >
+                <div type="textpart" subtype="folio" n="12v">
+                <ab>
+                  to transcribe
+                  </ab>
+                  </div>
+                  </div>
+                  <div type="edition"  xml:lang="geez" >
+                  <div type="textpart" subtype="folio" n="12v">
+                  <ab>
+                    በ፴ወ፭፡ዓመተ፡ምሕረት፡ወበመዋዕሊሁ፡ለንጉሥነ፡ዘርአ፡ያዕቆብ፡ወስመ፡መንግሥቱ፡ቈስጠንጢኖስ፡ወእምአመ፡ነግሠ፡በ፳ወ፭፡ዓመት፡ዘወሀበ፡ዓምደ፡ለቤተ፡ክርስቲያን፡ዘመጣዕ፡ተስፈ፡ኢየሱስ፡ስዩም፡ግሎመከደ፡ወልዱ፡ለይስሞ፡ይበርክ፡ነፍሱ፡ወብእሲቱ፡ወውሉዱ፡ወይጽሐፍ፡ስሞ፡ውስተ፡መጽሐፈ፡ሕይወት፡በጸሎቱ፡ለቅዱስ፡መጣዕ፡ወእንትሙሂ፡ቅዱስን፡ዝክርዎ፡ወኢትርስዕዎ፡በጸሎትክሙ፡ለዓለመ፡ዓለም፡አሜን
+                    <pb/>
+                    </ab>
+                    </div>
+                    </div>
+                    <div type="edition"  xml:lang="geez" >
+                    <div type="textpart" subtype="folio" n="13r">
+                    <ab>
+                      CCR 29 to transcribe
+                      <pb/>
+                      </ab>
+                      </div>
+                      </div>
+                      <div type="edition"  xml:lang="geez" >
+                      <div type="textpart" subtype="folio" n="13v">
+                      <ab>
+                      <cb n="b"/>
+                      CCR 28 to transcribe
+                        </ab>
+                        </div>
+                        </div>
+     <div type="edition"  xml:lang="geez" >
   <div type="textpart" subtype="folio" n="14r">
 <ab>
   <pb n="14r"/>
@@ -424,15 +596,99 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
   </ab>
   </div>
   </div>
-  <div type="edition" xml:lang="geez">
+  <div type="edition" xml:lang="en">
   <div type="textpart" corresp="#p2_i2" subtype="folio" n="14v" xml:lang="en">
   <ab>
   <pb n="14v"/>
   <seg ana="#inovacation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit,</seg>
 <seg ana="#suscription" type="interpretation">I, <persName ref="PRS10332Yerdea">Yǝrdǝʾanna Krǝstos of Bəgwənāy of Ṣəlālā, <roleName type="title">‘aqābe sa‘āta Maṭā‘</roleName></persName>gave</seg>
 <seg ana="#provision" type="interpretation">thirty two fields of Biḥāt, to be granted by Maṭā‘ in the Heavenly Kingdom. I gave to Maṭā‘ as a donation what Walda Ma’əkali, the lord of the land, gave me agreeing and willing, who knows that what I took was not by force or violence. If someone would violate or defraud Maṭā‘, whether appointed or whether displaced, be excommunicated, in this world and in the coming world, by the mouth of Maṭā‘ and by the mouth of Jesus Christ. Amen. Let it be, let it be.</seg>
-  በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡አነ፡መጣዕ፡ወሀብኩ፡ለመጣዕ፡ሰርፍ፡ከመ፧//በመንግስተ፡ሰማያት፡ጸልዩ፡ላዕሌየ፡ደቂቀ፡መካን፡ይምሐሮ፡እግዚአብሔር፡በዓለም፡አሜን።ወአሜን፡ለይኩን፡ለይምኩን
-  ወሀበ፡አነ፡ሣህለ፡ወረድ፡ለመጣዕ፡እግዚእ፡ኃይሌ፡ከመ፡ይምሐረኒ፡እግዚአ
+  </ab>
+  </div>
+  </div>
+  <div type="edition" xml:lang="geez">
+<div type="textpart" subtype="folio" n="15r">
+<ab>
+  በስመ፡አብ፡ወወል/ድ/፡ወመን/ፈስ፡ቅዱስ፡/አነ፡ተከሥተ፡ብ//፡ነብር፡እደ፡ሰዐት፡ዘመጣዕ፧//ኩ፡ለመጣዕ፡//ባአ፡፫፡ገራህተ፡//ገራህተ፡በ//፡ሚካslኤል፡ወገ//ህተ፡ ///ዖነ፡ትሕተ፡መን፡ክምል፡ዐቀባ፡ድ፡ቅስዳድ፡በቢሐት፡//ይበጽሕ፡ለመነኮሳት፡መጣዕ፡ወለዐቃቤ፡ሰዐት፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡እንዘ፡ሀለዉ፡መነኮሳተ፡መጣዕ፡ቤቤተ፡ጽርሕ፡እንዘ፡ንጉሥ፡ይኩናት፡ወእንዘ፡ሊቀ፡ጳጳሳት፡አባ፡ቄርሎስ፡ወእንዘ፡ሥዩም፡እን//ታ፡እንግዳ፡እግዚእ፡ወእንዘ፡ሥዩም፡ደብረ፡ማዕፆ፡ኅራሳይ፡እመቦ፡ዘተኀየሎ፡ወእመቦ፡ዘተአገሎ፡ውጉዘ፡ለይኩን፡በአሊሁ፡ለመጣዕ፡ወበአፈ፡ኵሎሙ፡ቅዱሳን፡በ፩፻//፩፡ዓመተ፡ምሕረት፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።///// lb
+  </ab>
+  </div>
+  </div>
+  <div type="edition" xml:lang="geez">
+<div type="textpart" subtype="folio" n="15r">
+<ab>
+  non reperibile in CCR
+  </ab>
+  </div>
+  </div>
+  <div type="edition" xml:lang="geez">
+<div type="textpart" subtype="folio" n="15v">
+<ab>
+  በአኰቴተ፡ ///////ብ፡ወወልድ፡ወመንፈስ፧/////////
+ወሀብኩ፡ለቤተ፡መስቀል፡ወለቤተ፡ማርያም፡ወለደናል፡ከመ፡ይምሐረኒ፡እግዚአ፡ብሔር፡በጸሎቶሙ።ወሀብኩ፡አነሂ፡በከመ፡ወሀቡ፡ነገሥት፡ሠጦ፡ምድረ፡አላፎ።ወዴር፡ወዐድ፡ልጋት፡ወማዕጠውሎ፡ወምካምስ፡ወምድረ፡መስተፋ፡ምስለ፡ሰርሓ፡ወዐድ፡ዳዕሮ፡አግባእኩ፡አነ፡ንጉሥ፡ይኵኖ፡አምላክ፡እንዘ፡ማእከለ፡ባሕር፡ያግባጽዮን፡እንዘ፡ሥዩመ፡እንትርታ፡ወዐቃቤ፡ጸንጸን፡ወኃሥጓ፡አነ፡እንግዳ፡እግዚእ፡ወልደ፡ኵሉ፡ሰገደ።ወእንዘ፡ንቡረ፡እድ፡ዘአክሱም፡ወዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡ተከሥተ፡ብርሃን።ወእንዘ፡በዐልተ፡መካን፡ቅድስት፡ማርያም፡ዘአግበአ፡ዘንተ፡ጕልተ፡የሀቦ፡እግዚአብሔር፡መንግሥተ፡ሰማያት፡ወይደምሮ፡ምስለ፡ቅዱሳን፡ወሰማዕት፡ወያኑ/፡መዋዕሊሁ፡በዲበ፡ምድር፡ወይዕቀብ፡ነፍሶ፡ወብእሲቶ፡ወውሉዶ፡ወሰራዊቶ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡እመቦ፡ዘተኀየለ፡ወዘተአገለ፡ዘንተ፡ጕ///፡ውጉዘ፡ለይኵን፡በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በሰማይ፡ወበምድር፡በአ/፡፲ወ፭፡ነቢያት፡በአፈ፡፲ወ፪፡ሐዋርያት፡ወ///ርድ////በአፈ፡፫፻፡ወ፰፡ርቱዓነ፡////ለዓለም፡አሜን። ። pb
+  </ab>
+  </div>
+  </div>
+  <div type="edition" xml:lang="geez">
+<div type="textpart" subtype="folio" n="16r-17v">
+<ab>
+  Punctual line: two columns
+           በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡  አጽሐፍኩ፡ አነ፡
+<subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>
+     ንጉሥ።
+           በ፭፻፲ወ፪።ዓመተ፡ ምሕረት፡ አጕለትኩ፡ አነ፡
+<subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡ንጉሥ፡ወስመ፡መንግሥትየ፡ሳሎሞን፡ ወአክሰምኩ፡ዘንተ፡ጕልተ፡ለአባ፡መጣዕ፡ዘውእቱ፡ ሊባኖስ፡
+</add></subst>
+ወአነሂ፡ወሀብኩ፡ በእንተ፡ፍቅሩ፡ለመጣዕ፡ ከመ፡ይትወሐስኒ፡ በመንገሥተ፡ሰማያት። ወያኑኅ፡መዋዕልየ፡በዲበ፡ምድር፡አግባእኩ፡ዘንተ፡ጕልተ፡በአዌካር፡፭ዓ           <cb/>
+ድ፡ ሕፄን፡ ወእላንታ፡ቢሐት፡ወእንቀርዖ፡ቀርንኦም፡ ምሕባኣ፡መንደልት፡ወምጕልብታ፡ገለባ፡ ወሴሴት፡በድዕዱዕ፡፯ዐድ፡በመረገኒያ፡፯ዐድ፡ተዲረር፡ዐጋ፤ኢ፡ምስለ፡ምድሮሙ፡ በኀበ፡ ሀለዉ፡ ወርቅ፡ ወአልባስ፡ ፫፻፡ ወ፵ክቡራት፡ ወለቅዱሳን፡፵ብዙት፡ወ፲፻ላህም፡፳መነሳንስት፡ ፭ስራዌልየ፡አውጻእየ፡እምሐቋይ፡ ወ፭፡ አሣእንየ፡ አውጺእየ፡ እምእገርየ። <lb/><space></space>
+ወሀብኩ፡ለመጣዕ፡ ወ፭፡ መስቀል፡ዘወርቅ፡ወ፩፡ ጻሕል፡ <pb/>
+ዘወርቅ፡ወ፩፡ ጽዋዕ፡ ዘወርቅ፡ ፩፡ ጽዋዕ፡ ዘብሩር። ወክልኤቱ፡ ጻሕል፡ ዘድዕም፡መብራህት፡ወዕጣን፡ዘአልቦ፡ኆልቈ።<lb/><space></space>
+ወለካልአን፡ ቤተ፡ ክርስቲያናት፡ እለ፡ውስተ፡ ሀገሩ፡፴ አልባስ፡ ክቡራት።
+ወዘንተ፡ ኵሎ፡ ዘወሀብኩ፡ አነ፡<subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst> ንጉሥ፡
+አእሚርየ፡ ከመ፡ የሐልፍ፡ ኵሎ፡ ንብረተ፡ ዝንቱ፡ ዓለም፡ ወሰማዕኩ፡ ቃለ፡መክብብ፡ ዘይቤ፡ ከንቱ፡ ኵሉ፡ ከንቱ፡ ዘእንበለ፡ ዘአቅደመ፡ ስንቆ፡በሒይወቱ፡
+<space></space>
+ወሀብኩ፡ አነ፡ ክርስቶስ፡ ኣቡሁ፡ ለመጣዕ፡ ዘአሃም፡ ዘአዘዘኒ፡ እግዚእየ፡erased
+እንዘ፡ ሥዩመ፡ እንትርታ። ወእንዘ፡መእከለ፡ባሕር፡ እንዘ፡ ማእከለ፡ ትዋዛት።
+ወእንዘ፡ ሐስጓ፡ ወዐቃንጻን። ባሕረ፡ ሰገድ፡ ወልዱ፡ለ
+erased
+ንጉሥ።<lb/><space></space>
+ወበታሕቴሁ፡ ክርስቶስ፡ አቡሁ፡ መኰንን።<lb/><space></space>
+እs .l. ንዘ፡ ሕዱ
+ሠናይት፡ አይሶ፡ እንዘ፡ መአሰሬ፡ ንጉሥ፡ ካሕሱ፡ ወልደ፡ ኖላዊ።<lb/><space></space>
+ወእንዘ፡ ዓቃቤ፡
+<pb/>
+ሰዓተ፡ መጣዕ፡ ገብረ፡ ክርስቶስ፡ ወልዱ፡ ለበርናባስ።
+ዘአጽሐፍዋ፡ ተጋቢኦሙ፡ በሕዘእተ፡ ምስያም። አመ፡ ይሁቦ፡ እግዚአብሔር፡ ለ <subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst> ምድረ፡ በምልኣ።<lb/><space></space>
+ወዘንተ፡ ኵሎ፡ ጕልተ፡ ዘ<subst> <del rend="erasure"/><add place="overstrike">አጐለት</add></subst>ኩ፡ ለአቡነ፡ መጣዕ።
+ዘኢይበውኦ፡ ሥዩም፡ ዘኢስዑር፡ ኢመኰንን፡ ወኢሐያል፡ ወኢቃለ፡ ነጋሢ። <lb/><space></space>
+ኢአንበሳ፡ ወኢፈረስ፡ ኢማእከለ፡ ባሕር። <lb/><space></space>
+ወኢአውፋሪ፡ ኢኣፈ፡ አውፋሪ። <lb/><space></space>
+ኢሥዩመ፡ አዌገ   <cb/>ር፡ ወኢገዘአ፡ አዌገር። ኢሥዩመ፡ ደብረ፡ መዕጾ፡ወኢሕዱጉ።<lb/><space></space>
+ኢሥዩመ፡ ዘሬዳ፡ ወኢገዛአ፡ ዘሬዳ።
+ ኢአውፈሪ፡ ሐማሴን፡ ኢዐቃንጻን፡ ሐማሴን። <lb/><space></space>
+ዘኢይበውኦ፡ ለመረገንያ፡ ወለድዕዱዕ፡ <subst> <del rend="erasure"/><add place="overstrike">ሕፄን፡</add></subst>ጕልቱ፡ ለመጣዕ፡ ዘአሀም፡ዘወሀብኩ፡አነ፡ <subst> <del rend="erasure"/><add place="overstrike">ሰሎሞን፡</add></subst>ንጉሥ። <lb/><space></space>
+ወለእመቦ፡ ዘተሐየሎ፡ ወዘተአገሎ፡ ውጉዘ፡ ለይኩን፡ በአፈ፡ ፲፭፡ ነቢያት፡ወበአፈ፡ ፲ወ፪፡ ሐዋርያት፡ በአፈ፡ ፳ወ፬፡ ካህናተ፡ ሰማይ። በአፈ፡ ፫፻፲ወ፰፡ <pb/> ርቱዓነ፡ ሀይማኖት፡ ወበአፈ፡ ጴጥሮስ፡ ሊቀ፡ ጳጳሳት፡ ወበጸሎቱ፡ለብፁዕ፡መጣዕ ። <lb/><space></space>
+ወበአፈ፡ ኣብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ውጉዘ፡ ለይኩን፡ በዝ፡ ዓለም፡ወበዘይመጽእ፡ ዓለም፡ ዘኢይትፈተሕ፡ በጾም፡ ወበጸሎት፡ በስኢል፡ወበሰጊድ፡ ለዓለመ፡ ዓለም፡ አሜን።<lb/><space></space>
+Punctual line
+ወለንጉሥነ፡ <subst> <del rend="erasure"/><add place="overstrike">ገብረ፡ መስቀል፡</add></subst> የሀቦ፡ እግዚአብሔር፡ መንግሥተ፡ ሰማያት፡ ህየንተ፡ ሕዳጥ፡ ብዙኅ፡ አሜን። የሀቦ፡ እግዚአብሔር፡ ህየንተ፡ ንስ<cb/>
+ቲት፡ ዓቢየ፡ ኣሜን።  የሀቦ፡ እግዚአብሔ፡ ህየንተ፡ ዘበምድር፡ ዘበሰማያት፡ኣሜን። ህየንተ፡ ዘይማስን፡ዘኢይማስን፡ኣሜን።ወያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡ ኣሜን።<lb/><space></space>
+ወያግርር፡ ጸሮ፡ ወጻላእቶ፡ ኣሜን። ወይስረይ፡ ኃጢአቶ፡ ወይደምስስ፡መጽሐፈ፡ ዕዳሁ፡ ኣሜን።<lb/><space></space>
+የሀቦ፡ እግዚአብሔር፡ ጥበበ፡ ከመ፡ ሰሎሞን፡ አሜን።<lb/>
+የሀቦ፡ እግዚኣብ
+<pb/>
+  </ab>
+  </div>
+  </div>
+  <div type="edition" xml:lang="geez">
+<div type="textpart" subtype="folio" n="18r">
+<ab>
+  
+  </ab>
+  </div>
+  </div>
+  <div type="edition" xml:lang="geez">
+<div type="textpart" subtype="folio" n="18v">
+<ab>
+
   </ab>
   </div>
   </div>
@@ -503,7 +759,8 @@ and while
 Thus at that time I promoted this gwǝlt given by <persName ref="PRS6152Lalibala">Lālibālā</persName>, lover of God, without taxation or forced labour; who will restrain this gwǝlt, shall that one be excommunicated, Amen.
 This was written upon the request of <persName ref="PRS10332Yerdea"><roleName type="title">ʿāqābe saʿāt Maṭāʿ,</roleName> [named] at birth Yǝrdǝʾanna Krǝstos and  at entering monkhood
  <pb n="9r"/><cb n="a"/>as
- Ṣaggā Maṭāʿ.</persName> Relent that one who requested to write [this] and bless us, Amen.</ab>
+ Ṣaggā Maṭāʿ.</persName> Relent that one who requested to write [this] and bless us, Amen.
+</ab>
 </div>
 </div>
 </body>
