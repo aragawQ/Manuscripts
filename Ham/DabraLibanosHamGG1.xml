@@ -169,7 +169,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 በ፬፻ወ፱ ዓመተ ምሕረት፡አመ፡፫፡ለወርኀ መያዝያ </date>ብእሲ ዓዛል ዘኢይትመዋእለፀር በኀይለ መስቀሉ ለኢየሱስ ክርስቶስ ወልደ <persName ref="PRS12816Morara">ሞራራ </persName>ወልደ <persName ref="PRS12817ZanSeyum">ዛንሥዩም</persName> ወልደ <persName ref="PRS12818Aseda">ኣስዳ </persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ ለ<placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
 መ <persName ref="PRS6859MasqalK">ብእሲትየኒ  መስቀል ክብራ </persName>ፈራሂተ እግዚብሔር <placeName ref="LOC1914Bihat">ቢሐት፡</placeName>በባሕረ ኀጸሮ እንቀርዖ <placeName ref="LOC6447Zareda">ዘሬዳ ክርስቲያን </placeName>ምስለ ምድሮሙ በ<add place="above">ን</add>ጽፉ፡ወበቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName>ወድዕዱዕ፡ዘኢይበውእ ዓቃቤ፡ጸንጻን፡ወኢከንቲባ፡ዘአልቦ፡ግብረ፡ለባዕድ፡ዘእንበለ፡<roleName type="title">አበ ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመቦ፡ዘተኀየሎ ወዘዐገሎ ወዘተገሰሶ እመሂ ዘነግሠ ወእመሂ ዘአንገሥጋሠ ወእመሂ ዘተጳጳሰ ወእመሂ ዘተመኰነነ እመሂሥዩም ወእመሂ፡ስዑር፡ወዘተአገሎ ለዝንቱ፡ጕልት ወለዝንቱ፡ክሱም፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ ወመንፈስ ቅዱስ፡በአፉሁ፡ለአቡነ፡  <persName ref="PRS6298Libanos">መጣዕ፡</persName>በአፈ፡ጳጳሳት፡በኣፈ፡፫፻፲ወ፰ ርቱዐነ፡ሃይማኖት በአፈ፡፲ወ፭ ነቢያት፡በአፈ፡፲ወ፪ ሐዋርያት፡አሜን፡ወአሜን።</seg>
 </q>
-<note>CCR 7 I parte = [5.0]: (II f. 7v). "A scrittura del secolo XVII, su due colonne. B scrittura incerta, forse del secolo XVIII." As Roger Scnheider commented in his unpublished notes, "La version A de Conti Rossini a du se trouver dans la parti du début, parmi les textes varies et n’a pas été photographiée. D’après les variantes graphies de A données par Conti Rossini, la copie plus récente que B. B n’a pas de colonnes. Photo p.2. Ligne pointillée au-dessus du texte."
+<note>CCR 7 I parte = [5.0]: (II f. 7v), according to AB. In this case textual varians corresond to "B " in CCR, he comments on p.189  'B scrittura d'età incerta, forse del secolo XVIII.' As Roger Scnheider commented in his unpublished notes, 'La version A de Conti Rossini a du se trouver dans la parti du début, parmi les textes varies et n’a pas été photographiée. D’après les variantes graphies de A données par Conti Rossini, la copie plus récente que B. B n’a pas de colonnes. Photo p.2. Ligne pointillée au-dessus du texte.'  Marie-Laure Derat's edition, thus, relies on the image taken by Roger Schneider and the apparatus of Conti Rossini for B.
 </note>
 <q xml:lang="en">
 <seg ana="#invocation" type="interpretation">In the Name of the Father and the Son and the Holy Spirit,</seg>
@@ -189,7 +189,8 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <q xml:lang="geez">
 <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
 <seg ana="#provision" type="interpretation">ወሀብኩ፡አነ፡ገብረ፡መስቀል፡በአሃም፡፷፡ገራህት፡ለቤተ፡ክርስቲያን፡ወከመ፡ይግ<add>በ</add>ሩ፡ተዝካሮ፡ለመጣዕ፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተኀየሎ፡ወዘአገሎ፡ውጉዘ፡ለይ<add>ኩ</add>ን።በአፈ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ። <pb/></seg>
-<note>CCR 4 = [5.0]: (II f. 7v), CCR 185 : Atto indubbiamente apocrifo, che trae dal Gadla Libanos. It is page 5 according to Roger Schneider.</note>
+<note>CCR 4 = [5.0]: (II f. 7v), according to AB.  It is page 5 according to Roger Schneider. Carlo Conti Rossini comments on p. 185 : 'Atto indubbiamente apocrifo, che trae dal Gadla Libanos.'
+  </note>
 </q>
 <q xml:lang="en">
 <seg ana="#invocation" type="interpretation"></seg>In the Name of the Father and the Son and the Holy Spirit,
@@ -207,22 +208,99 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <msContents>
 <msItem xml:id="p2_i1">
   <locus target="#8r"/>
-  <incipit>በ፭፻ወ፭፡ዓመተ፡ምሕረት፡ወሀብኩ፡አነ፡ዐምደ፡ጽዮን፡ንጉሥ፡ለአባ፡መጣዕ፡ዘአሀም፡</incipit>
+  <incipit>በ፭፻ወ፭፡ዓመተ፡ም  ሕረት፡ወሀብኩ፡አነ፡ዐምደ፡ጽዮን፡ንጉሥ፡ለአባ፡መጣዕ፡ዘአሀም፡</incipit>
   <explicit>ዘወሀብኩ፡አእሚርየ፡ከመ፡የሐልፍ፡ንብረተ፡ዘንቱ፡ዓለም፡ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ።</explicit>
+<note>[5.0] = CCR 19: (II f. 8r-v), according to AB. Textual variants corresponds to Conti Rossini's "A". Carlo Conti Rossini comments on pp.202-203: 'A scrittura del sec. XVI. La data corrisponde al 1321. Come è noto, <persName ref="@PRS1854Amdase">ʿĀmda Ṣǝyon</persName>, passanti i primi tempi in cui aspramente combattè il clero, fu poi favorevolissime alla chiesa: un ms. del British Museum contiene sue donazioni alla cattedrale di Aksum, la storia delle sue guerre contro l'Adal ne celebra la pietà, e il
+  il <title type="complete" ref= 'LIT1438GadlaE'>Gadla ʾEwosṭātewos,</title>che ne ricorda le presecuzioni de'primi anni di regno, ne piange la morte, chiamando "colonna della fede". Nella citata storia delle sue guerre, ed. Perruchon Ṣyon alle pagg. 10, 11, 16, 17, 30-31 sta cetramente a designare Aksum, che ancor oggi è comunemente così chiamata. Degna di osservazione è l'allusione alla poligamia del re, il che concorda pienamente con i dati della storia in quistione. Non potrebbe poi passarsi sollo silenzio la diversità di redazione fra gli atti di questo re e queilli di <persName ref="PRS6152Lalibala">re Lālibālā</persName>'.</note>
 </msItem>
 <msItem xml:id="p2_i2">
   <locus from="8r" to="8v"/>
   <title>a prayer about the king</title>
   <incipit>ወለንጉሥነ፡ዐምደ፡ጽዮን፡ዘአዕበዮ፡እምነገሥተ፡ምድር፡</incipit>
   <explicit>ምስለ፡ዳዊት፡ወቈስጠንጢኖስ፡ወአኖርዮስ፡ለዓለመ፡ዓለም፡አሜን።</explicit>
+  <note>[5.0] = CCR 19: (II f. 8r-v), according to AB, thus the same comments are applicabale to this part. I, however, decided to split what was considered one document.</note>
   </msItem>
   <msItem xml:id="p2_i3">
       <locus target="#8v"/>
         <title>a request for a prayer about the king</title>
         <incipit>ወአንትሙሂ፡ቅዱሳን፡እለ፡ሀለውክሙ፡ውስተ፡መካነ፡መጣዕ፡ጸልዩ፡ለንጉሥ፡ዐምደ፡ጽዮን፡</incipit>
         <explicit>ወበውስተ፡ማኅበርሂ፡ወኀበ፡ተጋባእክሙሂ፡ለዓለመ፡ዓለም፡አሜን። ።</explicit>
+        <note>[5.0] = CCR 19: (II f. 8r-v), according to AB, thus the same comments are applicabale to this part. I, however, decided to split what was considered one document.</note>
 </msItem>
-</msContents>
+  <msItem xml:id="p2_i4">
+      <locus from="8v" to="10r"/>
+      <incipit>በ፭፻፡ወ፯፡ዓመተ፡ምሕረት፡ወሀብኩ፡ኣነ፡ብሌን፡ሰባ፡በዐልተ፡ቢሐት፡ብእሲቱ:ለ<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<roleName type="title">ንጉሥ፡</roleName></persName>በእንተ፡ፍቅሩ፡ለመጣዕ፡ከመ፡ይትወኅሰኒ፡ለመንግሥተ፡</incipit>
+      <explicit>የሀቦ፡እግዚአብሔር፡ጥበበ፡ከመ፡ሰሎሞን፡አሜን።የሀቦ፡እግዚአብሔር፡ሞገሰ፡በከመ፡ዳዊት፡አሜን።የሀቦ፡እግዚአብሔር፡ትዕግሥተ፡ከመ፡እዮብ፡አሜን።የሀቦ፡እግዚአብሔር፡መዊአ፡ከመ፡ኢያሱ፡አሜን።</explicit>
+      <note>[5.2-6] = CCR 20: (II ff. 8v-10v), according to AB. Textual variants correspond to "A" in CCR. He comments on p.203-206: "A scrittura del sec. XVI. La data corrisponde al 1322. La regina qui nominata è <persName ref="PRS2633BelenSa">Bǝlen Sabā:</persName> nella storia di re <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName> riferendosi fatti svoltati alquanto più tardi, si parla di <persName ref="PRS10589ZanMan">Žan Mangaśā</persName></note>
+    </msItem>
+      <msItem xml:id="p2_i5">
+        <locus target="#10r"/>
+          <title>a prayer about the queen</title>
+        <incipit>ወለይእቲኒ፡<persName ref="PRS2633BelenSa">ብሌን፡ሳባ፡<roleName type="title">በዐልተ፡ቢሐት፡</roleName></persName>የሀባ፡እግዚኣብሔር፡ፍቅረ፡ምስለ፡<persName ref="PRS1854Amdase"><roleName type="function">ምታ፡</roleName>ዐምደ፡ጽዮን፡</persName>ዘገብረት፡ፈቃዶ፡በመልእክናሃ፡</incipit>
+        <explicit>ወከመ፡ኆጻ፡ባሕር፡አሜን፡ወአሜን።ወይበል፡ኵሉ፡ሕዝብ፡አሜን፡ወአሜን።</explicit>
+        <note>[5.2-6] = CCR 20: (II ff. 8v-10v), according to AB, thus the same comments are applicabale to this part. I, however, decided to split what was considered one document. </note>
+        </msItem>
+        <msItem xml:id="p2_i6">
+          <locus target="#10v"/>
+            <title>a request for a prayer about the king and the queen</title>
+          <incipit>ወኵልክሙ፡እለ፡አንበብክሙ፡ጸልዩ፡<persName ref="PRS1854Amdase"><roleName type="title">ለንጉሥ፡</roleName>ዐምደ፡ጽዮን፡</persName><persName ref="PRS2633BelenSa"><roleName type="title">ወለንግሥት፡</roleName>ብሌን፡ሳባ፡</persName></incipit>
+          <explicit>ከመ፡ይምሐሮሙ፡እግዚኣብሔር፡በሰማይ፡ወበምድር፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።</explicit>
+          <note>[5.2-6] = CCR 20: (II ff. 8v-10v), according to AB, thus the same comments are applicabale to this part. I, however, decided to split what was considered one document. </note>
+          </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="Codex" cert="low">
+            <supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout></layout>
+</layoutDesc>
+</objectDesc>
+          <additions>
+          <list>
+          <item xml:id="a4">
+          <desc type="GuestText"/>
+          <locus from="10v" to="11r"/>
+          <q xml:lang="gez">
+          <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+         አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
+          ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡ይግበሩ፡ሎቱ፡ተዝካሩ፡ለ<add place="overstrike">መጣ</add>ዕ፡ወሊተሂ፡ከመ፡ትዘከረኒ፡እግዚእትየ፡ማርያም፡በጸሎታ፡በኀበ፡ፍቁር፡ወልዳ፡ወዘአጐለትኩ፡በ፭የወ፯፡ዓመተ፡ምሕረት፡አነ፡<persName ref="PRS1854Amdase">ዓምደ፡ጽዮን፡</persName>እንዘ፡<persName ref="PRS2633BelenSa"><title>ሥይምተ፡<placeName ref="LOC2947Endart">እንትርታ፡</placeName></title>ብሌን፡ሰብአ፡</persName>
+          እንዘ፡<persName ref="PRS8449Samay"><title>መእከለ፡ባሕር፡</title>ስማይ፡</persName>
+          ወእንዘ፡<persName ref="PRS11566Degna"><title>አውፋሪ፡</title>
+          ድግነ፡</persName>
+          እመቦ፡ዘተሐየሎ፡እማርያም፡ዘሰዐጋ፡ <add place="overstrike">አንፈ፡በዓት፡ሕፂን፡</add>ዘወሀብኩ፡አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>እመቦ፡ባሕር፡ወእመሂ፡ሥዩመ፡እንትርታ፡ወእመሂ፡አውፋሪ፡ወእመሂ፡ሥዩም፡አጽቢ፡እመሂ፡ኅዱግ፡ወቃል፡ነጋሢ፡ውጉዛን፡ይኵኑ፡አሜን፡በአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡አሜን፡በአፈ፡፫፻፡፲ወ፷፡ርቱዓነ፡ሃይማኖት፡አሜን።ወበማርያም፡ወላዲ
+          <pb/>ተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።
+          </q>
+  <q xml:lang="en">
+    <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+    I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName>
+   gave ʾAnfa Baʿat [to] Māryām za-Saʿagā Ḥǝṣen so that they celebrate the commemoration of Maṭāʿ and for me, so that my Lady Mary remember me in her prayer to her beloved Son. It was in 507 year of Mercy that I promoted, I,  <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName>
+   while <persName ref="PRS2633BelenSa"><title>śǝyǝmt of <placeName ref="LOC2947Endart">ʾƎntǝrtā</placeName></title>Bǝlen Sabā, </persName>
+    while<persName ref="PRS8449Samay"><title>maʾǝkala bāḥr</title>Samāy,</persName>
+    and while <persName ref="PRS11566Degna"><title>ʾawfāri</title>
+    Dǝgnā.</persName>
+    If there is anyone who usurps from Māryām za-Saʿagā ʾAnfa Baʿat Ḥǝṣen, which I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon</persName>gave, if there is anyone who violates or transgresses it, if even maʾǝkala bāḥr or
+    śǝyum of ʾƎntǝrtā, if even ʾawfāri or  śǝyum of ʾAṣbi, if even a deputy or qāl nagāsi, may they be excommunicated, amen, by the mouth of
+    Ṗeṭros liqa ṗāṗāsāt, amen; by the mouth of 318 righteous of faith, amen. And by Māryām, bearer of
+    <pb/>Lord, may they be excommunicated, amen.
+        </q>
+        </item>
+        <item xml:id="a5">
+        <desc type="GuestText"/>
+        <locus target="#11r"/>
+        <q xml:lang="gez">
+            <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+            ወሀብኩ፡አነ፡
+            <persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ለአባ፡መጣዕ፡ዘንተ፡ጕልተ፡ጽዳእ፡አሲራ፡ለባሲሮ፡ገማእ፡ዜና፡ኩዶ፡አድ፡ሕልሞ፡አና፡ሰባይ፡ስናጋ፡ማርያሌ፡ሠርዔ፡ለጎ፡ወንከብ፡ገዳሞሙ፡ለመነኮሳት፡ቤተ፡ሰማእት፡አናንያ፡አዛርያ፡ወሚሳኤል፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተአገሎ፡ወዘተኃየሎ፡ውጉዘ፡ለይኩን።
+</q>
+<q xml:lang="en">
+  <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+Donated I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName> to  ʾabbā Maṭāʿ this gwəlt
+</q>
+</item>
+</list>
+</additions>
+</physDesc>
 </msPart>
 </msDesc>
 </sourceDesc>
@@ -384,55 +462,6 @@ the lady of Biḥat,</roleName></persName> may God give her love with <persName 
     </ab>
     </div>
     </div>
-<div type="edition"  xml:lang="gez" >
-<div type="textpart" subtype="folio" n="10v-11r">
-<ab>
- <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
-አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
- ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡ይግበሩ፡ሎቱ፡ተዝካሩ፡ለ<add place="overstrike">መጣ</add>ዕ፡ወሊተሂ፡ከመ፡ትዘከረኒ፡እግዚእትየ፡ማርያም፡በጸሎታ፡በኀበ፡ፍቁር፡ወልዳ፡ወዘአጐለትኩ፡በ፭የወ፯፡ዓመተ፡ምሕረት፡አነ፡<persName ref="PRS1854Amdase">ዓምደ፡ጽዮን፡</persName>እንዘ፡<persName ref="PRS2633BelenSa"><title>ሥይምተ፡<placeName ref="LOC2947Endart">እንትርታ፡</placeName></title>ብሌን፡ሰብአ፡</persName>
- እንዘ፡<persName ref="PRS8449Samay"><title>መእከለ፡ባሕር፡</title>ስማይ፡</persName>
- ወእንዘ፡<persName ref="PRS11566Degna"><title>አውፋሪ፡</title>
- ድግነ፡</persName>
- እመቦ፡ዘተሐየሎ፡እማርያም፡ዘሰዐጋ፡ <add place="overstrike">አንፈ፡በዓት፡ሕፂን፡</add>ዘወሀብኩ፡አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>እመቦ፡ባሕር፡ወእመሂ፡ሥዩመ፡እንትርታ፡ወእመሂ፡አውፋሪ፡ወእመሂ፡ሥዩም፡አጽቢ፡እመሂ፡ኅዱግ፡ወቃል፡ነጋሢ፡ውጉዛን፡ይኵኑ፡አሜን፡በአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡አሜን፡በአፈ፡፫፻፡፲ወ፷፡ርቱዓነ፡ሃይማኖት፡አሜን።ወበማርያም፡ወላዲ
- <pb/>ተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።
- </ab>
- </div>
- </div>
- <div type="edition"  xml:lang="en" >
-<div type="textpart" subtype="folio" n="10v-11r">
-<ab>
- <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
- I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName>
-gave ʾAnfa Baʿat [to] Māryām za-Saʿagā Ḥǝṣen so that they celebrate the commemoration of Maṭāʿ and for me, so that my Lady Mary remember me in her prayer to her beloved Son. It was in 507 year of Mercy that I promoted, I,  <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName>
-while <persName ref="PRS2633BelenSa"><title>śǝyǝmt of <placeName ref="LOC2947Endart">ʾƎntǝrtā</placeName></title>Bǝlen Sabā, </persName>
- while<persName ref="PRS8449Samay"><title>maʾǝkala bāḥr</title>Samāy,</persName>
- and while <persName ref="PRS11566Degna"><title>ʾawfāri</title>
- Dǝgnā.</persName>
- If there is anyone who usurps from Māryām za-Saʿagā ʾAnfa Baʿat Ḥǝṣen, which I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon</persName>gave, if there is anyone who violates or transgresses it, if even maʾǝkala bāḥr or
- śǝyum of ʾƎntǝrtā, if even ʾawfāri or  śǝyum of ʾAṣbi, if even a deputy or qāl nagāsi, may they be excommunicated, amen, by the mouth of
- Ṗeṭros liqa ṗāṗāsāt, amen; by the mouth of 318 righteous of faith, amen. And by Māryām, bearer of
- <pb/>Lord, may they be excommunicated, amen.
-</ab>
-</div>
-</div>
-<div type="edition"  xml:lang="gez" >
-<div type="textpart" subtype="folio" n="11r">
-<ab>
-  <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
-  ወሀብኩ፡አነ፡
-  <persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ለአባ፡መጣዕ፡ዘንተ፡ጕልተ፡ጽዳእ፡አሲራ፡ለባሲሮ፡ገማእ፡ዜና፡ኩዶ፡አድ፡ሕልሞ፡አና፡ሰባይ፡ስናጋ፡ማርያሌ፡ሠርዔ፡ለጎ፡ወንከብ፡ገዳሞሙ፡ለመነኮሳት፡ቤተ፡ሰማእት፡አናንያ፡አዛርያ፡ወሚሳኤል፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተአገሎ፡ወዘተኃየሎ፡ውጉዘ፡ለይኩን።
-</ab>
-</div>
-</div>
-<div type="edition"  xml:lang="en" >
-<div type="textpart" subtype="folio" n="11r">
-<ab>
-  <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-Donated I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName> to  ʾabbā Maṭāʿ this gwəlt
-ጽዳእ፡አሲራ፡ለባሲሮ፡ገማእ፡ዜና፡ኩዶ፡አድ፡ሕልሞ፡አና፡ሰባይ፡ስናጋ፡ማርያሌ፡ሠርዔ፡ለጎ፡ወንከብ፡ገዳሞሙ፡ለመነኮሳት፡ቤተ፡ሰማእት፡አናንያ፡አዛርያ፡ወሚሳኤል፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተአገሎ፡ወዘተኃየሎ፡ውጉዘ፡ለይኩን።
-  </ab>
-  </div>
-  </div>
   <div type="edition"  xml:lang="geez" >
   <div type="textpart" subtype="folio" n="11rv">
   <ab>
@@ -681,7 +710,7 @@ Punctual line
   <div type="edition" xml:lang="geez">
 <div type="textpart" subtype="folio" n="18r">
 <ab>
-  
+
   </ab>
   </div>
   </div>
