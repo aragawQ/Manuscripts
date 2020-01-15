@@ -262,27 +262,11 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
           <desc type="GuestText"/>
           <locus from="10v" to="11r"/>
           <q xml:lang="gez">
-          <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
-         አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
-          ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡ይግበሩ፡ሎቱ፡ተዝካሩ፡ለ<add place="overstrike">መጣ</add>ዕ፡ወሊተሂ፡ከመ፡ትዘከረኒ፡እግዚእትየ፡ማርያም፡በጸሎታ፡በኀበ፡ፍቁር፡ወልዳ፡ወዘአጐለትኩ፡በ፭የወ፯፡ዓመተ፡ምሕረት፡አነ፡<persName ref="PRS1854Amdase">ዓምደ፡ጽዮን፡</persName>እንዘ፡<persName ref="PRS2633BelenSa"><title>ሥይምተ፡<placeName ref="LOC2947Endart">እንትርታ፡</placeName></title>ብሌን፡ሰብአ፡</persName>
-          እንዘ፡<persName ref="PRS8449Samay"><title>መእከለ፡ባሕር፡</title>ስማይ፡</persName>
-          ወእንዘ፡<persName ref="PRS11566Degna"><title>አውፋሪ፡</title>
-          ድግነ፡</persName>
-          እመቦ፡ዘተሐየሎ፡እማርያም፡ዘሰዐጋ፡ <add place="overstrike">አንፈ፡በዓት፡ሕፂን፡</add>ዘወሀብኩ፡አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>እመቦ፡ባሕር፡ወእመሂ፡ሥዩመ፡እንትርታ፡ወእመሂ፡አውፋሪ፡ወእመሂ፡ሥዩም፡አጽቢ፡እመሂ፡ኅዱግ፡ወቃል፡ነጋሢ፡ውጉዛን፡ይኵኑ፡አሜን፡በአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡አሜን፡በአፈ፡፫፻፡፲ወ፷፡ርቱዓነ፡ሃይማኖት፡አሜን።ወበማርያም፡ወላዲ
-          <pb/>ተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።
+
           </q>
+          <note></note>
   <q xml:lang="en">
-    <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-    I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName>
-   gave ʾAnfa Baʿat [to] Māryām za-Saʿagā Ḥǝṣen so that they celebrate the commemoration of Maṭāʿ and for me, so that my Lady Mary remember me in her prayer to her beloved Son. It was in 507 year of Mercy that I promoted, I,  <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName>
-   while <persName ref="PRS2633BelenSa"><title>śǝyǝmt of <placeName ref="LOC2947Endart">ʾƎntǝrtā</placeName></title>Bǝlen Sabā, </persName>
-    while<persName ref="PRS8449Samay"><title>maʾǝkala bāḥr</title>Samāy,</persName>
-    and while <persName ref="PRS11566Degna"><title>ʾawfāri</title>
-    Dǝgnā.</persName>
-    If there is anyone who usurps from Māryām za-Saʿagā ʾAnfa Baʿat Ḥǝṣen, which I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon</persName>gave, if there is anyone who violates or transgresses it, if even maʾǝkala bāḥr or
-    śǝyum of ʾƎntǝrtā, if even ʾawfāri or  śǝyum of ʾAṣbi, if even a deputy or qāl nagāsi, may they be excommunicated, amen, by the mouth of
-    Ṗeṭros liqa ṗāṗāsāt, amen; by the mouth of 318 righteous of faith, amen. And by Māryām, bearer of
-    <pb/>Lord, may they be excommunicated, amen.
+
         </q>
         </item>
         <item xml:id="a5">
@@ -295,7 +279,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </q>
 <q xml:lang="en">
   <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-Donated I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName> to  ʾabbā Maṭāʿ this gwəlt
+Donated I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName> to  ʾabbā Maṭāʿ this gwəlt !!!to continue!!
 </q>
 </item>
 </list>
@@ -465,11 +449,7 @@ the lady of Biḥat,</roleName></persName> may God give her love with <persName 
   <div type="edition"  xml:lang="geez" >
   <div type="textpart" subtype="folio" n="11rv">
   <ab>
-    <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
-    አግባእኩ፡አነ፡
-    <persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ዘንተ፡ጕልተ፡ከመዝ፡ጉና!ና፡ቤት፡ነበይት፡አገርሕሤ፡አዲ፡ግዶም፡
-  ! ፅፅ፡!ማሬ፡አንበሳት፡አጋሜ፡ምስለ፡ምድሮሙ፡ከመ፡ይኵኖ፡መርሐ፡በመንግሥተ፡
-  <pb/>ሰማያት፡ለዓለመ፡ዓለም፡አሜን።
+
     </ab>
     </div>
     </div>
@@ -501,7 +481,7 @@ the lady of Biḥat,</roleName></persName> may God give her love with <persName 
           <div type="edition"  xml:lang="geez" >
           <div type="textpart" subtype="folio" n="11v">
           <ab>
-            ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወባናዕሌ፡ወበአረገን።በክኤቱ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኃነ፡ውእቱ፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡<pb/>
+
             </ab>
             </div>
             </div>
