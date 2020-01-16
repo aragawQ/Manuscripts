@@ -573,6 +573,17 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
                     </list></additions>
                     </physDesc>
                     </msPart>
+                    <msPart xml:id="p10">
+                    <msIdentifier></msIdentifier>
+                    <msContents>
+                        <msItem xml:id="p10_i1">
+                          <note>[5.24] = CCR 23: (II ff. 21ra-va), according to AB.</note>
+                          </msItem>
+                            <msItem xml:id="p10_i2">
+                              <note>[5.25-6.0] = CCR 33: (II ff. 21va-22rb), according to AB.</note>
+                              </msItem>
+                      </msContents>
+                      </msPart>
                 </msDesc>
 
 </sourceDesc>
