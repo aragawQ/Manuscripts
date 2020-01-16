@@ -489,7 +489,8 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
 <subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>
      ንጉሥ።በ፭፻፲ወ፪።ዓመተ፡ ምሕረት፡
 </incipit>
-                  <explicit></explicit>
+                  <explicit>የሀቦ፡ እግዚአብሔር፡ ጥበበ፡ ከመ፡ ሰሎሞን፡ አሜን።የሀቦ፡ እግዚኣብ
+</explicit>
                   <note>[5.16-20] = CCR 22: (II ff. 16ra-17vb), according to AB.</note>
                 </msItem>
                 </msContents>
@@ -498,12 +499,68 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
                 <supportDesc><support>parchment</support>
                 </supportDesc>
                 <layoutDesc>
-                <layout></layout>
+                <layout>two columns</layout>
                 </layoutDesc>
                 </objectDesc>
                 </physDesc>
                 </msPart>
-</msDesc>
+                <msPart xml:id="p8">
+                <msIdentifier></msIdentifier>
+                <msContents>
+                  <msItem xml:id="p8_i1">
+                    <note>[5.20] = CCR 17: (II f. 18r), according to AB.</note>
+                  </msItem>
+                    <msItem xml:id="p8_i2">
+                      <note>[5.22] = CCR 27: (II f. 18v), according to AB.</note>
+                      </msItem>
+                  </msContents>
+                  <physDesc>
+                  <objectDesc form="Leaf">
+                  <supportDesc><support>parchment</support>
+                  </supportDesc>
+                  <layoutDesc>
+                  <layout>two columns</layout>
+                  </layoutDesc>
+                  </objectDesc>
+                  <additions>
+                  <list>
+                    <item xml:id="a12">
+                      <locus target="#18v"/>
+                      <q xml:lang="gez">
+                        </q>
+                        </item>
+                  </list></additions>
+                  </physDesc>
+                  </msPart>
+                  <msPart xml:id="p9">
+                  <msIdentifier></msIdentifier>
+                  <msContents>
+                    <msItem xml:id="p9_i1">
+                      <note>[5.22] = CCR 12: (II f. 19r), according to AB.</note>
+                      </msItem>
+                        <msItem xml:id="p9_i2">
+                          <note>[5.22] = CCR 13: (II f. 19r), according to AB.</note>
+                          </msItem>
+                    </msContents>
+                    <physDesc>
+                    <objectDesc form="Leaf">
+                    <supportDesc><support>parchment</support>
+                    </supportDesc>
+                    <layoutDesc>
+                    <layout>two columns</layout>
+                    </layoutDesc>
+                    </objectDesc>
+                    <additions>
+                    <list>
+                      <item xml:id="a13">
+                        <locus target="#19r"/>
+                        <q xml:lang="gez">
+                          </q>
+                          </item>
+                    </list></additions>
+                    </physDesc>
+                    </msPart>
+                </msDesc>
 
 </sourceDesc>
 </fileDesc>
