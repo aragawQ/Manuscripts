@@ -626,20 +626,36 @@ the lady of Biḥat,</roleName></persName> may God give her love with <persName 
   </ab>
         </div>
         </div>
-            <div type="edition"  xml:lang="geez" >
+            <div type="edition"  xml:lang="geez" corresp="#p3_11">
             <div type="textpart" subtype="folio" n="12r">
             <ab>
-              to transcribe
+              በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ:ጸሐፍነ፡ኀቢረነ፡ወሠሚረነ፡ተጋቢአነ፡ቅዱሳን፡ዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡ከመ፡ኢያውፅኡ፡አልባሰ፡ዘመጣዕ፡ኢዐቢየ፡ወኢንኡሰ፡ወኢየሀቡ፡ለቤተ፡<subst><del rend="erasure"/><add place="overstrike">መጣዕ፡<unclear/></add></subst>ወለእመቦ፡ዘወሀበ፡ለመርዓ፡እምነ፡አልባስ፡ዘአባ፡መጣዕ፡እመሂ፡፩
+              <unclear/>ወእመሂ፡ቀይሰ፡ገበዝ፡ወእመሂ፡መነኮሳት፡እመሂ፡ዓቢይ፡ወእመሂ፡ንኡስ፡እመሂ፡ሥዩም፡ወእመሂ፡ሥዑር፡ለእመቦ፡ዘአውፅአ፡<cb/>
+    <unclear/>በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡አሜን።
               </ab>
               </div>
               </div>
-              <div type="edition"  xml:lang="geez" >
-              <div type="textpart" subtype="folio" n="12r">
+              <div type="edition"  xml:lang="geez" corresp="#p4_i1">
+              <div type="textpart" subtype="folio" n="13r">
               <ab>
-                to transcribe
+                  <seg ana="#invocation" type="interpretation">  በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ:</seg>
+              ዘወሀቡ፡ቀደምት፡ተርከ፡ለአቡነ፡ሊባኖስ፡ወአነሂ፡ተንሥአ፡ክርስቶስ፡ወሀብኩ፡ወአግባእኩ፡ዘተገፍዐ፡ተርከ፡አነ፡<del rend="effaced"/>
+    ከመ፡ይትወሐሠኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ከመ፡ይግበሩ፡ተዝከርየ፡ደቂቀ፡መካን፡ወኢይርስዑኒ፡በጊዜ፡ጸሎት፡ሰሚዕየ፡ዘይቤ፡ቃለ፡ሰሎሞን፡መክብብ፡ከንቱ፡ከንቱ፡ለዓለም፡ንብረ<cb/>
+    ቱ፡ዘእንበለ፡ዘገብረ፡ሥንቁ፡በመዋዕለ፡ሕይወቱ፡የሀቦ፡እግዚአብሔር፡ለተንሥአ፡ክርስቶስ፡<del rend="effaced"/>
+    መንግሥተ፡ሰማያት፡ህየንተ፡ኅዳጥ፡ብዙኅ፡አሜን፡የሀቦ፡እግዚአብሔር፡ህየንተ፡ንስቲት፡ዓቢይ፡የሀቦ፡እግዚአብሔር፡ህየንተ፡ዘቦ፡ምድር፡ዘበ፡ሰማያት፡ወያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡ወያግርር፡ፀሮ፡ወጸላእቶ፡አሜን።ወይስረይ፡ኃጢአተ፡ወይደምሰስ፡መጽሐ
+    <handShift/>ፈ፡ዕዳሁ፡አሜን።ወለእመቦ፡ዘሄዳ፡ወዘተአገላ፡ውጉዘ፡ለይኩን፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በአፉሁ፡ለአቡነ፡መጣዕ፡አሜን።
+
                 </ab>
                 </div>
                 </div>
+                <div type="edition"  xml:lang="en" corresp="#p4_i1">
+                <div type="textpart" subtype="folio" n="13r">
+                <ab>
+                    <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+                  </ab>
+                  </div>
+                  </div>
+
                 <div type="edition"  xml:lang="geez" >
                 <div type="textpart" subtype="folio" n="12v">
                 <ab>
