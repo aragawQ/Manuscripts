@@ -330,8 +330,8 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
 <msContents>
   <msItem xml:id="p3_i1">
   <locus target="#12r"/>
-  <incipit></incipit>
-  <explicit></explicit>
+  <incipit>ጸሐፍነ፡ኀቢረነ፡ወሠሚረነ፡ተጋቢአነ፡ቅዱሳን፡ዐቃቤ፡ሰዓት፡ቤተ፡መጣዕ፡ከመ፡ኢያውፅኡ፡አልባሰ፡ዘመጣዕ፡ኢዐቢየ፡ወኢንኡሰ፡ወኢየሀቡ፡ለቤተ፡</incipit>
+  <explicit>በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡አሜን። ።</explicit>
   <note>[5.8]: (II f. 12ra-b) [sulla devozione per le vesti di Libānos, non reperibile in CCR], according to AB.</note>
   </msItem>
 </msContents>
@@ -348,18 +348,19 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
   <item xml:id="a7">
   <desc type="GuestText"/>
   <locus target="#12rb"/>
-  <q xml:lang="gez">
+  <q xml:lang="gez">ዘአጽሐፍኩ፡አነ፡ሕዝብ፡ሤመ፡ዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡ትስመር፡ጽዮን፡ገረደ፡መጣዕ፡ወተዳቦ፡ብእሲሃ፡በዘ፡ፈረዩ፡ወጸገዩ፡ገንዞተ፡መጣዕ፡ዘእንበለ፡ዘይትለአኩ፡ለመካን።ለእመቦ፡ዘተሐየሎሙ፡ወተአገሎሙ፡ውጉዘ፡ለይኩን፡በአፈ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡<pb/>
     </q>
-    <q xml:lang="en">
+    <q xml:lang="en">The one who made it to be written is me,  Ḥǝzb Śema, ʿaqabe saʿat of the church of Maṭāʿ, may it prosper !!!!continue!!!!
+      And if there is anyone who would violate them or pervert them, may he be excommunicated by the mouth of the Father and the Son and the Holy Spirit.
       </q>
       <note>[5.8]: (II f. 12rb) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
 </item>
 <item xml:id="a8">
 <desc type="GuestText"/>
 <locus target="#12vb"/>
-<q xml:lang="gez">
+<q xml:lang="gez">አፈ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ወበአፉሁ፡ለአቡነ፡መጣዕ፡ዓለም፡አሜን።
   </q>
-  <q xml:lang="en">
+  <q xml:lang="en">mouth of the Father and the Son and the Holy Spirit and by the mouth of our father Maṭāʿ, ages, amen.
     </q>
     <note>[5.10]: (II f. 12vb, bianco f. 12va), according to AB.</note>
 </item>
@@ -371,10 +372,36 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
   </q>
   <q xml:lang="en">
     </q>
-    <note>[5.10] = CCR 26: (II f. 12vb), according to AB.</note>
+    <note>[5.10] = CCR 26: (II f. 12vb), according to AB. Carlo Conti Rossini comments on p. 212: 'Scrittura del secolo XVII (?): colonna. La data corrisponde al 1459. Il donatore è il capo di Gelo Makadā, oggi distretto fra Gunaguna e Addigrat, comprendente anche Dabra Māʿṣo: consta infatti che già nella seconda metà del secolo XIV i capi di quel distretto cominciarno ad aver importanza e ad esercitare una certa influenza sulle regioni circostanti. Ed è assai probabile che ne' secoli XII, XIV ecc., non avendo l'Agāme. A quanto pare, una unità politica, andasse diviso nei feudi di Dabra Māʿṣo (cui poi sarebbe succeduto lo syum d Gelo Makadā), signoreggiante la parte orientale almeno fino agli alti monti ove ora è Edāgā Ḥamus, e di altri capi (p.e. Dabra Dāmo, di Awag, di Ambā Sanāyt ecc.), che se ne spartivano le terre d'occidnte.' </note>
 </item>
 </list>
 </additions>
+</physDesc>
+</msPart>
+<msPart xml:id="p4">
+<msIdentifier></msIdentifier>
+<msContents>
+  <msItem xml:id="p4_i1">
+    <locus target="#13r"/>
+    <incipit>ዘወሀቡ፡ቀደምት፡ተርከ፡ለአቡነ፡ሊባኖስ፡ወአነሂ፡ተንሥአ፡ክርስቶስ፡ወሀብኩ፡ወአግባእኩ፡ዘተገፍዐ፡ተርከ፡</incipit>
+    <explicit>ወለእመቦ፡ዘሄዳ፡ወዘተአገላ፡ውጉዘ፡ለይኩን፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በአፉሁ፡ለአቡነ፡መጣዕ፡አሜን።</explicit>
+    <note>[5.10] = CCR 29: (II f. 13ra-b), according to AB. Carlo Conti Rossini comments on p.214: 'Grossa scrittura del secolo XVII o XVIII. In due colonne. Atti di èta assoluntamente dubbia, anche per lo stato del ms.: l'autore della donazione; confermando al convento il possesso d'un villagio, doveva essere un capo, di cui le cancellature non lasciano indovinare i titoli'.</note>
+    </msItem>
+    <msItem xml:id="p4_i2">
+      <locus target="#13r"/>
+      <incipit>ወሀብኩ፡አነ፡ይሥምከ፡እግዚእ፡ሥዩመ፡ኀማሳን፡ለአባ፡መጣዕ፡ዘአሀም፡ፈዋሴ፡ዱያን፡</incipit>
+      <explicit>ውእቱ፡ዘኢገብረ፡ሠናየ፡በሕይወቱ።ወበዐጋማሂ፡አርታዕኩ፡ጕልተ።</explicit>
+      <note>[5.12] = CCR 28: (II f. 13vb), according to AB. Carlo Conti Rossini comments on pp.2013-214: 'Scrittura del secolo XVI: colonna. Atto non compiuto. Il donatore di schiavi al convento è il capo dello Ḥamāsēn, che assume il semplice titolo di šum: nell'atto n. 20, che è dell'anno 1328, il capo dello Ḥamāsēn è detto awfāri, con un vicario (?) chiamato ʿānṣān; ai tempi di <persName ref="PRS10626ZaraY">re Zarʾa Yāʿqob aveva invece il titolo d kantibā (J.Perruchon, Les chronicles de Zar'a Ya'qob, p.48). Riesce quindi impossibile precisare la data dell'atto, che in ogni caso non è posteriore al secolo XVI.' </persName></note>
+      </msItem>
+</msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout></layout>
+</layoutDesc>
+</objectDesc>
 </physDesc>
 </msPart>
 </msDesc>
