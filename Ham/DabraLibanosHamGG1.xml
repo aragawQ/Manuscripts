@@ -208,7 +208,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <msContents>
 <msItem xml:id="p2_i1">
   <locus target="#8r"/>
-  <incipit>በ፭፻ወ፭፡ዓመተ፡ም  ሕረት፡ወሀብኩ፡አነ፡ዐምደ፡ጽዮን፡ንጉሥ፡ለአባ፡መጣዕ፡ዘአሀም፡</incipit>
+  <incipit>በ፭፻ወ፭፡ዓመተ፡ምሕረት፡ወሀብኩ፡አነ፡ዐምደ፡ጽዮን፡ንጉሥ፡ለአባ፡መጣዕ፡ዘአሀም፡</incipit>
   <explicit>ዘወሀብኩ፡አእሚርየ፡ከመ፡የሐልፍ፡ንብረተ፡ዘንቱ፡ዓለም፡ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ።</explicit>
 <note>[5.0] = CCR 19: (II f. 8r-v), according to AB. Textual variants corresponds to Conti Rossini's "A". Carlo Conti Rossini comments on pp.202-203: 'A scrittura del sec. XVI. La data corrisponde al 1321. Come è noto, <persName ref="@PRS1854Amdase">ʿĀmda Ṣǝyon</persName>, passanti i primi tempi in cui aspramente combattè il clero, fu poi favorevolissime alla chiesa: un ms. del British Museum contiene sue donazioni alla cattedrale di Aksum, la storia delle sue guerre contro l'Adal ne celebra la pietà, e il
   il <title type="complete" ref= 'LIT1438GadlaE'>Gadla ʾEwosṭātewos,</title>che ne ricorda le presecuzioni de'primi anni di regno, ne piange la morte, chiamando "colonna della fede". Nella citata storia delle sue guerre, ed. Perruchon Ṣyon alle pagg. 10, 11, 16, 17, 30-31 sta cetramente a designare Aksum, che ancor oggi è comunemente così chiamata. Degna di osservazione è l'allusione alla poligamia del re, il che concorda pienamente con i dati della storia in quistione. Non potrebbe poi passarsi sollo silenzio la diversità di redazione fra gli atti di questo re e queilli di <persName ref="PRS6152Lalibala">re Lālibālā</persName>'.</note>
@@ -247,10 +247,26 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
           <explicit>ከመ፡ይምሐሮሙ፡እግዚኣብሔር፡በሰማይ፡ወበምድር፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።</explicit>
           <note>[5.2-6] = CCR 20: (II ff. 8v-10v), according to AB, thus the same comments are applicabale to this part. I, however, decided to split what was considered one document. </note>
           </msItem>
+              <msItem xml:id="p2_i7">
+                  <locus from="10v" to="11r"/>
+                  <incipit>በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
+                  ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡ይግበሩ፡ሎቱ፡ተዝካሩ፡ለመጣዕ፡</incipit>
+                  <explicit>እመሂ፡ሥዩመ፡እንትርታ፡ወእመሂ፡አውፋሪ፡ወእመሂ፡ሥዩም፡አጽቢ፡እመሂ፡ኅዱግ፡ወቃል፡ነጋሢ፡ውጉዛን፡ይኵኑ፡አሜን፡በአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡አሜን፡በአፈ፡፫፻፡፲ወ፷፡ርቱዓነ፡ሃይማኖት፡አሜን።ወበማርያም፡ወላዲተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።</explicit>
+                  <note>[5.6] = CCR 21: (II ff. 10v-11r), according to AB.</note>
+                </msItem>
+                <msItem xml:id="p2_i8">
+                    <locus target="#11v"/>
+                    <incipit>አግባእኩ፡አነ፡<persName ref="PRS6073Krestos">ክርስቶስ፡አቡሁ፡</persName>በአፈ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<title>ንጉሥ፡</title></persName>ተርካ፡ዘቀዳሚ፡ምድሮሙ፡ለቅዱሳን፡እለ፡ቤተ፡መጣዕ፡</incipit>
+                    <explicit>ወእመቦ፡ዘደምሰሳ፡ወዘቀደዳ፡በጽልሑት፡ከማሁ፡ለይኩን፡ውጉዘ፡ለዓለመ፡ዓለም፡አሜን።</explicit>
+                    <note>[5.8] = CCR 18: (II f. 11v), according to AB.  This document occurs twice, in CCR indicated as "A", 'scrittura del sec. XVI.' on p.201.
+                    Carlo Conti Rossini comments on p.202: 'Atto non datato, del tempo di re ʿĀmda Ṣǝyon, che dev'essere stato redatto fra il 1319. Infatti, il capo di Dabra Libānos è, in questo documento, ʿƎqbā ʾƎgziʾ: ora nel 1319 era ancora ....
+Roger Schneider notes the following: 'ዐቃቤ፡ሰዓት፡ has been erased, but the letters are still faintly discernible.'</note>
+                  </msItem>
           </msContents>
           <physDesc>
-            <objectDesc form="Codex" cert="low">
+            <objectDesc form="Other">
             <supportDesc><support>parchment</support>
+
 </supportDesc>
 <layoutDesc>
 <layout></layout>
@@ -259,17 +275,6 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
           <additions>
           <list>
           <item xml:id="a4">
-          <desc type="GuestText"/>
-          <locus from="10v" to="11r"/>
-          <q xml:lang="gez">
-
-          </q>
-          <note></note>
-  <q xml:lang="en">
-
-        </q>
-        </item>
-        <item xml:id="a5">
         <desc type="GuestText"/>
         <locus target="#11r"/>
         <q xml:lang="gez">
@@ -279,8 +284,94 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </q>
 <q xml:lang="en">
   <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-Donated I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName> to  ʾabbā Maṭāʿ this gwəlt !!!to continue!!
+Donated I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName> to  ʾabbā Maṭāʿ this gwəlt: Ṣǝdāʾ, ʾAsirā,  Labāsiro, Gamāʾ,  Zenā Kudo, ʾAd Ḥǝlmo, ʾOnā Sābāy, Sənāgā, Māryāle, Sarʿe, Lago, Wankab, the monastery of the monks of the  church of martyrs ʾAnānyā, ʾAzāryā and Misāʾel, so that he may beseech a reward for me in the Heavenly Kingdom. If there is anyone who perverts it or violates it, may he be excommunicated.
 </q>
+<note>[5.6] = CCR 24: (II f. 11r), according to AB.
+  Carlo Conti Rossini comments on p. 211: 'Scrittura del secolo XVII. Atto di dubbia attendibilità, troppo scostandosi dalla forma consueta degli atti di ʿĀmda Ṣǝyon.'
+   Roger Schneider repeats Conti Rossini, and concludes the following: 'Conti Rossini rightly doubts the authenticity of thic act, because the form of the text differs completely from the one used by ʿĀmda Ṣǝyon. He dates the writing to the XVIIth century. It is very poor and unskilled, difficult to date, but surely late.'
+Many of the place names of this act occur in CCR 1 too.</note>
+</item>
+<item xml:id="a5">
+<desc type="GuestText"/>
+<locus from="11r" to="11v"/>
+<q xml:lang="gez">
+<seg ana="#invocation" type="interpretation">በአኰቴተ፡<sic>አከብ፡</sic>ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+አግባእኩ፡አነ፡
+<persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ዘንተ፡ጕልተ፡ሰማዝ፡ጕናጕና፡ቤት፡ነበይት፡አገርሕሤ፡አዲ፡ግዶም፡
+ዕፅ፡ማሬ፡አንበሰት፡አጋሜ፡ምስለ፡ምድሮሙ፡ከመ፡ይኵኖ፡መርሐ፡በመንግሥተ፡
+<pb/>ሰማያት፡ለዓለመ፡ዓለም፡አሜን።
+<note>NB! CCR changes አከብ፡ into አብ፡ and ሰማዝ፡ into ከመዝ፡ without noting these emendations (?).
+In RS transcription is ommited ጕልተ፡. </note>
+  </q>
+  <q xml:lang="en">
+    <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+    Restored I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon,</persName>this gwǝlt of Samāz, Gwunāgwunā, Bet Nabayt, ʾAgarḥǝse, ʾAddi Gǝdom, ʿƎṣ Māre, ʾAnbasat, ʾAgāme with theirs lands so that  He may be for him an instructor in the <pb/>Heavenly Kingdom unto the ages of ages, amen.
+</q>
+  <note>[5.6-8] = CCR 25: (II f. 11r-v), according to AB.
+Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo XVII.Ugual osservazione che per l'atto precedente: notisi come l'Agāmē qui apparisca distretto di poca importanza.'</note>
+  </item>
+  <item xml:id="a6">
+<desc type="GuestText"/>
+<locus target="#11v"/>
+<q xml:lang="gez">
+    ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወበናዕሌ፡ወበአረገን።በክኤቱ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኃነ፡ውእቱ፡፡፡፡፡፡<pb/>
+  </q>
+  <q xml:lang="en">
+Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Faləg gave gwǝlt to Holy Libānos our King Gabra Masqal so that He may be for him an instructor in the Heavenly Kingdom. What was given as a gwǝlt can not be counted for it is a lot.
+</q>
+  <note>[5.8] = CCR 3: (II f. 11v), according to AB. Carlo Conti Rossini comments on p. 185: 'Scrittura che par del secolo XVIII. Atto indubbiamente apocrifo, che trae origine dal Gadla Libānos'.  </note>
+  </item>
+</list>
+</additions>
+</physDesc>
+</msPart>
+<msPart xml:id="p3">
+<msIdentifier></msIdentifier>
+<msContents>
+  <msItem xml:id="p3_i1">
+  <locus target="#12r"/>
+  <incipit></incipit>
+  <explicit></explicit>
+  <note>[5.8]: (II f. 12ra-b) [sulla devozione per le vesti di Libānos, non reperibile in CCR], according to AB.</note>
+  </msItem>
+</msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout></layout>
+</layoutDesc>
+</objectDesc>
+<additions>
+<list>
+  <item xml:id="a7">
+  <desc type="GuestText"/>
+  <locus target="#12rb"/>
+  <q xml:lang="gez">
+    </q>
+    <q xml:lang="en">
+      </q>
+      <note>[5.8]: (II f. 12rb) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
+</item>
+<item xml:id="a8">
+<desc type="GuestText"/>
+<locus target="#12vb"/>
+<q xml:lang="gez">
+  </q>
+  <q xml:lang="en">
+    </q>
+    <note>[5.10]: (II f. 12vb, bianco f. 12va), according to AB.</note>
+</item>
+<item xml:id="a9">
+<desc type="GuestText"/>
+<locus target="#12vb"/>
+<q xml:lang="gez">በ፴ወ፭፡ዓመተ፡ምሕረት፡ወበመዋዕሊሁ፡ለንጉሥነ፡ዘርአ፡ያዕቆብ፡ወስመ፡መንግሥቱ፡ቈስጠንጢኖስ፡ወእምአመ፡ነግሠ፡በ፳ወ፭፡ዓመት፡ዘወሀበ፡ዓምደ፡ለቤተ፡ክርስቲያን፡ዘመጣዕ፡ተስፈ፡ኢየሱስ፡ስዩም፡ግሎመከደ፡ወልዱ፡ለይስሞ፡ይበርክ፡ነፍሱ፡ወብእሲቱ፡ወውሉዱ፡ወይጽሐፍ፡ስሞ፡ውስተ፡መጽሐፈ፡ሕይወት፡በጸሎቱ፡ለቅዱስ፡መጣዕ፡ወእንትሙሂ፡ቅዱስን፡ዝክርዎ፡ወኢትርስዕዎ፡በጸሎትክሙ፡ለዓለመ፡ዓለም፡አሜን
+<pb/>
+  </q>
+  <q xml:lang="en">
+    </q>
+    <note>[5.10] = CCR 26: (II f. 12vb), according to AB.</note>
 </item>
 </list>
 </additions>
@@ -359,7 +450,7 @@ To the glory of the Father and the Son and the Holy Spirit.
     </div>
     <div type="edition"  xml:lang="en" corresp="#p2_i3">
     <div type="textpart" subtype="folio" n="8v">
-      <ab>And you, saints, those who dwells in the place of Maṭā‘, pray for the King ʿAmda Ṣǝyon, at the evenings and at the daybreak, at time of noons,and at the hour of Qwǝrbān and during the māḫbar and by assembling, forever and ever, Amen.
+      <ab>And you, saints, those who dwells in the place of Maṭāʿ, pray for the King ʿAmda Ṣǝyon, at the evenings and at the daybreak, at time of noons,and at the hour of Qwǝrbān and during the māḫbar and by assembling, forever and ever, Amen.
       </ab>
       </div>
       </div>
@@ -394,10 +485,10 @@ To the glory of the Father and the Son and the Holy Spirit.
     <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
 <seg ana="#subscription" type="interpretation">
 In the 507th year of Mercy, I,<persName ref="PRS2633BelenSa"> Bǝlen Sabā, <title>the lady of Biḥat</title> </persName>, wife of <persName ref="PRS1854Amdase">
-ʿĀmda Ṣǝyon,<roleName type="title">the king,</roleName></persName>because of the love to Maṭā‘, so that he would beseech a reward for me in the Heavenly Kingdom, while I shall stay naked infront of the Heavenly King, <placeName ref="LOC3198Galaba">Galabā</placeName>and ʾƎnqarʿo, I gave this gwəlt to blessed Maṭā‘, my beloved, which should not penestrate neither a horse nor an animal, neither a sǝyum of Dabra Māʿəṣo nor a sǝyum of Zaradā, neither an appointed one, nor the deposed one, neither the one who reigns nor who is agitated, neither who
+ʿĀmda Ṣǝyon,<roleName type="title">the king,</roleName></persName>because of the love to Maṭāʿ, so that he would beseech a reward for me in the Heavenly Kingdom, while I shall stay naked infront of the Heavenly King, <placeName ref="LOC3198Galaba">Galabā</placeName>and ʾƎnqarʿo, I gave this gwəlt to blessed Maṭāʿ, my beloved, which should not penestrate neither a horse nor an animal, neither a sǝyum of Dabra Māʿəṣo nor a sǝyum of Zaradā, neither an appointed one, nor the deposed one, neither the one who reigns nor who is agitated, neither who
 <pb n="9r"/>
 gave a word to a king nor a child of the palace.
-And if there is anyone who transgresses or violate this gwəlt, which I gave to ʾabbā Maṭā‘ of ʾAham, while the <persName ref="PRS1854Amdase"><roleName type="title">king</roleName>ʿĀmda Ṣǝyon</persName>and while
+And if there is anyone who transgresses or violate this gwəlt, which I gave to ʾabbā Maṭāʿ of ʾAham, while the <persName ref="PRS1854Amdase"><roleName type="title">king</roleName>ʿĀmda Ṣǝyon</persName>and while
 the śǝyum of <placeName ref="LOC2947Endart">ʾƎntartā </placeName> <persName ref="PRS2633BelenSa"> Bǝlen Sabā <title>the lady of Biḥat</title></persName>
 and while <persName ref="PRS8449Samay"><title>māʾǝkala baḥǝr</title> Samāy,</persName>
 and while śǝyum of Dabra Māʿəṣo Maṭre ʾEgziʾ,
@@ -453,38 +544,61 @@ the lady of Biḥat,</roleName></persName> may God give her love with <persName 
     </ab>
     </div>
     </div>
-    <div type="edition"  xml:lang="en" >
-    <div type="textpart" subtype="folio" n="11rv">
+    <div type="edition"  xml:lang="gez" corresp="#p2_i7" >
+    <div type="textpart" subtype="folio" n="10v-11r">
     <ab>
-      <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+     <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+    አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
+     ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡ይግበሩ፡ሎቱ፡ተዝካሩ፡ለ<add place="overstrike">መጣ</add>ዕ፡ወሊተሂ፡ከመ፡ትዘከረኒ፡እግዚእትየ፡ማርያም፡በጸሎታ፡በኀበ፡ፍቁር፡ወልዳ፡ወዘአጐለትኩ፡በ፭የወ፯፡ዓመተ፡ምሕረት፡አነ፡<persName ref="PRS1854Amdase">ዓምደ፡ጽዮን፡</persName>እንዘ፡<persName ref="PRS2633BelenSa"><title>ሥይምተ፡<placeName ref="LOC2947Endart">እንትርታ፡</placeName></title>ብሌን፡ሰብአ፡</persName>
+     እንዘ፡<persName ref="PRS8449Samay"><title>መእከለ፡ባሕር፡</title>ስማይ፡</persName>
+     ወእንዘ፡<persName ref="PRS11566Degna"><title>አውፋሪ፡</title>
+     ድግነ፡</persName>
+     እመቦ፡ዘተሐየሎ፡እማርያም፡ዘሰዐጋ፡ <add place="overstrike">አንፈ፡በዓት፡ሕፂን፡</add>ዘወሀብኩ፡አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>እመቦ፡ባሕር፡ወእመሂ፡ሥዩመ፡እንትርታ፡ወእመሂ፡አውፋሪ፡ወእመሂ፡ሥዩም፡አጽቢ፡እመሂ፡ኅዱግ፡ወቃል፡ነጋሢ፡ውጉዛን፡ይኵኑ፡አሜን፡በአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡አሜን፡በአፈ፡፫፻፡፲ወ፷፡ርቱዓነ፡ሃይማኖት፡አሜን።ወበማርያም፡ወላዲ
+     <pb/>ተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።
+     </ab>
+     </div>
+     </div>
+     <div type="edition"  xml:lang="en" corresp="#p2_i7" >
+    <div type="textpart" subtype="folio" n="10v-11r">
+    <ab>
+     <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+     I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon </persName>
+    gave ʾAnfa Baʿat [to] Māryām za-Saʿagā Ḥǝṣen so that they celebrate the commemoration of Maṭāʿ and for me, so that my Lady Mary remember me in her prayer to her beloved Son. It was in 507 year of Mercy that I promoted, I,  <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName>
+    while <persName ref="PRS2633BelenSa"><title>śǝyǝmt of <placeName ref="LOC2947Endart">ʾƎntǝrtā</placeName></title>Bǝlen Sabā, </persName>
+     while<persName ref="PRS8449Samay"><title>maʾǝkala bāḥr</title>Samāy,</persName>
+     and while <persName ref="PRS11566Degna"><title>ʾawfāri</title>
+     Dǝgnā.</persName>
+     If there is anyone who usurps from Māryām za-Saʿagā ʾAnfa Baʿat Ḥǝṣen, which I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon</persName>gave, if there is anyone who violates or transgresses it, if even maʾǝkala bāḥr or
+     śǝyum of ʾƎntǝrtā, if even ʾawfāri or  śǝyum of ʾAṣbi, if even a deputy or qāl nagāsi, may they be excommunicated, amen, by the mouth of
+     Ṗeṭros liqa ṗāṗāsāt, amen; by the mouth of 318 righteous of faith, amen. And by Māryām, bearer of
+     <pb/>Lord, may they be excommunicated, amen.
+    </ab>
+    </div>
+    </div>
+    <div type="edition"  xml:lang="geez" corresp="#p2_18">
+    <div type="textpart" subtype="folio" n="11v">
+    <ab>
+      <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልደ፡ወመንፈስ፡ቅዱስ፡</seg>
+      አግባእኩ፡አነ፡
+      <persName ref="PRS6073Krestos">ክርስቶስ፡አቡሁ፡</persName>በአፈ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<title>ንጉሥ፡</title></persName>ተርካ፡ዘቀዳሚ፡ምድሮሙ፡ለቅዱሳን፡እለ፡ቤተ፡መጣዕ፡እንዘ፡ዐቃቤ፡ሰዐት፡ዕቅባ፡እግዚእ፡ወእመ፡ቦ፡ዘተኀየሎሙ፡ወዘተአገሎሙ፡ለቅዱሳን፡ይእቲ፡ምድር፡በጽንፋ፡ወበቀልቀላ፡ለተርካ፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በአ
+      <cb/>
+ፈ፡፫፻፡፲ወ፷፡ርቱዐነ፡ሃይማኖት፡ወበአፈ፡፲ወ፭፡ነቢያት፡ወበአፈ፡፲ወ፪፡ሐዋርያት፡ወበአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በስኢል፡ወበሰጊድ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን።ወእመቦ፡ዘደምሰሳ፡ወዘቀደዳ፡በጽልሑት፡ከማሁ፡ለይኩን፡ውጉዘ፡ለዓለመ፡ዓለም፡አሜን።
 </ab>
       </div>
       </div>
       <div type="edition"  xml:lang="geez" >
       <div type="textpart" subtype="folio" n="11v">
       <ab>
-        <seg ana="#invocation" type="interpretation">በአኰቴተ፡ኣብ፡ወወልደ፡ወመንፈስ፡ቅዱስ፡</seg>
-        አግባእኩ፡ኣነ፡
-        <persName ref="PRS6073Krestos">ክርስቶስ፡አቡሁ፡</persName>በአፈ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<title>ንጉሥ፡</title></persName>ተርካ፡ዘቀዳሚ፡ምድሮሙ፡ለቅዱሳን፡እለ፡ቤተ፡መጣዕ፡እንዘ፡ዐቃቤ፡ሰዐት፡ዕቅባ፡እግዚእ፡ወእመቦ፡ዘተኃየሎሙ፡ወዘተዐገሎሙ፡ለቅዱሳን፡ይእቲ፡ምድር፡በጽንፋ፡ወበቀልቀላ፡ለተርካ፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በኣ
+        <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+        Restored I, <persName ref="PRS6073Krestos">Krǝstos ʾAbuhu,</persName>by the mouth of<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, <title>the king,</title></persName>
+        Tarkā that previously the land of the holy ones of the church of Maṭāʿ,
+        while ʿaqābe saʿat ʿƎqbā ʾƎgziʾ. And if there is anyone who would violate or pervert from the holy ones this land on the borders or cliffs of Tarkā, may he be excommunicated in front of the Father  and the Son and the Holy Spirit by the mouth
         <cb/>
-ፈ፡፫፻፡ወ፷፡ርቱዐነ፡ሃይማኖት፡ወበአፈ፡፲ወ፭፡ነቢያት፡ወበአፈ፡፲ወ፪፡ሐዋርያት፡ወበአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በስኢል፡ወበሰጊድ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን።ወእመቦ፡ዘደምሰሳ፡ወዘቀደዳ፡በጽልሑት፡ከማሁ፡ለይኩን፡ውጉዘ፡ለዓለመ፡ዓለም፡አሜን።
+        of 318 righteous in faith and by the mouth of 15 prophets and by the mouth of 12 apostles and by the mouth of Ṗeṭros liqa ṗāṗāsāt, that will not be forgiven through fasting or prayer, through vows or bows unto the ages of ages, amen and amen. May it be so, may it be so. And if there is anyone who
+        erase it or who scratch it in deceit, may he be likewise excommunicated unto the ages of ages, amen.
   </ab>
         </div>
         </div>
-        <div type="edition"  xml:lang="geez" >
-        <div type="textpart" subtype="folio" n="11v">
-        <ab>
-          <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-    </ab>
-          </div>
-          </div>
-          <div type="edition"  xml:lang="geez" >
-          <div type="textpart" subtype="folio" n="11v">
-          <ab>
-
-            </ab>
-            </div>
-            </div>
             <div type="edition"  xml:lang="geez" >
             <div type="textpart" subtype="folio" n="12r">
             <ab>
