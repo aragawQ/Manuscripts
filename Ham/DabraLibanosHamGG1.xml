@@ -602,7 +602,22 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
                             </additions>
                             </physDesc>
                             </msPart>
-
+    <msPart xml:id="p11">
+      <msIdentifier></msIdentifier>
+      <msContents>
+          <msItem xml:id="p11_i1">
+            <note>[6.1] = CCR 6 I parte: (II f. 23ra-b), according to AB.</note>
+            </msItem>
+        </msContents>
+        <physDesc>  <objectDesc form="Leaf">
+          <supportDesc><support>parchment</support>
+          </supportDesc>
+          <layoutDesc>
+          <layout>two columns</layout>
+          </layoutDesc>
+          </objectDesc>
+      </physDesc>
+      </msPart>
                 </msDesc>
 
 </sourceDesc>
