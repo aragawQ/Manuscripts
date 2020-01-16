@@ -583,7 +583,26 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
                               <note>[5.25-6.0] = CCR 33: (II ff. 21va-22rb), according to AB.</note>
                               </msItem>
                       </msContents>
-                      </msPart>
+                      <physDesc>
+                      <objectDesc form="Leaf">
+                      <supportDesc><support>parchment</support>
+                      </supportDesc>
+                      <layoutDesc>
+                      <layout>two columns</layout>
+                      </layoutDesc>
+                      </objectDesc>
+                      <additions>
+                      <list>
+                          <item xml:id="a17">
+                            <q xml:lang="gez">
+                              </q>
+                            <note>[6.1]: (II f. 22va) [lista dei beni della Chiesa di Maṭā‘, non reperibile in CCR], according to AB.</note>
+                            </item>
+                            </list>
+                            </additions>
+                            </physDesc>
+                            </msPart>
+
                 </msDesc>
 
 </sourceDesc>
