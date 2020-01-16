@@ -541,6 +541,9 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
                         <msItem xml:id="p9_i2">
                           <note>[5.22] = CCR 13: (II f. 19r), according to AB.</note>
                           </msItem>
+                          <msItem xml:id="p9_i3">
+                            <note>[5.23] = CCR 15: (II ff. 19va-20va), according to AB.</note>
+                            </msItem>
                     </msContents>
                     <physDesc>
                     <objectDesc form="Leaf">
@@ -556,6 +559,7 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
                         <locus target="#19r"/>
                         <q xml:lang="gez">
                           </q>
+                          <note>[5.22]: (f. 19r) [quasi illeggibile e non reperibile in CCR], according to AB.</note>
                           </item>
                     </list></additions>
                     </physDesc>
