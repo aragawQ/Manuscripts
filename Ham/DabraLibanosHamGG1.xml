@@ -404,7 +404,107 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
 </objectDesc>
 </physDesc>
 </msPart>
+<msPart xml:id="p5">
+<msIdentifier></msIdentifier>
+<msContents>
+  <msItem xml:id="p5_i1">
+    <locus target="#14r"/>
+    <incipit></incipit>
+    <explicit></explicit>
+    <note>[5.12] = CCR 7 II parte: (II f. 14r), according to AB.</note>
+    </msItem>
+    <msItem xml:id="p5_i2">
+      <locus target="#14v"/>
+      <incipit></incipit>
+      <explicit></explicit>
+      <note> [5.14] = CCR 8: (II f. 14v), according to AB.</note>
+      </msItem>
+</msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout></layout>
+</layoutDesc>
+</objectDesc>
+<additions>
+<list>
+  <item xml:id="a10">
+    <locus target="#14r"/>
+    <q xml:lang="gez">
+    አባ፡መጣዕ፡ዘወሀብክዎ፡አነ፡ገብረ፡መስቀል፡አእሚርየ፡ከመ፡የኃልፍ፡ንብረተ፡ዝንቱ፡ዓለም
+    </q>
+    <q xml:lang="en">
+      </q>
+      <note>[5.12] = cf. CCR 1: (II f. 14r margine superiore), according to AB.</note>
+      </item>
+      <item xml:id="a11">
+        <locus target="#14v"/>
+        <q xml:lang="gez">to transcribe!
+          </q>
+          <note>[5.14]: (f. 14v) [non reperibile in CCR], according to AB.</note>
+          </item>
+      </list>
+      </additions>
+</physDesc>
+</msPart>
+<msPart xml:id="p6">
+<msIdentifier></msIdentifier>
+<msContents>
+  <msItem xml:id="p6_i1">
+    <locus target="#15r"/>
+    <incipit>አነ፡ተከሥተ፡ብ<del/>፡ነብር፡እደ፡ሰዐት፡ዘመጣዕ፡<del/>ኩ፡ለመጣዕ፡<del/>ባአ፡፫፡ገራህተ፡</incipit>
+    <explicit>በ፩<unclear/>፡ዓመተ፡ምሕረት፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።</explicit>
+    <note>[5.14] = CCR 11: (II f. 15r), according to AB. Carlo Conti Rossini comments on p.195: Scrittura molto arcaica, non posteriore al secolo XIV o XV. Il folio e lacerato in piu punti superiormente, e nell’ultimo tratto l’inchiostro  e in parte svanito, di guisa che l’atto in parte e illegibile'.</note>
+    </msItem>
+    <msItem xml:id="p6_i2">
+      <locus target="#15r"/>
+      <incipit>to transcribe</incipit>
+      <explicit></explicit>
+      <note>[5.14]: (f. 15r) [non reperibile in CCR], accoding to AB.</note>
+      </msItem>
+        <msItem xml:id="p6_i3">
+              <locus target="#15v"/>
+              <incipit></incipit>
+              <explicit></explicit>
+              <note>[5.16] = CCR 10: (II f. 15v), according to AB. Carlo Conti Rossini comments on p. 194 : 'Scrittura del secolo XVI: sul v del folgio su cui e steso l’atto 55. Croce ansata e fregio in margine'.</note>
+              </msItem>
+              </msContents>
+              <physDesc>
+              <objectDesc form="Leaf">
+              <supportDesc><support>parchment</support>
+              </supportDesc>
+              <layoutDesc>
+              <layout></layout>
+              </layoutDesc>
+              </objectDesc>
+              </physDesc>
+              </msPart>
+              <msPart xml:id="p7">
+              <msIdentifier></msIdentifier>
+              <msContents>
+                <msItem xml:id="p7_i1">
+                  <incipit>አጽሐፍኩ፡ አነ፡
+<subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>
+     ንጉሥ።በ፭፻፲ወ፪።ዓመተ፡ ምሕረት፡
+</incipit>
+                  <explicit></explicit>
+                  <note>[5.16-20] = CCR 22: (II ff. 16ra-17vb), according to AB.</note>
+                </msItem>
+                </msContents>
+                <physDesc>
+                <objectDesc form="Leaf">
+                <supportDesc><support>parchment</support>
+                </supportDesc>
+                <layoutDesc>
+                <layout></layout>
+                </layoutDesc>
+                </objectDesc>
+                </physDesc>
+                </msPart>
 </msDesc>
+
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
@@ -659,10 +759,34 @@ the lady of Biḥat,</roleName></persName> may God give her love with <persName 
                 <div type="edition"  xml:lang="geez" corresp="#p4_i2">
                 <div type="textpart" subtype="folio" n="13vb">
                 <ab>
-                ወሀብኩ፡አነ፡ይሥምከ፡እግዚእ፡ሥዩመ፡ኀማሳን፡ለአባ፡መጣዕ፡ዘአሀም፡ፈዋሴ፡ዱያን፡ኀበ፡ተቀብረ፡አዕጽምቲሁ፡፭፡ነፍሰ፡ሰብእ፡ገድቦ፡ምስለ፡ብእሲቱ፡ወደቂቁ፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወያኑኅ፡መዋዕልየ፡በዲበ፡ምድር፡ወይዕቀብ፡ነፍስየ፡ወሥጋየ፡ምስለ፡አንስትያየ፡ወደቂቅየ፡ወዘመድየ፡ወበቀዳሚ፡ወሀብኩ፡መንጦላዕተ፡በርኴናየት፡እስመ፡ስማዕኩ፡ቃለ፡መክብብ፡ዘይቤ፡ኵሉ፡ከንቱ፡ከንቱ፡ውእቱ፡ዘኢገብረ፡ሠናየ፡በሕይወቱ።ወበዐጋማሂ፡አርታዕኩ፡ጕልተ።
+                ወሀብኩ፡አነ፡ይሥምከ፡እግዚእ፡ሥዩመ፡ኀማሳን፡ለአባ፡መጣዕ፡ዘአሀም፡ፈዋሴ፡ዱያን፡ኀበ፡ተቀብረ፡አዕጽምቲሁ፡፭፡ነፍሰ፡ሰብእ፡ገድቦ፡ምስለ፡ብእሲቱ፡ወደቂቁ፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወያኑኅ፡መዋዕልየ፡በዲበ፡ምድር፡ወይዕቀብ፡ነፍስየ፡ወሥጋየ፡ምስለ፡አንስትያየ፡ወደቂቅየ፡ወዘመድየ፡ወበቀዳሚ፡ወሀብኩ፡መንጦላዕተ፡በርኴናየት፡እስመ፡ስማዕኩ፡ቃለ፡መክብብ፡ዘይቤ፡ኵሉ፡ከንቱ፡ከንቱ፡ውእቱ፡ዘኢገብረ፡ሠናየ፡በሕይወቱ።ወበዐጋማሂ፡አር5ዕኩ፡ጕልተ።
                   </ab>
                   </div>
                   </div>
+                  <div type="edition"  xml:lang="geez" >
+                  <div type="textpart" subtype="folio" n="12v">
+                  <ab>
+                    በ፴ወ፭፡ዓመተ፡ምሕረት፡ወበመዋዕሊሁ፡ለንጉሥነ፡ዘርአ፡ያዕቆብ፡ወስመ፡መንግሥቱ፡ቈስጠንጢኖስ፡ወእምአመ፡ነግሠ፡በ፳ወ፭፡ዓመት፡ዘወሀበ፡ዓምደ፡ለቤተ፡ክርስቲያን፡ዘመጣዕ፡ተስፈ፡ኢየሱስ፡ስዩም፡ግሎመከደ፡ወልዱ፡ለይስሞ፡ይበርክ፡ነፍሱ፡ወብእሲቱ፡ወውሉዱ፡ወይጽሐፍ፡ስሞ፡ውስተ፡መጽሐፈ፡ሕይወት፡በጸሎቱ፡ለቅዱስ፡መጣዕ፡ወእንትሙሂ፡ቅዱስን፡ዝክርዎ፡ወኢትርስዕዎ፡በጸሎትክሙ፡ለዓለመ፡ዓለም፡አሜን
+                    <pb/>
+                    </ab>
+                    </div>
+                    </div>
+                    <div type="edition"  xml:lang="geez" >
+                    <div type="textpart" subtype="folio" n="13r">
+                    <ab>
+                      CCR 29 to transcribe
+                      <pb/>
+                      </ab>
+                      </div>
+                      </div>
+                      <div type="edition"  xml:lang="geez" >
+                      <div type="textpart" subtype="folio" n="13v">
+                      <ab>
+                      <cb n="b"/>
+                      CCR 28 to transcribe
+                        </ab>
+                        </div>
+                        </div>
      <div type="edition"  xml:lang="geez" >
   <div type="textpart" subtype="folio" n="14r">
 <ab>
