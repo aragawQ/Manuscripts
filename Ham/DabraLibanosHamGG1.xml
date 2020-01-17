@@ -488,6 +488,7 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
               <msIdentifier></msIdentifier>
               <msContents>
                 <msItem xml:id="p7_i1">
+                  <locus from="16ra" to="17va"/>
                   <incipit>አጽሐፍኩ፡ አነ፡
 <subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>
      ንጉሥ።በ፭፻፲ወ፪።ዓመተ፡ ምሕረት፡
@@ -496,6 +497,16 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
 </explicit>
                   <note>[5.16-20] = CCR 22: (II ff. 16ra-17vb), according to AB.</note>
                 </msItem>
+                  <msItem xml:id="p7_i2">
+                    <locus target="#17v"/>
+                    <title type="incomplete">a prayer about the king</title>
+            <incipit>
+                ወለንጉሥነ፡<subst><del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>የሀቦ፡እግዚአብሔር፡<sic>መንግሥተ፡ሰማያት፡</sic>ህየንተ፡ሕዳጥ፡ብዙኅ፡አሜን።</incipit>
+              <explicit>
+                ወያግርር፡ጸሮ፡ወጻላእቶ፡አሜን።ወይስረይ፡ኃጢአቶ፡ወይደምስስ፡መጽሐፈ፡ዕዳሁ፡አሜን።
+                የሀቦ፡እግዚአብሔር፡ጥበበ፡ከመ፡ሰሎሞን፡አሜን።
+                የሀቦ፡እግዚኣብ</explicit>
+              </msItem>
                 </msContents>
                 <physDesc>
                 <objectDesc form="Leaf">
@@ -1064,7 +1075,7 @@ In return perished - what does not perish, amen. <lb/><space></space>
 And may He prolong his days on the earth, amen. <lb/><space></space>
 And may He subdue his rival and his enemies, amen.And may he forgive his sins and obliterate the book of his debts, amen. <lb/><space></space>
 May God give him wisdom as to Solomon, amen. <lb/>
-May God give him 
+May God give him
 </ab>
 </div>
 </div>
