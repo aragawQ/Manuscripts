@@ -913,7 +913,7 @@ the lady of Biḥat,</roleName></persName> may God give her love with <persName 
 </ab>
 </div>
 </div>
-<div type="edition" xml:lang="en">
+<div type="edition" xml:lang="en" corresp="#p5_i1">
 <div type="textpart" subtype="folio" n="14r">
 <ab>
 <pb n="14r"/>
@@ -945,8 +945,8 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
 </ab>
 </div>
 </div>
-<div type="edition" xml:lang="geez">
-<div type="textpart" corresp="#p2_i2" subtype="folio" n="14v" xml:lang="geez">
+<div type="edition" xml:lang="geez" corresp="#p5_i2">
+<div type="textpart"  subtype="folio" n="14v" xml:lang="geez">
 <ab>
 <pb n="14v"/>
 <seg ana="#inovacation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።</seg>
@@ -956,7 +956,7 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
   </ab>
   </div>
   </div>
-  <div type="edition" xml:lang="en">
+  <div type="edition" xml:lang="en" corresp="#p5_i2">
   <div type="textpart" corresp="#p2_i2" subtype="folio" n="14v" xml:lang="en">
   <ab>
   <pb n="14v"/>
@@ -966,21 +966,21 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
   </ab>
   </div>
   </div>
-  <div type="edition" xml:lang="geez">
+  <div type="edition" xml:lang="geez" corresp="#p6_i1">
 <div type="textpart" subtype="folio" n="15r">
 <ab>
   በስመ፡አብ፡ወወል/ድ/፡ወመን/ፈስ፡ቅዱስ፡/አነ፡ተከሥተ፡ብ//፡ነብር፡እደ፡ሰዐት፡ዘመጣዕ፧//ኩ፡ለመጣዕ፡//ባአ፡፫፡ገራህተ፡//ገራህተ፡በ//፡ሚካslኤል፡ወገ//ህተ፡ ///ዖነ፡ትሕተ፡መን፡ክምል፡ዐቀባ፡ድ፡ቅስዳድ፡በቢሐት፡//ይበጽሕ፡ለመነኮሳት፡መጣዕ፡ወለዐቃቤ፡ሰዐት፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡እንዘ፡ሀለዉ፡መነኮሳተ፡መጣዕ፡ቤቤተ፡ጽርሕ፡እንዘ፡ንጉሥ፡ይኩናት፡ወእንዘ፡ሊቀ፡ጳጳሳት፡አባ፡ቄርሎስ፡ወእንዘ፡ሥዩም፡እን//ታ፡እንግዳ፡እግዚእ፡ወእንዘ፡ሥዩም፡ደብረ፡ማዕፆ፡ኅራሳይ፡እመቦ፡ዘተኀየሎ፡ወእመቦ፡ዘተአገሎ፡ውጉዘ፡ለይኩን፡በአሊሁ፡ለመጣዕ፡ወበአፈ፡ኵሎሙ፡ቅዱሳን፡በ፩፻//፩፡ዓመተ፡ምሕረት፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።///// lb
   </ab>
   </div>
   </div>
-  <div type="edition" xml:lang="geez">
+  <div type="edition" xml:lang="geez" corresp="#p6_i2">
 <div type="textpart" subtype="folio" n="15r">
 <ab>
   non reperibile in CCR
   </ab>
   </div>
   </div>
-  <div type="edition" xml:lang="geez">
+  <div type="edition" xml:lang="geez" corresp="#p6_i3">
 <div type="textpart" subtype="folio" n="15v">
 <ab>
   በአኰቴተ፡ ///////ብ፡ወወልድ፡ወመንፈስ፧/////////
@@ -988,17 +988,20 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
   </ab>
   </div>
   </div>
-  <div type="edition" xml:lang="geez">
+  <div type="edition" xml:lang="geez" corresp="#p7_i1">
 <div type="textpart" subtype="folio" n="16r-17v">
 <ab>
   Punctual line: two columns
-           በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡  አጽሐፍኩ፡ አነ፡
+           <seg ana="#invocation" type="interpretation">በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ </seg>
+            <seg ana="#subscription" type="interpretation">  አጽሐፍኩ፡ አነ፡
 <subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>
      ንጉሥ።
            በ፭፻፲ወ፪።ዓመተ፡ ምሕረት፡ አጕለትኩ፡ አነ፡
-<subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡ንጉሥ፡ወስመ፡መንግሥትየ፡ሳሎሞን፡ ወአክሰምኩ፡ዘንተ፡ጕልተ፡ለአባ፡መጣዕ፡ዘውእቱ፡ ሊባኖስ፡
-</add></subst>
-ወአነሂ፡ወሀብኩ፡ በእንተ፡ፍቅሩ፡ለመጣዕ፡ ከመ፡ይትወሐስኒ፡ በመንገሥተ፡ሰማያት። ወያኑኅ፡መዋዕልየ፡በዲበ፡ምድር፡አግባእኩ፡ዘንተ፡ጕልተ፡በአዌካር፡፭ዓ           <cb/>
+<subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡ንጉሥ፡ወስመ፡መንግሥትየ፡ሳሎሞን፡
+ወአክሰምኩ፡ዘንተ፡ጕልተ፡ለአባ፡መጣዕ፡ዘውእቱ፡ ሊባኖስ፡
+</add></subst></seg>
+
+<seg ana="#provision" type="interpretation">ወአነሂ፡ወሀብኩ፡ በእንተ፡ፍቅሩ፡ለመጣዕ፡ ከመ፡ይትወሐስኒ፡ በመንገሥተ፡ሰማያት። ወያኑኅ፡መዋዕልየ፡በዲበ፡ምድር፡አግባእኩ፡ዘንተ፡ጕልተ፡በአዌካር፡፭ዓ           <cb/>
 ድ፡ ሕፄን፡ ወእላንታ፡ቢሐት፡ወእንቀርዖ፡ቀርንኦም፡ ምሕባኣ፡መንደልት፡ወምጕልብታ፡ገለባ፡ ወሴሴት፡በድዕዱዕ፡፯ዐድ፡በመረገኒያ፡፯ዐድ፡ተዲረር፡ዐጋ፤ኢ፡ምስለ፡ምድሮሙ፡ በኀበ፡ ሀለዉ፡ ወርቅ፡ ወአልባስ፡ ፫፻፡ ወ፵ክቡራት፡ ወለቅዱሳን፡፵ብዙት፡ወ፲፻ላህም፡፳መነሳንስት፡ ፭ስራዌልየ፡አውጻእየ፡እምሐቋይ፡ ወ፭፡ አሣእንየ፡ አውጺእየ፡ እምእገርየ። <lb/><space></space>
 ወሀብኩ፡ለመጣዕ፡ ወ፭፡ መስቀል፡ዘወርቅ፡ወ፩፡ ጻሕል፡ <pb/>
 ዘወርቅ፡ወ፩፡ ጽዋዕ፡ ዘወርቅ፡ ፩፡ ጽዋዕ፡ ዘብሩር። ወክልኤቱ፡ ጻሕል፡ ዘድዕም፡መብራህት፡ወዕጣን፡ዘአልቦ፡ኆልቈ።<lb/><space></space>
@@ -1033,11 +1036,18 @@ Punctual line
 ቲት፡ ዓቢየ፡ ኣሜን።  የሀቦ፡ እግዚአብሔ፡ ህየንተ፡ ዘበምድር፡ ዘበሰማያት፡ኣሜን። ህየንተ፡ ዘይማስን፡ዘኢይማስን፡ኣሜን።ወያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡ ኣሜን።<lb/><space></space>
 ወያግርር፡ ጸሮ፡ ወጻላእቶ፡ ኣሜን። ወይስረይ፡ ኃጢአቶ፡ ወይደምስስ፡መጽሐፈ፡ ዕዳሁ፡ ኣሜን።<lb/><space></space>
 የሀቦ፡ እግዚአብሔር፡ ጥበበ፡ ከመ፡ ሰሎሞን፡ አሜን።<lb/>
-የሀቦ፡ እግዚኣብ
+የሀቦ፡ እግዚኣብ</seg>
 <pb/>
   </ab>
   </div>
   </div>
+  <div type="edition" xml:lang="en" corresp="#p7_i1">
+<div type="textpart" subtype="folio" n="16r-17v">
+<ab>
+  
+</ab>
+</div>
+</div>
   <div type="edition" xml:lang="geez">
 <div type="textpart" subtype="folio" n="18r">
 <ab>
@@ -1045,6 +1055,7 @@ Punctual line
   </ab>
   </div>
   </div>
+
   <div type="edition" xml:lang="geez">
 <div type="textpart" subtype="folio" n="18v">
 <ab>
