@@ -300,7 +300,7 @@ Many of the place names of this act occur in CCR 1 too.</note>
 <persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ዘንተ፡ጕልተ፡ሰማዝ፡ጕናጕና፡ቤት፡ነበይት፡አገርሕሤ፡አዲ፡ግዶም፡
 ዕፅ፡ማሬ፡አንበሰት፡አጋሜ፡ምስለ፡ምድሮሙ፡ከመ፡ይኵኖ፡መርሐ፡በመንግሥተ፡
 <pb/>ሰማያት፡ለዓለመ፡ዓለም፡አሜን።
-<note>NB! CCR changes አከብ፡ into አብ፡ and ሰማዝ፡ into ከመዝ፡ without noting these emendations (?).
+<note>NB! CCR changes አከብ፡ into አብ፡ and ሰማዝ፡ into ከመዝ፡ without noting these emendations (?). As follows, the draft of translation, found in the archive of Roger Schneider, contains Kamaz (with a question mark) as a place name.
 In RS transcription is ommited ጕልተ፡. </note>
   </q>
   <q xml:lang="en">
@@ -367,10 +367,12 @@ Mədra Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAragan in Kəʾeti Fa
 <item xml:id="a9">
 <desc type="GuestText"/>
 <locus target="#12vb"/>
-<q xml:lang="gez">በ፴ወ፭፡ዓመተ፡ምሕረት፡ወበመዋዕሊሁ፡ለንጉሥነ፡ዘርአ፡ያዕቆብ፡ወስመ፡መንግሥቱ፡ቈስጠንጢኖስ፡ወእምአመ፡ነግሠ፡በ፳ወ፭፡ዓመት፡ዘወሀበ፡ዓምደ፡ለቤተ፡ክርስቲያን፡ዘመጣዕ፡ተስፈ፡ኢየሱስ፡ስዩም፡ግሎመከደ፡ወልዱ፡ለይስሞ፡ይበርክ፡ነፍሱ፡ወብእሲቱ፡ወውሉዱ፡ወይጽሐፍ፡ስሞ፡ውስተ፡መጽሐፈ፡ሕይወት፡በጸሎቱ፡ለቅዱስ፡መጣዕ፡ወእንትሙሂ፡ቅዱስን፡ዝክርዎ፡ወኢትርስዕዎ፡በጸሎትክሙ፡ለዓለመ፡ዓለም፡አሜን
+<q xml:lang="gez">
+  በ፴ወ፭፡ዓመተ፡ምሕረት፡ወበመዋዕሊሁ፡ለ<persName ref="PRS10626ZaraY">ንጉሥነ፡ዘርአ፡ያዕቆብ፡ወስመ፡መንግሥቱ፡ቈስጠንጢኖስ፡</persName>ወእምአመ፡ነግሠ፡በ፳ወ፭፡ዓመት፡ዘወሀበ፡ዓምደ፡ለቤተ፡ክርስቲያን፡ዘመጣዕ፡ተስፋ፡ኢየሱስ፡ስዩም፡ግሎመከደ፡ወልዱ፡ለይስሞ፡<sic>ይበርክ፡</sic>ነፍሱ፡ወብእሲቱ፡ወውሉዱ፡ወይጽሐፍ፡ስሞ፡ውስተ፡መጽሐፈ፡ሕይወት፡በጸሎቱ፡ለቅዱስ፡መጣዕ፡ወእንትሙሂ፡ቅዱስን፡ዝክርዎ፡ወኢትርስዕዎ፡በጸሎትክሙ፡ለዓለመ፡ዓለም፡አሜን
 <pb/>
   </q>
-  <q xml:lang="en">
+  <q xml:lang="en">In the 35th year of Mercy, in the days of our King Zarʾa Yāʿqob and whose regnal name is Qʷasṭanṭinos, in the 25th year since he has started to reign, the one who gave a pillar to the church of Maṭāʿ, Tasfā ʾIyasus, sǝyum of Gǝlo Makadā, son of Yǝsmo, may He bless his soul, his wife and his children. May he write his name in the Book of Life thought the prayers of Holy Maṭāʿ. And you, the holy ones, do not forget him in your prayers unto the ages of ages, amen.
+<note>NB: contrary to the index proposed by Alessandro Bausi, I interpret ይበርክ፡ as a verb ይባርክ፡, the same joice was done by a translator, who worked with Roger Schneider.</note>
     </q>
     <note>[5.10] = CCR 26: (II f. 12vb), according to AB. Carlo Conti Rossini comments on p. 212: 'Scrittura del secolo XVII (?): colonna. La data corrisponde al 1459. Il donatore è il capo di Gelo Makadā, oggi distretto fra Gunaguna e Addigrat, comprendente anche Dabra Māʿṣo: consta infatti che già nella seconda metà del secolo XIV i capi di quel distretto cominciarno ad aver importanza e ad esercitare una certa influenza sulle regioni circostanti. Ed è assai probabile che ne' secoli XII, XIV ecc., non avendo l'Agāme. A quanto pare, una unità politica, andasse diviso nei feudi di Dabra Māʿṣo (cui poi sarebbe succeduto lo syum d Gelo Makadā), signoreggiante la parte orientale almeno fino agli alti monti ove ora è Edāgā Ḥamus, e di altri capi (p.e. Dabra Dāmo, di Awag, di Ambā Sanāyt ecc.), che se ne spartivano le terre d'occidnte.' </note>
 </item>
