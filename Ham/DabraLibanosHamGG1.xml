@@ -166,14 +166,19 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </ab></q>
 </item>
 <item xml:id="a3">
-<desc type="GuestText">
-<title type="incomplete" ref="NAR0022gwelt"/></desc>
 <locus target="#7v"/>
 <q xml:lang="gez">
-<seg ana="#invocation" type="interpretation">በአኰቴተ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡</seg>
-<seg ana="#suscription" type="interpretation">አ<supplied reason="lost">ጐለት</supplied>ኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala"><roleName type="title">ሐፃኒ፡</roleName>ላሊባላ፡ወስመ መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀል፡</addName></persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
-በ፬፻ወ፱ ዓመተ ምሕረት፡አመ፡፫፡ለወርኀ መያዝያ </date>ብእሲ ዓዛል ዘኢይትመዋእለፀር በኀይለ መስቀሉ ለኢየሱስ ክርስቶስ ወልደ <persName ref="PRS12816Morara">ሞራራ </persName>ወልደ <persName ref="PRS12817ZanSeyum">ዛንሥዩም</persName> ወልደ <persName ref="PRS12818Aseda">ኣስዳ </persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ ለ<placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
-መ <persName ref="PRS6859MasqalK">ብእሲትየኒ  መስቀል ክብራ </persName>ፈራሂተ እግዚብሔር <placeName ref="LOC1914Bihat">ቢሐት፡</placeName>በባሕረ ኀጸሮ እንቀርዖ <placeName ref="LOC6447Zareda">ዘሬዳ ክርስቲያን </placeName>ምስለ ምድሮሙ በ<add place="above">ን</add>ጽፉ፡ወበቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName>ወድዕዱዕ፡ዘኢይበውእ ዓቃቤ፡ጸንጻን፡ወኢከንቲባ፡ዘአልቦ፡ግብረ፡ለባዕድ፡ዘእንበለ፡<roleName type="title">አበ ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመቦ፡ዘተኀየሎ ወዘዐገሎ ወዘተገሰሶ እመሂ ዘነግሠ ወእመሂ ዘአንገሥጋሠ ወእመሂ ዘተጳጳሰ ወእመሂ ዘተመኰነነ እመሂሥዩም ወእመሂ፡ስዑር፡ወዘተአገሎ ለዝንቱ፡ጕልት ወለዝንቱ፡ክሱም፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ ወመንፈስ ቅዱስ፡በአፉሁ፡ለአቡነ፡  <persName ref="PRS6298Libanos">መጣዕ፡</persName>በአፈ፡ጳጳሳት፡በኣፈ፡፫፻፲ወ፰ ርቱዐነ፡ሃይማኖት በአፈ፡፲ወ፭ ነቢያት፡በአፈ፡፲ወ፪ ሐዋርያት፡አሜን፡ወአሜን።</seg>
+<seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+<seg ana="#suscription" type="interpretation">አ<supplied reason="lost">ጐለት</supplied>ኩ፡አክሰምኩ፡ወአምነይኩ፡አነ፡<persName ref="PRS6152Lalibala"><roleName type="title">ሐፃኒ፡</roleName>ላሊባላ፡ወስመ፡መንግሥትየ፡<addName type="regnal">ገብረ፡መስቀል፡</addName></persName><date calendar="Ethiopian" when="1225" when-custom="409" evidence="internal">
+በ፬፻ወ፱፡ዓመተ፡ምሕረት፡አመ፡፫፡ለወርኀ፡<sic>መያዝያ፡</sic></date>ብእሲ፡ዓዛል፡ዘኢይትመዋእ፡ለፀር፡በኀይለ፡መስቀሉ፡ለኢየሱስ፡ክርስቶስ፡ወልደ፡<persName ref="PRS12816Morara">ሞራራ፡</persName>ወልደ፡<persName ref="PRS12817ZanSeyum">ዛን፡ሥዩም፡</persName>ወልደ፡<persName ref="PRS12818Aseda">ኣስዳ፡</persName></seg><seg ana="#provision" type="interpretation">ወሀብኩ፡ለ<placeName ref="LOC2296DabraL" type="church">መጣዕ፡ዘአሀም፡</placeName>ወስ<pb/>
+መ፡<persName ref="PRS6859MasqalK">ብእሲትየኒ፡መስቀል፡ክብራ፡</persName>ፈራሂተ፡እግዚብሔር፡<placeName ref="LOC1914Bihat">ቢሐት፡</placeName>በባሕረ፡ኀጸሮ፡እንቀርዖ፡<placeName ref="LOC6447Zareda">ዘሬዳ፡ክርስቲያን፡</placeName>ምስለ፡ምድሮሙ፡በ<add place="above">ን</add>ጽፉ፡ወበቀልቀላ፡<placeName ref="LOC1236Agama">ዓጋማ፡</placeName>ወድዕዱዕ፡ዘኢይበውእ፡ዓቃቤ፡ጸንጸን፡ወኢከንቲባ፡ዘአልቦ፡ግብረ፡ለባዕድ፡ዘእንበለ፡<roleName type="title">አበ፡ምኔት፡ዘ<placeName ref="LOC2296DabraL">መጣዕ፡</placeName></roleName>እመቦ፡ዘተኀየሎ፡ወዘዐገሎ፡ወዘተገሰሶ፡እመሂ፡ዘነግሠ፡ወእመሂ፡ዘአንገሥጋሠ፡ወእመሂ፡ዘተጳጳሰ፡ወእመሂ፡ዘተመኰነነ፡እመሂ፡ሥዩም፡ወእመሂ፡ስዑር፡ወዘተአገሎ፡ለዝንቱ፡ጕልት፡ወለዝንቱ፡ክሱም፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በአፉሁ፡<persName ref="PRS6298Libanos">ለአቡነ፡መጣዕ፡</persName>
+በአፈ፡ጳጳሳት፡በኣፈ፡፫፻፲ወ፰፡ርቱዓነ፡ሃይማኖት፡በአፈ፡፲ወ፭፡ነቢያት፡በአፈ፡፲ወ፪፡ሐዋርያት፡አሜን፡ወአሜን።</seg>
+<note>Carlo Conti Rossini's edition pp. 189-190 reads <placeName ref="LOC1236Agama">ዓጋማ</placeName> as ዓግማ, አበ፡ምኔት as አባ፡ምኔት, ዘአንገሥጋሠ as ዘአንገሥገሠ, omits በአፈ፡፲ወ፭፡ነቢያት. For this and more see also
+<bibl>
+  <ptr target="bm:Derat2018enigma"></ptr>
+  <citedRange unit="page">56</citedRange>
+</bibl>
+</note>
 </q>
 <note>CCR 7 I parte = [5.0]: (II f. 7v), according to AB. In this case textual varians corresond to "B " in CCR, he comments on p.189  'B scrittura d'età incerta, forse del secolo XVIII.' As Roger Scnheider commented in his unpublished notes, 'La version A de Conti Rossini a du se trouver dans la parti du début, parmi les textes varies et n’a pas été photographiée. D’après les variantes graphies de A données par Conti Rossini, la copie plus récente que B. B n’a pas de colonnes. Photo p.2. Ligne pointillée au-dessus du texte.'  Marie-Laure Derat's edition, thus, relies on the image taken by Roger Schneider and the apparatus of Conti Rossini for B.
 </note>
