@@ -146,7 +146,6 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <additions>
 <list>
 <item xml:id="a1">
-<desc type="GuestText"/>
 <locus target="#1r"/>
 <q xml:lang="gez">
 <ab>
@@ -154,8 +153,12 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <note>dotted line</note>
 ይቤ፡እግዚእ፡አክብሩ፡ሰንበተ፡ተገበሩ፡ጽድቀ፡<handShift cert="low" new="#h5"/>ወፈድፋድስ፡ለማርያም፡አክብርዋ፡እስመ፡ኵሉ፡ዘሰአለ፡ኀቤሃ፡ተዐስዮ፡ፍሥሐ።
 <note>dotted line</note>እለ፡ጐዩ፡እምነውር፡እምዝ፡ዓለም፡ነኪር፡እምወርቅ፡ወእምብሩር፡ዘይትበደር፡አክሊለ፡ነሥኡ፡ዘሕብሩ፡ሱሩረ፡ከመ፡እንስሳ፡ገዳም፡ውስተ፡አርእስተ፡አድባር፡ነበሩ፡ከመ፡ኀረ//፡በጻማ፡ተገበሩ፡
-<cb n="b"/>እንዘ፡ይጸንሑ፡ብዕለ፡ዘአልቦ፡መምስለ
-<note>empty space followed by a dotted line</note>
+<cb n="b"/>እንዘ፡ይጸንሑ፡ብዕለ፡ዘአልቦ፡መምስለ<del/><space/>
+</ab>
+</q>
+</item>
+
+
 በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።ተዝከሩ፡ለበርናባስ፡እም፡፳።ለሶንይ፡ይምሐሮ፡እግዚኣብሔር፡በሰማያት።ወይደምሮ፡ምስለ፡ጻድቃን።።ወለእለ፡ይገብሩ፡ተዝካሮ፡እመሂ፡አንስት፡ወእመሂ፡ተባዕት፡ይምሐሮሙ፡እግዚኣብሔር፡በጸሎቱ፡ወይስረይ፡ኀጢአቶሙ፡ለዓለም፡አሜን።
 </ab></q>
 </item>
