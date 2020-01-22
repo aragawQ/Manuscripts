@@ -146,7 +146,7 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 <additions>
 <list>
 <item xml:id="a1">
-<locus target="#1r"/>
+<locus target="#1rab"/>
 <q xml:lang="gez">
 <ab>
 <cb n="a"/><handShift cert="high" new="#h4"/>ዘማርያም።እግዚእትየ፡ማርያም፡እስመ፡በዝንቱ፡ደመ፡ወልድ፡ተቀደሱ፡ቅዱሳን፡እስመ፡በዝንቱ፡ኅብስት፡ወበዝንቱ፡ጽዋዐ፡በደኀሪት፡ዕለት፡ኅቱማኒሆሙ፡ይትረከቡ፡ሰአሊ፡ለነ፡ማርያም፡በግርምት፡ዕለት፡ከመ፡ይምሐረነ።
@@ -157,12 +157,15 @@ caption inside the Tempietto, which normally highlights its symbolism, is vanish
 </ab>
 </q>
 </item>
-
-
+<item xml:id="a2">
+<locus target="#1rb"/>
+<q xml:lang="gez">
+<ab>
+<cb n="b"/><handShift cert="high" new="#h5"/>
 በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።ተዝከሩ፡ለበርናባስ፡እም፡፳።ለሶንይ፡ይምሐሮ፡እግዚኣብሔር፡በሰማያት።ወይደምሮ፡ምስለ፡ጻድቃን።።ወለእለ፡ይገብሩ፡ተዝካሮ፡እመሂ፡አንስት፡ወእመሂ፡ተባዕት፡ይምሐሮሙ፡እግዚኣብሔር፡በጸሎቱ፡ወይስረይ፡ኀጢአቶሙ፡ለዓለም፡አሜን።
 </ab></q>
 </item>
-<item xml:id="a2">
+<item xml:id="a3">
 <desc type="GuestText">
 <title type="incomplete" ref="NAR0022gwelt"/></desc>
 <locus target="#7v"/>
