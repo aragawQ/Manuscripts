@@ -218,14 +218,15 @@ The copy of this text will be provided further in this discription, here it is i
 </q>
 <q xml:lang="en">
 <seg ana="#invocation" type="interpretation"></seg>In the Name of the Father and the Son and the Holy Spirit.
-  <seg ana="#provision" type="interpretation">I, Gabra Masqal, granted sixty fields of ʾAham to the church, so that they celebrate the commemoration of Maṭāʿ, so that he may bequeath for me in the Heavenly Kingdom. If there is someone who would violate it or defraud it, may he be excommunicated by the mouth of the Father and the Son and the Holy Spirit.</seg>
+  <seg ana="#provision" type="interpretation">I, Gabra Masqal, granted sixty fields of ʾAham to the church, so that they celebrate the commemoration of Maṭāʿ, so that he would beseech a reward for me in the Heavenly Kingdom. If there is someone who would violate it or defraud it, may he be excommunicated by the mouth of the Father and the Son and the Holy Spirit.</seg>
     </q>
     <note>Translation:
  I translate ወሀብኩ as 'I granted', while Roger Schneider's translator offers 'I have given';
 ወከመ፡ይግበሩ፡ተዝካሮ፡ለመጣዕ as 'so that they celebrate the commemoration of Maṭāʿ', while Roger Schneider's translator offers 'so that they may celebrate the commemoration';
-ከመ፡ይትወሀሰኒ as 'so that he may bequeath for me', while Roger Scheider's translator offers 'so that he may be my garantor';
+ከመ፡ይትወሀሰኒ as 'so that he would beseech a reward for me for me', while Roger Scheider's translator offers 'so that he may be my garantor';
 እመቦ፡ዘተኀየሎ፡ወዘአገሎ፡ as 'If there is someone who would violate it or defraud it', while Roger Schneider's translator offers 'whosoever breaks or intringes this'.
-    <note>CCR 4 = [5.0]: (II f. 7v), according to AB.  It is page 5 according to Roger Schneider. Carlo Conti Rossini comments on p. 185 : 'Atto indubbiamente apocrifo, che trae dal Gadla Libanos.'
+</note>
+<note>CCR 4 = [5.0]: (II f. 7v), according to AB.  It is page 5 according to Roger Schneider. Carlo Conti Rossini comments on p. 185 : 'Atto indubbiamente apocrifo, che trae dal Gadla Libanos.'
       </note>
 </item>
 </list>
@@ -259,7 +260,7 @@ The copy of this text will be provided further in this discription, here it is i
 </msItem>
 <msItem xml:id="p2_i4">
     <locus from="8v" to="10r"/>
-      <incipit></incipit>
+      <incipit>በ፭፻፡ወ፯፡ዓመተ፡ምሕረት፡ወሀብኩ፡ኣነ፡ብሌን፡ሰባ፡በዐልተ፡ቢሐት፡ብእሲቱ:ለዐምደ፡ጽዮን፡ንጉሥ፡</incipit>
       <explicit></explicit>
       </msItem>
       <msItem xml:id="p2_i5">
@@ -678,11 +679,12 @@ Roger Schneider notes the following: 'ዐቃቤ፡ሰዓት፡ has been erased, 
   <div type="edition"  xml:lang="gez" corresp="#p2_i1">
 <div type="textpart" subtype="folio" n="8r">
 <ab>
+  <handShift cert="high" new="#h6"/>
   <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡
   </seg>
   <seg ana="#subscription" type="interpretation">በ፭፻ወ፭፡ዓመተ፡ምሕረት፡ወሀብኩ፡አነ፡
     <persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<roleName type="title">ንጉሥ፡</roleName></persName>ለአባ፡መጣዕ፡ዘአሀም፡ከመ፡ይትወኀሰኒ፡በመንግሥተ፡ሰማያት።
-  </seg><seg ana="#provision" type="interpretation">ወርቅ፡፻፹ወ፪፡፪፡መስቀል፡ዘወርቅ፡ወ፩፡ጻሕል፡ዘወርቅ፡ወ፩፡ጽዋዕ፡ዘወርቅ።ወ፩፡ጻሕል፡ዘብሩር፡ወ፩፡ጽዋዕ፡ዘብሩር።ወአልባስ፡ክቡር፡፻፫፡ለቤተ፡ክርስትያን፡ዘመጣዕ፡ወለቅዱሳንሂ፡፵፡ብዙት፡ወለካልኣንሂ፡አብያተ፡ክርስትያን፡እለ፡ውስተ፡ሀገሩ፡፴፡ልብስ፡ክቡራት፡ወአልህምትሂ፡፲፻፡ወእምድኅረ፡ኵሎን፡ወሀብኩ፡ልብስ፡ወርቅ፡ዘላዕሌየ፡ወዕጠቅየ፡ወ፪፡ስራ፡ዌልየ፡አውጺእየ፡እምውስተ፡ሐቋየ፡ወ፪፡አሣእንየ፡እምእገርየ።ወዘንተ፡ኵሎ፡ዘወሀብኩ፡አእሚርየ፡ከመ፡የሐልፍ፡ንብረተ፡ዘንቱ፡ዓለም፡ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ። </seg>
+  </seg><seg ana="#provision" type="interpretation">ወርቅ፡፻፹ወ፪፡፪፡መስቀል፡ዘወርቅ፡ወ፩፡ጻሕል፡ዘወርቅ፡ወ፩፡ጽዋዕ፡ዘወርቅ።ወ፩፡ጻሕል፡ዘብሩር፡ወ፩፡ጽዋዕ፡ዘብሩር።ወአልባስ፡ክቡር፡፻፫፡ለቤተ፡ክርስትያን፡ዘመጣዕ፡ወለቅዱሳንሂ፡፵፡ብዙት፡ወለካልኣንሂ፡አብያተ፡ክርስትያን፡እለ፡ውስተ፡ሀገሩ፡፴፡ልብስ፡ክቡራት፡ወአልህምትሂ፡፲፻፡ወእምድኅረ፡ኵሎን፡ወሀብኩ፡ልብስ፡ወርቅ፡ዘላዕሌየ፡ወዕጠቅየ፡ወ፪፡<sic>ስራዌልየ፡</sic>አውጺእየ፡እምውስተ፡ሐቋየ፡ወ፪፡አሣእንየ፡እምእገርየ።ወዘንተ፡ኵሎ፡ዘወሀብኩ፡አእሚርየ፡ከመ፡የሐልፍ፡ንብረተ፡ዘንቱ፡ዓለም፡ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ። </seg>
 </ab>
 </div>
 </div>
@@ -693,7 +695,7 @@ To the glory of the Father and the Son and the Holy Spirit.
 </seg>
 <seg ana="#subscription" type="interpretation">in 505 year of mercy, I, king ʿAmda Ṣǝyon, gave to ’abbā Maṭā‘ of ’Aham so that he would beseech a reward for me in the Heavenly Kingdom,
 </seg>
-<seg ana="#provision" type="interpretation">gold 182, 2 crosses of gold and one dish of gold and ine chalice of gold; and one dish of silver, and one chalice of silver; 103 rich vetments to the church of Maṭā‘ and to the holy ones 40 fine cloths, and 30 rich vetments and 12 cows to the other churches in his land. And after all, I gave my own golden robe and my weapon and two ስራዌልየ taken from my wrist, and my pair of shoes from my feet. And all this I gave, knowing that the wealth of this world  will pass, so that beloved Maṭā‘ would admit me to the Heavenly Kingdom, forever and ever, Amen.
+<seg ana="#provision" type="interpretation">gold 182, two crosses of gold and one dish of gold and one chalice of gold; and one dish of silver, and one chalice of silver; 103 rich vetments to the church of Maṭā‘ and to the holy ones 40 fine cloths, and 30 rich vetments and 12 cows to the other churches in his land. And after all, I gave my own golden robe and my weapon and  my two pans taken from my wrist, and my pair of shoes from my feet. And all this I gave, knowing that the wealth of this world  will pass, so that beloved Maṭā‘ would admit me to the Heavenly Kingdom, forever and ever, Amen.
 </seg>
 </ab>
 </div>
