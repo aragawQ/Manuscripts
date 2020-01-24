@@ -240,7 +240,7 @@ The copy of this text will be provided further in this discription, here it is i
 <msItem xml:id="p2_i1">
   <locus target="#8r"/>
   <incipit>በ፭፻ወ፭፡ዓመተ፡ምሕረት፡ወሀብኩ፡አነ፡ዐምደ፡ጽዮን፡ንጉሥ፡ለአባ፡መጣዕ፡ዘአሀም፡</incipit>
-  <explicit>ዘወሀብኩ፡አእሚርየ፡ከመ፡የሐልፍ፡ንብረተ፡ዘንቱ፡ዓለም፡ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ።</explicit>
+  <explicit>ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ። </explicit>
 <note>[5.0] = CCR 19: (II f. 8r-v), according to AB. Textual variants corresponds to Conti Rossini's "A". Carlo Conti Rossini comments on pp.202-203: 'A scrittura del sec. XVI. La data corrisponde al 1321. Come è noto, <persName ref="@PRS1854Amdase">ʿĀmda Ṣǝyon</persName>, passanti i primi tempi in cui aspramente combattè il clero, fu poi favorevolissime alla chiesa: un ms. del British Museum contiene sue donazioni alla cattedrale di Aksum, la storia delle sue guerre contro l'Adal ne celebra la pietà, e il
   il <title type="complete" ref= 'LIT1438GadlaE'>Gadla ʾEwosṭātewos,</title>che ne ricorda le presecuzioni de'primi anni di regno, ne piange la morte, chiamando "colonna della fede". Nella citata storia delle sue guerre, ed. Perruchon Ṣyon alle pagg. 10, 11, 16, 17, 30-31 sta cetramente a designare Aksum, che ancor oggi è comunemente così chiamata. Degna di osservazione è l'allusione alla poligamia del re, il che concorda pienamente con i dati della storia in quistione. Non potrebbe poi passarsi sollo silenzio la diversità di redazione fra gli atti di questo re e queilli di <persName ref="PRS6152Lalibala">re Lālibālā</persName>'.</note>
 </msItem>
@@ -698,9 +698,9 @@ To the glory of the Father and the Son and the Holy Spirit.
 </seg>
 <seg ana="#subscription" type="interpretation">in 505 year of mercy, I, king ʿAmda Ṣǝyon, granted ’abbā Maṭā‘ of ’Aham so that he would beseech a reward for me in the Heavenly Kingdom,
 </seg>
-<seg ana="#provision" type="interpretation">182 [pieces] of gold, two crosses of gold and one dish of gold and one chalice of gold, one dish of silver and one chalice of silver, 103 rich vestments to the church of Maṭā‘ and to the holy ones 40 fine cloths, and 30 rich vestments and 1000 cows to the other churches in his land. And after all, I gave my own golden robe and my weapon and  my two pans taken from my hip, and my pair of shoes from my feet. And all this I gave, knowing that the wealth of this world  will pass, so that beloved Maṭā‘ so that he would beseech a reward for me the Heavenly Kingdom, forever and ever, Amen.
+<seg ana="#provision" type="interpretation">182 [pieces] of gold, two crosses of gold and one dish of gold and one chalice of gold, one dish of silver and one chalice of silver, 103 rich vestments to the church of Maṭā‘ and to the holy ones 40 fine cloths, and 30 rich vestments and 1000 cows to the other churches in his land. And after all, I gave my own golden robe and my weapon and  my two pans taken from my hip, and my pair of shoes from my feet. And all this I gave, knowing that the wealth of this world  will pass, so that beloved Maṭā‘ would beseech a reward for me the Heavenly Kingdom, forever and ever, Amen.
 </seg>
-<note>As Roger Schneider's translator relied on the edited text, his translation reads as "In the year of Mercy 525 year'; not 'in his land' but 'inside the land of Maṭā‘'; '12 cows' instead of 1000; ሰራዌልየ remains untranslated. Then, as was mentioned, I made a choice for as 'so that he would beseech a reward for me for me', while Roger Scheider's translator offers 'so that he may be my garantor'.
+<note>As Roger Schneider's translator relied on the edited text, his translation reads as "In the year of Mercy 525 year'; not 'in his land' but 'inside the land of Maṭā‘'; '12 cows' instead of 1000; ሰራዌልየ remains untranslated. Then, as was mentioned, I made a choice for as 'would beseech a reward for me for me', while Roger Scheider's translator offers 'may be my garantor'.
 </note>
 </ab>
 </div>
