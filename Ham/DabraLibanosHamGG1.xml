@@ -684,7 +684,7 @@ Roger Schneider notes the following: 'ዐቃቤ፡ሰዓት፡ has been erased, 
   </seg>
   <seg ana="#subscription" type="interpretation">በ፭፻ወ፭፡ዓመተ፡ምሕረት፡ወሀብኩ፡አነ፡
     <persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<roleName type="title">ንጉሥ፡</roleName></persName>ለአባ፡መጣዕ፡ዘአሀም፡ከመ፡ይትወኀሰኒ፡በመንግሥተ፡ሰማያት።
-  </seg><seg ana="#provision" type="interpretation">ወርቅ፡፻፹ወ፪፡፪፡መስቀል፡ዘወርቅ፡ወ፩፡ጻሕል፡ዘወርቅ፡ወ፩፡ጽዋዕ፡ዘወርቅ።ወ፩፡ጻሕል፡ዘብሩር፡ወ፩፡ጽዋዕ፡ዘብሩር።ወአልባስ፡ክቡር፡፻፫፡ለቤተ፡ክርስትያን፡ዘመጣዕ፡ወለቅዱሳንሂ፡፵፡ብዙት፡ወለካልኣንሂ፡አብያተ፡ክርስትያን፡እለ፡ውስተ፡ሀገሩ፡፴፡ልብስ፡ክቡራት፡ወአልህምትሂ፡፲፻፡ወእምድኅረ፡ኵሎን፡ወሀብኩ፡ልብስ፡ወርቅ፡ዘላዕሌየ፡ወዕጠቅየ፡ወ፪፡<sic>ስራዌልየ፡</sic>አውጺእየ፡እምውስተ፡ሐቋየ፡ወ፪፡አሣእንየ፡እምእገርየ።ወዘንተ፡ኵሎ፡ዘወሀብኩ፡አእሚርየ፡ከመ፡የሐልፍ፡ንብረተ፡ዘንቱ፡ዓለም፡ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ። </seg>
+  </seg><seg ana="#provision" type="interpretation">ወርቅ፡፻፹ወ፪፡፪፡መስቀል፡ዘወርቅ፡ወ፩፡ጻሕል፡ዘወርቅ፡ወ፩፡ጽዋዕ፡ዘወርቅ።ወ፩፡ጻሕል፡ዘብሩር፡ወ፩፡ጽዋዕ፡ዘብሩር።ወአልባስ፡ክቡር፡፻፫፡ለቤተ፡ክርስትያን፡ዘመጣዕ፡ወለቅዱሳንሂ፡፵፡ብዙት፡ወለካልኣንሂ፡አብያተ፡ክርስትያን፡እለ፡ውስተ፡ሀገሩ፡፴፡ልብስ፡ክቡራት፡ወአልህምትሂ፡፲፻፡ወእምድኅረ፡ኵሎን፡ወሀብኩ፡ልብሰ፡ወርቅ፡ዘላዕሌየ፡ወዕጣቅየ፡ወ፪፡<sic>ስራዌልየ፡</sic>አውጺእየ፡እምውስተ፡ሐቌየ፡ወ፪፡አሣእንየ፡እምእገርየ።ወዘንተ፡ኵሎ፡ዘወሀብኩ፡አእሚርየ፡ከመ፡የሐልፍ፡ንብረተ፡ዝንቱ፡ዓለም፡ከመ፡ይትወሐስኒ፡ፍቁርየ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን። ። </seg>
 <note>The edition by Carlo Conti Rossini on p.202 contains በ፭፪ወ፭ instead of በ፭፻ወ፭, which seems to be a simple type-error, for non of the witnesses contain this date and it is not marked in the apparatus. It is proved by the date, 1321, which Carlo Conti Rossini must have counted from በ፭፻ወ፭.
 Further, it reads ውስተ፡ሀገሩ፡ዘመጣዕ, while it is ውስተ፡ሀገሩ in the manuscript, ወአልህምትሂ፡፲፪ instead of ወአልህምትሂ፡፲፻,ሰራዌልየ instead of <sic>ስራዌልየ</sic> and እሳየ instead of አሣእንየ.
 </note>
@@ -708,16 +708,16 @@ To the glory of the Father and the Son and the Holy Spirit.
 <div type="edition"  xml:lang="gez" corresp="#p2_i2">
 <div type="textpart" subtype="folio" n="8rv">
 <ab>
-ወለ<persName ref="PRS1854Amdase"><roleName type="title">ንጉሥነ፡</roleName>ዐምደ፡ጽዮን፡</persName>ዘአዕበዮ፡እምነገሥተ፡ምድር፡ያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡ወይረስዮ፡እግዚኣብሔ፡ሥሩዐ፡ከመ፡ወርኅ፡ወብሩሀ፡ከመ፡ፀሓይ፡ወይዕቀብ፡አንስትያሁ፡ወደቂቁ፡ወደቂቀ፡ደቂቁ፡ወዓዲ፡ያድኅኖሙ፡ለስራዊቱ፡እምስ<damage/>፡ኀጽ፡ወውግረተ፡እብን።ወያግርር፡<pb/>ጾሮ፡ወጻላእቶ፡ሞቱሂ፡ይኈልቆ፡ምስለ፡ቅዱሳን፡ወሰማዕት፡ምስለ፡እለ፡አስመርዎ፡ለእግዚኣብሔር፡ምስለ፡ዳዊት፡ወቈስጠንጢኖስ፡ወአኖርዮስ፡ለዓለመ፡ዓለም፡አሜን።
+ወለ<persName ref="PRS1854Amdase"><roleName type="title">ንጉሥነ፡</roleName>ዐምደ፡ጽዮን፡</persName>ዘአዕበዮ፡እምነገሥተ፡ምድር፡ያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡ወይረስዮ፡እግዚኣብሔ፡ሥሩዐ፡ከመ፡ወርኅ፡ወብሩሀ፡ከመ፡ፀሓይ፡ወይዕቀብ፡አንስትያሁ፡ወደቂቁ፡ወደቂቀ፡ደቂቁ፡ወዓዲ፡ያድኅኖሙ፡ለሰራዊቱ፡እምስረተ<damage/>፡ኀጽ፡ወውግረተ፡እብን።ወያግርር፡<pb/>ጸሮ፡ወጻላእቶ፡በዕለተ፡ሞቱሂ፡ይኈልቆ፡ምስለ፡ቅዱሳን፡ወሰማዕት፡ምስለ፡እለ፡አስመርዎ፡ለእግዚኣብሔር፡ምስለ፡ዳዊት፡ወቈስጠንጢኖስ፡ወአኖርዮስ፡ለዓለመ፡ዓለም፡አሜን።
 </ab>
 </div>
   </div>
   <div type="edition"  xml:lang="en" corresp="#p2_i2">
   <div type="textpart" subtype="folio" n="8rv">
   <ab>
-    And for our King ʿAmda Ṣǝyon, who was made the greatest among the kings on the earth, may God extend his days on the earth and may God make him set firmly as the Moon and splendid as the Sun and may He protect his wives and his children and children of his children and may He save his army from an arrow and from throwinging of a stone. And may He subdue his enemy and his adversaries. And on the day of his death, may He count him among the saints and martyrs and among those who pleased God, with Dawit and Qwosṭanṭinos and ʾAnoryos, for ever and ever, Amen.
+    And for our King ʿAmda Ṣǝyon, who was made the greatest among the kings on the earth, may God extend his days on the earth and may God make him set firmly as the Moon and splendid as the Sun and may He protect his wives and his children and children of his children and may He save his army from the flying dart and from throwinging of a stone. And may He subdue his enemy and his adversaries. And on the day of his death, may He count him among the saints and martyrs and among those who pleased God, with Dawit and Qwosṭanṭinos and ʾAnoryos, for ever and ever, Amen.
 <note>Translation:
-What I translate as 'who was made the greatest among the kings on the earch', Roger Schneider's translator offers 'whom he has elevated above the kings of the earch'; for my 'splendid as the Sun' he offers 'bright as the Sun'; for my 'may He protect his wives...' he offers 'may he keep his wives'; for my 'may He save his army from an arrow' he offers 'may he protect his armies from the piercieng of arrows'; for my 'from throwinging of a stone' he offers 'from being crushed by stones'; for my 'those who pleased God' he offers 'among those who exalted God'.</note>
+What I translate as 'who was made the greatest among the kings on the earch', Roger Schneider's translator offers 'whom he has elevated above the kings of the earch'; for my 'splendid as the Sun' he offers 'bright as the Sun'; for my 'may He protect his wives...' he offers 'may he keep his wives'; for my 'may He save his army from the flying dart' he offers 'may he protect his armies from the piercieng of arrows'; for my 'from throwinging of a stone' he offers 'from being crushed by stones'; for my 'those who pleased God' he offers 'among those who exalted God'.</note>
     </ab>
     </div>
     </div>
