@@ -271,11 +271,13 @@ In questo atto, i titolari delle cariche son tutti mutati. La regina stessa Bǝl
           <locus from="10r" to="10v"/>
             <incipit></incipit>
             <explicit></explicit>
+            <note> It is still [5.2-6] = CCR 20: (II ff. 8v-10v), according to AB.</note>
             </msItem>
             <msItem xml:id="p2_i6">
                 <locus target="#10v"/>
                   <incipit></incipit>
                   <explicit></explicit>
+                    <note> It is still [5.2-6] = CCR 20: (II ff. 8v-10v), according to AB.</note>
                   </msItem>
                   <msItem xml:id="p2_i7">
                       <locus from="10v" to="11r"/>
@@ -761,7 +763,7 @@ What I translate as 'who was made the greatest among the kings on the earch', Ro
 </sic></roleName>ዐምደ፡ጽዮን፡</persName>ግበር፡ሎቱ፡እግዚኦ፡በከመ፡ፈቃደ፡ልቡ፡ወይቤለኒ፡ሀቢ፡እንቀርዖ፡ወገለባ፡ከመ፡የሀበኒ፡እግዚኣብሔር፡በመንግሥተ፡ሰማያት፡ህየንተ፡ኅዳጥ፡ብዙኅ፡አሜን፡የሀቦ፡እግዚኣብሔር፡ህየንተ፡ንስቲት፡ዐቢየ፡አሜን።የሀቦ፡እግዚኣብሔር፡ህየንተ፡ዘበምድር፡ዘበ፡ሰማያት፡አሜን።ህየንተ፡ዘይበሊ፡ዘኢይበሊ፡አሜን።ወህየንተ፡ዘይማስን፡ዘኢይማስን፡አሜን።ወያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡አሜን።ወያግርር፡ጸሮ፡<pb n="10r"/>ወጻላእቶ፡አሜን።
 ወይስረይ፡ኀጢአቶ፡ወይደምስስ፡መጽሐፈ፡ዕዳሁ፡አሜን።የሀቦ፡እግዚአብሔር፡ጥበበ፡ከመ፡ሰሎሞን፡አሜን።የሀቦ፡እግዚአብሔር፡ሞገሰ፡በከመ፡ዳዊት፡አሜን።የሀቦ፡እግዚአብሔር፡ትዕግሥተ፡ከመ፡እዮብ፡አሜን።የሀቦ፡እግዚአብሔር፡መዊአ፡ከመ፡ኢያሱ፡አሜን።
 </seg>
-<note></note>
+<note>Roger Schneider, as I can judge from his transcription, read ከመ፡ይወኀሰኒ what I read as ከመ፡ይወኀሰኒ, this must be a simple error. Roger Schneider read  ዕራቅየ what I read as ዕሬቅየ and what Carlo Conti Rossini on p. 20 read as ዕረቅየ. </note>
 </ab>
 </div>
 </div>
