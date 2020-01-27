@@ -751,7 +751,7 @@ What I translate as 'who was made the greatest among the kings on the earch', Ro
           <seg ana="#provision" type="interpretation">ገለባ፡ወእንቀርዖ፡ወሀብኩ፡ዘንተ፡ጕልተ፡ለብፁዕ፡መጣዕ፡ፍቁርየ፡<sic>ዘኢይበኦ፡</sic>ፈረስ፡ወኢአንበሳ፡ወኢስዩመ፡ደብረ፡ማዕጾ፡ወኢስዩመ፡ዘሬዳ፡ኢዘተሰይመ፡ወኢዘተስዕረ፡ኢዘነገሠ፡ወኢዘአንገስገሰ፡ዘኢይ
           <pb n="9r"/>
 በኦ፡<sic>ቃል፡</sic>ነጋሲ፡ወኢደቀ፡ጽርኅ፡ወለእመቦ፡ዘተአገለ፡ወዘተኀየለ፡ዘንተ፡ጕልተ፡ዘወሀብኩ፡ለአባ፡መጣዕ፡ዘአሀም፡እንዘ፡<persName ref="PRS1854Amdase"><roleName type="title">ንጉሥ፡</roleName>ዐምደ፡ጽዮን፡</persName>ወእንዘ፡
-ስይምተ፡እንትርታ፡ብሌን፡ሰባ፡በዐልተ፡ቢኀት፡
+<persName ref="PRS2633BelenSa"><title>ስይምተ፡እንትርታ፡</title>ብሌን፡ሰባ፡<title>በዐልተ፡ቢኀት፡</title></persName>
 ወእንዘ፡ማእከለ፡ባሕር፡ሰማይ፡
 ወእንዘ፡ስዩመ፡ደብረ፡ማዕጾ፡መጥሬ፡እግዚእ፡
 ወእንዘ፡ስዩመ፡ዘሬዳ፡ዘርአ፡ዳዊት፡
@@ -851,12 +851,14 @@ the lady of Biḥat,</roleName></persName> may God give her love with <persName 
  <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
 አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
  ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡ይግበሩ፡ሎቱ፡ተዝካሩ፡ለ<add place="overstrike">መጣ</add>ዕ፡ወሊተሂ፡ከመ፡ትዘከረኒ፡እግዚእትየ፡ማርያም፡በጸሎታ፡በኀበ፡ፍቁር፡ወልዳ፡ወዘአጐለትኩ፡በ፭የወ፯፡ዓመተ፡ምሕረት፡አነ፡<persName ref="PRS1854Amdase">ዓምደ፡ጽዮን፡</persName>እንዘ፡<persName ref="PRS2633BelenSa"><title>ሥይምተ፡<placeName ref="LOC2947Endart">እንትርታ፡</placeName></title>ብሌን፡ሰብአ፡</persName>
- እንዘ፡<persName ref="PRS8449Samay"><title>መእከለ፡ባሕር፡</title>ስማይ፡</persName>
+ እንዘ፡<persName ref="PRS8449Samay"><title>መእከለ፡ባሕር፡</title>ሰማይ፡</persName>
  ወእንዘ፡<persName ref="PRS11566Degna"><title>አውፋሪ፡</title>
- ድግነ፡</persName>
- እመቦ፡ዘተሐየሎ፡እማርያም፡ዘሰዐጋ፡ <add place="overstrike">አንፈ፡በዓት፡ሕፂን፡</add>ዘወሀብኩ፡አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>እመቦ፡ባሕር፡ወእመሂ፡ሥዩመ፡እንትርታ፡ወእመሂ፡አውፋሪ፡ወእመሂ፡ሥዩም፡አጽቢ፡እመሂ፡ኅዱግ፡ወቃል፡ነጋሢ፡ውጉዛን፡ይኵኑ፡አሜን፡በአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡አሜን፡በአፈ፡፫፻፡፲ወ፷፡ርቱዓነ፡ሃይማኖት፡አሜን።ወበማርያም፡ወላዲ
+ ድግና፡</persName>
+ እመቦ፡ዘተሐየለ፡እማርያም፡ዘሰዐጋ፡ <add place="overstrike">አንፈ፡በዓት፡ሕፄን፡</add>ዘወሀብኩ፡አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>እመቦ፡
+ ዘተሐየለ፡ወዘተአገለ፡እመሂ፡ማእከለ፡ባሕር፡ወእመሂ፡ሥዩመ፡እንትርታ፡ወእመሂ፡አውፋሪ፡ወእመሂ፡<sic>ሥዩም፡</sic>አጽቢ፡እመሂ፡ኅዱግ፡<sic>ወቃል፡</sic>ነጋሢ፡ውጉዛን፡ይኩኑ፡አሜን፡በአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡አሜን፡በአፈ፡፫፻፡፲ወ፷፡ርቱዓነ፡ሃይማኖት፡አሜን።ወበማርያም፡ወላዲ
  <pb/>ተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።
  </ab>
+ <note>Conti Rossini reads ሥይምተ as ሥይመተ ዘተሐየለ ዘተሐየሎ ዘተሐየለ፡ወዘተአገለ፡ ዘተሐየሎ፡ወዘተአገቦ <sic>ወቃል፡</sic>ነጋሢ፡ ቃለ፡ነጋሢ መእከለ፡ባሕር፡</title>ሰማይ፡ መእከለ፡ባሕር፡</title>ስማይ፡</note>
  </div>
  </div>
  <div type="edition"  xml:lang="en" corresp="#p2_i7" >
