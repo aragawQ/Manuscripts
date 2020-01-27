@@ -282,8 +282,12 @@ In questo atto, i titolari delle cariche son tutti mutati. La regina stessa Bǝl
                   </msItem>
                   <msItem xml:id="p2_i7">
                       <locus from="10v" to="11r"/>
-                        <incipit></incipit>
-                        <explicit></explicit>
+                        <incipit>አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
+                        ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡</incipit>
+                        <explicit>ወበማርያም፡ወላዲ
+                        <pb/>ወበማርያም፡ወላዲተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።</explicit>
+                        <note>[5.6] = CCR 21: (II ff. 10v-11r), according to AB.
+                        Roger Schneider notes 'Follows immediately the numbers 20, from which it is separated by a line of dots and strokes. The writing is similar to that of n 20, but the hand is different, a little less trained and slightly smaller. The last line is on page 15'.</note>
                         </msItem>
                         <msItem xml:id="p2_i8">
                             <locus target="#11r"/>
