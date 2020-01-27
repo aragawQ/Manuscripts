@@ -269,14 +269,15 @@ In questo atto, i titolari delle cariche son tutti mutati. La regina stessa Bǝl
       </msItem>
       <msItem xml:id="p2_i5">
           <locus from="10r" to="10v"/>
-            <incipit></incipit>
-            <explicit></explicit>
+            <incipit>ወለይእቲኒ፡<persName ref="PRS2633BelenSa">ብሌን፡ሰባ፡<roleName type="title">በዐልተ፡ቢሐት፡</roleName></persName>የሀባ፡እግዚኣብሔር፡ፍቅረ፡ምስለ፡<persName ref="PRS1854Amdase"><roleName type="function">ምታ፡</roleName>ዐምደ፡ጽዮን፡</persName></incipit>
+            <explicit>ወከመ፡ኆጻ፡ባሕር፡አሜን፡ወአሜን።
+            ወይበል፡ኵሉ፡ሕዝብ፡አሜን፡ወአሜን።</explicit>
             <note> It is still [5.2-6] = CCR 20: (II ff. 8v-10v), according to AB.</note>
             </msItem>
             <msItem xml:id="p2_i6">
                 <locus target="#10v"/>
-                  <incipit></incipit>
-                  <explicit></explicit>
+                  <incipit>ወኵልክሙ፡እለ፡አንበብክሙ፡ጸልዩ፡</incipit>
+                  <explicit>በሰማይ፡ወበምድር፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።</explicit>
                     <note> It is still [5.2-6] = CCR 20: (II ff. 8v-10v), according to AB.</note>
                   </msItem>
                   <msItem xml:id="p2_i7">
