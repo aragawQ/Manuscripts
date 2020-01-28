@@ -289,10 +289,8 @@ In questo atto, i titolari delle cariche son tutti mutati. La regina stessa Bǝl
                         <note>[5.6] = CCR 21: (II ff. 10v-11r), according to AB. Carlo Conti Rossini comments on pp. 206-207 the following: 'Scrittura del secolo XVI. [...]. La data corrisponde al 1323. Alle cariche consuete, i cui titolari non sono mutati, aggiungonsi il seyuma Aṣbi, non nominato, cioe il capo della provincia a NE dell'Enderta, sui contrafforti abissini dominanti il pian del sale e la regione dei Dancali, e l'awfari Degna. Questo Degna è certamente lo stesso che nelle guerre contro l'Adal nel 1332 comandava la cavalleria di destra dell'esercito reale (v. Storia, p.19 e 57); e questo incontro dei due testi è una riprova della loro autenticita. La carica di awfari sembra aver poi raggiunto un grande lustro, come parrebbe dalle donazioni alla cattedrale di Aksum da me odite.'
                           Roger Schneider notes 'Follows immediately the numbers 20, from which it is separated by a line of dots and strokes. The writing is similar to that of n 20, but the hand is different, a little less trained and slightly smaller. The last line is on page 15'.</note>
                         </msItem>
-
-                                    </msItem>
-                                    <msItem xml:id="p2_i10">
-                                        <locus target="#11v"/>
+                      <msItem xml:id="p2_i8">
+                          <locus target="#11v"/>
                                           <incipit></incipit>
                                           <explicit></explicit>
                                           <note>[5.8] = CCR 18: (II f. 11v), according to Alessandro Bausi.
@@ -330,15 +328,14 @@ Roger Schneider notes the following: 'ዐቃቤ፡ሰዓት፡ has been erased, 
         <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
     I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName>granted to ʾabbā Maṭāʿ this gwəlt:
       Ṣǝdāʾ, ʾAsirā,  Labāsiro, Gamāʾ,  Zenā Kudo, ʾAd Ḥǝlmo, ʾOnā Sābāy, Sənāgā, Māryāle, Sarʿe, Lago, Wankab, the monastery of the monks of the church of martyrs ʾAnānyā, ʾAzāryā and Misāʾel, so that he may beseech a reward for me in the Heavenly Kingdom. If there is anyone who perverts it or violates it, may he be excommunicated.
-<note>Translation: Roger Schneider's translator ወሚሳኤል, which I simply translitirate as 'Misāʾel', emended into 'Michael', noting 'sic' in the square brakets. </note>
-ከመ፡ይትወሀሰኒ, which I translate as 'so that he may beseech a reward for me', he interprets as 'so that he may be my garantor'
+<note>Translation: Roger Schneider's translator ወሚሳኤል, which I simply translitirate as 'Misāʾel', emended into 'Michael', noting 'sic' in the square brakets.
+ከመ፡ይትወሀሰኒ, which I translate as 'so that he may beseech a reward for me', he interprets as 'so that he may be my garantor' </note>
     </q>
     <note>[5.6] = CCR 24: (II f. 11r), according to AB.
       Carlo Conti Rossini comments on p. 211: 'Scrittura del secolo XVII. Atto di dubbia attendibilità, troppo scostandosi dalla forma consueta degli atti di ʿĀmda Ṣǝyon.'
        Roger Schneider repeats Conti Rossini, and concludes the following: 'Conti Rossini rightly doubts the authenticity of thic act, because the form of the text differs completely from the one used by ʿĀmda Ṣǝyon. He dates the writing to the XVIIth century. It is very poor and unskilled, difficult to date, but surely late.'
 Many of the place names of this act occur in CCR 1 too.
-     </note>
-   </q>
+</note>
  </item>
           <item xml:id="a6">
           <locus target="#11rv"/>
@@ -361,8 +358,7 @@ Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo X
         </item>
       </list>
     </additions>
-    </msContents>
-</physDesc>
+    </physDesc>
 </msPart>
 <msPart xml:id="p5">
 <msIdentifier></msIdentifier>
@@ -927,10 +923,14 @@ while <persName ref="PRS2633BelenSa"><title>sǝyǝmt of <placeName ref="LOC2947E
         <persName ref="PRS6073Krestos">ክርስቶስ፡አቡሁ፡</persName>በአፈ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<title>ንጉሥ፡</title></persName>ተርካ፡ዘቀዳሚ፡ምድሮሙ፡ለቅዱሳን፡እለ፡ቤተ፡መጣዕ፡እንዘ፡ዐቃቤ፡ሰዐት፡ዕቅባ፡እግዚእ፡ወእመ፡ቦ፡ዘተኀየሎሙ፡ወዘተአገሎሙ፡ለቅዱሳን፡ይእቲ፡ምድር፡በጽንፋ፡ወበቀልቀላ፡ለተርካ፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በአ
         <cb/>
 ፈ፡፫፻፡፲ወ፷፡ርቱዐነ፡ሃይማኖት፡ወበአፈ፡፲ወ፭፡ነቢያት፡ወበአፈ፡፲ወ፪፡ሐዋርያት፡ወበአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በስኢል፡ወበሰጊድ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን።ወእመቦ፡ዘደምሰሳ፡ወዘቀደዳ፡በጽልሑት፡ከማሁ፡ለይኩን፡ውጉዘ፡ለዓለመ፡ዓለም፡አሜን።
+<note>በቅድመ፡አብ Conti Rossini has as በአፈ፡አብ.
+  Roger Schneider had one comment to this text:
+  1.ዐቃቤ፡ሰዓት has been erased, but the letters are still faintly discernible. The copy B still has it.
+</note>
   </ab>
         </div>
         </div>
-        <div type="edition"  xml:lang="geez" >
+        <div type="edition"  xml:lang="en" >
         <div type="textpart" subtype="folio" n="11v">
         <ab>
           <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
