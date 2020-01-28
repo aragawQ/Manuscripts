@@ -281,13 +281,16 @@ In questo atto, i titolari delle cariche son tutti mutati. La regina stessa Bǝl
                     <note> It is still [5.2-6] = CCR 20: (II ff. 8v-10v), according to AB.</note>
                   </msItem>
                   <msItem xml:id="p2_i7">
+
                       <locus from="10v" to="11r"/>
+
                         <incipit>አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
                         ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡</incipit>
                         <explicit>ወበማርያም፡ወላዲ
                         <pb/>ወበማርያም፡ወላዲተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።</explicit>
                         <note>[5.6] = CCR 21: (II ff. 10v-11r), according to AB. Carlo Conti Rossini comments on pp. 206-207 the following: 'Scrittura del secolo XVI. [...]. La data corrisponde al 1323. Alle cariche consuete, i cui titolari non sono mutati, aggiungonsi il seyuma Aṣbi, non nominato, cioe il capo della provincia a NE dell'Enderta, sui contrafforti abissini dominanti il pian del sale e la regione dei Dancali, e l'awfari Degna. Questo Degna è certamente lo stesso che nelle guerre contro l'Adal nel 1332 comandava la cavalleria di destra dell'esercito reale (v. Storia, p.19 e 57); e questo incontro dei due testi è una riprova della loro autenticita. La carica di awfari sembra aver poi raggiunto un grande lustro, come parrebbe dalle donazioni alla cattedrale di Aksum da me odite.'
                           Roger Schneider notes 'Follows immediately the numbers 20, from which it is separated by a line of dots and strokes. The writing is similar to that of n 20, but the hand is different, a little less trained and slightly smaller. The last line is on page 15'.</note>
+
                         </msItem>
                       <msItem xml:id="p2_i8">
                           <locus target="#11v"/>
@@ -313,6 +316,7 @@ Carlo Conti Rossini comments on p.202: 'Atto non datato, del tempo di re ʿĀmda
   <item xml:id="a5">
     <locus target="#11r"/>
     <q xml:lang="gez">
+      <handShift cert="high" new="#h8"/>
         <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
         ወሀብኩ፡አነ፡
         <persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ለአባ፡መጣዕ፡ዘንተ፡ጕልተ፡ጽዳእ፡አሲራ፡ለባሲሮ፡ገማእ፡ዜና፡ኩዶ፡አድ፡ሕልሞ፡ኦና፡ሳባይ፡ስናጋ፡ማርያሌ፡ሠርዔ፡ለጎ፡ወንከብ፡ገዳሞሙ፡ለመነኮሳት፡ቤተ፡ሰማእት፡አናንያ፡አዛርያ፡ወሚሳኤል፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተአገሎ፡ወዘተኃየሎ፡ውጉዘ፡ለይኩን።
@@ -352,6 +356,7 @@ Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo X
         <item xml:id="a7">
         <locus target="#11v"/>
           <q xml:lang="gez">
+           <handShift cert="high" new="#h9"/>/>
             ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወባናዕሌ፡ወበአረገን።በክኤቲ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኀ፡ውእቱ፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡</q>
               <q xml:lang="en">
 Land of Tedrar in Ḥamḥam Qalāy and in Nāʿle and in   ʾAgaran, in Kǝʾeti Falǝg granted gwǝlt to Holy Libānos King Gabra Masqal, so that he may be a guide for him in the Heavenly Kingdom. And what was granted as gwǝlt can not be counted, for it is a lot.
