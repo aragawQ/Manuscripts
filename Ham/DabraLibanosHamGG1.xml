@@ -289,23 +289,7 @@ In questo atto, i titolari delle cariche son tutti mutati. La regina stessa Bǝl
                         <note>[5.6] = CCR 21: (II ff. 10v-11r), according to AB. Carlo Conti Rossini comments on pp. 206-207 the following: 'Scrittura del secolo XVI. [...]. La data corrisponde al 1323. Alle cariche consuete, i cui titolari non sono mutati, aggiungonsi il seyuma Aṣbi, non nominato, cioe il capo della provincia a NE dell'Enderta, sui contrafforti abissini dominanti il pian del sale e la regione dei Dancali, e l'awfari Degna. Questo Degna è certamente lo stesso che nelle guerre contro l'Adal nel 1332 comandava la cavalleria di destra dell'esercito reale (v. Storia, p.19 e 57); e questo incontro dei due testi è una riprova della loro autenticita. La carica di awfari sembra aver poi raggiunto un grande lustro, come parrebbe dalle donazioni alla cattedrale di Aksum da me odite.'
                           Roger Schneider notes 'Follows immediately the numbers 20, from which it is separated by a line of dots and strokes. The writing is similar to that of n 20, but the hand is different, a little less trained and slightly smaller. The last line is on page 15'.</note>
                         </msItem>
-                        <msItem xml:id="p2_i8">
-                            <locus target="#11r"/>
-                              <incipit></incipit>
-                              <explicit></explicit>
-                              <note>[5.6] = CCR 24: (II f. 11r), according to AB.
-                                Carlo Conti Rossini comments on p. 211: 'Scrittura del secolo XVII. Atto di dubbia attendibilità, troppo scostandosi dalla forma consueta degli atti di ʿĀmda Ṣǝyon.'
-                                 Roger Schneider repeats Conti Rossini, and concludes the following: 'Conti Rossini rightly doubts the authenticity of thic act, because the form of the text differs completely from the one used by ʿĀmda Ṣǝyon. He dates the writing to the XVIIth century. It is very poor and unskilled, difficult to date, but surely late.'
-Many of the place names of this act occur in CCR 1 too.
-                               </note>
-                              </msItem>
-                              <msItem xml:id="p2_i9">
-                                  <locus target="#11r"/>
-                                    <incipit></incipit>
-                                    <explicit></explicit>
-                                    <note>[5.6-8] = CCR 25: (II f. 11r-v), according to AB.
-Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo XVII.Ugual osservazione che per l'atto precedente: notisi come l'Agāmē qui apparisca distretto di poca importanza.'
-                                    </note>
+
                                     </msItem>
                                     <msItem xml:id="p2_i10">
                                         <locus target="#11v"/>
@@ -333,6 +317,29 @@ Roger Schneider notes the following: 'ዐቃቤ፡ሰዓት፡ has been erased, 
 <layout></layout>
 </layoutDesc>
 </objectDesc>
+<additions>
+<list>
+  <item xml:id="a5">
+    <locus target="#11r"/>
+    <q xml:lang="gez">
+      <note>[5.6] = CCR 24: (II f. 11r), according to AB.
+        Carlo Conti Rossini comments on p. 211: 'Scrittura del secolo XVII. Atto di dubbia attendibilità, troppo scostandosi dalla forma consueta degli atti di ʿĀmda Ṣǝyon.'
+         Roger Schneider repeats Conti Rossini, and concludes the following: 'Conti Rossini rightly doubts the authenticity of thic act, because the form of the text differs completely from the one used by ʿĀmda Ṣǝyon. He dates the writing to the XVIIth century. It is very poor and unskilled, difficult to date, but surely late.'
+Many of the place names of this act occur in CCR 1 too.
+       </note>
+     </q>
+   </item>
+    <item xml:id="a6">
+          <locus target="#11r"/>
+            <q xml:lang="gez">
+            <note>[5.6-8] = CCR 25: (II f. 11r-v), according to AB.
+Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo XVII.Ugual osservazione che per l'atto precedente: notisi come l'Agāmē qui apparisca distretto di poca importanza.'
+            </note>
+          </q>
+        </item>
+      </list>
+    </additions>
+    </msContents>
 </physDesc>
 </msPart>
 <msPart xml:id="p5">
