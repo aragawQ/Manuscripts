@@ -297,16 +297,8 @@ In questo atto, i titolari delle cariche son tutti mutati. La regina stessa Bǝl
 <note>[5.8] = CCR 18: (II f. 11v), according to Alessandro Bausi.
 This document occurs twice, in CCR indicated as "A", 'scrittura del sec. XVI.' on p.201.
 Carlo Conti Rossini comments on p.202: 'Atto non datato, del tempo di re ʿĀmda Ṣǝyon, che dev'essere stato redatto fra il 1319. Infatti, il capo di Dabra Libānos è, in questo documento, ʿƎqbā ʾƎgziʾ: ora nel 1319 era ancora Asfeḥa, eletto verso la fine del secolo XIII, e nel 1322 era gia Gabra Krestos, che continuava a occupare tale carica ai tempi di re Sayfa Arʿad. ʿƎqbā ʾƎgziʾ va quindi collocato fra i due, e deve essere stato per pochissimo tempo alla direzione del convento.
-
 </note>
-                                          </msItem>
-                                          <msItem xml:id="p2_i11">
-                                              <locus target="#11v"/>
-                                                <incipit></incipit>
-                                                <explicit></explicit>
-                                                <note>[5.8] = CCR 3: (II f. 11v), according to AB.
-                                                </note>
-                                                </msItem>
+</msItem>
 </msContents>
 <physDesc>
 <objectDesc form="Leaf">
@@ -357,6 +349,14 @@ Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo X
             </note>
           </q>
         </item>
+        <item xml:id="a7">
+        <locus target="#11v"/>
+          <q xml:lang="gez">
+            ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወባናዕሌ፡ወበአረገን።በክኤቱ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኀ፡ውእቱ፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡
+            </q>
+              <q xml:lang="en">
+        <note>[5.8] = CCR 3: (II f. 11v), according to AB.
+        </note>
       </list>
     </additions>
     </physDesc>
