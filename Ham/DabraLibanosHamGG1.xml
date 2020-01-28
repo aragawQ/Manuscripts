@@ -371,7 +371,48 @@ Land of Tedrar in Ḥamḥam Qalāy and in Nāʿle and in   ʾAgaran, in Kǝʾet
 <msPart xml:id="p3">
   <msIdentifier></msIdentifier>
   <msContents>
-  </msPart>
+    <msItem xml:id="p3_i1">
+      <locus target="#12rb"/>
+      <incipit>ጸሐፍነ፡ኀቢረነ፡ወሠሚረነ፡ተጋቢአነ፡ቅዱሳን፡ዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡</incipit>
+      <explicit>በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡አሜን።</explicit>
+<note>[5.8] = CCR 3: (II f. 11v)
+[5.8]: (II f. 12ra-b) [sulla devozione per le vesti di Libānos, non reperibile in CCR], according to AB.
+</note>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout></layout>
+</layoutDesc>
+</objectDesc>
+<additions>
+<list>
+  <item xml:id="a8">
+    <locus target="#12rb"/>
+    <q xml:lang="gez">
+      </q>
+      <note>[5.8.10]: (II f. 12rb e 12vb, bianco f. 12va) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
+      </item>
+      <item xml:id="a9">
+        <locus target="#12vb"/>
+        <q xml:lang="gez">
+          </q>
+          <note>[5.8.10]: (II f. 12rb e 12vb, bianco f. 12va) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
+          </item>
+          <item xml:id="a10">
+            <locus target="#12vb"/>
+            <q xml:lang="gez">
+              </q>
+              <note>[5.10] = CCR 26: (II f. 12vb), according to AB.</note>
+              </item>
+              </list>
+              </additions>
+              </physDesc>
+              </msPart>
+
 <msPart xml:id="p5">
 <msIdentifier></msIdentifier>
 <msContents>
