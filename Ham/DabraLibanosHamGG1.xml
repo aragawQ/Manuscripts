@@ -331,35 +331,34 @@ Many of the place names of this act occur in CCR 1 too.
 <q xml:lang="en">
 <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
 I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon,</persName>restored this gwǝlt of Samāz, Gwunāgwunā, Bet Nabayt, ʾAgarḥǝse, ʾAddi Gǝdom, ʿƎṣ Māre, ʾAnbasat, ʾAgāme with theirs lands so that  it may be for him an instructor in the <pb/>Heavenly Kingdom unto the ages of ages, amen.
-<note>Translation: As Roger Schneider's translator relied on the edition by Conti Rossini, what I translitirate as 'Samāz', he has as 'Kamaz', noting with a question mark.
+<note>Translation: As Roger Schneider's translator relied on the edition by Conti Rossini, what I translitirate as 'Samāz', he has as 'Kamaz', noting with a question mark.</note>
 <note>[5.6-8] = CCR 25: (II f. 11r-v), according to AB. Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo XVII.Ugual osservazione che per l'atto precedente: notisi come l'Agāmē qui apparisca distretto di poca importanza.'
-            </note>
-          </q>
-        </item>
-        <item xml:id="a7">
-        <locus target="#11v"/>
-          <q xml:lang="gez">
-           <handShift cert="high" new="#h9"/>/>
-            ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወባናዕሌ፡ወበአረገን።በክኤቲ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኀ፡ውእቱ፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡</q>
-              <q xml:lang="en">
-Land of Tedrar in Ḥamḥam Qalāy and in Nāʿle and in   ʾAgaran, in Kǝʾeti Falǝg granted gwǝlt to Holy Libānos King Gabra Masqal, so that he may be a guide for him in the Heavenly Kingdom. And what was granted as gwǝlt can not be counted, for it is a lot.
-              </q>
-        <note>[5.8] = CCR 3: (II f. 11v), according to AB. Carlo Conti Rossini comments on p. 185: 'Scrittura che par del secolo XVIII. [...]. Atto indubitamente apocrifo, che trae origine dal Gadla Libanos'.
-        </note>
-        </item>
-      </list>
-    </additions>
-    </physDesc>
+</note>
+</q>
+</item>
+<item xml:id="a7">
+<locus target="#11v"/>
+<q xml:lang="gez">
+<handShift cert="high" new="#h9"/>/>
+ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወባናዕሌ፡ወበአረገን።በክኤቲ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኀ፡ውእቱ፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡</q>
+<q xml:lang="en">
+Land of Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAgaran, in Kǝʾeti Falǝg granted gwǝlt to Holy Libānos King Gabra Masqal, so that he may be a instructor for him in the Heavenly Kingdom. And what was granted as gwǝlt can not be counted, for it is a lot.
+</q>
+<note>[5.8] = CCR 3: (II f. 11v), according to AB. Carlo Conti Rossini comments on p. 185: 'Scrittura che par del secolo XVIII. [...]. Atto indubitamente apocrifo, che trae origine dal Gadla Libanos'.
+</note>
+</item>
+</list>
+</additions>
+</physDesc>
 </msPart>
 <msPart xml:id="p3">
-  <msIdentifier></msIdentifier>
-  <msContents>
-    <msItem xml:id="p3_i1">
-      <locus target="#12rb"/>
-      <incipit>ጸሐፍነ፡ኀቢረነ፡ወሠሚረነ፡ተጋቢአነ፡ቅዱሳን፡ዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡</incipit>
-      <explicit>በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡አሜን።</explicit>
-<note>[5.8] = CCR 3: (II f. 11v)
-[5.8]: (II f. 12ra-b) [sulla devozione per le vesti di Libānos, non reperibile in CCR], according to AB.
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p3_i1">
+<locus target="#12rab"/>
+<incipit>ጸሐፍነ፡ኀቢረነ፡ወሠሚረነ፡ተጋቢአነ፡ቅዱሳን፡ዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡</incipit>
+<explicit>በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡አሜን።</explicit>
+<note>[5.8]: (II f. 12ra-b) [sulla devozione per le vesti di Libānos, non reperibile in CCR], according to AB.
 </note>
 </msItem>
 </msContents>
@@ -373,28 +372,32 @@ Land of Tedrar in Ḥamḥam Qalāy and in Nāʿle and in   ʾAgaran, in Kǝʾet
 </objectDesc>
 <additions>
 <list>
-  <item xml:id="a8">
-    <locus target="#12rb"/>
-    <q xml:lang="gez">
-      </q>
-      <note>[5.8.10]: (II f. 12rb e 12vb, bianco f. 12va) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
-      </item>
-      <item xml:id="a9">
-        <locus target="#12vb"/>
-        <q xml:lang="gez">
-          </q>
-          <note>[5.8.10]: (II f. 12rb e 12vb, bianco f. 12va) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
-          </item>
-          <item xml:id="a10">
-            <locus target="#12vb"/>
-            <q xml:lang="gez">
-              </q>
-              <note>[5.10] = CCR 26: (II f. 12vb), according to AB.</note>
-              </item>
-              </list>
-              </additions>
-              </physDesc>
-              </msPart>
+<item xml:id="a8">
+<locus target="#12rb"/>
+<q xml:lang="gez">
+ዘአጽሐፍኩ፡አነ፡ሕዝብ፡ሤመ፡ዓቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡ትስመር፡ጽዮን፡ገረደ፡መጣዕ፡ወተዳቦ፡ብእሲሃ፡በዘ፡ፈረዩ፡ወጸገዩ፡ገንዞተ፡መጣዕ፡ዘእንበለ፡ዘይትለአኩ፡ለመካን።ለእመቦ፡ዘተሐየሎሙ፡ወተአገሎሙ፡ውጉዘ፡ለይኩን፡በአፈ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡
+</q>
+<note>[5.8.10]: (II f. 12rb e 12vb, bianco f. 12va) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
+</item>
+<item xml:id="a9">
+<locus target="#12vb"/>
+<q xml:lang="gez">
+አፈ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ወበአፉሁ፡ለአቡነ፡መጣዕ፡ዓለም፡አሜን።
+</q>
+<note>[5.8.10]: (II f. 12rb e 12vb, bianco f. 12va) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
+</item>
+<item xml:id="a10">
+<locus target="#12vb"/>
+<q xml:lang="gez">
+በ፴ወ፭፡ዓመተ፡ምሕረት፡ወበመዋዕሊሁ፡ለንጉሥነ፡ዘርአ፡ያዕቆብ፡ወስመ፡መንግሥቱ፡ቈስጠንጢኖስ፡ወእምአመ፡ነግሠ፡በ፳ወ፭፡ዓመት፡ዘወሀበ፡ዓምደ፡ለቤተ፡ክርስቲያን፡ዘመጣዕ፡<sic>ተስፈ፡</sic>ኢየሱስ፡ስዩም፡ግሎመከደ፡ወልዱ፡ለይስሞ፡ይበርክ፡ነፍሱ፡ወብእሲቱ፡ወውሉዱ፡ወይጽሐፍ፡ስሞ፡ውስተ፡መጽሐፈ፡ሕይወት፡በጸሎቱ፡ለቅዱስ፡መጣዕ፡ወእንትሙሂ፡ቅዱሳን፡ዝክርዎ፡ወኢትርስዕዎ፡በጸሎትክሙ፡ለዓለመ፡ዓለም፡አሜን
+</q>
+<note>Conti Rossini emended ተስፈ፡ኢየሱስ as ተስፋ፡ኢየሱስ.</note>
+<note>[5.10] = CCR 26: (II f. 12vb), according to AB.</note>
+</item>
+</list>
+</additions>
+</physDesc>
+</msPart>
 
 <msPart xml:id="p5">
 <msIdentifier></msIdentifier>
