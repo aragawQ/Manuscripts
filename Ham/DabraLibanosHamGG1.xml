@@ -406,9 +406,9 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
 <msContents>
 <msItem xml:id="p4_i1">
 <locus target="#13r"/>
-<incipit></incipit>
-<explicit></explicit>
-<note>[5.10] = CCR 29: (II f. 13ra-b), according to AB.</note>
+<incipit>ዘወሀቡ፡ቀደምት፡ተርከ፡ለአቡነ፡ሊባኖስ፡ወአነሂ፡ተንሥአ፡ክርስቶስ፡</incipit>
+<explicit>ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በአፉሁ፡ለአቡነ፡መጣዕ፡አሜን።</explicit>
+<note>[5.10] = CCR 29: (II f. 13ra-b), according to AB. Conti Rossini comments on p. 214: 'Grossa scrittura del secolo XVII o XVIII. In due colonne. [...]. Atto di età assolutamente dubbia, anche per lo stato del ms.: l'autore della donazione, confermando al convento il posesso d'un villaggio, doveva essere un capo, di cui cancellature non lasciano indovinare i titoli'.</note>
 </msItem>
 <msItem xml:id="p4_i2">
 <locus target="#13v"/>
@@ -973,7 +973,7 @@ while <persName ref="PRS2633BelenSa"><title>sǝyǝmt of <placeName ref="LOC2947E
 </note>
 </div>
 </div>
-      <div type="edition"  xml:lang="geez" corresp="#p2_10">
+      <div type="edition"  xml:lang="geez" corresp="#p2_8">
       <div type="textpart" subtype="folio" n="11v">
       <ab>
         <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልደ፡ወመንፈስ፡ቅዱስ፡</seg>
@@ -1017,7 +1017,7 @@ while <persName ref="PRS2633BelenSa"><title>sǝyǝmt of <placeName ref="LOC2947E
               <div type="edition"  xml:lang="geez" corresp="#p4_i1">
               <div type="textpart" subtype="folio" n="13r">
               <ab>
-                  <seg ana="#invocation" type="interpretation">  በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ:</seg>
+                  <seg ana="#invocation" type="interpretation"> በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ:</seg>
               ዘወሀቡ፡ቀደምት፡ተርከ፡ለአቡነ፡ሊባኖስ፡ወአነሂ፡ተንሥአ፡ክርስቶስ፡ወሀብኩ፡ወአግባእኩ፡ዘተገፍዐ፡ተርከ፡አነ፡<del rend="effaced"/>
     ከመ፡ይትወሐሠኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ከመ፡ይግበሩ፡ተዝከርየ፡ደቂቀ፡መካን፡ወኢይርስዑኒ፡በጊዜ፡ጸሎት፡ሰሚዕየ፡ዘይቤ፡ቃለ፡ሰሎሞን፡መክብብ፡ከንቱ፡ከንቱ፡ለዓለም፡ንብረ<cb/>
     ቱ፡ዘእንበለ፡ዘገብረ፡ሥንቁ፡በመዋዕለ፡ሕይወቱ፡የሀቦ፡እግዚአብሔር፡ለተንሥአ፡ክርስቶስ፡<del rend="effaced"/>
