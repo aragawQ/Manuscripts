@@ -401,7 +401,23 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
 </additions>
 </physDesc>
 </msPart>
-
+<msPart xml:id="p4">
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p4_i1">
+<locus target="#13r"/>
+<incipit></incipit>
+<explicit></explicit>
+<note>[5.10] = CCR 29: (II f. 13ra-b), according to AB.</note>
+</msItem>
+<msItem xml:id="p4_i2">
+<locus target="#13v"/>
+<incipit></incipit>
+<explicit></explicit>
+<note>[5.12] = CCR 28: (II f. 13vb), according to AB.</note>
+</msItem>
+</msContents>
+</msPart>
 <msPart xml:id="p5">
 <msIdentifier></msIdentifier>
 <msContents>
