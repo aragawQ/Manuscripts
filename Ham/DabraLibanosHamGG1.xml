@@ -436,7 +436,8 @@ Roger Schneider noted the following 'The text is the second column of the page. 
     <locus target="#14r"/>
     <incipit></incipit>
     <explicit></explicit>
-    <note>[5.12] = CCR 7 II parte: (II f. 14r), according to AB.</note>
+    <note>[5.12] = CCR 7 II parte: (II f. 14r), according to AB.
+    </note>
     </msItem>
     <msItem xml:id="p5_i2">
       <locus target="#14v"/>
