@@ -1034,7 +1034,7 @@ while <persName ref="PRS2633BelenSa"><title>sǝyǝmt of <placeName ref="LOC2947E
 ቱ፡ዘእንበለ፡ዘገብረ፡ሥንቁ፡በመዋዕለ፡ሕይወቱ፡የሀቦ፡እግዚአብሔር፡ለተንሥአ፡ክርስቶስ፡<del rend="effaced"/>
 መንግሥተ፡ሰማያት፡ህየንተ፡ኅዳጥ፡ብዙኅ፡አሜን፡የሀቦ፡እግዚአብሔር፡ህየንተ፡ንስቲት፡ዓቢይ፡የሀቦ፡እግዚአብሔር፡ህየንተ፡ዘበ፡ምድር፡ዘበ፡ሰማያት፡ወያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡ወያግርር፡ፀሮ፡ወጸላእቶ፡አሜን።ወይስረይ፡ኃጢአቱ፡ወይደምሰስ፡መጽሐ
 <handShift/>ፈ፡ዕዳሁ፡አሜን።ወለእመቦ፡ዘሄዳ፡ወዘተአገላ፡ውጉዘ፡ለይኩን፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በአፉሁ፡ለአቡነ፡መጣዕ፡አሜን።
-<note>Roger has two notes to this document, he comments two cases (also noted by Conti Rossini as 'illeggibile') which I noted as 'effaced':
+<note>Roger Schneider has two notes to this document, he comments two cases (also noted by Conti Rossini as 'illeggibile') which I noted as 'effaced':
 1.One line erased.
 2. One of the lines erased. The first letter seems to be ለ, the third perhaps ፈ.
 </note>
@@ -1053,11 +1053,17 @@ And may He forgive his sins and obliterate the book of his debts, amen. And if t
 <div type="edition"  xml:lang="geez" corresp="#p4_i2">
 <div type="textpart" subtype="folio" n="13vb">
 <ab>
-ወሀብኩ፡አነ፡ይሥምከ፡እግዚእ፡ሥዩመ፡ኀማሳን፡ለአባ፡መጣዕ፡ዘአሀም፡ፈዋሴ፡ዱያን፡ኀበ፡ተቀብረ፡አዕጽምቲሁ፡፭፡ነፍሰ፡ሰብእ፡ገድቦ፡ምስለ፡ብእሲቱ፡ወደቂቁ፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወያኑኅ፡መዋዕልየ፡በዲበ፡ምድር፡ወይዕቀብ፡ነፍስየ፡ወሥጋየ፡ምስለ፡አንስትያየ፡ወደቂቅየ፡ወዘመድየ፡ወበቀዳሚ፡ወሀብኩ፡መንጦላዕተ፡በርኴናየት፡እስመ፡ሰማዕኩ፡ቃለ፡መክብብ፡ዘይቤ፡ኵሉ፡ከንቱ፡ከንቱ፡ውእቱ፡ዘኢገብረ፡ሠናየ፡በሕይወቱ።ወበዐጋማሂ፡አርታዕኩ፡ጕልተ።
-                  </ab>
-                  <note>ነፍሰ ነፍስየ ብርኴናየተ በርኴናየት</note>
-                  </div>
-                  </div>
+ወሀብኩ፡አነ፡ይሥምከ፡እግዚእ፡ሥዩመ፡<sic>ኀማሳን፡</sic>ለአባ፡መጣዕ፡ዘአሀም፡ፈዋሴ፡ዱያን፡ኀበ፡ተቀብረ፡አዕጽምቲሁ፡፭፡ነፍሰ፡ሰብእ፡ገድቦ፡ምስለ፡ብእሲቱ፡ወደቂቁ፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወያኑኅ፡መዋዕልየ፡በዲበ፡ምድር፡ወይዕቀብ፡ነፍስየ፡ወሥጋየ፡ምስለ፡አንስትያየ፡ወደቂቅየ፡ወዘመድየ፡ወበቀዳሚ፡ወሀብኩ፡መንጦላዕተ፡በርኴናየተ፡እስመ፡ሰማዕኩ፡ቃለ፡መክብብ፡ዘይቤ፡ኵሉ፡ከንቱ፡ከንቱ፡ውእቱ፡ዘኢገብረ፡ሠናየ፡በሕይወቱ።ወበዐጋማሂ፡አርታዕኩ፡ጕልተ።
+</ab>
+<note>Roger Schneider reads ነፍሰ for ነፍስየ and ብርኴናየተ for በርኴናየተ. Conti Rossii has ኀማሴን for ኀማሳን in the manuscript.</note>
+</div>
+</div>
+<div type="edition"  xml:lang="en" corresp="#p4_i2">
+<div type="textpart" subtype="folio" n="13vb">
+<ab>
+</ab>
+</div>
+</div>            
      <div type="edition"  xml:lang="geez" corresp="#p5_i1">
   <div type="textpart" subtype="folio" n="14r">
 <ab>
