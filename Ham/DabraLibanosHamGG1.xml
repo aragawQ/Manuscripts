@@ -417,6 +417,15 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
 <note>[5.12] = CCR 28: (II f. 13vb), according to AB. Conti Rossini comments on pp. 213-214: 'Scrittura del secolo XVI: colonna. [...]. Atto non compiuto. Il donatore di schiavi al convento è il capo dello Hamasen, che assime il semplice titolo di sum: nell'atto n.20, che è dell'anno 1328, il capo dello Hamasen è detto awfari, con un vicario (?) chiamato aqansan, ai tempi di re Zara Yaqob aveva invece il titolo di kantiba (J. Perruchon, Les chroniques de Zara Yaqob, p. 48). Riesce quindi impossibile precisare la data dell'atto, che in ogni caso non è posteriore al secolo XVI'.</note>
 </msItem>
 </msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout></layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
 </msPart>
 <msPart xml:id="p5">
 <msIdentifier></msIdentifier>
@@ -444,7 +453,7 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
 </objectDesc>
 <additions>
 <list>
-  <item xml:id="a10">
+  <item xml:id="a11">
     <locus target="#14r"/>
     <q xml:lang="gez">
     አባ፡መጣዕ፡ዘወሀብክዎ፡አነ፡ገብረ፡መስቀል፡አእሚርየ፡ከመ፡የኃልፍ፡ንብረተ፡ዝንቱ፡ዓለም
@@ -453,7 +462,7 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
       </q>
       <note>[5.12] = cf. CCR 1: (II f. 14r margine superiore), according to AB.</note>
       </item>
-      <item xml:id="a11">
+      <item xml:id="a12">
         <locus target="#14v"/>
         <q xml:lang="gez">to transcribe!
           </q>
@@ -549,7 +558,7 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
                   </objectDesc>
                   <additions>
                   <list>
-                    <item xml:id="a12">
+                    <item xml:id="a13">
                       <locus target="#18v"/>
                       <q xml:lang="gez">
                         </q>
@@ -580,19 +589,19 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
                     </objectDesc>
                     <additions>
                     <list>
-                      <item xml:id="a13">
+                      <item xml:id="a14">
                         <locus target="#19r"/>
                         <q xml:lang="gez">
                           </q>
                           <note>[5.22]: (f. 19r) [quasi illeggibile e non reperibile in CCR], according to AB.</note>
                           </item>
-                            <item xml:id="a14">
+                            <item xml:id="a15">
                               <note>[5.24] = CCR 32: (II f. 20va-b), according to AB.</note>
                               </item>
-                                <item xml:id="a15">
+                                <item xml:id="a16">
                                   <note>[5.24] = CCR 16: (II f. 20vb), according to AB.</note>
                                   </item>
-                                      <item xml:id="a16">
+                                      <item xml:id="a17">
                                         <note>[5.24] = CCR 5: (II f. 20vb), according to AB.</note>
                                         </item>
                     </list></additions>
@@ -618,7 +627,7 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
                       </objectDesc>
                       <additions>
                       <list>
-                          <item xml:id="a17">
+                          <item xml:id="a18">
                             <q xml:lang="gez">
                               </q>
                             <note>[6.1]: (II f. 22va) [lista dei beni della Chiesa di Maṭā‘, non reperibile in CCR], according to AB.</note>
@@ -659,17 +668,17 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
             </objectDesc>
             <additions>
               <list>
-                <item xml:id="a18">
+                <item xml:id="a19">
                   <q xml:lang="gez">
                     </q>
                     <note>The text corresponds to CCR 14. This document was photographed only by Roger Schneider.</note>
                     </item>
-                    <item xml:id="a19">
+                    <item xml:id="a20">
                       <q xml:lang="gez">
                         </q>
                         <note>The text corresponds to CCR 31. This document was photographed only by Roger Schneider.</note>
                         </item>
-                        <item xml:id="a20">
+                        <item xml:id="a21">
                           <q xml:lang="gez">
                             </q>
                             <note>The text corresponds to CCR 9. This document was photographed only by Roger Schneider.</note>
@@ -694,12 +703,12 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
             </objectDesc>
             <additions>
               <list>
-                <item xml:id="a21">
+                <item xml:id="a22">
                   <q xml:lang="gez">
                     </q>
                     <note>[4.34]: (I f. 11ra-b) [non reperibile in CCR], according to AB.</note>
                     </item>
-                    <item xml:id="a22">
+                    <item xml:id="a23">
                       <q xml:lang="gez">
                         <note>[4.36] = CCR 1: (I f. 11va-b), according to AB.</note>
 </q>
