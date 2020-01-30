@@ -441,10 +441,10 @@ Roger Schneider noted the following 'The text is the second column of the page. 
     <note>[5.12] = CCR 7 II parte: (II f. 14r), according to AB. This text was identified as a second part of a different documents, which comes here later. Conti Rossini comments on pp.190-191 'A questo atto deve certo riferirsi il seguente, che pero nel ms. non trovasi con esso collegato. [...]; B scrittura del sec. XVIII. [...]. In questo testo, alcuno cariche figurano occupate dagli stessi che erano mentovati nell'atto n.6; per altre i titolari sono mutati. Cosi il capo dei diaconi, il liqa kenot, il liqa masanqo "capo dei suonari" sono ancora Sawǝn, Za-ʾAmalāy,  Bǝgwǝnāy. Fra i mutati, in primo luogo è da me,zionare il metropolita, che ora è Giorgis, il che conferma le notizie che già si hanno in proposito, che cioè, scqcciqto michele, gli succedette Isacco e che a questo, verso il 1225, era subentrato un Giorgio. [...]'. Roger Schneider noted the following: 'Voir ce qui est dit des deux versions, à la premierè de CR.7. La photo est celle de B. photo p.3. Pas de colonnes. Ecriture pareille à celle de la première parti. Ligne en  pointillé au-dessus du texte. A gauche, la moitié  inférieure du feuillet est abîmée avec des partes de mots'. On a different folio, marked as n.7, Roger Schneider has this text transcribed again, here he provides his notes in English: 'For the copy A, see the remarks to the first part. B is on the recto folloing n.7, first part. The writing is similar to that of the first part. No columns.'
     </note>
     </msItem>
-    <msItem xml:id="p5_i2">
-      <locus target="#14v"/>
-      <incipit></incipit>
-      <explicit></explicit>
+<msItem xml:id="p5_i2">
+<locus target="#14v"/>
+<incipit>ወሀብኩ፡አነ፡<persName ref="PRS10332Yerdea">ይርድአነ፡ክርስቶስ፡ብጕናይ፡ዘጽላላ፡<roleName type="title">ዐቃቤ፡ሰዐተ፡መጣዕ፡</roleName></persName></incipit>
+      <explicit>ውጉዘ፡ለይኩን፡በዝ፡ዓለም፡ወበዘ፡ይመጽእ፡ዓለም፡ውጉዘ፡ለይኩን፡በአፉሁ፡ለአቡነ፡መጣዕ፡ወበአፈ፡ኢየሱስ፡ክርስቶስ፡አሜን።ይኩን፡ለይኩን። ። ።</explicit>
       <note> [5.14] = CCR 8: (II f. 14v), according to AB.</note>
       </msItem>
 </msContents>
