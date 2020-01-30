@@ -434,9 +434,11 @@ Roger Schneider noted the following 'The text is the second column of the page. 
 <msContents>
   <msItem xml:id="p5_i1">
     <locus target="#14r"/>
-    <incipit></incipit>
-    <explicit></explicit>
-    <note>[5.12] = CCR 7 II parte: (II f. 14r), according to AB.
+    <incipit>ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡</incipit>
+    <explicit>ዘንተ፡ዘአጽሐፈ፡
+    <persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡ስዐተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስቶስ፡ከመ፡ምንኵስናሁ፡ጸጋ፡መጣዕ፡</persName>
+    ለዘአጽሐፈ፡ወለዘጸሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።</explicit>
+    <note>[5.12] = CCR 7 II parte: (II f. 14r), according to AB. This text was identified as a second part of a different documents, which comes here later. Conti Rossini comments on pp.190-191 'A questo atto deve certo riferirsi il seguente, che pero nel ms. non trovasi con esso collegato. [...]; B scrittura del sec. XVIII. [...]. In questo testo, alcuno cariche figurano occupate dagli stessi che erano mentovati nell'atto n.6; per altre i titolari sono mutati. Cosi il capo dei diaconi, il liqa kenot, il liqa masanqo "capo dei suonari" sono ancora Sawǝn, Za-ʾAmalāy,  Bǝgwǝnāy. Fra i mutati, in primo luogo è da me,zionare il metropolita, che ora è Giorgis, il che conferma le notizie che già si hanno in proposito, che cioè, scqcciqto michele, gli succedette Isacco e che a questo, verso il 1225, era subentrato un Giorgio. [...]'. Roger Schneider noted the following: 'Voir ce qui est dit des deux versions, à la premierè de CR.7. La photo est celle de B. photo p.3. Pas de colonnes. Ecriture pareille à celle de la première parti. Ligne en  pointillé au-dessus du texte. A gauche, la moitié  inférieure du feuillet est abîmée avec des partes de mots'. On a different folio, marked as n.7, Roger Schneider has this text transcribed again, here he provides his notes in English: 'For the copy A, see the remarks to the first part. B is on the recto folloing n.7, first part. The writing is similar to that of the first part. No columns.'
     </note>
     </msItem>
     <msItem xml:id="p5_i2">
@@ -1070,33 +1072,35 @@ and his wife and his children, so that he would beseech a reward for me the Heav
      <div type="edition"  xml:lang="geez" corresp="#p5_i1">
   <div type="textpart" subtype="folio" n="14r">
 <ab>
-  <pb n="14r"/>
- ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ
-ሳት፡ምስለ፡ሳራ፡ወሰራሜ፡ምስለ፡ሐና፡ወሶፍያ፡ወኢይዝክር፡ላቲ፡ኀጢአታ፡ወይደምስስ፡መጸሐፈ፡ጌጋያ፡አሜን።ወአሜን።ለይኩን፡ለይኩን።ወእንዘ፡ሀለዉ፡ዓበይተ፡<placeName ref="LOC2002Bugna">܆ብጕና፡</placeName>
+<pb n="14r"/>
+ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title"><lb/><unclear>በ</unclear>አልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀ<lb/><unclear>ኒ</unclear>ተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ
+ሳት፡አንስት፡ምስለ፡ሳራ፡ወሰራሜ፡ምስለ፡ሐና፡ወሶፍያ፡ወኢይዝክር፡ላቲ፡ኀጢአታ፡ወይደምስስ፡መጸሐፈ፡ጌጋያ፡አሜን።ወአሜን።ለይኩን፡ለይኩን።ወእንዘ፡ሀለዉ፡ዓበይተ፡<placeName ref="LOC2002Bugna">ብጕና፡</placeName>
 <persName ref="PRS12848Abt"><roleName type="title">ቃለጳስ፡</roleName>አብት፡</persName>
 <persName ref="PRS11336Giyorgis"><roleName type="title">ጳጳስ፡</roleName>አባ፡ጊዮርጊስ፡</persName>
 <persName ref="PRS5107Harayo"><roleName type="title">ወኤጲስ፡ቆጶስ፡</roleName>ኀረዮ፡</persName>
-<persName ref="PRS10332Yerdea"><roleName type="title">ዓቃቤ፡ሰዓት፡መጣዕ፡</roleName>ይርድአነ፡ክርስቶስ፡</persName>
-<persName ref="PRS12836Sawen"><roleName type="title">ሊቀ፡ዲያቆናት፡</roleName>ሰውን፡</persName>
+<persName ref="PRS10332Yerdea"><roleName type="title">ዓቃቤ፡ሰዓት፡መጣ፡</roleName>ይርድአነ፡ክርስቶስ፡</persName>
+<persName ref="PRS12836Sawen"><roleName type="title">ሊቀ፡ዝያቆናት፡</roleName>ሰውን፡</persName>
 <persName ref="PRS12837AbYekun"><roleName type="title">ቀይሰ፡ገበዝ፡ጽዮን፡</roleName>አብ፡ይኩን፡</persName>
-<persName ref="PRS12838Yetbarak"><roleName type="title">መልሐዘ፡</roleName>ይትባረክ፡</persName>
-<persName ref="PRS12839ZaAdonay"><roleName type="title">ቀስ፡ሐጺን፡</roleName>ዘአዶናየ፡</persName>
+<persName ref="PRS12838Yetbarak"><roleName type="title">መልሕዞ፡</roleName>ይትባረክ፡</persName>
+<persName ref="PRS12839ZaAdonay"><roleName type="title">ቀስ፡ሐፃኒ፡</roleName>ዘአዶ<lb/><supplied reason="lost">ና</supplied>የ፡</persName>
 <persName ref="PRS12840KrestosBen"><roleName type="title">ጸዋር፡ናርጌ፡መኣሰሬ፡</roleName>ክርስቶስ፡ብነ፡</persName>
-<persName ref="PRS12841Sebhat"><roleName type="title">ጸሐፍ፡ላም፡</roleName>ስብሐት፡</persName>
+<persName ref="PRS12841Sebhat"><roleName type="title">ጸ<lb/><supplied reason="lost">ሐ</supplied>ፍ፡ላም፡</roleName>ስብሐት፡</persName>
 <persName ref="PRS12842Yeqbeena"><roleName type="title">ሐስጓ፡</roleName>ይዕቀበነ፡</persName>
-<persName ref="PRS12844Asgada"><roleName type="title">ማእከለ፡ባሕር፡</roleName>ኣስገደ፡</persName>
-<persName ref="PRS12843BaraSeyon"><roleName type="title">ዓቃ፡ጸንጸን፡</roleName>ባራ፡ጽዮን፡</persName>
+<persName ref="PRS12844Asgada"><roleName type="title">ማእ<lb/><supplied reason="lost">ከለ፡</supplied>ባሕር፡</roleName>ኣስገደ፡</persName>
+<persName ref="PRS12843BaraSeyon"><roleName type="title">ዓቃ፡ጸንጸን፡</roleName>ባራ፡ጽዮ<lb/><supplied reason="lost">ን፡</supplied></persName>
 <persName ref="PRS12845Yemheranna"><roleName type="title">ዐቃብ፡ደጌ፡ማሰረይ፡</roleName>ይምሐረነ፡</persName>
-<persName ref="PRS12846Zarawedem"><roleName type="title">ሊቀ፡አቀይታት፡</roleName>ዘረውድም፡</persName>
+<persName ref="PRS12846Zarawedem"><roleName type="title">ሊቀ፡አቀይ<lb/><supplied reason="lost">ታ</supplied>ት፡</roleName>ዘረውድም፡</persName>
 እንዘ፡
 <persName ref="PRS12847ZaAmalay"><roleName type="title">ሊቀ፡ኬኖት፡</roleName>ዘአመላይ፡</persName>
-ወእንዘ፡
+<lb/><supplied reason="lost">ወእንዘ፡</supplied>
 <persName ref="PRS12848Yamo"><roleName type="title">ሊቀ፡ኅዳር፡</roleName>ያሞ፡</persName>
-<persName ref="PRS12849WaldaBegwenay"><roleName type="title">ሊቀ፡መሰንቆ፡</roleName>ወልደ፡ብጕናይ፡</persName>
-ወከመዝ፡ኣጐላትኩ፡ዘኣልቦ፡ግብረ፡ወገብጋበ፡መፍቀሬ፡እግዚአብሔር፡ዘወሀበ፡<persName ref="PRS6152Lalibala">ላሊበላ፡</persName>ዘንተ፡ጕልተ፡ዘገፍዓ፡ውጉዘ፡ለይኩን፡አሜን፡ዘንተ፡ዘአጽሐፈ፡
-<persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡ስዐተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስቶስ፡ከመ፡ምንኵስናሁ፡ጸጋ፡መጣዕ፡</persName>
-ለዘአጽሐፈ፡ወለዘጸሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።
+<persName ref="PRS12849WaldaBegwenay"><roleName type="title">ሊቀ፡መሰንቆ፡</roleName>ወል<lb/><supplied reason="lost">ደ፡ብጕ</supplied>ናይ፡</persName>
+ወከመዝ፡ኣጕለትኩ፡ዘኣልቦ፡ግ<lb/><supplied reason="lost">ብ</supplied>ረ፡ወገብጋበ፡መፍቀሬ፡እግዚአብሔር፡ዘ<lb/><supplied reason="lost">ወሀ</supplied>በ፡<persName ref="PRS6152Lalibala">ላሊበላ፡</persName>ዘንተ፡ጕልት፡ዘገፍዓ፡ውጉ<lb/><supplied reason="lost">ዘ፡</supplied>ለይኩን፡አሜን፡ዘንተ፡ዘአጽሐፈ፡
+<persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡<lb/><supplied reason="lost">ሰዓ</supplied>ተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስ<lb/><supplied reason="lost">ቶስ፡ስ</supplied>መ፡ምንኵስናሁ፡ጸጋ፡መጣዕ፡</persName>
+ለዘአጽ<lb/><supplied reason="lost">ሐፈ፡</supplied>ወለዘጸሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።
 </ab>
+<note>ዓቃ፡ጸንጸን Roger Schneider transcribed as 'ዕቃ፡ጸንጸን', noting that 'Le ʿayn a en meme temps les marques du 4e et de 6e ordre'.
+</note>
 </div>
 </div>
 <div type="edition" xml:lang="en" corresp="#p5_i1">
