@@ -448,6 +448,11 @@ Roger Schneider noted the following 'The text is the second column of the page. 
 <note> [5.14] = CCR 8: (II f. 14v), according to AB. Conti Rossini commented on pp. 192-193: 'Scrittura forse del secolo XVII. [...]. Questo <persName ref="PRS10332Yerdea">Yǝrdǝʾanna Krǝstos</persName> è lo stesso dell'atto n. 7. A quanto risulta da questo atto, egli pure sarebbe stato natvp del Beguena: manifestamente, come suol essere per le dinastie che dalla regione avita s'impongono su piu vasti territori ove il lor dominio è meno accetto, e come, del resto, fa anche l'attuale dinastia scioana, gli Zague cercavano, per lor maggiore sicurezza, di restingere nelle mani de'loro fidi compaesani tutte le principali cariche del regno. E anche assai probabile che le donazioni di Lalibala e de'suoi, pio che da sentimenti religiosi, fosser promosse da ragioni politiche e intese ad accaparrare al governo del Lasta il favore del Tigrè settentrionale.
 Roger Schneider noted: 'Photo p.4. Au-dessus tresse formée de deux fils en roulis'.</note>
 </msItem>
+<msItem xml:id="p5_i3">
+  <locus target="#14v"/>
+  <incipit>አነ፡ሣህል፡ወረደ፡ወሀብኩ፡ለመጣዕ፡ሰርፍ፡</incipit>
+    <note>[5.14]: (f. 14v) [non reperibile in CCR], according to AB.</note>
+    </msItem>
 </msContents>
 <physDesc>
 <objectDesc form="Leaf">
@@ -468,12 +473,6 @@ Roger Schneider noted: 'Photo p.4. Au-dessus tresse formée de deux fils en roul
       </q>
       <note>[5.12] = cf. CCR 1: (II f. 14r margine superiore), according to AB.</note>
       </item>
-      <item xml:id="a12">
-        <locus target="#14v"/>
-        <q xml:lang="gez">to transcribe!
-          </q>
-          <note>[5.14]: (f. 14v) [non reperibile in CCR], according to AB.</note>
-          </item>
       </list>
       </additions>
 </physDesc>
@@ -1150,6 +1149,7 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
 <div type="textpart"  subtype="folio" n="14v" xml:lang="geez">
 <ab>
 <pb n="14v"/>
+<handShift cert="high" new="#h10"/>
 <seg ana="#inovacation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።</seg>
 <seg ana="#suscription" type="interpretation">ወሀብኩ፡አነ፡<persName ref="PRS10332Yerdea">ይርድአነ፡ክርስቶስ፡ብጕናይ፡ዘጽላላ፡<roleName type="title">ዐቃቤ፡ሰዐተ፡መጣዕ፡</roleName></persName></seg>
 <seg ana="#provision" type="interpretation">ገራውሀ፡በቢሓት፡፴፪፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወሀብኩ፡ለመጣዕ፡ለመባእ፡<sic>ዘዋህበኒ፡</sic>በዐለ፡ምድራ፡ሠሚሮ፡ወፈቲዎ፡ወልደ፡ማእከሊ፡<sic>ዘእመረ፡</sic>ዘአልቦ፡ኀይለ፡ወትእግልተ፡ዘነሣእኩ፡እመቦ፡
