@@ -1133,7 +1133,7 @@ while
 and while
 <persName ref="PRS12848Yamo"><roleName type="title">liqa ḫǝdār</roleName>Yāmo,</persName>
 <persName ref="PRS12849WaldaBegwenay"><roleName type="title">liqa masanqo</roleName>Walda Bǝgwǝnāy.</persName>
-Thus, at that time I bequeathed, without taxation or forced labour, what <persName ref="PRS6152Lalibala">Lālibālā,</persName> lover of God granted. Who will restrain this gwǝlt, shall that one be excommunicated, Amen.
+Thus, at that time I bequeathed, without taxation or forced labour, what <persName ref="PRS6152Lalibala">Lālibālā,</persName> lover of God granted. Who will restrain this gwǝlt, be that one excommunicated, amen.
 This was written upon the request of <persName ref="PRS10332Yerdea"><roleName type="title">ʿāqābe saʿāt Maṭāʿ,</roleName> [named] at birth Yǝrdǝʾanna Krǝstos and  at entering monkhood as Ṣaggā Maṭāʿ.</persName> Relent that one who requested to write [this] and that one who wrote [this] and bless us, Amen.
 </ab>
 <note>ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ, which I translate as 'And while two were united', Roger Schneider's translator has as 'When both (...) were presented together';
@@ -1141,7 +1141,7 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
 ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድሳት፡አንስት, which I translate as 'and for my wife may He associate her with saint women', Roger Schneider's translator has as 'and so that he may number my wife among the blessed women';
 
 ወከመዝ፡ኣጕለትኩ፡ዘኣልቦ፡ግ<lb/><supplied reason="lost">ብ</supplied>ረ፡ወገብጋበ፡መፍቀሬ፡እግዚአብሔር፡ዘ<lb/><supplied reason="lost">ወሀ</supplied>በ፡<persName ref="PRS6152Lalibala">ላሊበላ፡</persName> I translate as
-'Thus, at that time I bequeathed, without taxation or forced labour, what <persName ref="PRS6152Lalibala">Lālibālā</persName>, lover of God, granted.', while Roger Schneider's translator interpreted as 'In this manner I have given gult by charter, exempt of taxes and obligations'. 
+'Thus, at that time I bequeathed, without taxation or forced labour, what <persName ref="PRS6152Lalibala">Lālibālā</persName>, lover of God, granted.', while Roger Schneider's translator interpreted as 'In this manner I have given gult by charter, exempt of taxes and obligations'.
 </note>
 </div>
 </div>
@@ -1151,9 +1151,13 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
 <pb n="14v"/>
 <seg ana="#inovacation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ።</seg>
 <seg ana="#suscription" type="interpretation">ወሀብኩ፡አነ፡<persName ref="PRS10332Yerdea">ይርድአነ፡ክርስቶስ፡ብጕናይ፡ዘጽላላ፡<roleName type="title">ዐቃቤ፡ሰዐተ፡መጣዕ፡</roleName></persName></seg>
-<seg ana="#provision" type="interpretation">ገራውሀ፡በቢሓት፡፴፪፡ከመ፡ይትወሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወሀብኩ፡ለመጣዕ፡ለመባእ፡ዘዋህበኒ፡በዐለ፡ምድራ፡ሠሚሮ፡ወፈቲዎ፡ወልደ፡ማእከሊ፡ዘእመረ፡ዘአልቦ፡ዘተአገሎ፡ዘተኀየሎ፡ለመጣዕ፡እመሂ፡ሥዩም፡ወእመሂ፡ስዑር፡ውጉዘ፡ለይኩን፡በዝ፡ዓለም፡ወበዘ፡ይመጽእ፡ዓለም፡ውጉዘ፡ለይኩን፡በአፉሁ፡ለአቡነ፡መጣዕ፡ወበአፈ፡ኢየሱስ፡ክርስቶስ፡አሜን።ይኩን፡ለይኩን። ። ።
+<seg ana="#provision" type="interpretation">ገራውሀ፡በቢሓት፡፴፪፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወሀብኩ፡ለመጣዕ፡ለመባእ፡<sic>ዘዋህበኒ፡</sic>በዐለ፡ምድራ፡ሠሚሮ፡ወፈቲዎ፡ወልደ፡ማእከሊ፡<sic>ዘእመረ፡</sic>ዘአልቦ፡ኀይለ፡ወትእግልተ፡ዘነሣእኩ፡እመቦ፡
+ዘተአገሎ፡ዘተኀየሎ፡ለመጣዕ፡እመሂ፡ሥዩም፡ወእመሂ፡ስዑር፡ውጉዘ፡ለይኩን፡በዝ፡ዓለም፡ወበዘ፡ይመጽእ፡ዓለም፡ውጉዘ፡ለይኩን፡በአፉሁ፡ለአቡነ፡መጣዕ፡ወበአፈ፡ኢየሱስ፡ክርስቶስ፡አሜን።ይኩን፡ለይኩን። ። ።
 </seg>
   </ab>
+  <note><sic>ዘእመረ፡</sic>
+    ዘተአገሎ፡
+  </note>
   </div>
   </div>
   <div type="edition" xml:lang="en" corresp="#p5_i2">
