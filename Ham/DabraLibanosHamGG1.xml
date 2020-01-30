@@ -1072,6 +1072,7 @@ and his wife and his children, so that he would beseech a reward for me the Heav
      <div type="edition"  xml:lang="geez" corresp="#p5_i1">
   <div type="textpart" subtype="folio" n="14r">
 <ab>
+  <handShift corresp="#h2"/>
 <pb n="14r"/>
 ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title"><lb/><unclear>በ</unclear>አልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀ<lb/><unclear>ኒ</unclear>ተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡ወለብእሲትየኒ፡ከመ፡ይደምራ፡ምስለ፡ቅድ
 ሳት፡አንስት፡ምስለ፡ሳራ፡ወሰራሜ፡ምስለ፡ሐና፡ወሶፍያ፡ወኢይዝክር፡ላቲ፡ኀጢአታ፡ወይደምስስ፡መጸሐፈ፡ጌጋያ፡አሜን።ወአሜን።ለይኩን፡ለይኩን።ወእንዘ፡ሀለዉ፡ዓበይተ፡<placeName ref="LOC2002Bugna">ብጕና፡</placeName>
@@ -1095,11 +1096,19 @@ and his wife and his children, so that he would beseech a reward for me the Heav
 <lb/><supplied reason="lost">ወእንዘ፡</supplied>
 <persName ref="PRS12848Yamo"><roleName type="title">ሊቀ፡ኅዳር፡</roleName>ያሞ፡</persName>
 <persName ref="PRS12849WaldaBegwenay"><roleName type="title">ሊቀ፡መሰንቆ፡</roleName>ወል<lb/><supplied reason="lost">ደ፡ብጕ</supplied>ናይ፡</persName>
-ወከመዝ፡ኣጕለትኩ፡ዘኣልቦ፡ግ<lb/><supplied reason="lost">ብ</supplied>ረ፡ወገብጋበ፡መፍቀሬ፡እግዚአብሔር፡ዘ<lb/><supplied reason="lost">ወሀ</supplied>በ፡<persName ref="PRS6152Lalibala">ላሊበላ፡</persName>ዘንተ፡ጕልት፡ዘገፍዓ፡ውጉ<lb/><supplied reason="lost">ዘ፡</supplied>ለይኩን፡አሜን፡ዘንተ፡ዘአጽሐፈ፡
+ወከመዝ፡ኣጕለትኩ፡ዘኣልቦ፡ግ<lb/><supplied reason="lost">ብ</supplied>ረ፡ወገብጋበ፡መፍቀሬ፡እግዚአብሔር፡ዘ<lb/><supplied reason="lost">ወሀ</supplied>በ፡<persName ref="PRS6152Lalibala">ላሊበላ፡</persName>ዘንተ፡<sic>ጕልት፡</sic>ዘገፍዓ፡ውጉ<lb/><supplied reason="lost">ዘ፡</supplied>ለይኩን፡አሜን፡ዘንተ፡ዘአጽሐፈ፡
 <persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡<lb/><supplied reason="lost">ሰዓ</supplied>ተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስ<lb/><supplied reason="lost">ቶስ፡ስ</supplied>መ፡ምንኵስናሁ፡ጸጋ፡መጣዕ፡</persName>
 ለዘአጽ<lb/><supplied reason="lost">ሐፈ፡</supplied>ወለዘጸሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።
 </ab>
-<note>ዓቃ፡ጸንጸን Roger Schneider transcribed as 'ዕቃ፡ጸንጸን', noting that 'Le ʿayn a en meme temps les marques du 4e et de 6e ordre'.
+<note>ሊቀ፡ዝያቆናት፡ሰውን ሊቀ፡ድያቆናት፡ሳውን
+  መልሕዞ መልሐዘ
+  ቀስ፡ሐፃኒ   ቀስ፡ሐፂን
+  ዓቃ፡ጸንጸን ዕቃ፡ጸንጸን
+  ሊቀ፡አቀይ<lb/><supplied reason="lost">ታ</supplied>ት፡   ሊቀ፡አቃይ<lb/><supplied reason="lost">ታ</supplied>ት፡
+  ኣጕለትኩ ኣለትኩ
+  ዘ<lb/><supplied reason="lost">ወሀ</supplied>በ፡<persName ref="PRS6152Lalibala">ላሊበላ ዘ<lb/><supplied reason="lost">ወሀ</supplied>ቦ፡<persName ref="PRS6152Lalibala">ላሊበላ
+  ዘንተ፡<sic>ጕልት</sic>   ዘንተ፡<sic>ጕልተ</sic>
+  ዓቃ፡ጸንጸን Roger Schneider transcribed as 'ዕቃ፡ጸንጸን', noting that 'Le ʿayn a en meme temps les marques du 4e et de 6e ordre'.
 </note>
 </div>
 </div>
