@@ -191,7 +191,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               </item>
                            </list>
                         </collation>
-                        <condition key="good">Slight traces of humidity throughout.</condition>
+                        <condition key="good">Slight traces of humidity throughout. Parchment repair on <locus target="#78"/>.</condition>
                      </supportDesc>
                      
                      <layoutDesc>
@@ -208,7 +208,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <dim type="left">21</dim>
                            <dim type="intercolumn">16</dim>
                         </dimensions>
-                        <ab type="ruling">Ruling and pricking.</ab>
+                        <ab type="ruling">Ruling and pricking are visible.</ab>
                      </layout>
                      </layoutDesc>
                   </objectDesc>
