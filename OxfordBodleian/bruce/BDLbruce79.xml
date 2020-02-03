@@ -46,12 +46,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                   <!--  can the msItems/work IDs be arranged better?-->
                   
                   <msItem xml:id="ms_i1">
-                     <locus from="1" to="75"/>
+                     <locus from="1ra" to="75ra" corresp="#fol1"/>
+                     <locus from="4ra" to="78ra" corresp="#fol2"/>
                      <title type="incomplete" ref="LIT1560Gospel"/>
                      <textLang mainLang="gez"/> 
                      
                      <msItem xml:id="ms_i1.1">
-                        <locus from="1" to="44"/>
+                        <locus from="1ra" to="44va" corresp="#fol1"/>
+                        <locus from="4ra" to="47va" corresp="#fol2"/>
                         <title type="complete" ref="LIT2713Luke" xml:lang="gez">ወንጌል፡ ዘሉቃስ፡</title>
                         <textLang mainLang="gez"/> 
                         <note>The prologue differs from <ref type="mss" corresp="BDLbruce77#ms_i1.1"/> and the edition
@@ -62,14 +64,16 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                      </msItem>
                         
                         <msItem xml:id="ms_i1.2">
-                           <locus target="#44"/>
+                           <locus from="44va" to="44vb" corresp="#fol1"/>
+                           <locus from="47va" to="47vb" corresp="#fol2"/>
                            <title type="complete" ref="LIT1693John#Stichometry"/>
                            <textLang mainLang="gez"/> 
                            <note>The table of the 19 chapters, into which the Gospel of John is divided, is attached to <ref target="#ms_i1.1"/>.</note>
                         </msItem>
                         
                         <msItem xml:id="ms_i1.3">
-                           <locus from="45" to="75"/>
+                           <locus from="45ra" to="75ra" corresp="#fol1"/>
+                           <locus from="48ra" to="78ra" corresp="#fol2"/>
                            <title type="complete" ref="LIT2715John" xml:lang="gez">ወንጌል፡ ዘዮሐንስ፡</title>
                            <textLang mainLang="gez"/> 
                            <note>The text seems to be more correct that <ref target="#ms_i1.1"/> and the Gospels contained 
@@ -86,77 +90,127 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <material key="parchment"/>
                         </support>
                         <extent>
-                           <measure unit="leaf">75</measure>
+                           <measure unit="leaf">80</measure>
                            <note>formae 4<hi rend="apices">ae</hi> 
                            </note>
-                           <!--<dimensions type="outer" unit="mm">
-                              <height></height>
-                              <width></width>
-                              <depth></depth>
+                           <dimensions type="outer" unit="mm">
+                              <height>303</height>
+                              <width>278</width>
+                              <depth>42</depth>
                            </dimensions>
-                           <measure type="weight" unit="g"></measure>-->
+                           <dimensions type="leaf" unit="mm"  xml:id="leafdim">
+                              <height>295</height>
+                              <width>276</width>
+                           </dimensions>
+                           <note corresp="#leafdim">Data on leaves dimensions taken from <locus target="#26r" corresp="#fol2"/>.</note>
+                           
+                           <measure type="weight" unit="g">2086</measure>
                         </extent>
-                        <!-- <foliation></foliation>
+                        
+                         <foliation>
+                            <list>
+                               <item xml:id="fol1">
+                                  <locus from="1r" to="75v" corresp="#fol1"/>
+                                  <locus from="4r" to="78v" corresp="#fol2"/>
+                                  The foliation referred to in    <bibl>
+                                     <ptr target="bm:Dillmann1848Catalogus"/>
+                                     <citedRange unit="page">18ab</citedRange>
+                                  </bibl> is not visible in the manuscript. It did not consider the three blank leaves at the beginning of the manuscript and began
+                                  on <locus target="#4r" corresp="#fol2"/>.
+                               </item>
+                               
+                               <item xml:id="fol2">
+                                  <locus from="1r" to="80r" corresp="#fol2"/>
+                                 The manuscript is foliated in pencil in the upper right corner. The three blank leaves at the beginning and two blank leaves at the end
+                                 are foliated as well.
+                               </item>
+                            </list>
+                         </foliation>
+                        
                         <collation>
-                           <signatures></signatures>
+                           <signatures>European numerals in black ink in the upper left corner of the first folio of each quire, partly cut off:
+                              traces of a numeral, possibly 2, on <locus target="#7r" corresp="#fol2"/>;
+                              3 on <locus target="#15r" corresp="#fol2"/>;
+                              traces of a loop, possibly 6, on <locus target="#23r" corresp="#fol2"/>;
+                              traces of a numeral, possibly 7, on <locus target="#31r" corresp="#fol2"/>;
+                              traces of a numeral, possibly 8, on <locus target="#39r" corresp="#fol2"/>;
+                              9 on <locus target="#47r" corresp="#fol2"/>;
+                              very small remains of ink on <locus target="#63r" corresp="#fol2"/>;
+                              traces of a numeral on <locus target="#71r" corresp="#fol2"/>.
+                           </signatures>
                            <list>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q1" n="A">
+                                 <dim unit="leaf">2</dim>
+                                 <locus from="1r" to="2v" corresp="#fol2"/>
                               </item>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q2" n="1">
+                                 <dim unit="leaf">4</dim>
+                                 <locus from="3r" to="6v" corresp="#fol2"/>
                               </item>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q3" n="2">
+                                 <dim unit="leaf">8</dim>
+                                 <locus from="7r" to="14v" corresp="#fol2"/>
                               </item>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q4" n="3">
+                                 <dim unit="leaf">8</dim>
+                                 <locus from="15r" to="22v" corresp="#fol2"/>
                               </item>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q5" n="4">
+                                 <dim unit="leaf">8</dim>
+                                 <locus from="23r" to="30v" corresp="#fol2"/>
                               </item>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q6" n="5">
+                                 <dim unit="leaf">8</dim>
+                                 <locus from="31r" to="38v" corresp="#fol2"/>
                               </item>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q7" n="8">
+                                 <dim unit="leaf">8</dim>
+                                 <locus from="39r" to="46v" corresp="#fol2"/>
                               </item>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q8" n="7">
+                                 <dim unit="leaf">8</dim>
+                                 <locus from="47r" to="54v" corresp="#fol2"/>
                               </item>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q9" n="8">
+                                 <dim unit="leaf">8</dim>
+                                 <locus from="55r" to="62v" corresp="#fol2"/>
                               </item>
-                              <item xml:id="q" n="">
-                                 <dim unit="leaf"></dim>
-                                 <locus from="" to=""/>
+                              <item xml:id="q10" n="9">
+                                 <dim unit="leaf">8</dim>
+                                 <locus from="63r" to="70v" corresp="#fol2"/>
                               </item>
-                        <condition key=""></condition>-->
+                              <item xml:id="q11" n="10">
+                                 <dim unit="leaf">8</dim>
+                                 <locus from="71r" to="78v" corresp="#fol2"/>
+                                 3, stub after 6
+                                 6, stub after 3
+                              </item>
+                              <item xml:id="q12" n="B">
+                                 <dim unit="leaf">2</dim>
+                                 <locus from="79r" to="80v" corresp="#fol2"/>
+                              </item>
+                           </list>
+                        </collation>
+                        <condition key="good">Slight traces of humidity throughout.</condition>
                      </supportDesc>
-                     <!--<layout columns="" writtenLines="">
-                        <note corresp="#margin #textarea">Data on text area and margin dimensions taken from <locus target="#"/>.</note>
+                     
+                     <layoutDesc>
+                     <layout columns="2" writtenLines="24">
+                        <note corresp="#margin #textarea">Data on text area and margin dimensions taken from <locus target="#26r"/>.</note>
                         <dimensions unit="mm" xml:id="textarea"> 
-                           <height></height>
-                           <width></width>
+                           <height>218</height>
+                           <width>224</width>
                         </dimensions>
                         <dimensions type="margin" unit="mm" xml:id="margin">
-                           <dim type="top"></dim>
-                           <dim type="bottom"></dim>
-                           <dim type="right"></dim>
-                           <dim type="left"></dim>
-                           <dim type="intercolumn"></dim>
+                           <dim type="top">29</dim>
+                           <dim type="bottom">48</dim>
+                           <dim type="right">29</dim>
+                           <dim type="left">21</dim>
+                           <dim type="intercolumn">16</dim>
                         </dimensions>
-                        <ab type="ruling"></ab>
-                     </layout>-->
+                        <ab type="ruling">Ruling and pricking.</ab>
+                     </layout>
+                     </layoutDesc>
                   </objectDesc>
                   
                   <handDesc>
@@ -175,9 +229,32 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <item xml:id="e2" corresp="#ms_i1.3" rend="marginal">
                            <desc>The first 22 chapter numbers of the Gospel harmony are indicated in the margins.</desc>
                         </item>
+                        
+                        <item xml:id="e3">
+                           <desc type="StampExlibris">Ex libris of <persName ref="PRS2916Bruce"/> glued on the inner front board, containing
+                              shelfmarks of the manuscript: 79. Aeth. Cat. 2.
+                              Bruce of Kinnaird Nº 2</desc>
+                        </item>
+                        
+                        <item xml:id="e4">
+                           <desc>A pagemark of blue textile is sewn to the headband. </desc>
+                        </item>
                      </list>
                      
                   </additions>
+                  
+                  <bindingDesc>
+                     <binding xml:id="binding">
+                        <decoNote xml:id="b1">European binding, red leather with gilded borders. Printed on the spine: New Testam. Tom II.
+                           Cover of the inner board and first fly-leaf gilded and imprinted with floral pattern. 
+                           The edges of the manuscript have been gilded. 
+                           One paper fly leaf each, on which a watermark containing Latin letters is visible, at the front and back.</decoNote>
+                        <decoNote xml:id="b2" type="bindingMaterial">
+                           <material key="leather"/>
+                           <material key="paper"/>
+                        </decoNote>
+                     </binding>
+                  </bindingDesc>
                   
                </physDesc>
                
@@ -240,6 +317,9 @@ schematypens="http://relaxng.org/ns/structure/1.0"
       <revisionDesc>
          <change who="DR" when="2017-04-26">Created catalogue entry</change> 
          <change who="DR" when="2017-06-27">Changes</change> 
+         <change who="DR" when="2020-02-03">Updated with codicological information 
+            (foliation, collation, binding, condition, layout) during consultation of the manuscript.
+         </change>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">
