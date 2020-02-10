@@ -489,12 +489,6 @@ Roger Schneider noted: 'Photo p.4. Au-dessus tresse formée de deux fils en roul
 <note>[5.14] = CCR 11: (II f. 15r), according to AB. Carlo Conti Rossini comments on p.195: Scrittura molto arcaica, non posteriore al secolo XIV o XV. Il folio e lacerato in piu punti superiormente, e nell’ultimo tratto l’inchiostro  e in parte svanito, di guisa che l’atto in parte e illegibile'.</note>
 </msItem>
 <msItem xml:id="p6_i2">
-<locus target="#15r"/>
-<incipit>to transcribe</incipit>
-<explicit></explicit>
-<note>[5.14]: (f. 15r) [non reperibile in CCR], accoding to AB.</note>
-</msItem>
-<msItem xml:id="p6_i3">
 <locus target="#15v"/>
 <incipit></incipit>
 <explicit></explicit>
@@ -509,6 +503,15 @@ Roger Schneider noted: 'Photo p.4. Au-dessus tresse formée de deux fils en roul
 <layout></layout>
 </layoutDesc>
 </objectDesc>
+<additions>
+<list>
+<item xml:id="a12">
+<locus target="#15r"/>
+to transcribe
+<note>[5.14]: (f. 15r) [non reperibile in CCR], accoding to AB.</note>
+</item>
+</list>
+</additions>
 </physDesc>
 </msPart>
 <msPart xml:id="p7">
