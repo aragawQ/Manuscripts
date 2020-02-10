@@ -265,42 +265,6 @@ The copy of this text will be provided further in this discription, here it is i
 Roger Schneider noted in his notes 'The photo is of Conti Rossini's copy A. The text starts on page 6, after CR n 19, from which it is separated by a line of dots and strokes. The text continues on pages 11, 12, 13, and ends on page 14. The writing is similar to that of n 19'. The misplacement, observed by Roger Schneider, seems to be temporary, neither Conti Rossini, nor Alessandro Bausi observed anything similar.
 Carlo Conti Rossini commented on pp. 203 and 206 just the following: '"A" scrittura del sec. XVI. [...]. La data corrisponde al 1322. La regina qui nominata è <persName ref="PRS2633BelenSa">Bǝlen Sabā:</persName>nella storia di <persName ref="PRS1854Amdase">re ʿĀmda Ṣǝyon,</persName>riferendosi fatti svoltisi alquanto piu tardi, si parla di <persName ref="PRS10589ZanMan">Žān Mangaśā,</persName>che sembra fosse allora la favorita del re, verosimilmente la "moglie piu giovane" di cui altrove essa parla. Singolare è il nome della regina e da mettersi a paro con quello di Bǝlen Sagad,su di che non potrei che rinviare alle mie <hi rendition="simple:italic">Note etiopiche,</hi> Roma 1894, p.14.
 In questo atto, i titolari delle cariche son tutti mutati. La regina stessa Bǝlen Sabā è a capo dell'<placeName ref=" LOC2947Endart">ʾƎntartā,</placeName>precisamente come le figlie di <persName ref="PRS10626ZaraY">re Zarʾa Yāʿqob,</persName>poco piu d'un secolo piu tardi, governavano altre province. Il <hi rendition="simple:italic">mā’ǝkala bāḥr</hi> è non piu il Gabru, che vi trovammo nel 1305, ma un Samāy, che potrebbesi identificare col Semeyšaḥal di cui parla la storia di re ʿĀmda Ṣǝyon a p. 103; nel governo di Dabra Māʿəṣo, Fəqura ʾEgziʾ ha lasciato il posto a Maṭre ʾEgziʾ; lo <hi rendition="simple:italic">ʿaqābe saʿat</hi> di Maṭāʿ è ora Gabra Krəstos, e il <hi rendition="simple:italic">śǝyyuma</hi> Zaredā è  Zarʾa Dāwit, al posto di Yāʿbika ʾEgziʾ'.</note>
-<<<<<<< HEAD
-      </msItem>
-      <msItem xml:id="p2_i5">
-          <locus from="10r" to="10v"/>
-            <incipit>ወለይእቲኒ፡<persName ref="PRS2633BelenSa">ብሌን፡ሰባ፡<roleName type="title">በዐልተ፡ቢሐት፡</roleName></persName>የሀባ፡እግዚኣብሔር፡ፍቅረ፡ምስለ፡<persName ref="PRS1854Amdase"><roleName type="function">ምታ፡</roleName>ዐምደ፡ጽዮን፡</persName></incipit>
-            <explicit>ወከመ፡ኆጻ፡ባሕር፡አሜን፡ወአሜን።
-            ወይበል፡ኵሉ፡ሕዝብ፡አሜን፡ወአሜን።</explicit>
-            <note> It is still [5.2-6] = CCR 20: (II ff. 8v-10v), according to AB.</note>
-            </msItem>
-            <msItem xml:id="p2_i6">
-                <locus target="#10v"/>
-                  <incipit>ወኵልክሙ፡እለ፡አንበብክሙ፡ጸልዩ፡</incipit>
-                  <explicit>በሰማይ፡ወበምድር፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።</explicit>
-                    <note> It is still [5.2-6] = CCR 20: (II ff. 8v-10v), according to AB.</note>
-                  </msItem>
-                  <msItem xml:id="p2_i7">
-
-                      <locus from="10v" to="11r"/>
-
-                        <incipit>አነ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡</persName>
-                        ወሀብኩ፡አንፈ፡በዐት፡ማርያም፡ዘሰዐጋ፡ሕፄን፡</incipit>
-                        <explicit>ወበማርያም፡ወላዲ
-                        <pb/>ወበማርያም፡ወላዲተ፡አምላክ፡ውጉዛነ፡ለይኩኑ፡አሜን።</explicit>
-                        <note>[5.6] = CCR 21: (II ff. 10v-11r), according to AB. Carlo Conti Rossini comments on pp. 206-207 the following: 'Scrittura del secolo XVI. [...]. La data corrisponde al 1323. Alle cariche consuete, i cui titolari non sono mutati, aggiungonsi il seyuma Aṣbi, non nominato, cioe il capo della provincia a NE dell'Enderta, sui contrafforti abissini dominanti il pian del sale e la regione dei Dancali, e l'awfari Degna. Questo Degna è certamente lo stesso che nelle guerre contro l'Adal nel 1332 comandava la cavalleria di destra dell'esercito reale (v. Storia, p.19 e 57); e questo incontro dei due testi è una riprova della loro autenticita. La carica di awfari sembra aver poi raggiunto un grande lustro, come parrebbe dalle donazioni alla cattedrale di Aksum da me odite.'
-                          Roger Schneider notes 'Follows immediately the numbers 20, from which it is separated by a line of dots and strokes. The writing is similar to that of n 20, but the hand is different, a little less trained and slightly smaller. The last line is on page 15'.</note>
-
-                        </msItem>
-                      <msItem xml:id="p2_i8">
-                          <locus target="#11v"/>
-<incipit>አግባእኩ፡አነ፡
-<persName ref="PRS6073Krestos">ክርስቶስ፡አቡሁ፡</persName>በአፈ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<title>ንጉሥ፡</title></persName>ተርካ፡ዘቀዳሚ፡ምድሮሙ፡ለቅዱሳን፡</incipit>
-<explicit>ወእመቦ፡ዘደምሰሳ፡ወዘቀደዳ፡በጽልሑት፡ከማሁ፡ለይኩን፡ውጉዘ፡ለዓለመ፡ዓለም፡አሜን።</explicit>
-<note>[5.8] = CCR 18: (II f. 11v), according to Alessandro Bausi.
-This document occurs twice, in CCR indicated as "A", 'scrittura del sec. XVI.' on p.201.
-Carlo Conti Rossini comments on p.202: 'Atto non datato, del tempo di re ʿĀmda Ṣǝyon, che dev'essere stato redatto fra il 1319. Infatti, il capo di Dabra Libānos è, in questo documento, ʿƎqbā ʾƎgziʾ: ora nel 1319 era ancora Asfeḥa, eletto verso la fine del secolo XIII, e nel 1322 era gia Gabra Krestos, che continuava a occupare tale carica ai tempi di re Sayfa Arʿad. ʿƎqbā ʾƎgziʾ va quindi collocato fra i due, e deve essere stato per pochissimo tempo alla direzione del convento.
-=======
 </msItem>
 <msItem xml:id="p2_i5">
 <locus from="10r" to="10v"/>
@@ -327,7 +291,6 @@ Roger Schneider notes 'Follows immediately the numbers 20, from which it is sepa
 <explicit>ወእመቦ፡ዘደምሰሳ፡ወዘቀደዳ፡በጽልሑት፡ከማሁ፡ለይኩን፡ውጉዘ፡ለዓለመ፡ዓለም፡አሜን።</explicit>
 <note>[5.8] = CCR 18: (II f. 11v), according to Alessandro Bausi.
 This document occurs twice, in CCR indicated as "A", 'scrittura del sec. XVI.' on p.201. Carlo Conti Rossini comments on p.202: 'Atto non datato, del tempo di re ʿĀmda Ṣǝyon, che dev'essere stato redatto fra il 1319. Infatti, il capo di Dabra Libānos è, in questo documento, ʿƎqbā ʾƎgziʾ: ora nel 1319 era ancora Asfeḥa, eletto verso la fine del secolo XIII, e nel 1322 era gia Gabra Krestos, che continuava a occupare tale carica ai tempi di re Sayfa Arʿad. ʿƎqbā ʾƎgziʾ va quindi collocato fra i due, e deve essere stato per pochissimo tempo alla direzione del convento.
->>>>>>> 178664896f11e0fcd5a2e42aa60b7d25c9dc7e7f
 </note>
 </msItem>
 </msContents>
@@ -341,113 +304,47 @@ This document occurs twice, in CCR indicated as "A", 'scrittura del sec. XVI.' o
 </objectDesc>
 <additions>
 <list>
-<<<<<<< HEAD
-  <item xml:id="a5">
-    <locus target="#11r"/>
-    <q xml:lang="gez">
-      <handShift cert="high" new="#h8"/>
-        <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
-        ወሀብኩ፡አነ፡
-        <persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ለአባ፡መጣዕ፡ዘንተ፡ጕልተ፡ጽዳእ፡አሲራ፡ለባሲሮ፡ገማእ፡ዜና፡ኩዶ፡አድ፡ሕልሞ፡ኦና፡ሳባይ፡ስናጋ፡ማርያሌ፡ሠርዔ፡ለጎ፡ወንከብ፡ገዳሞሙ፡ለመነኮሳት፡ቤተ፡ሰማእት፡አናንያ፡አዛርያ፡ወሚሳኤል፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተአገሎ፡ወዘተኃየሎ፡ውጉዘ፡ለይኩን።
-</q>
-        <q xml:lang="en">
-        <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-    I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName>granted to ʾabbā Maṭāʿ this gwəlt:
-      Ṣǝdāʾ, ʾAsirā,  Labāsiro, Gamāʾ,  Zenā Kudo, ʾAd Ḥǝlmo, ʾOnā Sābāy, Sənāgā, Māryāle, Sarʿe, Lago, Wankab, the monastery of the monks of the church of martyrs ʾAnānyā, ʾAzāryā and Misāʾel, so that he may beseech a reward for me in the Heavenly Kingdom. If there is anyone who perverts it or violates it, may he be excommunicated.
-<note>Translation: Roger Schneider's translator ወሚሳኤል, which I simply translitirate as 'Misāʾel', emended into 'Michael', noting 'sic' in the square brakets.
-ከመ፡ይትወሀሰኒ, which I translate as 'so that he may beseech a reward for me', he interprets as 'so that he may be my garantor' </note>
-    </q>
-    <note>[5.6] = CCR 24: (II f. 11r), according to AB.
-      Carlo Conti Rossini comments on p. 211: 'Scrittura del secolo XVII. Atto di dubbia attendibilità, troppo scostandosi dalla forma consueta degli atti di ʿĀmda Ṣǝyon.'
-       Roger Schneider repeats Conti Rossini, and concludes the following: 'Conti Rossini rightly doubts the authenticity of thic act, because the form of the text differs completely from the one used by ʿĀmda Ṣǝyon. He dates the writing to the XVIIth century. It is very poor and unskilled, difficult to date, but surely late.'
-Many of the place names of this act occur in CCR 1 too.
-</note>
- </item>
-          <item xml:id="a6">
-          <locus target="#11rv"/>
-            <q xml:lang="gez">
-              <seg ana="#invocation" type="interpretation">በአኰቴተ፡<sic>አከብ፡</sic>ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
-              አግባእኩ፡አነ፡
-              <persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ዘንተ፡ጕልተ፡ሰማዝ፡ጕናጕና፡ቤት፡ነበይት፡አገርሕሤ፡አዲ፡ግዶም፡
-            ዕፅ፡ማሬ፡አንበሰት፡አጋሜ፡ምስለ፡ምድሮሙ፡ከመ፡ይኵኖ፡መርሐ፡በመንግሥተ፡
-            <pb/>ሰማያት፡ለዓለመ፡ዓለም፡አሜን።
-            <note>CCR changes አከብ፡ into አብ፡ and ሰማዝ፡ into ከመዝ፡ without noting these emendations (?).
-            In RS transcription is ommited ጕልተ፡. </note>
-          </q>
-          <q xml:lang="en">
-                <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-                Restored I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon,</persName>this gwǝlt of Samāz, Gwunāgwunā, Bet Nabayt, ʾAgarḥǝse, ʾAddi Gǝdom, ʿƎṣ Māre, ʾAnbasat, ʾAgāme with theirs lands so that  it may be for him an instructor in the <pb/>Heavenly Kingdom unto the ages of ages, amen.
-            <note>[5.6-8] = CCR 25: (II f. 11r-v), according to AB.
-Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo XVII.Ugual osservazione che per l'atto precedente: notisi come l'Agāmē qui apparisca distretto di poca importanza.'
-            </note>
-          </q>
-        </item>
-        <item xml:id="a7">
-        <locus target="#11v"/>
-          <q xml:lang="gez">
-           <handShift cert="high" new="#h9"/>/>
-            ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወባናዕሌ፡ወበአረገን።በክኤቲ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኀ፡ውእቱ፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡</q>
-              <q xml:lang="en">
-Land of Tedrar in Ḥamḥam Qalāy and in Nāʿle and in   ʾAgaran, in Kǝʾeti Falǝg granted gwǝlt to Holy Libānos King Gabra Masqal, so that he may be a guide for him in the Heavenly Kingdom. And what was granted as gwǝlt can not be counted, for it is a lot.
-              </q>
-        <note>[5.8] = CCR 3: (II f. 11v), according to AB. Carlo Conti Rossini comments on p. 185: 'Scrittura che par del secolo XVIII. [...]. Atto indubitamente apocrifo, che trae origine dal Gadla Libanos'.
-        </note>
-        </item>
-      </list>
-    </additions>
-    </physDesc>
-</msPart>
-<msPart xml:id="p3">
-  <msIdentifier></msIdentifier>
-  <msContents>
-    <msItem xml:id="p3_i1">
-      <locus target="#12rb"/>
-      <incipit>ጸሐፍነ፡ኀቢረነ፡ወሠሚረነ፡ተጋቢአነ፡ቅዱሳን፡ዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡</incipit>
-      <explicit>በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡አሜን።</explicit>
-<note>[5.8] = CCR 3: (II f. 11v)
-[5.8]: (II f. 12ra-b) [sulla devozione per le vesti di Libānos, non reperibile in CCR], according to AB.
-</note>
-=======
 <item xml:id="a5">
 <locus target="#11r"/>
 <q xml:lang="gez">
-  <handShift cert="high" new="#h8"/>
-<seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>ወሀብኩ፡አነ፡<persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ለአባ፡መጣዕ፡ዘንተ፡ጕልተ፡ጽዳእ፡አሲራ፡ለባሲሮ፡ገማእ፡ዜና፡ኩዶ፡አድ፡ሕልሞ፡ኦና፡ሳባይ፡ስናጋ፡ማርያሌ፡ሠርዔ፡ለጎ፡ወንከብ፡ገዳሞሙ፡ለመነኮሳት፡ቤተ፡ሰማእት፡አናንያ፡አዛርያ፡ወሚሳኤል፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተአገሎ፡ወዘተኃየሎ፡ውጉዘ፡ለይኩን።
+<handShift cert="high" new="#h8"/>
+<seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+ወሀብኩ፡አነ፡<persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ለአባ፡መጣዕ፡ዘንተ፡ጕልተ፡ጽዳእ፡አሲራ፡ለባሲሮ፡ገማእ፡ዜና፡ኩዶ፡አድ፡ሕልሞ፡ኦና፡ሳባይ፡ስናጋ፡ማርያሌ፡ሠርዔ፡ለጎ፡ወንከብ፡ገዳሞሙ፡ለመነኮሳት፡ቤተ፡ሰማእት፡አናንያ፡አዛርያ፡ወሚሳኤል፡ከመ፡ይትወሀሰኒ፡በመንግሥተ፡ሰማያት፡እመቦ፡ዘተአገሎ፡ወዘተኃየሎ፡ውጉዘ፡ለይኩን።
 </q>
 <q xml:lang="en">
-<seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName>granted to ʾabbā Maṭāʿ this gwəlt: Ṣǝdāʾ, ʾAsirā,  Labāsiro, Gamāʾ,  Zenā Kudo, ʾAd Ḥǝlmo, ʾOnā Sābāy, Sənāgā, Māryāle, Sarʿe, Lago, Wankab, the monastery of the monks of the church of martyrs ʾAnānyā, ʾAzāryā and Misāʾel, so that he may beseech a reward for me in the Heavenly Kingdom. If there is anyone who perverts it or violates it, may he be excommunicated.
-<note>Translation: Roger Schneider's translator emended  ወሚሳኤል (which I simply translitirate as 'Misāʾel') into 'Michael', noting 'sic' in the square brakets.
+<seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>I, <persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon, </persName>granted to ʾabbā Maṭāʿ this gwəlt: Ṣǝdāʾ, ʾAsirā,  Labāsiro, Gamāʾ,  Zenā Kudo, ʾAd Ḥǝlmo, ʾOnā Sābāy, Sənāgā, Māryāle, Sarʿe, Lago, Wankab, the monastery of the monks of the church of martyrs ʾAnānyā, ʾAzāryā and Misāʾel, so that he may beseech a reward for me in the Heavenly Kingdom. If there is anyone who perverts it or violates it, may he be excommunicated.
+<note>Translation: Roger Schneider's translator ወሚሳኤል, which I simply translitirate as 'Misāʾel', emended into 'Michael', noting 'sic' in the square brakets.
 ከመ፡ይትወሀሰኒ, which I translate as 'so that he may beseech a reward for me', he interprets as 'so that he may be my garantor' </note>
 </q>
 <note>[5.6] = CCR 24: (II f. 11r), according to AB. Carlo Conti Rossini comments on p. 211: 'Scrittura del secolo XVII. Atto di dubbia attendibilità, troppo scostandosi dalla forma consueta degli atti di ʿĀmda Ṣǝyon.'
 Roger Schneider repeats Conti Rossini, and concludes the following: 'Conti Rossini rightly doubts the authenticity of thic act, because the form of the text differs completely from the one used by ʿĀmda Ṣǝyon. He dates the writing to the XVIIth century. It is very poor and unskilled, difficult to date, but surely late.'
 Many of the place names of this act occur in CCR 1 too.
 </note>
-</item>
+ </item>
 <item xml:id="a6">
 <locus target="#11rv"/>
 <q xml:lang="gez">
-<seg ana="#invocation" type="interpretation">በአኰቴተ፡<sic>አከብ፡</sic>ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
-አግባእኩ፡አነ፡<persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ዘንተ፡ጕልተ፡ሰማዝ፡ጕ
-<handShift new="#h9"/>ናጕና፡ቤት፡ነበይት፡አገርሕሤ፡አዲ፡ግዶም፡ዕፅ፡ማሬ፡አንበሰት፡አጋሜ፡ምስለ፡ምድሮሙ፡ከመ፡ይኵኖ፡መርሐ፡በመንግሥተ፡<pb/>ሰማያት፡ለዓለመ፡ዓለም፡አሜን።
-<note>CCR changes አከብ፡ into አብ፡ and ሰማዝ፡ into ከመዝ፡ without noting these emendations (?). In RS transcription is ommited ጕልተ. </note>
+<seg ana="#invocation" type="interpretation">በአኰቴተ፡<sic>አከብ፡</sic>ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>አግባእኩ፡አነ፡
+<persName ref="PRS1854Amdase">አምደ፡ጽዮን፡</persName>ዘንተ፡ጕልተ፡ሰማዝ፡ጕናጕና፡ቤት፡ነበይት፡አገርሕሤ፡አዲ፡ግዶም፡
+ዕፅ፡ማሬ፡አንበሰት፡አጋሜ፡ምስለ፡ምድሮሙ፡ከመ፡ይኵኖ፡መርሐ፡በመንግሥተ፡
+<pb/>ሰማያት፡ለዓለመ፡ዓለም፡አሜን።
+<note>CCR changes አከብ፡ into አብ፡ and ሰማዝ፡ into ከመዝ፡ without noting these emendations (?).
+In RS transcription is ommited ጕልተ፡. </note>
 </q>
 <q xml:lang="en">
 <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon,</persName>restored this gwǝlt of Samāz, Gwunāgwunā, Bet Nabayt, ʾAgarḥǝse, ʾAddi Gǝdom, ʿƎṣ Māre, ʾAnbasat, ʾAgāme with theirs lands so that  it may be for him an instructor in the <pb/>Heavenly Kingdom unto the ages of ages, amen.
-<note>Translation: As Roger Schneider's translator relied on the edition by Conti Rossini, what I translitirate as 'Samāz', he has as 'Kamaz', noting with a question mark.</note>
-<note>[5.6-8] = CCR 25: (II f. 11r-v), according to AB. Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo XVII.Ugual osservazione che per l'atto precedente: notisi come l'Agāmē qui apparisca distretto di poca importanza.'
+Restored I,<persName ref="PRS1854Amdase">ʿĀmda Ṣǝyon,</persName>this gwǝlt of Samāz, Gwunāgwunā, Bet Nabayt, ʾAgarḥǝse, ʾAddi Gǝdom, ʿƎṣ Māre, ʾAnbasat, ʾAgāme with theirs lands so that  it may be for him an instructor in the <pb/>Heavenly Kingdom unto the ages of ages, amen.
+<note>[5.6-8] = CCR 25: (II f. 11r-v), according to AB.
+Carlo Conti Rossini comments on pp.211-212: 'Rozza scrittura, forse del secolo XVII.Ugual osservazione che per l'atto precedente: notisi come l'Agāmē qui apparisca distretto di poca importanza.'
 </note>
 </q>
 </item>
 <item xml:id="a7">
 <locus target="#11v"/>
 <q xml:lang="gez">
-<handShift cert="high" new="#h9"/>/>
-ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወባናዕሌ፡ወበአረገን።በክኤቲ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኀ፡ውእቱ፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡</q>
+<handShift cert="high" new="#h9"/>ምድረ፡ቴድረር፡በሐምሐም፡ቀላይ፡ወባናዕሌ፡ወበአረገን።በክኤቲ፡ፈልግ፡ወኀቦ፡ጕልተ፡ለቅዱስ፡ሊባኖስ፡ንጉሥነ፡ገብረ፡መስቀል፡ከመ፡ይኩኖ፡መርሐ፡በመንግሥተ፡ሰማያት።ዘወሀቦ፡ጕልተ፡ኢይትኴቊ፡እስመ፡ብዙኀ፡ውእቱ፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡፡</q>
 <q xml:lang="en">
-Land of Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAgaran, in Kǝʾeti Falǝg granted gwǝlt to Holy Libānos King Gabra Masqal, so that he may be a instructor for him in the Heavenly Kingdom. And what was granted as gwǝlt can not be counted, for it is a lot.
+Land of Tedrar in Ḥamḥam Qalāy and in Nāʿle and in   ʾAgaran, in Kǝʾeti Falǝg granted gwǝlt to Holy Libānos King Gabra Masqal, so that he may be a guide for him in the Heavenly Kingdom. And what was granted as gwǝlt can not be counted, for it is a lot.
 </q>
 <note>[5.8] = CCR 3: (II f. 11v), according to AB. Carlo Conti Rossini comments on p. 185: 'Scrittura che par del secolo XVIII. [...]. Atto indubitamente apocrifo, che trae origine dal Gadla Libanos'.
 </note>
@@ -460,10 +357,11 @@ Land of Tedrar in Ḥamḥam Qalāy and in Nāʿle and in ʾAgaran, in Kǝʾeti 
 <msIdentifier></msIdentifier>
 <msContents>
 <msItem xml:id="p3_i1">
-<locus target="#12rab"/>
+<locus target="#12rb"/>
 <incipit>ጸሐፍነ፡ኀቢረነ፡ወሠሚረነ፡ተጋቢአነ፡ቅዱሳን፡ዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡</incipit>
 <explicit>በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡አሜን።</explicit>
-<note>[5.8]: (II f. 12ra-b) [sulla devozione per le vesti di Libānos, non reperibile in CCR], according to AB.
+<note>[5.8] = CCR 3: (II f. 11v)
+[5.8]: (II f. 12ra-b) [sulla devozione per le vesti di Libānos, non reperibile in CCR], according to AB.
 </note>
 </msItem>
 </msContents>
@@ -522,7 +420,6 @@ In the 35th year of Mercy, during the days of <persName ref="PRS10626ZaraY">our 
 <note>[5.12] = CCR 28: (II f. 13vb), according to AB. Conti Rossini comments on pp. 213-214: 'Scrittura del secolo XVI: colonna. [...]. Atto non compiuto. Il donatore di schiavi al convento è il capo dello Hamasen, che assime il semplice titolo di sum: nell'atto n.20, che è dell'anno 1328, il capo dello Hamasen è detto awfari, con un vicario (?) chiamato aqansan, ai tempi di re Zara Yaqob aveva invece il titolo di kantiba (J. Perruchon, Les chroniques de Zara Yaqob, p. 48). Riesce quindi impossibile precisare la data dell'atto, che in ogni caso non è posteriore al secolo XVI'.
 Roger Schneider noted the following 'The text is the second column of the page. The first column, which has 20 lines, has been erased and only faint traces are visible'.
 </note>
->>>>>>> 178664896f11e0fcd5a2e42aa60b7d25c9dc7e7f
 </msItem>
 </msContents>
 <physDesc>
@@ -533,43 +430,19 @@ Roger Schneider noted the following 'The text is the second column of the page. 
 <layout></layout>
 </layoutDesc>
 </objectDesc>
-<additions>
-<list>
-  <item xml:id="a8">
-    <locus target="#12rb"/>
-    <q xml:lang="gez">
-      </q>
-      <note>[5.8.10]: (II f. 12rb e 12vb, bianco f. 12va) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
-      </item>
-      <item xml:id="a9">
-        <locus target="#12vb"/>
-        <q xml:lang="gez">
-          </q>
-          <note>[5.8.10]: (II f. 12rb e 12vb, bianco f. 12va) [simile al precedente, sulle fasce di Libānos, non reperibile in CCR], according to AB.</note>
-          </item>
-          <item xml:id="a10">
-            <locus target="#12vb"/>
-            <q xml:lang="gez">
-              </q>
-              <note>[5.10] = CCR 26: (II f. 12vb), according to AB.</note>
-              </item>
-              </list>
-              </additions>
-              </physDesc>
-              </msPart>
-
+</physDesc>
+</msPart>
 <msPart xml:id="p5">
 <msIdentifier></msIdentifier>
 <msContents>
-  <msItem xml:id="p5_i1">
-    <locus target="#14r"/>
-    <incipit>ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡</incipit>
-    <explicit>ዘንተ፡ዘአጽሐፈ፡
-    <persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡ስዐተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስቶስ፡ከመ፡ምንኵስናሁ፡ጸጋ፡መጣዕ፡</persName>
-    ለዘአጽሐፈ፡ወለዘጸሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።</explicit>
-    <note>[5.12] = CCR 7 II parte: (II f. 14r), according to AB. This text was identified as a second part of a different documents, which comes here later. Conti Rossini comments on pp.190-191 'A questo atto deve certo riferirsi il seguente, che pero nel ms. non trovasi con esso collegato. [...]; B scrittura del sec. XVIII. [...]. In questo testo, alcuno cariche figurano occupate dagli stessi che erano mentovati nell'atto n.6; per altre i titolari sono mutati. Cosi il capo dei diaconi, il liqa kenot, il liqa masanqo "capo dei suonari" sono ancora Sawǝn, Za-ʾAmalāy,  Bǝgwǝnāy. Fra i mutati, in primo luogo è da me,zionare il metropolita, che ora è Giorgis, il che conferma le notizie che già si hanno in proposito, che cioè, scqcciqto michele, gli succedette Isacco e che a questo, verso il 1225, era subentrato un Giorgio. [...]'. Roger Schneider noted the following: 'Voir ce qui est dit des deux versions, à la premierè de CR.7. La photo est celle de B. photo p.3. Pas de colonnes. Ecriture pareille à celle de la première parti. Ligne en  pointillé au-dessus du texte. A gauche, la moitié  inférieure du feuillet est abîmée avec des partes de mots'. On a different folio, marked as n.7, Roger Schneider has this text transcribed again, here he provides his notes in English: 'For the copy A, see the remarks to the first part. B is on the recto folloing n.7, first part. The writing is similar to that of the first part. No columns.'
-    </note>
-    </msItem>
+<msItem xml:id="p5_i1">
+<locus target="#14r"/>
+<incipit>ወእንዘ፡ሀለዉ፡ክልኤሆሙ፡ኅቡረ፡<persName ref="PRS6152Lalibala">ላሊበላ፡<roleName type="title">ንጉሥ፡</roleName></persName>ወ<persName ref="PRS6859MasqalK"><roleName type="function">ብእሲቱ፡</roleName>መስቀል፡ክብራ፡<roleName type="title">በአልተ፡ቢሐት፡</roleName></persName>ከመ፡ይኩኖሙ፡መድኀኒተ፡ነፍሶሙ፡በመንግሥተ፡ሰማያት፡</incipit>
+<explicit>ዘንተ፡ዘአጽሐፈ፡
+<persName ref="PRS10332Yerdea"><roleName type="title">ዐቃቤ፡ስዐተ፡መጣዕ፡</roleName>ስመ፡ልደቱ፡ይርድአነ፡ክርስቶስ፡ከመ፡ምንኵስናሁ፡ጸጋ፡መጣዕ፡</persName>ለዘአጽሐፈ፡ወለዘጸሐፈ፡ስረዩ፡ወባርኩነ፡ኣሜን።</explicit>
+<note>[5.12] = CCR 7 II parte: (II f. 14r), according to AB. This text was identified as a second part of a different documents, which comes here later. Conti Rossini comments on pp.190-191 'A questo atto deve certo riferirsi il seguente, che pero nel ms. non trovasi con esso collegato. [...]; B scrittura del sec. XVIII. [...]. In questo testo, alcuno cariche figurano occupate dagli stessi che erano mentovati nell'atto n.6; per altre i titolari sono mutati. Cosi il capo dei diaconi, il liqa kenot, il liqa masanqo "capo dei suonari" sono ancora Sawǝn, Za-ʾAmalāy,  Bǝgwǝnāy. Fra i mutati, in primo luogo è da me,zionare il metropolita, che ora è Giorgis, il che conferma le notizie che già si hanno in proposito, che cioè, scqcciqto michele, gli succedette Isacco e che a questo, verso il 1225, era subentrato un Giorgio. [...]'. Roger Schneider noted the following: 'Voir ce qui est dit des deux versions, à la premierè de CR.7. La photo est celle de B. photo p.3. Pas de colonnes. Ecriture pareille à celle de la première parti. Ligne en  pointillé au-dessus du texte. A gauche, la moitié  inférieure du feuillet est abîmée avec des partes de mots'. On a different folio, marked as n.7, Roger Schneider has this text transcribed again, here he provides his notes in English: 'For the copy A, see the remarks to the first part. B is on the recto folloing n.7, first part. The writing is similar to that of the first part. No columns.'
+</note>
+</msItem>
 <msItem xml:id="p5_i2">
 <locus target="#14v"/>
 <incipit>ወሀብኩ፡አነ፡<persName ref="PRS10332Yerdea">ይርድአነ፡ክርስቶስ፡ብጕናይ፡ዘጽላላ፡<roleName type="title">ዐቃቤ፡ሰዐተ፡መጣዕ፡</roleName></persName></incipit>
@@ -578,11 +451,11 @@ Roger Schneider noted the following 'The text is the second column of the page. 
 Roger Schneider noted: 'Photo p.4. Au-dessus tresse formée de deux fils en roulis'.</note>
 </msItem>
 <msItem xml:id="p5_i3">
-  <locus target="#14v"/>
-  <incipit>>ሣህል፡ወረደ፡ወሀብኩ፡ለመጣዕ፡ሰርፍ፡</incipit>
-  <explicit></explicit>
-    <note>[5.14]: (f. 14v) [non reperibile in CCR], according to AB.</note>
-    </msItem>
+<locus target="#14v"/>
+<incipit>>ሣህል፡ወረደ፡ወሀብኩ፡ለመጣዕ፡ሰርፍ፡</incipit>
+<explicit></explicit>
+<note>[5.14]: (f. 14v) [non reperibile in CCR], according to AB.</note>
+</msItem>
 </msContents>
 <physDesc>
 <objectDesc form="Leaf">
@@ -594,280 +467,274 @@ Roger Schneider noted: 'Photo p.4. Au-dessus tresse formée de deux fils en roul
 </objectDesc>
 <additions>
 <list>
-  <item xml:id="a11">
-    <locus target="#14r"/>
-    <q xml:lang="gez">
-    አባ፡መጣዕ፡ዘወሀብክዎ፡አነ፡ገብረ፡መስቀል፡አእሚርየ፡ከመ፡የኃልፍ፡ንብረተ፡ዝንቱ፡ዓለም
-    </q>
-    <q xml:lang="en">ʾAbbā Maṭāʿ what I, Gabra Masqal, gave, knowing that the possession of the world will pass.
-      </q>
-      <note>[5.12] = cf. CCR 1: (II f. 14r margine superiore), according to AB.</note>
-      </item>
-      </list>
-      </additions>
+<item xml:id="a11">
+<locus target="#14r"/>
+<q xml:lang="gez">አባ፡መጣዕ፡ዘወሀብክዎ፡አነ፡ገብረ፡መስቀል፡አእሚርየ፡ከመ፡የኃልፍ፡ንብረተ፡ዝንቱ፡ዓለም
+</q>
+<q xml:lang="en">ʾAbbā Maṭāʿ what I, Gabra Masqal, gave, knowing that the possession of the world will pass.
+</q>
+<note>[5.12] = cf. CCR 1: (II f. 14r margine superiore), according to AB.</note>
+</item>
+</list>
+</additions>
 </physDesc>
 </msPart>
 <msPart xml:id="p6">
 <msIdentifier></msIdentifier>
 <msContents>
-  <msItem xml:id="p6_i1">
-    <locus target="#15r"/>
-    <incipit>አነ፡ተከሥተ፡ብ<del/>፡ነብር፡እደ፡ሰዐት፡ዘመጣዕ፡<del/>ኩ፡ለመጣዕ፡<del/>ባአ፡፫፡ገራህተ፡</incipit>
-    <explicit>በ፩<unclear/>፡ዓመተ፡ምሕረት፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።</explicit>
-    <note>[5.14] = CCR 11: (II f. 15r), according to AB. Carlo Conti Rossini comments on p.195: Scrittura molto arcaica, non posteriore al secolo XIV o XV. Il folio e lacerato in piu punti superiormente, e nell’ultimo tratto l’inchiostro  e in parte svanito, di guisa che l’atto in parte e illegibile'.</note>
-    </msItem>
-    <msItem xml:id="p6_i2">
-      <locus target="#15r"/>
-      <incipit>to transcribe</incipit>
-      <explicit></explicit>
-      <note>[5.14]: (f. 15r) [non reperibile in CCR], accoding to AB.</note>
-      </msItem>
-        <msItem xml:id="p6_i3">
-              <locus target="#15v"/>
-              <incipit></incipit>
-              <explicit></explicit>
-              <note>[5.16] = CCR 10: (II f. 15v), according to AB. Carlo Conti Rossini comments on p. 194 : 'Scrittura del secolo XVI: sul v del folgio su cui e steso l’atto 55. Croce ansata e fregio in margine'.</note>
-              </msItem>
-              </msContents>
-              <physDesc>
-              <objectDesc form="Leaf">
-              <supportDesc><support>parchment</support>
-              </supportDesc>
-              <layoutDesc>
-              <layout></layout>
-              </layoutDesc>
-              </objectDesc>
-              </physDesc>
-              </msPart>
-              <msPart xml:id="p7">
-              <msIdentifier></msIdentifier>
-              <msContents>
-                <msItem xml:id="p7_i1">
-                  <locus from="16ra" to="17va"/>
-                  <incipit>አጽሐፍኩ፡ አነ፡
-<subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>
-     ንጉሥ።በ፭፻፲ወ፪።ዓመተ፡ ምሕረት፡
+<msItem xml:id="p6_i1">
+<locus target="#15r"/>
+<incipit>አነ፡ተከሥተ፡ብ<del/>፡ነብር፡እደ፡ሰዐት፡ዘመጣዕ፡<del/>ኩ፡ለመጣዕ፡<del/>ባአ፡፫፡ገራህተ፡</incipit>
+<explicit>በ፩<unclear/>፡ዓመተ፡ምሕረት፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።</explicit>
+<note>[5.14] = CCR 11: (II f. 15r), according to AB. Carlo Conti Rossini comments on p.195: Scrittura molto arcaica, non posteriore al secolo XIV o XV. Il folio e lacerato in piu punti superiormente, e nell’ultimo tratto l’inchiostro  e in parte svanito, di guisa che l’atto in parte e illegibile'.</note>
+</msItem>
+<msItem xml:id="p6_i2">
+<locus target="#15r"/>
+<incipit>to transcribe</incipit>
+<explicit></explicit>
+<note>[5.14]: (f. 15r) [non reperibile in CCR], accoding to AB.</note>
+</msItem>
+<msItem xml:id="p6_i3">
+<locus target="#15v"/>
+<incipit></incipit>
+<explicit></explicit>
+<note>[5.16] = CCR 10: (II f. 15v), according to AB. Carlo Conti Rossini comments on p. 194 : 'Scrittura del secolo XVI: sul v del folgio su cui e steso l’atto 55. Croce ansata e fregio in margine'.</note>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout></layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+</msPart>
+<msPart xml:id="p7">
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p7_i1">
+<locus from="16ra" to="17va"/>
+<incipit>አጽሐፍኩ፡ አነ፡<subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>
+ንጉሥ።በ፭፻፲ወ፪።ዓመተ፡ ምሕረት፡
 </incipit>
-                  <explicit>የሀቦ፡ እግዚአብሔር፡ ጥበበ፡ ከመ፡ ሰሎሞን፡ አሜን።የሀቦ፡ እግዚኣብ
+<explicit>የሀቦ፡ እግዚአብሔር፡ ጥበበ፡ ከመ፡ ሰሎሞን፡ አሜን።የሀቦ፡ እግዚኣብ
 </explicit>
-                  <note>[5.16-20] = CCR 22: (II ff. 16ra-17vb), according to AB.</note>
-                </msItem>
-                  <msItem xml:id="p7_i2">
-                    <locus target="#17v"/>
-                    <title type="incomplete">a prayer about the king</title>
-            <incipit>
-                ወለንጉሥነ፡<subst><del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>የሀቦ፡እግዚአብሔር፡<sic>መንግሥተ፡ሰማያት፡</sic>ህየንተ፡ሕዳጥ፡ብዙኅ፡አሜን።</incipit>
-              <explicit>
-                ወያግርር፡ጸሮ፡ወጻላእቶ፡አሜን።ወይስረይ፡ኃጢአቶ፡ወይደምስስ፡መጽሐፈ፡ዕዳሁ፡አሜን።
-                የሀቦ፡እግዚአብሔር፡ጥበበ፡ከመ፡ሰሎሞን፡አሜን።
-                የሀቦ፡እግዚኣብ</explicit>
-              </msItem>
-                </msContents>
-                <physDesc>
-                <objectDesc form="Leaf">
-                <supportDesc><support>parchment</support>
-                </supportDesc>
-                <layoutDesc>
-                <layout>two columns</layout>
-                </layoutDesc>
-                </objectDesc>
-                </physDesc>
-                </msPart>
-                <msPart xml:id="p8">
-                <msIdentifier></msIdentifier>
-                <msContents>
-                  <msItem xml:id="p8_i1">
-                    <note>[5.20] = CCR 17: (II f. 18r), according to AB.</note>
-                  </msItem>
-                    <msItem xml:id="p8_i2">
-                      <note>[5.22] = CCR 27: (II f. 18v), according to AB.</note>
-                      </msItem>
-                  </msContents>
-                  <physDesc>
-                  <objectDesc form="Leaf">
-                  <supportDesc><support>parchment</support>
-                  </supportDesc>
-                  <layoutDesc>
-                  <layout>two columns</layout>
-                  </layoutDesc>
-                  </objectDesc>
-                  <additions>
-                  <list>
-                    <item xml:id="a13">
-                      <locus target="#18v"/>
-                      <q xml:lang="gez">
-                        </q>
-                        </item>
-                  </list></additions>
-                  </physDesc>
-                  </msPart>
-                  <msPart xml:id="p9">
-                  <msIdentifier></msIdentifier>
-                  <msContents>
-                    <msItem xml:id="p9_i1">
-                      <note>[5.22] = CCR 12: (II f. 19r), according to AB.</note>
-                      </msItem>
-                        <msItem xml:id="p9_i2">
-                          <note>[5.22] = CCR 13: (II f. 19r), according to AB.</note>
-                          </msItem>
-                          <msItem xml:id="p9_i3">
-                            <note>[5.23] = CCR 15: (II ff. 19va-20va), according to AB.</note>
-                            </msItem>
-                    </msContents>
-                    <physDesc>
-                    <objectDesc form="Leaf">
-                    <supportDesc><support>parchment</support>
-                    </supportDesc>
-                    <layoutDesc>
-                    <layout>two columns</layout>
-                    </layoutDesc>
-                    </objectDesc>
-                    <additions>
-                    <list>
-                      <item xml:id="a14">
-                        <locus target="#19r"/>
-                        <q xml:lang="gez">
-                          </q>
-                          <note>[5.22]: (f. 19r) [quasi illeggibile e non reperibile in CCR], according to AB.</note>
-                          </item>
-                            <item xml:id="a15">
-                              <note>[5.24] = CCR 32: (II f. 20va-b), according to AB.</note>
-                              </item>
-                                <item xml:id="a16">
-                                  <note>[5.24] = CCR 16: (II f. 20vb), according to AB.</note>
-                                  </item>
-                                      <item xml:id="a17">
-                                        <note>[5.24] = CCR 5: (II f. 20vb), according to AB.</note>
-                                        </item>
-                    </list></additions>
-                    </physDesc>
-                    </msPart>
-                    <msPart xml:id="p10">
-                    <msIdentifier></msIdentifier>
-                    <msContents>
-                        <msItem xml:id="p10_i1">
-                          <note>[5.24] = CCR 23: (II ff. 21ra-va), according to AB.</note>
-                          </msItem>
-                            <msItem xml:id="p10_i2">
-                              <note>[5.25-6.0] = CCR 33: (II ff. 21va-22rb), according to AB.</note>
-                              </msItem>
-                      </msContents>
-                      <physDesc>
-                      <objectDesc form="Leaf">
-                      <supportDesc><support>parchment</support>
-                      </supportDesc>
-                      <layoutDesc>
-                      <layout>two columns</layout>
-                      </layoutDesc>
-                      </objectDesc>
-                      <additions>
-                      <list>
-                          <item xml:id="a18">
-                            <q xml:lang="gez">
-                              </q>
-                            <note>[6.1]: (II f. 22va) [lista dei beni della Chiesa di Maṭā‘, non reperibile in CCR], according to AB.</note>
-                            </item>
-                            </list>
-                            </additions>
-                            </physDesc>
-                            </msPart>
-    <msPart xml:id="p11">
-      <msIdentifier></msIdentifier>
-      <msContents>
-          <msItem xml:id="p11_i1">
-            <note>[6.1] = CCR 6 I parte: (II f. 23ra-b), according to AB.</note>
-            </msItem>
-        </msContents>
-        <physDesc>  <objectDesc form="Leaf">
-          <supportDesc><support>parchment</support>
-          </supportDesc>
-          <layoutDesc>
-          <layout>two columns</layout>
-          </layoutDesc>
-          </objectDesc>
-      </physDesc>
-      </msPart>
-      <msPart xml:id="p12">
-        <msIdentifier></msIdentifier>
-        <msContents>
-          <msItem xml:id="p12_i1">
-          <note></note>
-          </msItem>
-          </msContents>
-          <physDesc>  <objectDesc form="Codex">
-            <supportDesc><support>parchment</support>
-            </supportDesc>
-            <layoutDesc>
-            <layout>two columns</layout>
-            </layoutDesc>
-            </objectDesc>
-            <additions>
-              <list>
-                <item xml:id="a19">
-                  <q xml:lang="gez">
-                    </q>
-                    <note>The text corresponds to CCR 14. This document was photographed only by Roger Schneider.</note>
-                    </item>
-                    <item xml:id="a20">
-                      <q xml:lang="gez">
-                        </q>
-                        <note>The text corresponds to CCR 31. This document was photographed only by Roger Schneider.</note>
-                        </item>
-                        <item xml:id="a21">
-                          <q xml:lang="gez">
-                            </q>
-                            <note>The text corresponds to CCR 9. This document was photographed only by Roger Schneider.</note>
-                            </item>
-              </list>
-            </additions>
-        </physDesc>
-        </msPart>
-      <msPart xml:id="p13">
-        <msIdentifier></msIdentifier>
-        <msContents>
-          <msItem xml:id="p13_i1">
-          <note></note>
-          </msItem>
-          </msContents>
-          <physDesc>  <objectDesc form="Codex">
-            <supportDesc><support>parchment</support>
-            </supportDesc>
-            <layoutDesc>
-            <layout>two columns</layout>
-            </layoutDesc>
-            </objectDesc>
-            <additions>
-              <list>
-                <item xml:id="a22">
-                  <q xml:lang="gez">
-                    </q>
-                    <note>[4.34]: (I f. 11ra-b) [non reperibile in CCR], according to AB.</note>
-                    </item>
-                    <item xml:id="a23">
-                      <q xml:lang="gez">
-                        <note>[4.36] = CCR 1: (I f. 11va-b), according to AB.</note>
+<note>[5.16-20] = CCR 22: (II ff. 16ra-17vb), according to AB.</note>
+</msItem>
+<msItem xml:id="p7_i2">
+<locus target="#17v"/>
+<title type="incomplete">a prayer about the king</title>
+<incipit>ወለንጉሥነ፡<subst><del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>የሀቦ፡እግዚአብሔር፡<sic>መንግሥተ፡ሰማያት፡</sic>ህየንተ፡ሕዳጥ፡ብዙኅ፡አሜን።</incipit>
+<explicit>ወያግርር፡ጸሮ፡ወጻላእቶ፡አሜን።ወይስረይ፡ኃጢአቶ፡ወይደምስስ፡መጽሐፈ፡ዕዳሁ፡አሜን።የሀቦ፡እግዚአብሔር፡ጥበበ፡ከመ፡ሰሎሞን፡አሜን።የሀቦ፡እግዚኣብ</explicit>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout>two columns</layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+</msPart>
+<msPart xml:id="p8">
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p8_i1">
+<note>[5.20] = CCR 17: (II f. 18r), according to AB.</note>
+</msItem>
+<msItem xml:id="p8_i2">
+<note>[5.22] = CCR 27: (II f. 18v), according to AB.</note>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout>two columns</layout>
+</layoutDesc>
+</objectDesc>
+<additions>
+<list>
+<item xml:id="a13">
+<locus target="#18v"/>
+<q xml:lang="gez">
 </q>
 </item>
-              </list>
-            </additions>
-        </physDesc>
-        </msPart>
-      <msPart xml:id="p14">
-        <msIdentifier></msIdentifier>
-        <msContents>
-          <msItem xml:id="p14_i1">
-          <note>[4.18-22] = CCR 22: (I ff. 3ra-4vb), according to AB.</note>
-          </msItem>
-          <msItem xml:id="p14_i2">
-          <note>[4.22-26] = CCR 20: (I ff. 4vb-6vb), according to AB.</note>
-          </msItem>
-          <msItem xml:id="p14_i3">
-          <note>[4.26-28] = CCR 19: (I ff. 6vb-7vb), according to AB.</note>
-          </msItem>
-          <msItem xml:id="p14_i4">
-          <note>[4.28-30] = CCR 7: (I ff. 7vb-9ra), according to AB.</note>
-          </msItem>
-          <msItem xml:id="p14_i5">
+</list></additions>
+</physDesc>
+</msPart>
+<msPart xml:id="p9">
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p9_i1">
+<note>[5.22] = CCR 12: (II f. 19r), according to AB.</note>
+</msItem>
+<msItem xml:id="p9_i2">
+<note>[5.22] = CCR 13: (II f. 19r), according to AB.</note>
+</msItem>
+<msItem xml:id="p9_i3">
+<note>[5.23] = CCR 15: (II ff. 19va-20va), according to AB.</note>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout>two columns</layout>
+</layoutDesc>
+</objectDesc>
+<additions>
+<list>
+<item xml:id="a14">
+<locus target="#19r"/>
+<q xml:lang="gez">
+</q>
+<note>[5.22]: (f. 19r) [quasi illeggibile e non reperibile in CCR], according to AB.</note>
+</item>
+<item xml:id="a15">
+<note>[5.24] = CCR 32: (II f. 20va-b), according to AB.</note>
+</item>
+<item xml:id="a16">
+<note>[5.24] = CCR 16: (II f. 20vb), according to AB.</note>
+</item>
+<item xml:id="a17">
+<note>[5.24] = CCR 5: (II f. 20vb), according to AB.</note>
+</item>
+</list></additions>
+</physDesc>
+</msPart>
+<msPart xml:id="p10">
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p10_i1">
+<note>[5.24] = CCR 23: (II ff. 21ra-va), according to AB.</note>
+</msItem>
+<msItem xml:id="p10_i2">
+<note>[5.25-6.0] = CCR 33: (II ff. 21va-22rb), according to AB.</note>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout>two columns</layout>
+</layoutDesc>
+</objectDesc>
+<additions>
+<list>
+<item xml:id="a18">
+<q xml:lang="gez">
+</q>
+<note>[6.1]: (II f. 22va) [lista dei beni della Chiesa di Maṭā‘, non reperibile in CCR], according to AB.</note>
+</item>
+</list>
+</additions>
+</physDesc>
+</msPart>
+<msPart xml:id="p11">
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p11_i1">
+<note>[6.1] = CCR 6 I parte: (II f. 23ra-b), according to AB.</note>
+</msItem>
+</msContents>
+<physDesc>  <objectDesc form="Leaf">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout>two columns</layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+</msPart>
+<msPart xml:id="p12">
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p12_i1">
+<note></note>
+</msItem>
+</msContents>
+<physDesc>  <objectDesc form="Codex">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout>two columns</layout>
+</layoutDesc>
+</objectDesc>
+<additions>
+<list>
+<item xml:id="a19">
+<q xml:lang="gez">
+</q>
+<note>The text corresponds to CCR 14. This document was photographed only by Roger Schneider.</note>
+</item>
+<item xml:id="a20">
+<q xml:lang="gez">
+</q>
+<note>The text corresponds to CCR 31. This document was photographed only by Roger Schneider.</note>
+</item>
+<item xml:id="a21">
+<q xml:lang="gez">
+</q>
+<note>The text corresponds to CCR 9. This document was photographed only by Roger Schneider.</note>
+</item>
+</list>
+</additions>
+</physDesc>
+</msPart>
+<msPart xml:id="p13">
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p13_i1">
+<note></note>
+</msItem>
+</msContents>
+<physDesc>  <objectDesc form="Codex">
+<supportDesc><support>parchment</support>
+</supportDesc>
+<layoutDesc>
+<layout>two columns</layout>
+</layoutDesc>
+</objectDesc>
+<additions>
+<list>
+<item xml:id="a22">
+<q xml:lang="gez">
+</q>
+<note>[4.34]: (I f. 11ra-b) [non reperibile in CCR], according to AB.</note>
+</item>
+<item xml:id="a23">
+<q xml:lang="gez">
+<note>[4.36] = CCR 1: (I f. 11va-b), according to AB.</note>
+</q>
+</item>
+</list>
+</additions>
+</physDesc>
+</msPart>
+<msPart xml:id="p14">
+<msIdentifier></msIdentifier>
+<msContents>
+<msItem xml:id="p14_i1">
+<note>[4.18-22] = CCR 22: (I ff. 3ra-4vb), according to AB.</note>
+</msItem>
+<msItem xml:id="p14_i2">
+<note>[4.22-26] = CCR 20: (I ff. 4vb-6vb), according to AB.</note>
+</msItem>
+<msItem xml:id="p14_i3">
+<note>[4.26-28] = CCR 19: (I ff. 6vb-7vb), according to AB.</note>
+</msItem>
+<msItem xml:id="p14_i4">
+<note>[4.28-30] = CCR 7: (I ff. 7vb-9ra), according to AB.</note>
+</msItem>
+<msItem xml:id="p14_i5">
           <note>[4.30] = CCR 18: (I f. 9ra-b), according to AB.</note>
           </msItem>
           <msItem xml:id="p14_i6">
@@ -1117,16 +984,12 @@ while <persName ref="PRS2633BelenSa"><title>sǝyǝmt of <placeName ref="LOC2947E
 </note>
 </div>
 </div>
-<<<<<<< HEAD
-      <div type="edition"  xml:lang="geez" corresp="#p2_10">
-=======
-      <div type="edition"  xml:lang="geez" corresp="#p2_8">
->>>>>>> 178664896f11e0fcd5a2e42aa60b7d25c9dc7e7f
-      <div type="textpart" subtype="folio" n="11v">
-      <ab>
-        <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልደ፡ወመንፈስ፡ቅዱስ፡</seg>
+<div type="edition"  xml:lang="geez" corresp="#p2_8">
+<div type="textpart" subtype="folio" n="11v">
+<ab>
+<seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልደ፡ወመንፈስ፡ቅዱስ፡</seg>
         አግባእኩ፡አነ፡
-        <persName ref="PRS6073Krestos">ክርስቶስ፡አቡሁ፡</persName>በአፈ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<title>ንጉሥ፡</title></persName>ተርካ፡ዘቀዳሚ፡ምድሮሙ፡ለቅዱሳን፡እለ፡ቤተ፡መጣዕ፡እንዘ፡ዐቃቤ፡ሰዐት፡ዕቅባ፡እግዚእ፡ወእመ፡ቦ፡ዘተኀየሎሙ፡ወዘተአገሎሙ፡ለቅዱሳን፡ይእቲ፡ምድር፡በጽንፋ፡ወበቀልቀላ፡ለተርካ፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በአ
+<persName ref="PRS6073Krestos">ክርስቶስ፡አቡሁ፡</persName>በአፈ፡<persName ref="PRS1854Amdase">ዐምደ፡ጽዮን፡<title>ንጉሥ፡</title></persName>ተርካ፡ዘቀዳሚ፡ምድሮሙ፡ለቅዱሳን፡እለ፡ቤተ፡መጣዕ፡እንዘ፡ዐቃቤ፡ሰዐት፡ዕቅባ፡እግዚእ፡ወእመ፡ቦ፡ዘተኀየሎሙ፡ወዘተአገሎሙ፡ለቅዱሳን፡ይእቲ፡ምድር፡በጽንፋ፡ወበቀልቀላ፡ለተርካ፡ውጉዘ፡ለይኩን፡በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በአ
         <cb/>
 ፈ፡፫፻፡፲ወ፷፡ርቱዐነ፡ሃይማኖት፡ወበአፈ፡፲ወ፭፡ነቢያት፡ወበአፈ፡፲ወ፪፡ሐዋርያት፡ወበአፈ፡ጴጥሮስ፡ሊቀ፡ጳጳሳት፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በስኢል፡ወበሰጊድ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን።ወእመቦ፡ዘደምሰሳ፡ወዘቀደዳ፡በጽልሑት፡ከማሁ፡ለይኩን፡ውጉዘ፡ለዓለመ፡ዓለም፡አሜን።
 <note>በቅድመ፡አብ Conti Rossini has as በአፈ፡አብ.
@@ -1134,12 +997,12 @@ while <persName ref="PRS2633BelenSa"><title>sǝyǝmt of <placeName ref="LOC2947E
   1.ዐቃቤ፡ሰዓት has been erased, but the letters are still faintly discernible. The copy B still has it.
 </note>
   </ab>
-        </div>
-        </div>
-        <div type="edition"  xml:lang="en" >
-        <div type="textpart" subtype="folio" n="11v">
-        <ab>
-          <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
+</div>
+</div>
+<div type="edition"  xml:lang="en" >
+<div type="textpart" subtype="folio" n="11v">
+<ab>
+<seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
           I, <persName ref="PRS6073Krestos">Krǝstos ʾAbuhu,</persName>restored, by the mouth of<persName ref="PRS1854Amdase">King ʿĀmda Ṣǝyon,</persName>
           Tarkā, previously the land of the holy ones of the church of Maṭāʿ,
           while ʿaqābe saʿat ʿƎqbā ʾƎgziʾ. And if there is anyone who would violate or pervert from the holy ones this land, [even] on the borders or cliffs of Tarkā, may he be excommunicated in front of the Father  and the Son and the Holy Spirit by the mouth
@@ -1150,50 +1013,8 @@ while <persName ref="PRS2633BelenSa"><title>sǝyǝmt of <placeName ref="LOC2947E
  ዘኢይትፈታሕ, which I translates as 'that will not be forgiven', he translates as 'which [excommunication] will not be revoked'; ወእመቦ፡ዘደምሰሳ፡ወዘቀደዳ፡በጽልሑት I translate as 'if there is anyone who
  erase it or who scratch it in deceit', while he translates it as 'if there is anyone who with a bad intention erases or tears it'.</note>
     </ab>
-<<<<<<< HEAD
               </div>
               </div>
-              <div type="edition"  xml:lang="geez" corresp="#p3_i1">
-              <div type="textpart" subtype="folio" n="12r">
-              <ab>
-                በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ:ጸሐፍነ፡ኀቢረነ፡ወሠሚረነ፡ተጋቢአነ፡ቅዱሳን፡ዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡ከመ፡ኢያውፅኡ፡አልባሰ፡ዘመጣዕ፡ኢዐቢየ፡ወኢንኡሰ፡ወኢየሀቡ፡ለቤተ፡<subst><del rend="erasure"/><add place="overstrike">መጣዕ፡<unclear/></add></subst>ወለእመቦ፡ዘወሀበ፡ለመርዓ፡እምነ፡አልባስ፡ዘአባ፡መጣዕ፡እመሂ፡፩
-                <unclear/>ወእመሂ፡ቀይሰ፡ገበዝ፡ወእመሂ፡መነኮሳት፡እመሂ፡ዓቢይ፡ወእመሂ፡ንኡስ፡እመሂ፡ሥዩም፡ወእመሂ፡ሥዑር፡ለእመቦ፡ዘአውፅአ፡<cb/>
-      <unclear/>በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡አሜን።
-                </ab>
-                </div>
-                </div>
-
-              <div type="edition"  xml:lang="geez" corresp="#p4_i1">
-              <div type="textpart" subtype="folio" n="13r">
-              <ab>
-                  <seg ana="#invocation" type="interpretation">  በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ:</seg>
-              ዘወሀቡ፡ቀደምት፡ተርከ፡ለአቡነ፡ሊባኖስ፡ወአነሂ፡ተንሥአ፡ክርስቶስ፡ወሀብኩ፡ወአግባእኩ፡ዘተገፍዐ፡ተርከ፡አነ፡<del rend="effaced"/>
-    ከመ፡ይትወሐሠኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ከመ፡ይግበሩ፡ተዝከርየ፡ደቂቀ፡መካን፡ወኢይርስዑኒ፡በጊዜ፡ጸሎት፡ሰሚዕየ፡ዘይቤ፡ቃለ፡ሰሎሞን፡መክብብ፡ከንቱ፡ከንቱ፡ለዓለም፡ንብረ<cb/>
-    ቱ፡ዘእንበለ፡ዘገብረ፡ሥንቁ፡በመዋዕለ፡ሕይወቱ፡የሀቦ፡እግዚአብሔር፡ለተንሥአ፡ክርስቶስ፡<del rend="effaced"/>
-    መንግሥተ፡ሰማያት፡ህየንተ፡ኅዳጥ፡ብዙኅ፡አሜን፡የሀቦ፡እግዚአብሔር፡ህየንተ፡ንስቲት፡ዓቢይ፡የሀቦ፡እግዚአብሔር፡ህየንተ፡ዘቦ፡ምድር፡ዘበ፡ሰማያት፡ወያኑኅ፡መዋዕሊሁ፡በዲበ፡ምድር፡ወያግርር፡ፀሮ፡ወጸላእቶ፡አሜን።ወይስረይ፡ኃጢአተ፡ወይደምሰስ፡መጽሐ
-    <handShift/>ፈ፡ዕዳሁ፡አሜን።ወለእመቦ፡ዘሄዳ፡ወዘተአገላ፡ውጉዘ፡ለይኩን፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡በአፉሁ፡ለአቡነ፡መጣዕ፡አሜን።
-
-                </ab>
-                </div>
-                </div>
-                <div type="edition"  xml:lang="en" corresp="#p4_i1">
-                <div type="textpart" subtype="folio" n="13r">
-                <ab>
-                    <seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.</seg>
-                  </ab>
-                  </div>
-                  </div>
-
-                <div type="edition"  xml:lang="geez" corresp="#p4_i2">
-                <div type="textpart" subtype="folio" n="13vb">
-                <ab>
-                ወሀብኩ፡አነ፡ይሥምከ፡እግዚእ፡ሥዩመ፡ኀማሳን፡ለአባ፡መጣዕ፡ዘአሀም፡ፈዋሴ፡ዱያን፡ኀበ፡ተቀብረ፡አዕጽምቲሁ፡፭፡ነፍሰ፡ሰብእ፡ገድቦ፡ምስለ፡ብእሲቱ፡ወደቂቁ፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወያኑኅ፡መዋዕልየ፡በዲበ፡ምድር፡ወይዕቀብ፡ነፍስየ፡ወሥጋየ፡ምስለ፡አንስትያየ፡ወደቂቅየ፡ወዘመድየ፡ወበቀዳሚ፡ወሀብኩ፡መንጦላዕተ፡በርኴናየት፡እስመ፡ስማዕኩ፡ቃለ፡መክብብ፡ዘይቤ፡ኵሉ፡ከንቱ፡ከንቱ፡ውእቱ፡ዘኢገብረ፡ሠናየ፡በሕይወቱ።ወበዐጋማሂ፡አር5ዕኩ፡ጕልተ።
-                  </ab>
-                  </div>
-                  </div>
-=======
-</div>
-</div>
 <div type="edition"  xml:lang="geez" corresp="#p3_i1">
 <div type="textpart" subtype="folio" n="12r">
 <ab>
@@ -1245,7 +1066,6 @@ and his wife and his children, so that he would beseech a reward for me the Heav
 </ab>
 </div>
 </div>
->>>>>>> 178664896f11e0fcd5a2e42aa60b7d25c9dc7e7f
      <div type="edition"  xml:lang="geez" corresp="#p5_i1">
   <div type="textpart" subtype="folio" n="14r">
 <ab>
