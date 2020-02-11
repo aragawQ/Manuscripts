@@ -1262,9 +1262,9 @@ in front of the Father and the Son and the Holy Spirit  on the heaven and on the
   <div type="edition" xml:lang="geez" corresp="#p7_i1">
 <div type="textpart" subtype="folio" n="16r-17v">
 <ab>
-  <pb n="16r"/><cb n="a"/>
-           <seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
-            <seg ana="#subscription" type="interpretation">አጽሐፍኩ፡አነ፡
+<pb n="16r"/><cb n="a"/>
+<seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+<seg ana="#subscription" type="interpretation">አጽሐፍኩ፡አነ፡
 <subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡</add></subst>ንጉሥ።በ፭፻፲ወ፪።ዓመተ፡ምሕረት፡አጕለትኩ፡አነ፡
 <subst> <del rend="erasure"/><add place="overstrike">ገብረ፡መስቀል፡ንጉሥ፡ወስመ፡መንግሥትየ፡ሰሎሞን፡ወአክሰምኩ፡ዘንተ፡ጕልተ፡ለአባ፡መጣዕ፡ዘውእቱ፡ሊባኖስ፡
 </add></subst></seg>
