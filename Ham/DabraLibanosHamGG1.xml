@@ -1195,9 +1195,9 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
   <div type="edition" xml:lang="geez" corresp="#p6_i2">
 <div type="textpart" subtype="folio" n="15v">
 <ab>በአኰ<supplied reason="lost">ቴተ፡አ</supplied>ብ፡ወወልድ፡ወመንፈስ፡<supplied reason="lost">ቅዱ</supplied>ስ፡
-<supplied reason="undefined">ጕ</supplied>ል<supplied reason="explanation">ት፡</supplied>ዘወሀ
+<supplied reason="undefined">ጕ</supplied>ል<supplied reason="undefined">ት፡</supplied>ዘወሀ
 <supplied reason="undefined">በ፡</supplied>
-<subst><del rend="erasure"></del><add place="overstrike">ይኩኖ፡አምላክ፡</add></subst>
+<subst><del rend="erasure"></del><add place="overstrike"><persName ref="PRS10303Yekunno">ይኩኖ፡አምላክ፡</persName></add></subst>
 ንጉሥ፡ለ<unclear/>ደናግል፡ለቤተ፡መስቀል፡ወለቤተ፡ማርያም፡ዘገፍዑ፡ሥዩም፡ደብረ፡ማዕጾ፡ወወሀብኩኒ፡ከመ፡ይኵነኒ፡ጕልተ፡ሊተ፡ለእንግዳ፡እግዚእ፡ወአነኒ፡አግባእኩ፡ወወሀብኩ፡ለቤተ፡መስቀል፡ወለቤተ፡ማርያም፡ወለደናግል፡
 ከመ፡ይምሐረኒ፡እግዚአ፡ብሔር፡በጸሎቶሙ።ወሀብኩ፡አነሂ፡በከመ፡ወሀቡ፡ነገሥት፡ሠጦ፡ምድረ፡አላፎ።ወዴር፡ወዐድ፡ልጋት፡ወማዕጠውሎ፡ወምክምስ፡ወምድረ፡መስተፋ፡ምስለ፡ሰርሓ፡ወዐድ፡ዳዕሮ፡አግባእኩ፡አነ፡ንጉሥ፡ይኵኖ፡አምላክ፡እንዘ፡ማእከለ፡ባሕር፡ያግባጽዮን፡እንዘ፡ሥዩመ፡እንትርታ፡ወዐቃቤ፡ጸንጸን፡ወኃሥጓ፡አነ፡እንግዳ፡እግዚእ፡ወልደ፡ኵሉ፡ሰገደ።ወእንዘ፡ንቡረ፡እድ፡ዘአክሱም፡ወዐቃቤ፡ሰዓት፡ዘቤተ፡መጣዕ፡ተከሥተ፡ብርሃን።ወእንዘ፡በዐልተ፡መካን፡ቅድስት፡ማርያም፡<sic>ዘአግበአ፡</sic>ዘንተ፡ጕልተ፡የሀቦ፡እግዚአብሔር፡መንግሥተ፡ሰማያት፡ወይደምሮ፡ምስለ፡ቅዱሳን፡ወሰማዕት፡ወያኑ<supplied reason="undefined">ኅ</supplied>፡መዋዕሊሁ፡በዲበ፡ምድር፡ወይዕቀብ፡ነፍሶ፡ወብእሲቶ፡ወውሉዶ፡ወሰራዊቶ፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን፡ለይኩን፡ለይኩን፡እመቦ፡ዘተኀየለ፡ወዘተአገለ፡ዘንተ፡ጕ<supplied reason="lost">ልተ፡</supplied>፡ውጉዘ፡ለይኵን፡በቅድመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡በሰማይ፡ወበምድር፡በአ
 <supplied reason="lost">ፈ፡</supplied>፲ወ፭፡ነቢያት፡በአ<supplied reason="lost">ፈ፡</supplied>፲ወ፪፡ሐዋርያት፡ወ<supplied reason="lost">በአፈ፡፸፡አ</supplied>ርድ<supplied reason="lost">እት፡</supplied>በአፈ፡፫፻፲ወ፷፡ርቱዓነ፡ሃ<supplied reason="lost">ይማኖት፡</supplied><gap reason="lost"/>ን፡ለዓለም፡አሜን።።
@@ -1212,7 +1212,26 @@ In addition to what Roger Schneider noted, Conti Rossini emended ደብረ፡ማ
   </div>
   <div type="edition" xml:lang="en" corresp="#p6_i2">
 <div type="textpart" subtype="folio" n="15v">
-  <ab></ab>
+  <ab><seg ana="#invocation" type="interpretation">
+To the glory of the Father and the Son and the Holy Spirit.
+</seg><seg ana="#subscription" type="interpretation">
+<supplied reason="undefined">gwǝ</supplied>l<supplied reason="undefined">t</supplied> that
+was granted by King <subst><del rend="erasure"></del><add place="overstrike">
+<persName ref="PRS10303Yekunno">Yǝkunno ʾAmlak</persName></add></subst>
+  to <unclear/>Danāgǝl, to Beta Masqal and to Beta Māryām,
+that was violated by səyum of Dabra Māʿəṣo. As for me, I granted it
+so that it may become gwǝlt for me, for ʾƎngədā ʾƎgziʾ. And I have restored and donated
+to Beta Masqal and to Beta Māryām, and to Danāgǝl, so that
+God may mercy me through their prayers.
+I granted, in the manner [other] kings were granting, Saṭo, the land of Alāfo and Der and ʿAd Lǝgāt
+and Māʿṭawlo and Məkməs and the land of Mastafā together with
+Sarḥā and ʿAd Dāʿəro. Restored I, King <persName ref="PRS10303Yekunno">Yǝkunno ʾAmlak,</persName>while
+māʾəkala bāḥr Yāgbā Ṣəyon, while səyum of <placeName ref="LOC2947Endart">ʾƎntartā</placeName>
+and ʿāqābē ṣanṣan and ḫāsgwā was me, ʾƎngədā ʾƎgziʾ, son of Kwǝllu Sagada. And while
+nəbura ʾəd of ʾAksum and ʿāqābē saʿāt of Beta Maṭāʿ Takaśta Bərhān and while the Lady of the place Holy Mary. To the one who restored this gwǝlt, may God give him
+the Heavenly kingdom and may He associate him with the holy ones and martyrs and may He prolong his days on the earth and protect him himself and his wife and his children and his troups unto the ages of ages, amen and amen. Let it be, let it be. If someone violates or defrauds this gwǝlt, may he be excommunicated
+in front of the Father and the Son and the Holy Spirit  on the heaven and on the earth by the mouth of 15 prophets, by th mouth of 12 apostels and by the mouth of 70 disciples, by the mouth of 318 righteous of faith <gap reason="lost"></gap> of ages, amen.
+</seg></ab>
 </div>
 </div>
   <div type="edition" xml:lang="geez" corresp="#p7_i1">
