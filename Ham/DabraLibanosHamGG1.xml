@@ -1188,20 +1188,24 @@ This was written upon the request of <persName ref="PRS10332Yerdea"><roleName ty
   <div type="edition" xml:lang="geez" corresp="#p6_i1">
 <div type="textpart" subtype="folio" n="15r">
 <ab>
-<seg  type="interpretation"></seg>  በስመ፡አብ፡ወወል<supplied reason="lost">ድ፡</supplied>ወመንፈስ፡<supplied reason="lost">ቅዱ</supplied>ስ፡
-  አነ፡ተከሥተ፡ብ<supplied reason="lost">ርሃን፡</supplied> ነብር፡እድ፡
+<seg  ana="#inovacation" type="interpretation"> በስመ፡አብ፡ወወል<supplied reason="lost">ድ፡</supplied>ወመንፈስ፡<supplied reason="lost">ቅዱ</supplied>ስ፡</seg>
+<seg ana="#provision" type="interpretation">  አነ፡ተከሥተ፡ብ<supplied reason="lost">ርሃን፡</supplied> ነብር፡እድ፡
   <supplied reason="lost">ወዐቃቤ፡</supplied>ሰዐት፡ዘመጣዕ፡
   <supplied reason="lost">ወሀብ</supplied>ኩ፡ለመጣዕ፡<supplied reason="lost">መ</supplied>
   ባአ፡፫፡ገራህተ፡<gap reason="lost"/>ገራህተ፡በ<gap reason="lost"/>
 ሚካ<add place="above">ኤ</add>ል፡ወገ<unclear>ራ</unclear>ህተ፡<unclear/>ዖና፡<sic>ትሕተ፡</sic>መ<supplied reason="lost">ካ</supplied>ን፡ክምል፡ዐቀባ፡ድ፡
 ሕዳድ፡በቢሐት፡<gap reason="lost"/>ይበጽሕ፡ለመነኮሳተ፡መጣዕ፡ወለዐቃቤ፡ሰዐት፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡እንዘ፡ሀለዉ፡መነኮሳተ፡መጣዕ፡<sic>ቤቤተ፡</sic>ጽርሕ፡እንዘ፡ንጉሥ፡ይኵናት፡ወእንዘ፡ሊቀ፡ጳጳሳት፡አባ፡ቄርሎስ፡ወእንዘ፡ሥዩም፡እንትርታ፡እንግዳ፡እግዚእ፡ወእንዘ፡ሥዩም፡ደብረ፡ማዕፆ፡ኅራሳይ፡እመቦ፡ዘተኀየሎ፡ወእመቦ፡ዘተአገሎ፡ውጉዘ፡ለይኩን፡በአፉሁ፡ለመጣዕ፡ወበአፈ፡ኵሎሙ፡ቅዱሳን፡በ<supplied reason="undefined">፬፻፶፬</supplied>ዓመተ፡ምሕረት፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።<unclear/>
-  </ab>
+</seg>  </ab>
   </div>
   </div>
   <div type="edition" xml:lang="en" corresp="#p6_i1">
 <div type="textpart" subtype="folio" n="15r">
-<ab>
-  </ab>
+<ab><seg  ana="#inovacation" type="interpretation">In the name of the Father and the Son and the Holy Spirit.</seg>
+<seg ana="#provision" type="interpretation"> I,  Takaśta Bərhān, nabr ʾəd  and ʿaqābe saʿat of Maṭāʿ granted ወሀብ</supplied>ኩ፡ለመጣዕ፡<supplied reason="lost">መ</supplied>
+  ባአ፡፫፡ገራህተ፡<gap reason="lost"/>ገራህተ፡በ<gap reason="lost"/>
+ሚካ<add place="above">ኤ</add>ል፡ወገ<unclear>ራ</unclear>ህተ፡<unclear/>ዖና፡<sic>ትሕተ፡</sic>መ<supplied reason="lost">ካ</supplied>ን፡ክምል፡ዐቀባ፡ድ፡
+ሕዳድ፡በቢሐት፡<gap reason="lost"/>ይበጽሕ፡ለመነኮሳተ፡መጣዕ፡ወለዐቃቤ፡ሰዐት፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡እንዘ፡ሀለዉ፡መነኮሳተ፡መጣዕ፡<sic>ቤቤተ፡</sic>ጽርሕ፡እንዘ፡ንጉሥ፡ይኵናት፡ወእንዘ፡ሊቀ፡ጳጳሳት፡አባ፡ቄርሎስ፡ወእንዘ፡ሥዩም፡እንትርታ፡እንግዳ፡እግዚእ፡ወእንዘ፡ሥዩም፡ደብረ፡ማዕፆ፡ኅራሳይ፡እመቦ፡ዘተኀየሎ፡ወእመቦ፡ዘተአገሎ፡ውጉዘ፡ለይኩን፡በአፉሁ፡ለመጣዕ፡ወበአፈ፡ኵሎሙ፡ቅዱሳን፡በ<supplied reason="undefined">፬፻፶፬</supplied>ዓመተ፡ምሕረት፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን።<unclear/>
+</seg>  </ab>
   </div>
   </div>
   <div type="edition" xml:lang="geez" corresp="#p6_i2">
