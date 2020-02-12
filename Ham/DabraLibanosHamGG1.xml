@@ -570,8 +570,7 @@ Roger Schneider noted: 'Photo p.4. Au-dessus tresse formée de deux fils en roul
 <list>
 <item xml:id="a13">
 <locus target="#18v"/>
-<q xml:lang="gez">
-  ዘወሀብኩሰ፡ንዋይየ፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን።ወብዙትሂ፡ወ ላህም፡ወሀብኩ፡ለቅዱስ፡መጣዕ፡ከመ፡ይትወሐሰኒ፡በመንግሥተ፡ሰማያት፡ወከመ፡ይግባሩ፡ትዝካርየ፡ደቂቀ፡መካን፡ምስለ፡እኅትየ፡እግዚእ፡ይባ፡ለዓለመ፡ዓለም፡አሜን።
+<q xml:lang="gez"><subst><del rend="erasure"></del><add place="overstrike">ዘወሀብኩሰ፡ንዋይየ፡ከመ፡ይትወሐሰኒ፡መጣዕ፡</add></subst>በመንግሥተ፡ሰማያት፡ለዓለመ፡ዓለም፡አሜን።ወብዙትሂ፡ወ፩፡ላህም፡ወሀብኩ፡ለቅዱስ፡መጣዕ፡ከመ፡ይትወሐሰኒ፡በመንግሥተ፡ሰማያት፡ወከመ፡ይግባሩ፡ተዝካርየ፡ደቂቀ፡መካን፡ምስለ፡እኅትየ፡እግዚእ፡<sic>ባ፡</sic>ለዓለመ፡ዓለም፡አሜን።
 </q>
 </item>
 </list></additions>
