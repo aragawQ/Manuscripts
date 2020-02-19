@@ -552,9 +552,15 @@ Roger Schneider noted: 'Photo p.4. Au-dessus tresse formée de deux fils en roul
 <msIdentifier></msIdentifier>
 <msContents>
 <msItem xml:id="p8_i1">
+  <locus target="#18r"/>
+  <incipit>በ፭፻፫፡ዓመተ፡ምሕረት፡ወሀበ፡<persName ref="PRS10190Yaebik">ያዕቢከ፡እግዚእ፡</persName> በዘ፡ይገብሩ፡ተዝካሮ፡ለመጣዕ፡እለ፡የኀድሩ፡ውስተ፡መካን፡መነኮሳት፡ጕልት፡</incipit>
+  <explicit>ከመ፡ወርኅ፡ወብሩሀ፡ከመ፡ፀሓይ፡ወበዕለተ፡ሞቱ፡ይኈልቆ፡ምስለ፡ጻድቃን፡ወሰማዕት፡ለዓለመ፡ዓለም፡አሜን፡ወአሜን። ።</explicit>
 <note>[5.20] = CCR 17: (II f. 18r), according to AB.</note>
 </msItem>
 <msItem xml:id="p8_i2">
+    <locus target="#18v"/>
+    <incipit>ወሀ<supplied reason="undefined">ብ</supplied>ነ፡ዘንተ፡ገራውሀ፡በአሀም፡አነ፡ዕቅባ፡እግዚእ፡<supplied reason="undefined">ወ</supplied>እግዚእ፡ይባ፡መሬት፡መንደድ፡</incipit>
+    <explicit>ውጉዛነ፡ለይኵኑ፡በአፉሁ፡ለእግዚእነ፡ወበአፉሁ፡ለመጣዕ፡ወበአፈ፡፫፻፡ምእት፡፲ወ፰፡ርቱዓነ፡ሃይማኖት፡ዘኢይትፈታሕ፡በጾም፡ወበጸሎት፡ውጉዛነ፡ለይኵኑ፡ለዓለመ፡ዓለም፡አሜን።ወአሜን።</explicit>
 <note>[5.22] = CCR 27: (II f. 18v), according to AB.</note>
 </msItem>
 </msContents>
@@ -1455,10 +1461,26 @@ and may God make him set firmly as the Moon and splendid as the Sun and And on t
   </div>
   <div type="edition" xml:lang="en" corresp="#p8_i2">
 <div type="textpart" subtype="folio" n="18v">
-  <ab>
+  <ab><seg ana="#invocation" type="interpretation">
+To the glory of the Father and the Son and the Holy Spirit.
+</seg><seg ana="#subscription" type="interpretation"></seg>
+
   </ab>
   </div>
   </div>
+  <div type="edition" xml:lang="geez" corresp="#p9_i1">
+    <div type="textpart" subtype="folio" n="19r">
+      <ab><seg ana="#invocation" type="interpretation">በአኰቴተ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡</seg>
+<seg ana="#subscription" type="interpretation">ወሀብኩ፡አነ፡ተከሥተ፡ብርሃን፡ንቡረ፡እድ፡ዘአክሱም፡ወንጌል፡ወኅብረተ፡ቃላት፡ወአርአያ፡ኢየሱስ፡ከመ፡ይትወሐሰኒ፡መጣዕ፡በመንግሥተ፡ሰማያት፡ወከመ፡ይግበር፡ተዝካርየ፡መጣዕ፡ወዕለተ፡ተዝካሩ፡አመ፡፲፡ለተሕሳስ፡ለዓለም።</seg>
+      </ab>
+    </div>
+    </div>
+    <div type="edition" xml:lang="en" corresp="#p9_i1">
+      <div type="textpart" subtype="folio" n="19r">
+        <ab><seg ana="#invocation" type="interpretation">To the glory of the Father and the Son and the Holy Spirit.
+</seg>
+</div>
+</div>
   <div type="edition" xml:lang="geez">
 <div type="textpart" subtype="folio" n="8-9r">
 <ab>
