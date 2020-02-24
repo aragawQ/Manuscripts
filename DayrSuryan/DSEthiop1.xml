@@ -484,6 +484,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <dim type="left">5</dim>
                               <dim type="intercolumn">10</dim>
                            </dimensions>
+                           <ab type="ruling" subtype="pattern"> Ruling pattern: 1A-1A-1A1A/0-0/0-0/C.</ab>
                         </layout>
                      </layoutDesc>
                   </objectDesc>

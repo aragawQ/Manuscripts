@@ -126,13 +126,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                   
                   <bindingDesc>
                      <binding contemporary="true" xml:id="binding">
-                        <decoNote xml:id="b1">Two wooden boards, covered with blind-tooled leather, inner boards 
-                           covered with cloth with floral motif.</decoNote>
-                        <decoNote xml:id="b2" type="bindingMaterial">
+                        <decoNote xml:id="b1" type="Boards"> Two wooden boards.</decoNote> 
+                        <decoNote xml:id="b2" type="Cover">Covered with light brown blind-tooled leather, textile inlays with floral motif.</decoNote>
+                        <decoNote xml:id="b3" type="bindingMaterial">
                            <material key="wood"/>
                            <material key="leather"/>
                            <material key="textile"/>
                         </decoNote>
+                        <decoNote xml:id="b4" type="SewingStations">4</decoNote>
                      </binding>
                   </bindingDesc>
                </physDesc>
@@ -154,19 +155,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <choice>
                                  <sic resp="DR">ስ</sic>
                                  <corr resp="DR">ር</corr>
-                              </choice>ስቶስ፡</hi>
-                        </title>
-                        <textLang mainLang="gez"/>
-                        
-                        <incipit xml:lang="gez" type="supplication">
-                           <locus target="#1rb"/>
-                           <hi rend="rubric">ጸሎቱ፡ ወበረከቱ፡ የሃሉ፡ ምስ</hi>ለ፡ ገብሩ፡ <persName ref="PRS11939TaklaH">ተክለ፡ ሃይማኖት፡</persName> ወጸሐፊሁ፡
+                              </choice>ስቶስ፡</hi> <seg type="supplication"><hi rend="rubric">ጸሎቱ፡ ወበረከቱ፡ የሃሉ፡ ምስ</hi>ለ፡ ገብሩ፡ <persName ref="PRS11939TaklaH"><hi rend="rubric">ተክለ፡ ሃይማኖት፡</hi></persName> ወጸሐፊሁ፡
                            ኃጥእ፡ 
                            <persName ref="PRS11986GabraI" role="scribe">ገብረ፡ <hi rend="rubric">ኢየሱስ፡</hi>
                            </persName> 
-                           <hi rend="rubric">ለዓለመ፡ ዓለም፡ አሜ<corr resp="DR">ን</corr>።</hi>
-                           <!--same Gabra ʾIyasus?-->
-                        </incipit>
+                           <hi rend="rubric">ለዓለመ፡ ዓለም፡ አሜ<corr resp="DR">ን</corr>።</hi></seg>
+                        </title>
+                        <textLang mainLang="gez"/>
                      
                         <incipit xml:lang="gez">
                            <locus from="1ra" to="1va"/>
@@ -182,6 +177,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                        
                         <explicit xml:lang="gez">
                            <locus from="74va" to="74vb"/>
+                           ወዝንቱ፡ ረድእ፡ ዘኮነ፡ ሰማዕተ፡ በዝንተዝ፡ ወጸሐፈ፡ ወንሕነኒ፡ ነአምን፡ ከመ፡ ጽድቅ፡ ውእቱ፡ ስምዑ<hi rend="rubric">፨</hi>
                            ወዘንተ፡ ገብረ፡ እግዚእነ፡ <hi rend="rubric">ኢየሱስ፡</hi> ወቦ፡ ባዕድኒ፡ ብዙኅ፡ ዘገብረ፡ ወሶበ፡ ተጽሕፈ፡ ኵሉ፡ በበ፩እምኢያግመሮ፡ ዓለም፡ ጥቀ፡ ወመጻሕፍቲሁ፡ ዘተጽሕፈ፡ አሜን፡ ወአሜን፨
                         </explicit>
                
@@ -215,14 +211,18 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                                  <height>96</height>
                                  <width>77</width>
                               </dimensions>
-                              <!-- characters in 1 line per column f. 13ra 9-11;  23ra 9-12 -->
+                              <note>The number of characters per line per column: <locus target="#13ra"/>: 9-11;  <locus target="#23ra"/>: 9-12.</note>
                               <dimensions type="margin" unit="mm" xml:id="margin">
                                  <dim type="top">15</dim>
                                  <dim type="bottom">37</dim>
                                  <dim type="right">18</dim>
                                  <dim type="left">11</dim>
                               </dimensions>
-                              <ab type="pricking">Pricking and ruling are visible.</ab>
+                              <ab type="pricking">Text pricks are visible.</ab>
+                              <ab type="pricking">Vertical pricks are visible.</ab>
+                              <ab type="ruling" subtype="pattern">Ruling pattern: 1A-1A-1A1A/0-0/0-0/C.</ab>
+                              <ab type="ruling"> The upper line is written above the ruling.</ab>
+                              <ab type="ruling"> The bottom line is written above the ruling.</ab>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
