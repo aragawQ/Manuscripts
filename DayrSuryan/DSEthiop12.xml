@@ -319,6 +319,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
 
                         <extent>
                            <measure unit="leaf">96+I-IV</measure>
+                           <measure unit="quire">A+9+B</measure>
                            <dimensions type="outer" unit="mm">
                              <height>117</height>
                               <width>82</width>

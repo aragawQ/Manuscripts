@@ -298,6 +298,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
 
                         <extent>
                            <measure unit="leaf">I+64+II-III</measure>
+                           <measure unit="quire">A+6</measure>
                            <measure unit="leaf" type="blank"/>
                            <locus target="#ir #11r #11v #31v #47r #47v #61v #62r #62v #63r #iir #iiv #iiir"/>
                            <dimensions type="outer" unit="mm">

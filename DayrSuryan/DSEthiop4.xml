@@ -276,8 +276,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <material key="parchment"/>
                         </support>
                         <extent>
-                           <measure unit="leaf">ii + 194</measure>
-                           <measure unit="quire">A + 17</measure>
+                           <measure unit="leaf">ii+194</measure>
+                           <measure unit="quire">A+17</measure>
                            <dimensions type="outer" unit="mm">
                               <height>164</height>
                               <width>114</width>

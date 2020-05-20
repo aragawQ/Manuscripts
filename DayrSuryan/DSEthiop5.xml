@@ -135,7 +135,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         </support>
                         <extent>
                            <measure unit="leaf">IV+92</measure>
-                           <measure unit="quire">A + 11</measure>
+                           <measure unit="quire">A+11</measure>
                            <measure unit="leaf" type="blank">5</measure>
                            <locus target="#i #ii #iii #iv #92"/>
                            <dimensions type="outer" unit="mm">

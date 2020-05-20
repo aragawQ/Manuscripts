@@ -80,6 +80,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         </support>
                         <extent>
                            <measure unit="leaf">11</measure>
+                           <measure unit="quire">2</measure>
                            <dimensions type="outer" unit="mm">
                              <height>173</height>
                               <width>135</width>

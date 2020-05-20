@@ -109,6 +109,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         </support>
                         <extent>
                            <measure unit="leaf">I-II+38</measure>
+                           <measure unit="quire">A+4</measure>
                            <dimensions type="outer" unit="mm">
                              <height>115</height>
                               <width>90</width>
