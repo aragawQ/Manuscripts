@@ -514,7 +514,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                <history>
                    <origin>
 
-                <origDate notBefore="1930" notAfter="1960">1930 to the mid-20th century.</origDate>
+                <origDate notBefore="1930" notAfter="1960">1930 to the mid-20th century</origDate>
               <persName ref="PRS5226haylase">King (<foreign xml:lang="gez">nǝguśǝna</foreign>) Ḫāyla Śǝllāse I</persName> is
                       mentioned on
                <locus target="#30r"/>.

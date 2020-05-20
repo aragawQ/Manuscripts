@@ -455,7 +455,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
 
                         <decoNote type="ornamentation" xml:id="d1">
                            <locus target="#20va #32vb #53ra #78va"/>
-                           <desc>Pen-work divider before the sections of <ref target="#p1_i1">Text I (“The Organ of Mary”)</ref> for Wednesday, Thursday,
+                           <desc>Pen-work divider before the sections of <ref target="#p1_i1">Text I (“The Organ of Mary”)</ref>, for Wednesday, Thursday,
                               Friday and Saturday 
                               (one to three red and black dotted lines).</desc> 
                         </decoNote>
@@ -642,8 +642,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                       <bindingDesc>
                      <binding>
                         <decoNote xml:id="b7" type="other">
-                           <locus target="#20 #53 #78"/>
-                           <term key="leafStringMark">Leaf string markers</term> (coloured threads) inserted in
+                           <locus target="#20 #53 #78"/>: <term key="leafStringMark">Leaf string markers</term> (coloured threads) inserted in
                            a pricking hole or holes in the upper margins. On <locus target="#32"/>, a large hole in the upper part of the margin is visible, 
                            probably the space 
                            of a <term key="leafStringMark">leaf string marker</term>.
