@@ -72,7 +72,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <locus target="#1r"/>
                         ብአቦ፡  ስም፡  ብወዲ፡  ስምን፡ ብመንፈስ፡  ቅዱስ፡  ስምን፡
                            ሐደ፡  አምላክ፡  አሜን። በስመ፡  አብ፡  ወወልድ፡  ወመንፈስ፡  ቅዱስ፡   አሐዱ፡  አምላክ፡  አሜን ።
-                           እግዚኦ፡  ነመስግነከ፡  አሎና፡  እግዚኦ፡  ነክብረካ፡  አሎና፡  እግዚኦ፡  ብአኻ፡  ንእመን፡  አሎና።
+                           እግዚኦ፡  ነመስግነከ፡  አሎና፡  እግዚኦ፡  ነክብረካ፡  አሎና፡  እግዚኦ፡  ብአኻ፡  ንእምን፡  አሎና።
                      </incipit>
 
                      <explicit  xml:lang="ti">
@@ -225,7 +225,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <persName ref="PRS11985PetrosGS">الأنبا مكاريوس</persName> <date when="1994">١٩٩٤</date>
                            </q>
                         </item>
-                        
+
                         <item xml:id="e1">
                            <desc>Arabic shelfmark on a sticker on the front board.</desc>
                            <q xml:lang="ar">٩٣٧</q>
