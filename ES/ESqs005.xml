@@ -146,7 +146,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                      </msItem>
 
                      <msItem xml:id="ms_i1.3">
-                        <locus from="104va" target="#151va"/>
+                        <locus from="104va" to="151va"/>
                         <title type="complete" ref="LIT1882MarkGo"/>
                         <textLang mainLang="gez"/>
 
@@ -424,10 +424,10 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                               <abbr>ም፡/ምዕ፡</abbr> for <expan>ምዕራፍ፡ </expan> (<locus target="#79vb">79vb</locus>, 145ra, 187vb)</item>
                         </list>
 
-                        <seg type="rubrication">Nomina sacra (only in Text I); name of the King, of
+                        <seg type="rubrication">Name of the King, of
                            the donor and of the scribe; incipits and headings of the texts; numbers,
                            the word mǝʿrāf and titles of each chapter; the names of the Evangelists
-                           and lines in the “Canon Tables”; the word qamar (Text 1); a few lines
+                           and lines in the “Canon Tables”; a few lines
                            alternating with black lines on the incipit page of each Gospel; elements
                            of the punctuation signs and numerals.</seg>
                         
@@ -453,7 +453,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                         <seg type="script">Mediocre, more recent hand.</seg>
                         <seg type="ink">Black; red.</seg>
                         <date notBefore="1800" notAfter="1950"> </date>
-                        
+                        <seg type="rubrication">Holy names (only in Text I); incipits and headings of the texts; numbers,
+                           the word qamar.</seg>
               
                            
 
@@ -475,7 +476,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                            <note> Written in Amharic. </note>
                         </item>
                         <item xml:id="a2">
-                           <locus target="#106ra">ff. 106ra-rb (below the text)</locus>
+                           <locus target="#106r">ff. 106ra-rb (below the text)</locus>
                            <desc type="RecordTransaction">Record concerning a transaction. </desc>
                            <q xml:lang="am">
                               <locus target="#106ra"/>በ፲፱፻፴፰ዓመተ፡ ምሕረት፡ ወንጌላዊ፡ ማርቆስ፡
@@ -495,28 +496,27 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                               somehow to the feast of St Michael, seems to be the one who wrote this
                               exhortation. </note>
                         </item>
-                        <item xml:id="e1">- Titles for the “Canon tables” (in Text I) are written in
+                        <item xml:id="e1"><desc>- Titles for the “Canon tables” (in Text I) are written in
                            the upper margin: ቀመር፡ ቀዳማዊ፡ on <locus target="#3r">3r</locus>; ቀመር፡ ኃምስ፡
                            on <locus target="#5r">5r</locus>; ቀመር፡ ሣድስ፡, ቀመር፡ ሳብዕ፡, ቀመር፡ ሳምን፡ on
-                              <locus target="#5v">5v</locus>.&#xD; </item>
-                        <item xml:id="e2"> - The initial word of the “Synopsis of Classes” (in Text
-                           1) is over the text, in the upper margin of <locus target="#7r">7r</locus>.&#xD; </item>
-                        <item xml:id="e3"> - Note washed out on <locus from="3v" to="4v">3v-4v</locus> (below the “Canon tables”) and on <locus target="#6v">6v</locus>.&#xD; </item>
-                        <item xml:id="e4"> - Line left empty between the opening lines and the
+                              <locus target="#5v">5v</locus>.&#xD; </desc></item>
+                        <item xml:id="e2"><desc> - The initial word of the “Synopsis of Classes” (in Text
+                           1) is over the text, in the upper margin of <locus target="#7r">7r</locus>.&#xD; </desc></item>
+                        <item xml:id="e3"> <desc>- Note washed out on <locus from="3v" to="4v">3v-4v</locus> (below the “Canon tables”) and on <locus target="#6v">6v</locus>.&#xD;</desc> </item>
+                        <item xml:id="e4"> <desc>- Line left empty between the opening lines and the
                            incipit of the “Bǝsrāt” on <locus target="#9r">9r</locus> (Text II) and
-                           on <locus target="#239r">239r</locus> (Text V).&#xD; </item>
-                        <item xml:id="e5"> - Lacunae: <locus target="#35ra">35ra</locus>, 45ra,
-                           46rb, 48ra, 64rb&#xD; </item>
-                        <item xml:id="e6"> - Cues for the rubricator in the margins: e.g., <locus target="#56r">56r</locus>, 57r, 57v, 58v, 58v, 60r, 66r.&#xD; </item>
-                        <item xml:id="e7"> - Erasure: <locus target="#79ra">79ra</locus>.&#xD; </item>
-                        <item xml:id="e8"> - Corrections over orasures: <locus target="#146ra">146ra</locus>, 298va, 299vb.&#xD; </item>
-                        <item xml:id="e9"> - Numerals missing after the word ምዕራፍ፡ on <locus target="#259vb">259vb</locus>, 263vb, 268vb.&#xD; </item>
-                        <item xml:id="e10"> - Pen trial on <locus target="#4r">4r</locus> (right
-                           margin).&#xD; </item>
-                        <item xml:id="e11"> - Crude notes in pen in the upper margin or in the text:
-                              <locus target="#84r">84r</locus>, 273v.</item>
-                        <item xml:id="e12"><!--2019-04-02+02:00 Updated QS-005 
-            from DomLib -->
+                           on <locus target="#239r">239r</locus> (Text V).&#xD;</desc> </item>
+                        <item xml:id="e5"><desc> - Lacunae: <locus target="#35ra">35ra</locus>, 45ra,
+                           46rb, 48ra, 64rb&#xD; </desc></item>
+                        <item xml:id="e6"><desc> - Cues for the rubricator in the margins: e.g., <locus target="#56r">56r</locus>, 57r, 57v, 58v, 58v, 60r, 66r.&#xD; </desc></item>
+                        <item xml:id="e7"> <desc type="Correction">- Erasure: <locus target="#79ra">79ra</locus>.&#xD; </desc></item>
+                        <item xml:id="e8"> <desc type="Correction">- Corrections over orasures: <locus target="#146ra">146ra</locus>, 298va, 299vb.&#xD; </desc></item>
+                        <item xml:id="e9"> <desc>- Numerals missing after the word ምዕራፍ፡ on <locus target="#259vb">259vb</locus>, 263vb, 268vb.&#xD; </desc></item>
+                        <item xml:id="e10"><desc> - Pen trial on <locus target="#4r">4r</locus> (right
+                           margin).&#xD; </desc></item>
+                        <item xml:id="e11"> <desc>- Crude notes in pen in the upper margin or in the text:
+                              <locus target="#84r">84r</locus>, 273v.</desc></item>
+                        <item xml:id="e12">
                            <desc type="findingAid">- Notes concerning the content (probably referring
                               to the “Maṣḥafa gǝbra ḥǝmāmāt”) in the upper margins of fols. 97v,
                               98r, 146v, 147r, 231v, 233v, 234r, 297r, 298v, 299v.</desc>
