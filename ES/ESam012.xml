@@ -365,13 +365,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                         <layout>
                            <ab type="punctuation" subtype="Executed">more or less regularly</ab>
                            <ab type="punctuation" subtype="Usage">not always logical</ab>
-                           <ab type="punctuation">
+                           <ab type="punctuation" subtype="Dividers">
                               <list>
-                                 <item xml:id="div1"> Dividers:</item>
-                                 <item xml:id="div2"> I. Colon; </item>
-                                 <item xml:id="div3"> II. Four dot asterisk; nine dot asterisk; five
+                                 
+                                 <item xml:id="div1"> I. Colon; </item>
+                                 <item xml:id="div2"> II. Four dot asterisk; nine dot asterisk; five
                                     red and black dot vertical colon;</item>
-                                 <item xml:id="div4"> III. Double nine dot asterisks, with chain of
+                                 <item xml:id="div3"> III. Double nine dot asterisks, with chain of
                                     black and red dots in between (e. g. <locus target="#15vb">15vb</locus>); three nine dot asterisks (e. g. <locus target="#37ra">37ra</locus>).</item>
                               </list>
                            </ab>
@@ -379,53 +379,52 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <!--ACHTUNG! first HandNote comes from writing system in Ethiospare. the others are one for each CHANGE OF HAND-->
                      <handNote xml:id="h1" script="Ethiopic">
                         <seg type="script">Fine</seg>
                         <seg type="ink">Black, red</seg>
                         <date>Late 17th cent.</date>
-                        <seg type="rubrication">Nomina sacra; name of the metropolitan; a few lines
+                        <seg type="rubrication">Holy names; name of the metropolitan; a few lines
                            (alternating with black lines) in the incipit page; a word, a few words,
                            a line or a few lines of the incipit of the sections and subsections;
-                           words yǝbǝl, tǝbǝl, ǝgäle, ṣalot; elements of the punctuation signs;
+                           words yǝbǝl, tǝbǝl, ʾǝgale, ṣalot; elements of the punctuation signs;
                            Ethiopic numbers or their elements.</seg>
                      </handNote>
                   </handDesc>
-                  <additions><!--THIS element in domlib CONTAINS ESCAPED HTML, thus it is not possible to reliably extract the information about pages. Please watch out.-->
+                  <additions>
                      <list>
                         <item xml:id="a1">
-                           <locus target="#45vb">f. 45vb-46r</locus>
+                           <locus from="45vb" to="46r">f. 45vb-46r</locus>
                            <desc type="OwnershipNote">Ownership note.</desc>
                            <q xml:lang="gez">
-                              <locus target="#45vb"/>: ዝመጽሐፍ፡ ዘማርያም፡ አሸር፡ መትራ፡ ደብረ፡ አለማ፡
-                              ይእቲ፡ ዘተሣየጦ፡ በንዋየዋ፡ [fol.46r] ቤተ፡ ክርስቲያን፡ ማኅበር፡ አሸር፡ መትራ፡ ደብረ፡ አላማ፡
+                              ዝመጽሐፍ፡ ዘማርያም፡ አሸር፡ መትራ፡ ደብረ፡ አለማ፡
+                              ይእቲ፡ ዘተሣየጦ፡ በንዋየዋ፡ <pb/> ቤተ፡ ክርስቲያን፡ ማኅበር፡ አሸር፡ መትራ፡ ደብረ፡ አላማ፡
                               ይእቲ</q>
                            
                            <note> The note is written in a very crude hand, partly in red. It states
                               that the Ms. was purchased for the money of the church of Māryām ʾAšar
                               Mat(ǝ)rā Dabra ʾAlamā. </note>
                         </item>
-                        <item xml:id="e1">- The title of the work, መ/መነኰሳት, is written on a slip of
-                           paper stuck to the front board. </item>
-                        <item xml:id="e2"> - A word ተአም[ር] is written, in
+                        <item xml:id="e1"><desc>- The title of the work, መ/መነኰሳት, is written on a slip of
+                           paper stuck to the front board. </desc></item>
+                        <item xml:id="e2"><desc> - The word word ተአም[ር] is written, in
                            black paint, on the front board. It probably refers to the content of the
-                           ms. from which the board originates. </item>
-                        <item xml:id="e3"> - Omitted letters or words
+                           ms. from which the board originates. </desc></item>
+                        <item xml:id="e3"> <desc>- Omitted letters or words
                            written interlineally, occasionally over erasures<locus target="#5va"/>, <locus target="#10rb"/>, <locus target="#18ra"/>, <locus target="#20ra"/>, <locus target="#21ra"/>, <locus target="#21rb"/>,  <locus target="#22vb"/>,  
                            <locus target="#25va"/>, <locus target="#31va"/>,  <locus target="#41ra"/>.
-                           42ra, 42vb, 50r, 59rb, 62rb.</item>
-                        <item xml:id="e4"> - Erasures<locus target="#22vb"/>, <locus target="#24r"/>, <locus target="#37va"/>. </item>
-                        <item xml:id="e4b">-
-                           Corrections over erasures: <locus target="#40ra"/>, <locus target="#47ra"/>.</item>
-                        <item xml:id="e5"> - Cues for the rubricator
-                           <locus target="#10v"/>, <locus target="#11r"/>, <locus target="#12r"/>, <locus target="#14r"/>, <locus target="#27r"/>, <locus target="#28r"/>
+                           42ra, 42vb, 50r, 59rb, 62rb.</desc></item>
+                        <item xml:id="e4"><desc> - Erasures<locus target="#22vb"/>, <locus target="#24r"/>, <locus target="#37va"/>. </desc></item>
+                        <item xml:id="e4b"><desc>-
+                           Corrections over erasures: <locus target="#40ra"/>, <locus target="#47ra"/>.</desc></item>
+                        <item xml:id="e5"><desc> - Cues for the rubricator
+                           <locus target="#10v"/>, <locus target="#11r"/>, <locus target="#12r"/>, <locus target="#14r"/>, <locus target="#27r"/>, <locus target="#28r"/></desc>
                         </item>
-                        <item xml:id="e6">
-                           Names erased from <locus target="#11vb">11vb</locus>, <locus target="#12ra">12ra</locus>.</item>
-                        <item xml:id="e7">- An
-                           extensive note erased<locus target="#71r"/>. </item>
-                        <item xml:id="e8"> -
-                           Minor notes, writing exercises (in Ethiopic syllabary), doodles <locus target="#1rv"/>, <locus target="#2r"/>, <locus target="#34r"/>, <locus target="#43r"/>, <locus target="#45vb"/>, <locus target="#68v"/>.</item>
+                        <item xml:id="e6"><desc>
+                           Names erased from <locus target="#11vb">11vb</locus>, <locus target="#12ra">12ra</locus>.</desc></item>
+                        <item xml:id="e7"><desc>- An
+                           extensive note erased<locus target="#71r"/>.</desc> </item>
+                        <item xml:id="e8"><desc> -
+                           Minor notes, writing exercises (in Ethiopic syllabary), doodles <locus target="#1rv"/>, <locus target="#2r"/>, <locus target="#34r"/>, <locus target="#43r"/>, <locus target="#45vb"/>, <locus target="#68v"/>.</desc></item>
                      </list>
                   </additions>
                   <bindingDesc>
@@ -451,11 +450,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                         <placeName ref="INS0007AM"/>
                      </origPlace>
                      <origDate notBefore="1671" notAfter="1692">Metropolitan of Ethiopia (ṗāṗṗāsǝna)
-                        ʾabbā Sinodā (in tenure 1671/72-1692) is mentioned on <locus target="#70rb"/>. The Patriarch of Alexandria ( liqa ṗāṗṗāsǝna) is wrongly
+                        <persName ref="PRS8870Sinoda">ʾabbā Sinodā</persName> (in tenure <date>1671/72-1692</date>) is mentioned on <locus target="#70rb"/>. The Patriarch of Alexandria ( liqa ṗāṗṗāsǝna) is wrongly
                         (?) identified as ʾabbā Sinodā, <locus target="#70rb"/>.</origDate>
                   </origin>
                   <provenance>The concluding supplication possibly
-                     containing the name of the donor and/or owner has been erased from <locus target="#70va">70va-b</locus>.</provenance>
+                     containing the name of the donor and/or owner has been erased from <locus target="#70v">70va-b</locus>.</provenance>
                </history>
                <additional>
                   <adminInfo>
@@ -504,6 +503,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
          <change who="DN" when="2015-06-02">last edited</change>
          <change who="PL" when="2016-05-10">transformed from mycore to TEI P5</change>
          <change when="2019-04-15" who="ES">started adjusting</change>
+         <change when="2020-06-12" who="ES">adjusted to schema</change>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">
