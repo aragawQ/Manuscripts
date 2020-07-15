@@ -28,6 +28,54 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <altIdentifier><idno>Wright cat. CCCLV</idno></altIdentifier>
                         <altIdentifier><idno>Wright 355</idno></altIdentifier>
                         </msIdentifier>
+                        <msContents></msContents>
+                        <physDesc>
+                          <objectDesc form="Codex">
+                              <supportDesc>
+                                  <support>
+                                      <material key="parchment"/>
+                                  </support>
+                                  <extent>
+                                      <measure unit="leaf">164</measure>
+                                      <measure unit="blank">1</measure>
+                                      <dimensions type="outer" unit="in">
+                                          <height>9.5</height>
+                                          <width>8.375</width>
+                                      </dimensions>
+                                  </extent>
+                                </supportDesc>
+
+                              <layoutDesc>
+                                  <layout columns="2" writtenLines="21 23"/>
+                              </layoutDesc>
+                          </objectDesc>
+                          <handDesc>
+                            <handNote xml:id="h1" script="Ethiopic">
+<desc>Written in a good clear hand; apparently of the <date>17th Cent.</date></desc>
+                            </handNote></handDesc>
+
+                          </physDesc>
+                          <history>
+                                  <provenance>Looted by the British <persName ref="PRS7484Napier">Napier</persName>
+                                  expedition in <date>1868</date> from the church of <placeName ref="INS0101MadhaneAlam">Madḫāne ʿAlam</placeName>
+                              </provenance>
+
+                          </history>
+                          <additional>
+                              <adminInfo>
+                                  <recordHist>
+                                      <source>
+                                          <listBibl type="catalogue">
+                                              <bibl>
+                                                  <ptr target="bm:Wright1877BM"/>
+                                                  <citedRange unit="page">262b-264a</citedRange>
+                                              </bibl>
+                                          </listBibl>
+      
+                                      </source>
+                                  </recordHist>
+                              </adminInfo>
+                          </additional>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -42,6 +90,8 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <textClass>
                 <keywords>
                     <term key="ChristianLiterature"/>
+                    <term key="Translation"/>
+                    <term key="Theology"/>
                 </keywords>
             </textClass>
             <langUsage>
@@ -51,6 +101,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </profileDesc>
         <revisionDesc>
             <change who="DE" when="2020-07-15">Created entity</change>
+            <change when="2020-07-15" who="MKr">Completed the description</change>
         </revisionDesc>
     </teiHeader>
     <text>
