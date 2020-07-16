@@ -7,7 +7,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <titleStmt>
                 <title>Book of the pearl of great price</title>
                 <editor role="generalEditor" key="AB"/>
-                <editor key="DE"/>
+                <editor key="MKr"/>
                 <funder>Akademie der Wissenschaften in Hamburg</funder>
             </titleStmt>
             <publicationStmt>
@@ -28,7 +28,29 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <altIdentifier><idno>Wright cat. CCCLV</idno></altIdentifier>
                         <altIdentifier><idno>Wright 355</idno></altIdentifier>
                         </msIdentifier>
-                        <msContents></msContents>
+
+                        <msContents>
+                          <msItem xml:id="ms_i1">
+                          <locus from="4r"/>
+                          <title type="complete" ref="LIT6128PearlOfGreatPrice"/>
+                          <textLang mainLang="gez"/>
+                          </msItem>
+
+
+                          <msItem xml:id="ms_i1.1">
+                          <locus from="4r"/>
+                          <title type="complete" xml:lang="en">Introduction and table of contents</title>
+                          <incipit xml:lang="gez">
+                          በስመ፡ አብ፡ <gap reason="ellipsis" resp="PRS10171Wright"/> ንወጥን፡ በረድኤተ፡ እግዚአብሔር፡ ልዑል፡ ወሠናይ፡ ሥንዐሁ፡ በጸሒፈ፡
+                          መጽሐፈ፡ ባሕርይ፡ ዘብዙኅ፡ ሤጡ። ዘተጋብአ፡ እምባሕለ፡ ነቢያት፡ ጻድቃን፡ ወሐዋርያት፡ ንጹሓን፡ ወአበው፡ ቅዱሳን፡ ወሊቃነ፡ ጳጳሳት፡ ኅሩያን፡ መምህራነ፡
+                          ቤተ፡ ክርስቲያን፡ እለ፡ ጽኑዐን፡ በመንፈስ፡ ቅዱስ። ይጸግወነ፡ እግዚአብሔር፡ በረከተ፡ ጸሎቶሙ፡ አሜን። ዝንቱ፡ መጽሐፍ፡ ይነግር፡ ቅድመ፡ ተዋሕዶተ፡ ሥላሴሁ፡
+                          ለወልደ፡ እግዚአብሔር፡ ቃል። ወያተሉ፡ ሥጋዌሁ፡ እምእግዝእትነ፡ ማርያም፡ ድንግል፡ እምአሜ፡ ልደቱ፡ እስከ፡ ዕርገቱ፡ ውስተ፡ ሰማይ። ወፈንዎቱ፡ ጰራቅሊጦስሃ፡ ላዕለ፡
+                          ሐዋርያት፡ ንጹሓን፡ ወቅዱሳን። ወይከሥት፡ በውስቴቱ፡ ዝክረ፡ አበው፡ ለለ፡ ፩፡ እምኔሆሙ፡ በበስሙ። ወእምአይ፡ መካን፡ እምጽኡ፡ ስምዐቲሆሙ፡ እንዘ፡ ይከፍል፡ ኀበ፡
+                          ጾታ፡ ፲ወ፪፡ አናቅጸ። ወስብሐት፡ ለእግዚአብሔር፡ እስከ፡ ለዓለም።
+                          </incipit>
+                          </msItem>
+
+                  </msContents>
                         <physDesc>
                           <objectDesc form="Codex">
                               <supportDesc>
@@ -51,7 +73,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                           </objectDesc>
                           <handDesc>
                             <handNote xml:id="h1" script="Ethiopic">
-<desc>Written in a good clear hand; apparently of the <date>17th Cent.</date></desc>
+                            <desc>Written in a good clear hand; apparently of the <date>17th Cent.</date></desc>
                             </handNote></handDesc>
 
                           </physDesc>
@@ -71,7 +93,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                                   <citedRange unit="page">262b-264a</citedRange>
                                               </bibl>
                                           </listBibl>
-      
+
                                       </source>
                                   </recordHist>
                               </adminInfo>
