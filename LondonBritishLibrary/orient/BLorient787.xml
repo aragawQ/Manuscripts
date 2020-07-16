@@ -30,14 +30,26 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </msIdentifier>
 
                         <msContents>
+
                           <msItem xml:id="ms_i1">
+                          <locus from="1v"/>
+                          <title type="complete">A section on Melchizedek</title>
+                          <incipit xml:lang="gez">ይነግር፡ ብእሲ፡ ልሂቅ፡ ወጠቢብ፡ ለሕገ፡ እግዚአብሔር፡ በእንተ፡ መልከ፡ ጼዴቅ፡</incipit>
+                          </msItem>
+
+                          <msItem xml:id="ms_i2">
+                          <locus from="2r"/>
+                          <title type="complete">On the 318 Nicene Fathers with Creed and Anathemas</title>
+                          </msItem>
+
+                          <msItem xml:id="ms_i3">
                           <locus from="4r"/>
                           <title type="complete" ref="LIT6128PearlOfGreatPrice"/>
                           <textLang mainLang="gez"/>
                           </msItem>
 
 
-                          <msItem xml:id="ms_i1.1">
+                          <msItem xml:id="ms_i3.1">
                           <locus from="4r"/>
                           <title type="complete" xml:lang="en">Introduction and table of contents</title>
                           <incipit xml:lang="gez">
@@ -63,7 +75,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                           አንቀጽ፡ ፲ወ፬፡ በእንተ፡ ዘፈነወ፡ ለጵራቅሊጦስ፡ መንፈሰ፡ ጽድቅ።<lb/>
                           አንቀጽ፡ ፲ወ፭፡ ቃላት፡ ይነግር፡ በእንተ፡ ሥላሴሁ፡ ቅድስት።<lb/>
                           ወናሁ፡ ሠራዕነ፡ ወአስተናበርነ፡ ውስተ፡ መጽሐፍነ፡ ዛቲ፡ ወአስተጋባእነ፡ ቃላተ፡ ርቱዐተ፡ ወጽድቃተ፡ በእንተ፡ ሃይማኖት፡ ርትዕት። ወስብሐት፡ ለእግዚአብሔር፡ ጸጋዌ፡ ልቡና፡
-                          ወቃላት፡ ለዓለመ፡ ዓለም፡ አሜን።   
+                          ወቃላት፡ ለዓለመ፡ ዓለም፡ አሜን።
                           </incipit>
                           </msItem>
 
