@@ -37,7 +37,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
 
                   <msItem xml:id="ms_i1">
                      <locus from="1r" to="19r"/>
-                     <title type="complete" ref="LIT1860Malkea"/>
+                     <title type="complete" ref="LIT2835RepCh119"/>
                   </msItem>
                   <msItem xml:id="ms_i2">
                      <locus from="21r" to="41r"/>
@@ -216,7 +216,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
         <change when="2020-04-18" who="RL">Corrected ǝ character</change>
         <change when="2020-04-27" who="DR">Substituted deleted LIT4112Salam by LIT2891RepCh172 in ms_i3</change>
 
-       
+
 
     </revisionDesc>
    </teiHeader>

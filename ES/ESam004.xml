@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
-schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ESam004" xml:lang="en" type="mss">
    <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
@@ -112,7 +112,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
 
                   <msItem xml:id="ms_i2">
                      <locus from="102rb" to="105vb">102rb-105vb</locus>
-                     <title type="complete" ref="LIT1860Malkea">Malkǝʾa Mikāʾel “Image of
+                     <title type="complete" ref="LIT2835RepCh119">Malkǝʾa Mikāʾel “Image of
                         Michael”</title>
 
                      <incipit xml:lang="gez">
