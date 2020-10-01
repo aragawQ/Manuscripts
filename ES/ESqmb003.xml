@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
-schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng" 
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/Schema/master/tei-betamesaheft.rng"
 type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ESqmb003" xml:lang="en" type="mss">
    <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
@@ -16,7 +16,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                Forschungsumgebung / Beta maṣāḥǝft</publisher>
             <availability>
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">
-                  <p> This file is licensed under the Creative Commons Attribution-ShareAlike 4.0.
+                  <p>This file is licensed under the Creative Commons Attribution-ShareAlike 4.0.
                   </p>
                </licence>
             </availability>
@@ -33,7 +33,6 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                   <summary>I) Bǝsrāta Yoḥannǝs “Gospel of John” (fols. 3ra-98rb)&#xD; &#xD;
                      Additiones 1-5.</summary>
                   <msItem xml:id="ms_i1">
-
                      <incipit>
                         <foreign xml:lang="en"/>
                      </incipit>
@@ -48,6 +47,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                      <supportDesc>
                         <support>
                            <material key="parchment"/>
+                           <objectType ref="https://www.eagle-network.eu/voc/objtyp/lod/2">Unspecified</objectType>
                         </support>
                         <extent>Made of <measure unit="leaf">100.0</measure> folios, in <measure unit="quire">13.0</measure> quires (A+11+B). <dimensions type="outer">
                               <height unit="mm">175</height>
@@ -65,48 +65,45 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                            <list>
                               <item xml:id="q1">
                                  <dim unit="leaf">1</dim>
-                                 <locus from="1r" to="2v"/>A(1r-2v) </item>
+                                 <locus from="1r" to="2v" facs="001"/>A(1r-2v) </item>
                               <item xml:id="q2">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="3r" to="10v"/> ፩I፩(8/fols. 3r-10v) </item>
+                                 <locus from="3r" to="10v" facs="003"/> ፩I፩(8/fols. 3r-10v) </item>
                               <item xml:id="q3">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="11r" to="18v"/> ፩II፪(8/fols. 11r-18v) </item>
+                                 <locus from="11r" to="18v" facs="011"/> ፩II፪(8/fols. 11r-18v) </item>
                               <item xml:id="q4">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="19r" to="26v"/> ፪III፫(8/fols. 19r-26v) </item>
+                                 <locus from="19r" to="26v" facs="019"/> ፪III፫(8/fols. 19r-26v) </item>
                               <item xml:id="q5">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="27r" to="34v"/> ፫IV፬(8/fols. 27r-34v) </item>
+                                 <locus from="27r" to="34v" facs="027"/> ፫IV፬(8/fols. 27r-34v) </item>
                               <item xml:id="q6">
                                  <dim unit="leaf">8</dim>
-                                 <locus target="#35r"/>
-                                 <locus target="#42v"/> ፬V፭(8/fols. 35r- 42v) </item>
+                                 <locus target="#35r" facs="035"/>
+                                 <locus target="#42v" facs="042"/> ፬V፭(8/fols. 35r- 42v) </item>
                               <item xml:id="q7">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="43r" to="50v"/> ፭VI፮(8/fols. 43r-50v) </item>
+                                 <locus from="43r" to="50v" facs="043"/> ፭VI፮(8/fols. 43r-50v) </item>
                               <item xml:id="q8">
                                  <dim unit="leaf">10</dim>
-                                 <locus target="#10"/>
-                                 <locus from="51r" to="60v"/> ፮VII፯(10/fols. 51r-60v) </item>
+                                 <locus target="#10" facs="010"/>
+                                 <locus from="51r" to="60v" facs="051"/> ፮VII፯(10/fols. 51r-60v) </item>
                               <item xml:id="q9">
                                  <dim unit="leaf">10</dim>
-                                 <locus target="#10"/>
-                                 <locus from="61r" to="70v"/> ፯VIII፰ (10/fols. 61r-70v) </item>
+                                 <locus from="61r" to="70v" facs="061"/> ፯VIII፰ (10/fols. 61r-70v) </item>
                               <item xml:id="q10">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="71r" to="78v"/> ፰IX(8/fols. 71r-78v) </item>
+                                 <locus from="71r" to="78v" facs="071"/> ፰IX(8/fols. 71r-78v) </item>
                               <item xml:id="q11">
                                  <dim unit="leaf">10</dim>
-                                 <locus target="#10"/>
-                                 <locus from="79r" to="88v"/> ፱X(10/fols. 79r-88v) </item>
+                                 <locus from="79r" to="88v" facs="079"/> ፱X(10/fols. 79r-88v) </item>
                               <item xml:id="q12">
                                  <dim unit="leaf">10</dim>
-                                 <locus target="#10"/>
-                                 <locus from="89r" to="98v"/> ፲XI(10/fols. 89r-98v) </item>
+                                 <locus from="89r" to="98v" facs="089"/> ፲XI(10/fols. 89r-98v) </item>
                               <item xml:id="q13">
                                  <dim unit="leaf">2</dim>
-                                 <locus from="99r" to="100v"/> B(2/fols. 99r-100v).</item>
+                                 <locus from="99r" to="100v" facs="099"/> B(2/fols. 99r-100v).</item>
                            </list>
                         </collation>
                         <condition key="good">The tailband is missing, the spine is partly torn
@@ -130,7 +127,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                            <ab type="ruling"/>
                            <ab type="pricking">Pricking and ruling are visible. </ab>
                            <ab type="ruling" subtype="pattern"> Ruling pattern: </ab>
-                           <ab> 1A-1A-1A1A/0-0/0-0/C. </ab>
+                           <ab type="ruling" subtype="pattern"> 1A-1A-1A1A/0-0/0-0/C.</ab>
                            <ab type="pricking"> Primary pricks are visible. </ab>
                            <ab type="pricking"> Ruling pricks are clearly visible. </ab>
                            <ab type="ruling"> The upper line is written above the ruling. </ab>
@@ -214,13 +211,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                            <note> Written in Gǝʿǝz and Amharic. </note>
                         </item>
                         <item xml:id="e1">- A chain of black dots and a red line, probably
-                           separating the text passages (?), on fols.: 21v, 23r, 41r, 41v, 42v, 49r,
+                           separating the text passages (?), on fols.: <locus target="#21v">21v</locus> <locus target="#23r">23r</locus>, <locus target="#41r">41r</locus> <locus target="#42v">42v</locus>
+                           <locus target="#49v">49v</locus><locus target="#50r">50r</locus><locus target="#50r">50r</locus>
                            50r, 53r, 61v, 62v, 63r, 64v, 67r, 71r, 72r, 73r, 77v, 87r, 93v.&#xD; -
                            Crude drawing of a cross with an inscription above: zǝ-Masqal za-ʾAbba,
                               <locus target="#1r">1r</locus>.&#xD; - Numerous corrections of the
                            text (written interlineally and in the margins) by another hand: <locus target="#3va">3va</locus>, 4rab, 4vab, 5rab, 6rab, 9va, 10rab, 10vb,
                            51va, 73vb, 84vb. &#xD; - Text erasures: <locus target="#29ra">29ra</locus>b. &#xD; - Crudely written notes in pen: <locus target="#6r">6r</locus>, 17v, 75v, 100rv.</item>
-                        <item xml:id="e2"><!--2019-04-02+02:00 Updated QMB-003 
+                        <item xml:id="e2"><!--2019-04-02+02:00 Updated QMB-003
             from DomLib -->
                            <desc type="findingAid">- Names of the church feasts written in the upper
                               margins of some fols., indicating respective readings: 3r, 7r, 8r,
@@ -307,10 +305,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
          <langUsage><language ident="en">English</language><language ident="gez">Gǝʿǝz</language></langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="DN" when="0201-12-13">Ethio-SPaRe team photographed the manuscript</change>
+         <change who="DN" when="2011-12-13">Ethio-SPaRe team photographed the manuscript</change>
          <change who="MK" when="2011-11-08">catalogued</change>
          <change who="SA" when="2014-09-09">last edited</change>
          <change who="PL" when="2016-05-10">transformed from mycore to TEI P5</change>
+         <change who="HM" when="2020-09-30">updated during the TEI training</change>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">
