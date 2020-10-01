@@ -41,12 +41,12 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
 <msItem xml:id="ms_i1">
    <title ref="LIT6177DossierSadeqanB"></title>
    <msItem xml:id="ms_i1.1">
-                     <locus from="3ra" to="17va"></locus>
+      <locus from="3ra" to="17va" facs="003"></locus>
                      <title type="complete" ref="LIT1489Gadlas">Gadla Ṣādǝqān [za-Bāraknāhā] “Vita of the Righteous
                         Ones [of Bāraknāhā]”</title>
 
                      <incipit>
-                        <locus target="#3ra">3ra</locus>በስመ፡’’… ዝውእቱ፡ መጽሐፈ፡ ገድሎሙ፡ ለጻድቃን፡ እለ፡ ወጽኡ፡
+                        <locus target="#3ra" facs="003">3ra</locus>በስመ፡’’… ዝውእቱ፡ መጽሐፈ፡ ገድሎሙ፡ ለጻድቃን፡ እለ፡ ወጽኡ፡
                         እምሮም፡ በመዋዕሊሁ፡ ለአልዓሜድ፡ ንጉሠ፡ ኢትዮጵያ፨ ጸሎቶሙ፡ ወበረከቶሙ፡ የሃሉ፡ ፍቁሮሙ፡ ገብረ፡ ሥላሴ፡ ዓመተ፡
                         ክርስቶስ፡ ወለተ፡ ማርያም፡ ወምስለ፡ ኵልነ፡ ደቂቀ፡ ቤት፡ መካእ፨ ለዓለመ፡ ዓለም፡ አሜን፨ እዜንወክሙ፡ ኦአኃውየ፡
                         ዜናሆሙ፡ ለእሉ፡ ቅዱሳን፡ ጻድቃን፡ [<locus target="#3rb">3rb</locus>]እለ፡ በኂሬን[sic]፡
@@ -137,13 +137,13 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                   </msItem>
 </msItem>
                   <msItem xml:id="ms_i2">
-                     <locus from="27r" to="43r"></locus>
+                     <locus from="27r" to="43r" facs="027"></locus>
                      <title type="complete" ref="LIT1298Dersan">Dǝrsāna sanbata krǝstiyān “Homily on the Sabbath of
                         Christians” (Homily on the observance of Sunday, ascribed to Jacob of
                         Serug)</title>
 
                      <incipit>
-                        <locus target="#27r">27r</locus>: በስመ፡’’… ድርሳን፡ ዘአባ፡ ያዕቆብ፡ ዘሥሩግ፡ በእንተ፡ ቅድስት፧
+                        <locus target="#27r" facs="027">27r</locus>: በስመ፡’’… ድርሳን፡ ዘአባ፡ ያዕቆብ፡ ዘሥሩግ፡ በእንተ፡ ቅድስት፧
                         ሰንበተ፡ ክርስቲያን፡ ዘደረሰ፡ ርቱዓ፡ ሃይማኖት፧ ስምዑ፡ ፍቁራንየ፡ ውሉዳ፡ ቤት፡ ክርስቲያን፡ በእንተ፧ ዕበያ፡
                         ወክብራ፡ …<foreign xml:lang="en">In the name of the Father and the Son
                            and the Holy Spirit … which ʾabbā Jaqob of Serug, Orthodox in faith,
@@ -151,7 +151,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                            church, about  her greatness and  her glory …</foreign>
                      </incipit>
                      <explicit>
-                        <locus target="#42v">42v , l.24</locus> …ወፈድፋደሰ ለዘጸሐፋ፡ ወለዘአጽሐፋ፧ ለዛቲ፡ መጽሐፍ፡
+                        <locus target="#42v" facs="043">42v , l.24</locus> …ወፈድፋደሰ ለዘጸሐፋ፡ ወለዘአጽሐፋ፧ ለዛቲ፡ መጽሐፍ፡
                         ተአሚኖ፡ <pb/>ቅራ፡ ለሰንበተ፡ ክርስቲያን፡ ይጽሕፍ፡ ስሞ፡
                         ኀበ፡ ዓምደ፡ ወርቅ፧ በቀለ[n.l.] ወርቅ፧ ለገብርከ፧ ገብረ፧ ሥላሴ፡ [n.l.]መተ፡ ማርያም፡ ወለተ፡ ጻድቃን፧
                         ጸሎታ፡ ለእግዝእትነ፧ ማርያም፡ ወላዲተ፡ አምላክ፡ ወበረከታ፧ ለሰንበተ፡ ክርስቲያን፡ ቅድስት፡ የሃሉ፧ ምስሌነ፧ ለዓለመ፧
@@ -184,31 +184,31 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                         <foliation>Foliated by the Ethio-SPaRe team</foliation>
                         <collation>
                            <signatures> Decorated <note>- Decorated quire marks in upper left
-                              corner: <locus target="#3r">3r</locus>, <locus target="#11r">11r</locus>, <locus target="#19r">19r</locus>.</note>
+                              corner: <locus target="#3r" facs="003">3r</locus>, <locus target="#11r">11r</locus>, <locus target="#19r">19r</locus>.</note>
                            </signatures>
                            
                            <list>
-                              <item xml:id="q1">
+                              <item xml:id="q1" n="1">
                                  <dim unit="leaf">2</dim>
-                                 <locus from="1r" to="2v"/>A(2/fols. 1r-2v) </item>
-                              <item xml:id="q2">
+                                 <locus from="1r" to="2v" facs="001"/>A(2/fols. 1r-2v) </item>
+                              <item xml:id="q2" n="2">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="3r" to="10v"/> ፩I(8/fols. 3r-10v) </item>
-                              <item xml:id="q3">
+                                 <locus from="3r" to="10v" facs="003"/> ፩I(8/fols. 3r-10v) </item>
+                              <item xml:id="q3" n="3">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="11r" to="18v"/>  ፪II(8/fols. 11r-18v)</item>
-                              <item xml:id="q4">
+                                 <locus from="11r" to="18v" facs="011"/>  ፪II(8/fols. 11r-18v)</item>
+                              <item xml:id="q4" n="4">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="19r" to="26v"/>፫III(8/fols. 19r-26v)</item>
-                              <item xml:id="q5">
+                                 <locus from="19r" to="26v" facs="019"/>፫III(8/fols. 19r-26v)</item>
+                              <item xml:id="q5" n="5">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="27r" to="34v"/>IV(8/fols. 27r-34v)</item>
-                              <item xml:id="q6">
+                                 <locus from="27r" to="34v" facs="027"/>IV(8/fols. 27r-34v)</item>
+                              <item xml:id="q6" n="6">
                                  <dim unit="leaf">8</dim>
-                                 <locus from="35r" to="42v"/>V(8/fols. 35r-42v)</item>
-                              <item xml:id="q7">
+                                 <locus from="35r" to="42v" facs="035"/>V(8/fols. 35r-42v)</item>
+                              <item xml:id="q7" n="7">
                                  <dim unit="leaf">3</dim>
-                                 <locus from="43r" to="45v"/>VI(3; s.l.: 3, stub after 2/fols.
+                                 <locus from="43r" to="45v" facs="043"/>VI(3; s.l.: 3, stub after 2/fols.
                                  43r-45v)</item>
                            </list>                           
                            
@@ -230,14 +230,14 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                               <dim type="left">17</dim>
                               <dim type="intercolumn">10</dim>
                            </dimensions>
-                           <note>All data for <locus from="2r" to="22v">2r-22v</locus>.</note>
+                           <note>All data for <locus from="2r" to="22v" facs="002">2r-22v</locus>.</note>
                            <ab type="ruling"/>
                            <ab type="pricking">Pricking and ruling are visible.</ab>
                            <ab type="ruling" subtype="pattern"> Ruling pattern: 1A-1A-1A1A/0-0/0-0/C </ab>
                            <ab type="pricking"> Primary pricks are visible.</ab>
                            <ab type="pricking"> Ruling pricks are visible.</ab>
                            <ab type="pricking"> Structural pricks are partly visible (e.g., s.
-                                 <locus target="#21v">21v</locus>, 22r).</ab>
+                                 <locus target="#21v" facs="022">21v</locus>, 22r).</ab>
                            <ab type="ruling"> The upper line is written above the ruling.</ab>
                            <ab type="ruling"> The bottom line is written above the ruling.</ab>
                         </layout>
@@ -254,7 +254,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                               <dim type="left">10</dim>
                               <dim type="intercolumn"/>
                            </dimensions>
-                           <note>All data for <locus from="27r" to="43r">27r-43r</locus>.</note>
+                           <note>All data for <locus from="27r" to="43r" facs="027">27r-43r</locus>.</note>
                            <ab type="ruling"/>
                            <ab type="pricking">Pricking and ruling are visible.</ab>
                            <ab type="ruling" subtype="pattern"> Ruling pattern:
@@ -271,16 +271,16 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                               <list>
                                  <item xml:id="div1"> Dividers:</item>
                                  <item xml:id="div2"> I. Colon.</item>
-                                 <item xml:id="div3"> II. Four dot asterisk (e.g. fols.: 3va, <locus target="#21">21</locus>, 22; 15rb, l.2; 42v, l.4); </item>
+                                 <item xml:id="div3"> II. Four dot asterisk (e.g. fols.: 3va, <locus target="#21" facs="021">21</locus>, 22; 15rb, l.2; 42v, l.4); </item>
                                  <item xml:id="div4"> nine dot asterisk (used throughout the
                                     text);</item>
                                  <item xml:id="div5"> five red and black dot vertical colon (used
                                     throughout the text).</item>
-                                 <item xml:id="div6"> III. Three four dot asterisk (esp. <locus target="#22va">22va</locus>, l.22);</item>
-                                 <item xml:id="div7"> three nine dot asterisks (esp. <locus target="#17va">17va</locus>, l.12);</item>
-                                 <item xml:id="div8"> more nine dot asterisks (esp. <locus target="#43r">43r</locus>, l.9);</item>
+                                 <item xml:id="div6"> III. Three four dot asterisk (esp. <locus target="#22va" facs="022">22va</locus>, l.22);</item>
+                                 <item xml:id="div7"> three nine dot asterisks (esp. <locus target="#17va" facs="017">17va</locus>, l.12);</item>
+                                 <item xml:id="div8"> more nine dot asterisks (esp. <locus target="#43r" facs="043">43r</locus>, l.9);</item>
                                  <item xml:id="div9"> more than two nine dot asterisks, connected
-                                    with dashes (esp. <locus target="#18ra">18ra</locus>, <locus from="20" to="21">20-21</locus>);</item>
+                                    with dashes (esp. <locus target="#18ra">18ra</locus>, <locus from="20" to="21" facs="020">20-21</locus>);</item>
                                  <item xml:id="div10"> chain of black and red dots (esp. fol. 22va,
                                     l.23).</item>
                               </list>
@@ -291,7 +291,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                   </objectDesc>
                   <handDesc>
                      <handNote xml:id="h1" script="Ethiopic" corresp="#ms_i1">
-                        <locus from="3ra" to="22va"></locus>
+                        <locus from="3ra" to="22va"  facs="003"></locus>
                         <seg type="script">Mediocre.</seg>
                         <seg type="ink">Black; red.</seg>
                         <date>Second half of the 19th century.</date>
@@ -305,7 +305,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
                            of the punctuation signs; elements of Ethiopic numerals.</seg>
                      </handNote>
                      <handNote xml:id="h2" script="Ethiopic" corresp="#ms_i2">
-                        <locus from="27r" to="43r">27r-43r</locus>
+                        <locus from="27r" to="43r" facs="027">27r-43r</locus>
                         <seg type="script">More careful hand.</seg>
                         <seg type="ink">Black; red.</seg>
                         <date>Second half of the 19th century.</date>
@@ -321,7 +321,7 @@ seven lines on the incipit page (fol. 27r) of Text III divided
                   <additions>
                      <list>
                         <item xml:id="a1">
-                           <locus target="#18ra">f. 18ra</locus>
+                           <locus target="#18ra" facs="018">f. 18ra</locus>
                            <desc type="DonationNote">Donation note. </desc>
                            <q xml:lang="gez">
                                ዝመጽሐፍ፡ ዘተሣየጣ፡ በንዋዩ፡ አለቃ፡ ረዳ፡
@@ -426,7 +426,8 @@ seven lines on the incipit page (fol. 27r) of Text III divided
          <change who="VP" when="2011-09-30">catalogued</change>
          <change who="SD" when="2014-09-12">last edited</change>
          <change who="PL" when="2016-05-10">transformed from mycore to TEI P5</change>
-         <change when="2020-09-15" who="ES">adjusted to schema, no personID created</change>
+         <change who="ES" when="2020-09-15" >adjusted to schema, no personID created</change>
+         <change who="MBä" when="2020-09-29">minor changes and corrections </change>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">
