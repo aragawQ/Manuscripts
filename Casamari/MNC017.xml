@@ -49,7 +49,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <locus target="#2r"/>
                            <lb/><hi rend="rubric">አርአያ፡ ፍካሬ፡ ዘጻድቃን፡ ወዘኃጥአን። 
                               <lb/> መዝሙር፡ ዘዳዊት። ሃሌ፡ ሉያ።
-                              <lb/>፩</hi> ብፁዕ፡ ብእሲ፡ ዘኢሖረ፡ በምክረ፡ ረሲአን። 
+                              <lb/>፩</hi>ብፁዕ፡ ብእሲ፡ ዘኢሖረ፡ በምክረ፡ ረሲአን። 
                            <lb/>ወዘኢቆመ፡ ውስተ፡ ፍኖተ፡ ኃጥአን።
                         </incipit>
                         <explicit xml:lang="gez">
@@ -89,7 +89,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#120v"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ ሙሴ፡ ዘዳግም፡ ሕግ።  
-                              <lb/>፪</hi> አጽምዕ፡ ሰማይ፡ ወእንግርከ።
+                              <lb/>፪</hi>አጽምዕ፡ ሰማይ፡ ወእንግርከ።
                               <lb/> ወትስማዕ፡ ምድር፡ ቃለ፡ አፉየ።
                            </incipit>
                            <explicit xml:lang="gez">
@@ -106,7 +106,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#122r"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ ሙሴ፡ ዘሣልሳይ። 
-                                 <lb/>፫</hi> እስመ፡ እሳት፡ ትነድድ፡ እመዓትየ።
+                                 <lb/>፫</hi>እስመ፡ እሳት፡ ትነድድ፡ እመዓትየ።
                               <lb/> ወታውዒ፡ እስከ፡ ሲኦል፡ ታሕተ።
                            </incipit>
                            <explicit xml:lang="gez">
@@ -123,7 +123,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#123v"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ ሐና፡ እመ፡ ሳሙኤል፡ ነቢይ። 
-                                 <lb/>፬</hi> ጸንዓ፡ ልብየ፡ በእግዚአብሔር።
+                                 <lb/>፬</hi>ጸንዓ፡ ልብየ፡ በእግዚአብሔር።
                               <lb/>ወተለዓለ፡ ቀርንየ፡ በአምላኪየ፡ ወመድኃንየ። 
                            </incipit>
                            <explicit xml:lang="gez">
@@ -174,7 +174,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#126r"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ ዮናስ፡ ነቢይ። 
-                              <lb/>፯</hi> ጸራኅኩ፡ በምንዳቤየ፡ ኀበ፡ እግዚአብሔር፡ አምላኪየ።
+                              <lb/>፯</hi>ጸራኅኩ፡ በምንዳቤየ፡ ኀበ፡ እግዚአብሔር፡ አምላኪየ።
                               <lb/>ወሰምዓኒ፡ በውስተ፡ ከርሠ፡ ሲኦል። ወሰምዓኒ፡ ቃልየ።
                            </incipit>
                            <explicit xml:lang="gez">
@@ -191,7 +191,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#126v"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ ዳንኤል፡ ነቢይ፡ <sic resp="MV">ሰብሐት፡</sic> ዘእምአዛርያ።  
-                                 <lb/>፰</hi> ይትባረክ፡ እግዚአብሔር፡ አምላከ፡ አበዊነ።
+                                 <lb/>፰</hi>ይትባረክ፡ እግዚአብሔር፡ አምላከ፡ አበዊነ።
                               <lb/>እኩት፡ ወስቡሕ፡ ስምከ፡ ለዓለም።
                            </incipit>
                            <explicit xml:lang="gez">
@@ -208,7 +208,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#127v"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ ፫ ደቂቅ፡
-                                 <lb/>፱</hi> ይትባረክ፡ እግዚአብሔር፡ አምላከ፡ አበዊነ።
+                                 <lb/>፱</hi>ይትባረክ፡ እግዚአብሔር፡ አምላከ፡ አበዊነ።
                               <lb/><sic resp="MV">ሰቡሕኒ፡</sic> ውእቱ፡ ወልዑልኒ፡ ውእቱ፡ ለዓለም።
                            </incipit>
                            <explicit xml:lang="gez">  
@@ -243,7 +243,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#128v"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ እንባቆም፡ ነቢይ። 
-                                 <lb/>፲፩</hi> እግዚኦ፡ ሰማዕኩ፡ ድምፀከ፡ ወፈራህኩ።
+                                 <lb/>፲፩</hi>እግዚኦ፡ ሰማዕኩ፡ ድምፀከ፡ ወፈራህኩ።
                               <lb/>ርኢኩ፡ ግብረከ፡ ወአንከርኩ።
                            </incipit>
                            <explicit xml:lang="gez">
@@ -260,7 +260,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#130r"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ ኢሳይያስ፡ ነቢይ።
-                                 <lb/>፲፪</hi> በሌሊት፡ ትገይስ፡ መንፈስየ፡ ኀበ፡ እግዚአብሔር፡ አምላ<add place="above">ኪየ።</add>
+                                 <lb/>፲፪</hi>በሌሊት፡ ትገይስ፡ መንፈስየ፡ ኀበ፡ እግዚአብሔር፡ አምላ<add place="above">ኪየ።</add>
                               <lb/> እስመ፡ ብርሃን፡ ትእዛዝከ፡ በዲበ፡ ምድር።
                            </incipit>
                            <explicit xml:lang="gez">
@@ -277,7 +277,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus from="130v" to="131r"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ እግዝእትነ፡ ማርያም፡ ወላዲተ፡ አምላክ።  
-                                 <lb/>፲፫</hi> ተዓብዮ፡ ነፍስየ፡ ለእግዚአብሔር።
+                                 <lb/>፲፫</hi>ተዓብዮ፡ ነፍስየ፡ ለእግዚአብሔር።
                               <pb n="131r"/>
                               <lb/> ወትትኃሠይ፡ መንፈስየ፡ በአምላኪየ፡ ወመድኃንየ፡
                            </incipit>
@@ -295,7 +295,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#131r"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ ዘካርያስ፡ ነቢይ።
-                                 <lb/>፲ወ፬</hi> ይትባረክ፡ እግዚአብሔር፡ አምላከ፡ እስራኤል።
+                                 <lb/>፲ወ፬</hi>ይትባረክ፡ እግዚአብሔር፡ አምላከ፡ እስራኤል።
                               <lb/>ዘተሠሃለኒ፡ ወገብረ፡ መድኃኒተ፡ ለሕዝበ፡ ዚአሁ። 
                            </incipit>
                            <explicit xml:lang="gez">
@@ -312,7 +312,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <incipit xml:lang="gez">
                               <locus target="#131v"/>
                               <lb/><hi rend="rubric">ጸሎተ፡ ስምዖን፡ ነቢይ። 
-                                 <lb/>፲፭</hi> ይእዜ፡ ትስእሮ፡ ለገብርከ።
+                                 <lb/>፲፭</hi>ይእዜ፡ ትስእሮ፡ ለገብርከ።
                               <lb/>በሰላም፡ እግዚኦ፡ በከመ፡ አዘዝከ።
                            </incipit>
                            <explicit xml:lang="gez">
@@ -513,8 +513,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         </support>
                         <extent>
                            <measure unit="leaf">154</measure>
-                           <measure unit="leaf" type="blank">3</measure>
-                           <locus target="#1ar #1av #1br"/>
+                           <measure unit="page" type="blank">There are 3 blank protective pages (<locus target="#1ar #1av #1br"/>).</measure>
                            <measure unit="quire">17 (A + 15 + B)</measure>
                            <dimensions type="outer" unit="mm">
                               <height>210</height>
@@ -530,7 +529,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            </note>
                         </extent>
                         <foliation>
-                         The manuscript has been foliated in pencil in the lower margin of each folio.
+                         The manuscript was foliated in pencil in the lower right corner of each folio.
                         </foliation>
                         <collation>
                            <signatures>
@@ -648,7 +647,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <dim type="left">13</dim>
                               <dim type="right">32</dim>
                            </dimensions>
-                           <note> The characters per line are 10-26.</note>
+                           <note> The characters per line are 10–26.</note>
                            <ab type="punctuation" subtype="Dividers">Groups of ten psalms are separated with a chain of red and black small dots 
                               (e.g. <locus target="#23r #33v #46v"/>). </ab>
                            <ab type="pricking">Ruling and pricking are mostly visible. Both primary and ruling pricks are visible.</ab>
@@ -669,7 +668,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <dim type="right">23</dim>
                               <dim type="intercolumn">11</dim>
                            </dimensions>
-                           <note> The characters per line are 12-14.</note>
+                           <note> The characters per line are 12–14.</note>
                            <ab type="pricking">Ruling and pricking are visible. Both primary and ruling pricks are visible.</ab>
                            <ab type="ruling" subtype="pattern">Ruling pattern: 1A-1A-1A1A/0-0/0-0/C.</ab>
                            <ab type="ruling"> The upper line is written above the ruling. The bottom line is written above the ruling.</ab>
@@ -725,7 +724,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         </item>
                         <item xml:id="a2">
                            <desc type="OwnershipNote">The note is written on the top of the ornamental band. Part of the note is written in Gǝʿǝz in black ink, probably in the same hand as 
-                              that of <ref target="#a1"/>. The name of the owner <persName ref="PRS13220TaklaMa"><roleName type="title">ʾabbā</roleName> Takla Māryām</persName> 
+                              that of <ref target="#a1"/>. The name of the owner <persName ref="PRS13220TaklaMa"><roleName type="title">ʾAbbā</roleName> Takla Māryām</persName> 
                               is written in blue pen in a secondary hand over erasure.
                            </desc>
                            <locus target="#2r"/>
@@ -782,16 +781,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"
           
                <history>
                   <origin>
-                     <origDate notBefore="1850" notAfter="1950" evidence="lettering">
+                     <origDate notBefore="1850" notAfter="1950" evidence="lettering"/>
                         The handwriting is consistent with a 19th- or 20th-century dating.
-                        The name of <persName ref="PRS13220TaklaMa" role="owner"><roleName type="title">ʾabbā</roleName> Takla Māryām</persName> is written in blue pen on <locus target="#2r"/>. He was a 
+                        The name of <persName ref="PRS13220TaklaMa" role="owner"><roleName type="title">ʾAbbā</roleName> Takla Māryām</persName> is written in blue pen on <locus target="#2r"/>. He was a 
                         later owner of the manuscript.
                         The following names are also written in a secondary hand in the supplication formulas, after the phrase <foreign xml:lang="gez">ገብርከ፡</foreign> ‘your servant’:
                         <persName ref="PRS13222SahlaSe">Śāhla Śǝllāse</persName> (e.g. on <locus target="#15r #33v #46v"/>), <persName ref="PRS13223GabraHe">Gabra Ḥǝywat</persName> 
                         (on <locus target="#107r"/>) and <persName ref="PRS13224GabraAm">Gabra ʾAmlāk</persName> (on <locus target="#107r"/>).
                         They plausibly were later owners or donors of the manuscript. 
-                     </origDate>
-                     <note/>
                   </origin>
                </history>
           

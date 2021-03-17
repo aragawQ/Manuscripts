@@ -39,7 +39,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                   </quote>
                   <bibl>
                      <ptr target="bm:Zanutto1932Bibliografia"/>
-                     <citedRange unit="page">173-174</citedRange>
+                     <citedRange unit="page">173–174</citedRange>
                      <citedRange unit="item">9</citedRange>
                   </bibl>
                </cit>
@@ -107,7 +107,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <listBibl type="catalogue">
                               <bibl>
                                  <ptr target="bm:Zanutto1932Bibliografia"/>
-                                 <citedRange unit="page">93-94</citedRange>
+                                 <citedRange unit="page">93–94</citedRange>
                                  <citedRange unit="item">9</citedRange>
                               </bibl>
                            </listBibl>
@@ -117,11 +117,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               </bibl>
                               <bibl>
                                  <ptr target="bm:Lusini1993Monachesimo"/>
-                                 <citedRange>36-42</citedRange>
+                                 <citedRange>36–42</citedRange>
                               </bibl>
                               <bibl>
                                  <ptr target="bm:Britaetc2017ThreeCollections"/>
-                                 <citedRange>178-179</citedRange>
+                                 <citedRange>178–179</citedRange>
                               </bibl>
                            </listBibl>
                         </source>
@@ -165,7 +165,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <title ref="LIT4315Miracles"/>
                         <note>
                            The number and order of the miracles corresponds to that of <ref type="mss" corresp="EMML1636"/>
-                           (cf. <bibl><ptr target="bm:EMML5"/><citedRange unit="page">130-131</citedRange></bibl>).
+                           (cf. <bibl><ptr target="bm:EMML5"/><citedRange unit="page">130–131</citedRange></bibl>).
                         </note>
                         <textLang xml:lang="gez"/>
                         <msItem xml:id="p1_i2.1">
@@ -575,10 +575,29 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <locus target="#75vb"/>
                            <hi rend="rubric">አመ</hi>፡ አድባራት፡ ሮጸ፡ እምቅዋሞን፡ ወአመ፡ እምድሮን፡ አንቀ
                         </explicit>
-                        <note>The text is written in another hand (cf. <ref target="#h2"/>) on an originally blank leaf. It continues on <ref target="#p2"/> (<locus from="76ra" to="77ra"/>).</note>
+                        <note>
+                           The text is written in another hand (cf. <ref target="#h2"/>) on an originally blank leaf. It continues on <ref target="#p3"/> (<locus from="76ra" to="77ra"/>).
+                           This happened because another codicological unit (a simple bifolium) was added at the end of <ref target="#p1"/>, but the scribe decided for several reasons 
+                           (textual continuity, to save space) to start writing from the first available leaf, that is <locus target="#75ra"/>.
+                          Each codicological unit contains only a part of the text, even though the text is overall complete and runs without interruption.
+                          The explicit of <ref target="#p1_i2"/> coincides with the last words at the bottom of the page. Here the word <foreign xml:lang="gez">አንቀልቀላ።</foreign> 
+                           is split into between <ref target="#p1_i2"/> and <ref target="#p3_i1"/>.
+                        </note>
+                        <listRelation>
+                           <relation active="BGV009#p1" name="sdc:constituteUnite" passive="BGV009#UniProd1"/>
+                           <relation active="BGV009#p1" name="sdc:constituteUnite" passive="BGV009#UniMat1"/>
+                           <relation active="BGV009#p2" name="sdc:constituteUnite" passive="BGV009#UniProd2"/>
+                           <relation active="BGV009#p2" name="sdc:constituteUnite" passive="BGV009#UniCont1"/>
+                           <relation active="BGV009#p3" name="sdc:constituteUnite" passive="BGV009#UniProd2"/>
+                           <relation active="BGV009#p3" name="sdc:constituteUnite" passive="BGV009#UniMat2"/>
+                           <relation active="BGV009#UniProd1" name="sdc:undergoesTransformation" passive="BGV009#tr1"/>
+                           <relation active="BGV009#UniProd2" name="sdc:undergoesTransformation" passive="BGV009#tr1"/>
+                           <relation active="BGV009#tr1" name="sdc:hasTransformationModel" passive="sdc:A2">
+                              <desc>This a transformation A2 Addition of material support and content.</desc>
+                           </relation>
+                        </listRelation>
                      </msItem>
                   </msContents>
-                  
                   <physDesc>
                      <objectDesc form="Codex">
                         <supportDesc>
@@ -671,7 +690,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                                  <dim type="left">11</dim>
                                  <dim type="intercolumn">12</dim>
                               </dimensions>
-                              <note> The characters per line are 9-12.</note>
+                              <note> The characters per line are 9–12.</note>
                               <ab type="punctuation" subtype="Dividers">
                                  Chains of red and black dots at the end of <ref target="#p1_i1 #p1_i2"/>, on <locus target="#58va #58vb #74vb"/>.
                               </ab>
@@ -711,7 +730,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               Characters are distributed in a slightly irregular fashion on the writing line.
                            </desc>
                            <seg type="rubrication">
-                              Several lines on the incipit page of <ref target="#p2_i1"/> (<locus target=" #75r"/>); holy names; some single words throughout the text;
+                              Several lines on the incipit page of <ref target="#p3_i1"/> (<locus target=" #75r"/>); holy names; some single words throughout the text;
                               elements of the punctuation signs.
                            </seg>
                           </handNote>
@@ -754,7 +773,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                   </physDesc>
                   <history>
                      <origin>
-                        <origDate notBefore="1700" notAfter="1900" evidence="lettering">
+                        <origDate notBefore="1700" notAfter="1900" evidence="lettering"/>
                            The handwriting is consistent with a 18th/19th-century dating.
                            Several individuals are mentioned in the supplication formulas throughout the manuscript, following the phrase <foreign xml:lang="gez">ገብሩ፡</foreign>
                            'his servant' or <foreign xml:lang="gez">ዓመቱ፡</foreign> 'his maid': 
@@ -766,17 +785,48 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            All these names are often effaced or erased, especially in the first half of the manuscript, but never replaced with other names. 
                            Furthermore, <persName role="patron" ref="PRS13330GadlaMi">Gadla Mikāʾel</persName> is indicated as the patron in <ref target="#a1"/> and on 
                            <locus target="#74va"/>.
-                        </origDate>
                      </origin>                   
                   </history>
                </msPart>
           
-                  <msPart xml:id="p2">
+               <msPart xml:id="p2">
                   <msIdentifier>
                   </msIdentifier>
                   <msContents>
                      <summary/>
                      <msItem xml:id="p2_i1">
+                        <locus from="75ra" to="77ra"/>
+                        <title type="complete" ref="LIT3073RepCh353"/>
+                        <textLang xml:lang="gez"/>
+                        <!-- This msPart is NOT a codicological unit. It includes the complete text split between p1 and p3: while p1 and p3 are defined on a material basis,
+                           p2 is defined by content.-->
+                        <incipit xml:lang="gez">
+                           <locus target="#75ra"/>
+                           <hi rend="rubric">እንዘ፡ ሀሎ<add place="above">ኩ</add>፡ በተሰዶ፡ ወበተምቅሖ፡ ዕፁብ። ተዝካረ፡ ዕድወትከ፡ እዜኑ፡ ለአሕ</hi>ዛብ፡ ወሕዝብ።
+                           <hi rend="rubric">ኤዎስጣቴዎስ፡</hi> ሀበኒ፡ ልሳነ፡ አግአዚት፡ ጥበብ። ወአንበር፡ ዲበ፡ ርእስየ፡ ምስለ፡ ቃለ፡ ሐዲስ፡ ንባብ። መንፈስ፡ በአ<add place="above">ም</add>ሳል፡
+                           ርእየተ፡ ርግብ።
+                        </incipit>
+                        <explicit xml:lang="gez">
+                           <locus target="#77ra"/>
+                           እንዘ፡ ትትኬነስ፡ ደሴተ፡ ቆጵሮስ፡ ለብፁዕ፡ ኤ<hi rend="rubric">ዎስ<supplied reason="omitted" resp="MV">ጣ</supplied>ቴዎስ<supplied reason="omitted" resp="MV">፡</supplied></hi>
+                           ከመ፡ እሌኒ፡ ንግሥት፡ መስቀለ፡ ኢየሱስ፡ ኀሣሤ፡ ወከመ፡ ቶማስ፡ ሐዋ<add place="interlinear">ር</add>ያ፡ አጽልዕተ፡ ገቦሁ፡ ገሣሤ፡ 
+                           ኤ<hi rend="rubric">ዎስጣቴዎስ፡</hi> ዜናዊ፡ ሃይማኖተ፡ ቅድ<surplus>ድ</surplus>ስት፡ ሥላሴ፡ አባ፡ አባ፡ አሣዕኒከ፡ ብናሴ፡ አባ፡ ከፋሌ፡ ባሕር፡ ዳግማይ፡ ሙሴ።
+                        </explicit>
+                        <explicit xml:lang="gez" type="supplication">
+                           <locus target="#77ra"/>
+                           ጸሎቱ፡ ወበረከቱ፡ ለአቡነ፡ ኤ<hi rend="rubric">ዎስጣቴዎስ<supplied reason="omitted" resp="MV">፡</supplied></hi> የሀሉ፡ ምስለ፡ ገብሩ፡ ገድለ፡
+                        </explicit>
+                     </msItem>
+                  </msContents>
+               </msPart>
+          
+          
+                  <msPart xml:id="p3">
+                  <msIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary/>
+                     <msItem xml:id="p3_i1">
                         <locus from="76ra" to="77ra"/>
                         <title type="incomplete" ref="LIT3073RepCh353"/>
                         <textLang xml:lang="gez"/>
@@ -805,8 +855,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <extent>
                               <measure unit="leaf">2</measure>
                               <locus from="76" to="77"/>
-                              <measure unit="leaf" type="blank">1</measure>
-                              <locus target="#77v"/>
+                              <measure unit="page" type="blank">There is one blank page (<locus target="#77v"/>).</measure>
                               <measure unit="quire">1</measure>
                             <dimensions type="leaf" unit="mm" xml:id="leafdim2">
                                  <height>207</height>
@@ -843,7 +892,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                                  <dim type="left">8</dim>
                                  <dim type="intercolumn">13</dim> 
                               </dimensions>
-                              <note> The characters per line are 9-11.</note>
+                              <note> The characters per line are 9–11.</note>
                               <ab type="pricking">Ruling and pricking are barely visible. Primary pricks are visible; ruling pricks are not visible.</ab>
                               <ab type="ruling" subtype="pattern">Ruling pattern: 1A-1A-1A1A/0-0/0-0/C.</ab>
                               <ab type="ruling">The upper line is written above the ruling. The bottom line is written above the ruling.</ab>
@@ -867,15 +916,15 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                   </history>
                </msPart>
                
-               <msPart xml:id="p3">
+               <msPart xml:id="p4">
                   <msIdentifier>
                   </msIdentifier>
                   <msContents>
                      <summary/>
-                     <msItem xml:id="p3_i1">
+                     <msItem xml:id="p4_i1">
                         <locus from="78ra" to="87vb"/>
                         <title ref="LIT4315Miracles"/>
-                        <msItem xml:id="p3_i1.1">
+                        <msItem xml:id="p4_i1.1">
                            <locus from="78ra" to="81ra"/>
                            <title type="complete" ref="LIT6365MESick"/>
                            <textLang xml:lang="gez"/>
@@ -899,7 +948,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               በእንተ፡ ጽድቅ፡ ለሥጋሁ፡ ወነፍሱ፡ ዘቀነያ። ወአንደያ። ኮነ፡ ዝንቱ፡ መድምመ፡ ወኢተሐሰወ፡ እስመ፡ ነገረነ፡ አእይንቲሁ፡ ዘርእያ፡ ወበእዘኒሁ፡ ዘሰምዓ።
                            </explicit>
                         </msItem>
-                        <msItem xml:id="p3_i1.2">
+                        <msItem xml:id="p4_i1.2">
                            <locus from="81ra" to="87vb"/>
                            <title type="complete" ref="LIT6366MEDeath"/>
                            <textLang xml:lang="gez"/>
@@ -978,9 +1027,9 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                                  <dim type="left">12</dim>
                                  <dim type="intercolumn">11</dim>
                               </dimensions>
-                              <note> The characters per line are 9-12.</note>
+                              <note> The characters per line are 9–12.</note>
                               <ab type="punctuation" subtype="Dividers">
-                                 A chain of red and black dots at the end of <ref target="#p3_i2"/>, on <locus target="#87vb"/>.
+                                 A chain of red and black dots at the end of <ref target="#p4_i2"/>, on <locus target="#87vb"/>.
                               </ab>
                               <ab type="pricking">Ruling and pricking are visible. Both primary and ruling pricks are visible.</ab>
                               <ab type="ruling" subtype="pattern">Ruling pattern: 1A-1A-1A1A/0-0/0-0/C.</ab>
@@ -996,7 +1045,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <date notBefore="1800" notAfter="1900">19th-century writing.</date>
                            <desc>Decent handwriting.</desc>
                            <seg type="rubrication">
-                              Two lines of the incipits of  groups of lines on the incipit page of <ref target="#p3_i1"/> on <locus target=" #78ra"/> and <ref target="#p3_i2"/> on 
+                              Two lines of the incipits of  groups of lines on the incipit page of <ref target="#p4_i1"/> on <locus target=" #78ra"/> and <ref target="#p4_i2"/> on 
                               <locus target=" #81ra"/>; holy names; name of <persName ref="PRS13338WalattaAm"/>; elements of the punctuation signs and of the numerals.
                            </seg>
                         </handNote>
@@ -1027,12 +1076,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                   </physDesc>
                   <history>
                      <origin>
-                        <origDate notBefore="1800" notAfter="1900" evidence="lettering">
+                        <origDate notBefore="1800" notAfter="1900" evidence="lettering"/>
                            The handwriting is consistent with a 19th-century dating.
-                           The name of <persName ref="PRS13338WalattaAm"/> is mentioned in several supplication formulas (<locus target="#78ra #87vb"/>)
+                           The name of <persName ref="PRS13338WalattaAm"/> is mentioned in several supplication formulas (e.g. <locus target="#78ra #87vb"/>)
                            following the phrase <foreign xml:lang="gez">ፍቅርቱ፡</foreign> 'his beloved'. It is written over erasure on <locus target="#81rb"/>.
                            She might have been the owner of the codicological unit or a later owner of the entire manuscript.
-                        </origDate>
                      </origin>                   
                   </history>
                </msPart>
@@ -1068,6 +1116,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
          <change who="MV" when="2021-01-19">Binding; typed incipit and explicit of p1</change>
          <change who="MV" when="2021-01-24">Added p2 and p3</change>
          <change who="MV" when="2021-01-25">Conservation; handDesc h1, h2, h3; scribal practices</change>
+         <change who="MV" when="2021-02-10">Added new msPart and fixed relations</change>
       </revisionDesc>
    </teiHeader>
    <text xml:base="https://betamasaheft.eu/">

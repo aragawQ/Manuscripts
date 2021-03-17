@@ -6,7 +6,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"
          <titleStmt>
             <title xml:lang="gez" xml:id="title1">ዘኢሳይያስ፡ ነቢይ፡, ዘዳንኤል፡ ነቢይ፡, ዘሄኖክ፡ ነቢይ፡, መጻሕፍት፡ ዘብሉይ፡ ኪዳን፡, ደቂቀ፡ ነቢያት፡</title>
             <title xml:lang="gez" corresp="#title1" type="normalized">Za-ʾIsāyǝyyās nabiy, Za-Dānʾel nabiy, Za-Henok nabiy, Maṣāḥǝft za-bǝluy kidān, Daqiqa nabiyāt</title>
-            <title xml:lang="en" corresp="#title1">Book of Isaiah, Book of Daniel, Book of Enoch, Old Testament Wisdom books, Minor prophets</title>
+            <title xml:lang="en" corresp="#title1">Book of <persName ref="PRS5584Isaiah">Isaiah</persName>, Book of <persName ref="PRS3337Daniel">Daniel</persName>, 
+               Book of <persName ref="PRS3814Enoch">Enoch</persName>, Old Testament Wisdom books, Minor prophets</title>
             <editor key="MV"/>
             <editor key="SH"/>
             <editor key="ABr"/>
@@ -73,7 +74,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                      </incipit>
                      <incipit xml:lang="gez">
                         <locus target="#36ra"/>
-                        <hi rend="rubric">ወሀሎ፡ ፩ ብእሲ፡ ዘይነብር፡ በባቢ</hi>ሎን፡ ዘስሙ፡ ኢዮአቂም፡ ወአውሰበ፡ ብእሲተ፡ እን<hi rend="rubric">ተ፡ ስማ፡ ሶስና፡ ወለተ፡ ኬልቅዩ፡ 
+                        <hi rend="rubric">ወሀሎ፡ ፩ብእሲ፡ ዘይነብር፡ በባቢ</hi>ሎን፡ ዘስሙ፡ ኢዮአቂም፡ ወአውሰበ፡ ብእሲተ፡ እን<hi rend="rubric">ተ፡ ስማ፡ ሶስና፡ ወለተ፡ ኬልቅዩ፡ 
                            ወሠናይት፡ ጥቀ፡ ወፈ</hi>ራሂተ፡ እግዚአብሔር፡ ወአስማዲሃኒ፡ ጻድቃን፡ እሙንቱ፡ ወመሐርዋ፡ ለወለቶሙ፡ ኦሪተ፡ ሙሴ፡ ወኢዮአቂምሰ፡ ምታ፡ ባዕል፡ ውእቱ፡
                         ጥቀ፡
                      </incipit>
@@ -89,7 +90,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                      <title type="complete" ref="LIT1340EnochE"/>
                      <incipit xml:lang="gez">
                         <locus target="#50ra"/>
-                        <hi rend="rubric">ክፍል፡ ፩ ቃለ፡ በረከት፡ ዘሄኖክ፡ ዘከመ፡ ባረከ፡ ኅሩያነ፡ ወ</hi>ጻድቃነ፡ እለ፡ ሀለዉ፡ ይኩኑ፡ በዕለተ፡ ምንዳቤ፡ ለአሰስሎ፡  <hi rend="rubric">ኵሉ፡ 
+                        <hi rend="rubric">ክፍል፡ ፩ቃለ፡ በረከት፡ ዘሄኖክ፡ ዘከመ፡ ባረከ፡ ኅሩያነ፡ ወ</hi>ጻድቃነ፡ እለ፡ ሀለዉ፡ ይኩኑ፡ በዕለተ፡ ምንዳቤ፡ ለአሰስሎ፡  <hi rend="rubric">ኵሉ፡ 
                         እኩያን፡ ወረሲዓን። ወአውሥአ፡ ሄኖክ፡ ወይቤ፡ ብእሲ፡</hi> ጻድቅ፡ ዘእምኀበ፡ እግዚአብሔር፡ እንዘ፡ አዕይንቲሁ፡ ክሡታት፡ ወይሬኢ፡ ራእየ፡ ቅዱስ፡ ዘበሰማያት፡ 
                      </incipit>
                      <explicit xml:lang="gez">
@@ -109,7 +110,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                      </incipit>
                      <incipit xml:lang="gez">
                         <locus target="#81ra"/>
-                        ምዕራፍ፡ ፩። ክፍል፡ ፩። ወሀሎ፡ ፩ ብእሲ፡ በ<hi rend="rubric">ብሔረ፡ አውስጢድ፡ ዘስሙ፡ ኢዮብ፡ ወውእቱ፡ ብእሲ፡ ራትዕ፡</hi> ወንጹሕ፡ ጻድቅ፡ ወፈራሄ፡ እግዚአብሔር።
+                        ምዕራፍ፡ ፩። ክፍል፡ ፩። ወሀሎ፡ ፩ብእሲ፡ በ<hi rend="rubric">ብሔረ፡ አውስጢድ፡ ዘስሙ፡ ኢዮብ፡ ወውእቱ፡ ብእሲ፡ ራትዕ፡</hi> ወንጹሕ፡ ጻድቅ፡ ወፈራሄ፡ እግዚአብሔር።
                         ወይትገሐስ፡ ምስለ፡ ልቡ፡ እምኵሉ፡ <add place="interlinear">ምግባር<supplied reason="omitted" resp="MV">፡</supplied></add> እኩይ፡ 
                      </incipit>
                      <explicit xml:lang="gez">
@@ -190,7 +191,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                      </incipit>
                      <explicit xml:lang="gez">
                         <locus target="#128rc"/>
-                        ወ፲፻ ለጽዮን፡ ይሁብ፡ <del rend="expunctuated">አንጻርይ፡</del> አጸደ፡ ወይንየ፡ ሊተ። <add place="interlinear">አንጻርየ፡</add> እንዘ፡ ይነብር፡ ውስተ፡ ገነት። <del rend="erasure" unit="chars" quantity="1"/> 
+                        ወ፲፻ለጽዮን፡ ይሁብ፡ <del rend="expunctuated">አንጻርይ፡</del> አጸደ፡ ወይንየ፡ ሊተ። <add place="interlinear">አንጻርየ፡</add> እንዘ፡ ይነብር፡ ውስተ፡ ገነት። <del rend="erasure" unit="chars" quantity="1"/> 
                         ካልአን፡ ይሬእይዎ፡ <del rend="erasure" unit="chars" quantity="1"/> ጉቡአን፡ ወስኑዓን፡ እንዘ፡ ይነብሩ፡ በሰላም። ወካልአን፡ ይሬእዩ፡ እንዘ፡ ይትረዓዩ። ማእከለ። እንዘ፡ የሐውሩ፡ ውስተ፡ 
                         ገነተ፡ ካልአን፡ ቃለከ፡ አስምዓኒ፡ ቅንጽ፡ <add place="interlinear">ወ</add>ጕ<add place="interlinear">የ</add>ይ፡ አንተ፡ <add place="interlinear">ወልድ፡ እኁየ፡</add> ወተመሰላ፡ ለወይጠል፡ 
                         ወለወ<add place="overstrike">ሬዛ፡</add> ኃይል፡ ውስተ፡ አድባ<add place="overstrike">ር</add>፡ ድኁኃን።
@@ -235,7 +236,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <incipit xml:lang="gez">
                            <locus target="#133rb"/>
                            ቃለ፡ እግዚአብሔር፡ <hi rend="rubric">ዘኮነ፡ ኀበ፡ አሞጽ፡ በአቃሪም፡ ዘቴቁሔ፡ ዘርእየ፡ በእንተ፡</hi> ኢየሩሳሌም፡ ወበእንተ፡ እስራኤል፡ በመዋዕለ፡ ኦዝያን፡ ንጉሠ፡ ይሁዳ፡ ወበመዋዕለ፡ ኢዮርብዓም፡ 
-                           ወልደ፡ ዮአስ፡ ንጉሠ፡ እስራኤል፡ እምቅድመ፡ ፪ ዓመት፡ ዘድልቅል<add place="right">ቅ፡</add> <add place="overstrike">ከመዝ፡</add> ወይቤ፡ እግዚአብሔር፡ እምጽዮን፡ ነበበ፡ ወእምኢየሩሳሌም፡ 
+                           ወልደ፡ ዮአስ፡ ንጉሠ፡ እስራኤል፡ እምቅድመ፡ ፪ዓመት፡ ዘድልቅል<add place="right">ቅ፡</add> <add place="overstrike">ከመዝ፡</add> ወይቤ፡ እግዚአብሔር፡ እምጽዮን፡ ነበበ፡ ወእምኢየሩሳሌም፡ 
                            ወሀበ፡ ቃሎ፡  
                         </incipit>
                         <explicit xml:lang="gez">
@@ -342,7 +343,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <explicit xml:lang="gez">
                            <locus from="143vb" to="143vc"/>
                            ወይቤሎ፡ እግዚአብሔር፡ አንተሰ፡ ትምህክ፡ ሐምሐመ፡ ዘኢፃመውከ፡ ወዘኢሰቀይከ፡ ዘ<cb n="c"/>ሌሊተ፡ በቈለት፡ ወሌሊተ፡ ሞተት። ወአንሰ፡ ኢይምሕካኑ፡ 
-                           ለነነዌ፡ ሀገር፡ ዓባይ፡ ዘሀለዉ፡ ውስቴታ፡ ሰብእ፡ ፈድፋደ፡ እም ፲ወ፪፼ እለ፡ ኢፈለጡ፡ ፀጋሞሙ፡ ወየማኖሙ፡ ወእንስሳ፡ ብዙኅ።
+                           ለነነዌ፡ ሀገር፡ ዓባይ፡ ዘሀለዉ፡ ውስቴታ፡ ሰብእ፡ ፈድፋደ፡ እም ፲ወ፪፼እለ፡ ኢፈለጡ፡ ፀጋሞሙ፡ ወየማኖሙ፡ ወእንስሳ፡ ብዙኅ።
                         </explicit>  
                         <explicit xml:lang="gez" type="subscription">
                            <locus target="#143vc"/>
@@ -514,8 +515,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         </support>
                         <extent>
                            <measure unit="leaf">156</measure>
-                           <measure unit="leaf" type="blank">2</measure>
-                           <locus target="#1r #156v"/>
+                           <measure unit="page" type="blank">There are one blank protective page (<locus target="#1r"/>) and one blank page at the end of the textblock (<locus target="#156v"/>).</measure>
                            <measure unit="quire">19 (A + 18)</measure>
                            <dimensions type="outer" unit="mm">
                               <height>270</height>
@@ -641,7 +641,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <dim type="right">33</dim>
                               <dim type="intercolumn">10</dim>
                            </dimensions>
-                           <note> The characters per line are 9-15.</note>
+                           <note> The characters per line are 9–15.</note>
                            <ab type="punctuation" subtype="Dividers">
                               Texts are separated with two chains of red and black small dots, e.g. on <locus target="#36r #97vb #137ra"/>. 
                               Chains of red and black dots are also used to separate subscriptions, e.g. on <locus target="#36r #133ra #142ra"/>.
@@ -662,7 +662,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <seg type="script">
                            Small and slightly rushed handwriting.
                            Another hand, featured by a smaller and less trained writing, intervenes on <locus from="47vb" to="48rb"/>, perhaps in order to fill a textual lacuna.
-                           One more change of hand might have occurred towards the end, see e.g. <locus target="#80v"/>, with characters written more closely (cp. <ref target="#h3"/>) and in a pale black ink.
+                           One more change of hand might have occurred towards the end, see e.g. <locus target="#80v"/>, with characters written more closely (cf. <ref target="#h3"/>) and in a pale black ink.
                         </seg>
                         <seg type="rubrication">
                            Groups of two lines on the incipit pages alternating with black lines, e.g. on <locus target="#2r #36r #50r"/>; 
@@ -727,7 +727,9 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <locus target="#1v"/>
                         <desc>St George and the Dragon</desc>
                         <q xml:lang="gez">ስእሌሁ፡ ሚካኤል፡</q>
-                        <note>The miniature, erroneously described as St Michael in the caption below, must have been added recently.</note>
+                        <note>
+                           The miniature, erroneously described as <persName ref="PRS7049Michael">St Michael</persName> in the caption below, must have been added recently.
+                        </note>
                      </decoNote>
                      <decoNote type="miniature" xml:id="d2">
                         <locus target="#49v"/>
@@ -744,24 +746,27 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                      <item xml:id="a1">
                         <desc type="Unclear">                   
                            The note is written in the upper margin and is encircled in a double rectangular frame. 
-                           It contains the Arabic-based names of the heavenly bodies: Šamš, i.e. the Sun, Qamar, i.e. the Moon, Zǝhurā, i.e. Venus, 
-                           Zuhal, i.e. Saturn, Maštari, i.e. Jupiter, ʾAṭarǝd, i.e. Mercury, and Mariḥ, i.e. Mars.</desc>
+                           It contains the Arabic-based names of the heavenly bodies: <term ref="wd:Q525">Šamš</term>, i.e. the Sun, <term ref="wd:Q405">Qamar</term>, i.e. the Moon, 
+                           <term ref="wd:Q313">Zǝhurā</term>, i.e. Venus, <term ref="wd:Q193">Zuhal</term>, i.e. Saturn, <term ref="wd:Q319">Maštari</term>, i.e. Jupiter, 
+                           <term ref="wd:Q308">ʾAṭarǝd</term>, i.e. Mercury, and <term ref="wd:Q111">Mariḥ</term>, i.e. Mars.</desc>
+                        <!-- Do we want to mark up also the English names for indexing? -->
                         <locus target="#4r"/>
                         <q xml:lang="gez">
-                           ሸምሽ፡ ቀመር፡ ዝሁራ፡ ዙሀል፡ መሽተሪ፡ አጠርድ፡ መሪሕ፡
+                           <term ref="wd:Q525">ሸምሽ፡</term> <term ref="wd:Q405">ቀመር፡</term> <term ref="wd:Q313">ዝሁራ፡</term> <term ref="wd:Q193">ዙሀል፡</term> 
+                           <term ref="wd:Q319">መሽተሪ፡</term> <term ref="wd:Q308">አጠርድ፡</term> <term ref="wd:Q111">መሪሕ፡</term>
                         </q>
                      </item>
                      
                      <item xml:id="a2">
                         <desc type="Comment">                  
                            The note is written in black ink in the upper margin and is encircled in three rectangular frames.
-                           It indicates the years of reign of the kings of Israel. 
+                           It indicates the years of reign of the kings of <placeName ref="LOC3937Israel">Israel</placeName>. 
                         </desc>
                         <locus target="#5v"/>
                         <q xml:lang="gez">
                            <seg part="I">
-                              እስከ፡ ፲ወ፭፡ ዘይቤ፡ እም<add place="above">ነ</add><supplied reason="omitted" resp="MV">፡</supplied> መንግሥተ፡ አካዝ፡ ፱ ዓመት፡ ዘሕዝቅያስ፡
-                              ፯፡ ቦዘይቤ፡ እምነ፡ መንግሥተ፡ ፋቁሒ፡ ፫ ዓመት፡ እስከ፡ ሆሴዕ፡ ወልደ፡ ኢላ፡ ፲ወ፪፡ ዓመት፡ ጠፍ፡
+                              እስከ፡ ፲ወ፭፡ ዘይቤ፡ እም<add place="above">ነ</add><supplied reason="omitted" resp="MV">፡</supplied> መንግሥተ፡ አካዝ፡ ፱ዓመት፡ ዘሕዝቅያስ፡
+                              ፯፡ ቦዘይቤ፡ እምነ፡ መንግሥተ፡ ፋቁሒ፡ ፫ዓመት፡ እስከ፡ ሆሴዕ፡ ወልደ፡ ኢላ፡ ፲ወ፪፡ ዓመት፡ ጠፍ፡
                            </seg>
                            <seg part="F">
                               እመንግሥተ፡ ያሆ፡ ዘይቤ፡ ለዝንቱ። አልቦቱ፡ ኍልቍ፡
@@ -772,7 +777,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                      <item xml:id="a3">
                         <desc type="OwnershipNote">
                            The note is crudely written in brownish ink and is partially illegible. It mentions 
-                           <persName ref="PRS12015TaklaSe" role="owner"><roleName type="title">ʾalaqā</roleName> Takla Ṣǝyon</persName> as the owner of the manuscript.
+                           <persName ref="PRS12015TaklaSe" role="owner"><roleName type="title">ʾAlaqā</roleName> Takla Ṣǝyon</persName> as the owner of the manuscript.
                         </desc>
                         <locus target="#36r"/>
                         <q xml:lang="gez">
@@ -823,13 +828,13 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <q xml:lang="gez">
                            በሐልዮ፡ በነቢብ፡ በገቢር፡ በሕዛንነት፡ በቁልማስነት፡ በሽምግልና፡ በጥዒና። በደዌ፡ በሞት፡ በደዌ፡ በሞት፡
                            በመቃብር፡ በሞት፡ በመቃብር፡ በትንሣኤ፡ በንጽሐ፡ ሥጋ፡ በንጽሐ፡ ልብ፡ በንጽሐ፡ ነፍስ፡ የባላ፡ 
-                           ፴ የባላ<supplied reason="omitted" resp="MV">፡</supplied> ፰፡ የባላ<supplied reason="omitted" resp="MV">፡</supplied> ፻፡
+                           ፴የባላ<supplied reason="omitted" resp="MV">፡</supplied> ፰፡ የባላ<supplied reason="omitted" resp="MV">፡</supplied> ፻፡
                         </q>
                      </item>
                      
                      <item xml:id="a7">
                         <desc type="OwnershipNote">       
-                          The note is crudely written in black ink. It mentions <persName ref="PRS12015TaklaSe" role="owner"><roleName type="title">ʾalaqā</roleName> Takla Ṣǝyon</persName> 
+                          The note is crudely written in black ink. It mentions <persName ref="PRS12015TaklaSe" role="owner"><roleName type="title">ʾAlaqā</roleName> Takla Ṣǝyon</persName> 
                            as the owner of the manuscript.
                         </desc>
                         <locus target="#97vb"/>
@@ -846,7 +851,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <desc>
                               Extremely frequent corrections, textual additions, glosses or numbers of the subsection, nearly on every leaf in the margins, in the intercolumn or interlineally.
                               They are written in several hands and probably result from collation with one or more additional exemplars.
-                              Sometimes the additions in the margins are encircled in rectangular frames and are most often called in the body of the text by <foreign xml:lang="gez">tamallas</foreign>-signs in the shape of a cross or two perpendicular lines (e.g. <locus target="#6vc #19rb #30rb"/>).
+                              Sometimes the additions in the margins are encircled in rectangular frames and are most often called in the body of the text by 
+                              <foreign xml:lang="gez">tamallas</foreign>-signs in the shape of a cross or two perpendicular lines (e.g. <locus target="#6vc #19rb #30rb"/>).
                               Sometimes they are overwritten on erasure (e.g. on <locus target="#4rb #7va #24vb"/>), especially towards the second part of the manuscript.
                            </desc>
                            <!-- Insert one or two selected examples to be printed in our catalogue!
