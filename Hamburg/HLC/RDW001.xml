@@ -37,6 +37,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         </support>
                         <extent>
                            <measure unit="leaf">33</measure>
+                           <measure type="weight" unit="g">106</measure>
                            <dimensions type="outer" unit="mm">
                               <height>103</height>
                               <width>80</width>
@@ -151,10 +152,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <extent>
                               <measure unit="leaf">7</measure>
                              <!-- <measure unit="leaf" type="blank"></measure>-->
-                      <!--        <dimensions type="outer" unit="mm">
-                                 <height></height>
-                                 <width></width>
-                              </dimensions>-->
+                              <dimensions type="leaf" unit="mm" xml:id="leafdim">
+                                 <height>90</height>
+                                 <width>58</width>
+                              </dimensions>
+                              <note corresp="#leafdim">Data on leaf dimensions taken from <locus target="#4r"/>.</note>
                            </extent>
                         </supportDesc>
 
@@ -226,10 +228,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            </support>
                            <extent>
                               <measure unit="leaf">26</measure>
-                           <!--   <dimensions type="outer" unit="mm">
-                                 <height></height>
-                                 <width></width>
-                              </dimensions>-->
+                              <dimensions type="leaf" unit="mm" xml:id="leafdim2">
+                                 <height>10</height>
+                                 <width>78</width>
+                              </dimensions>
+                              <note corresp="#leafdim2">Data on leaf dimensions taken from <locus target="#16r"/>.</note>
                            </extent>
                         </supportDesc>
 

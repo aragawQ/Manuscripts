@@ -65,11 +65,17 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         </support>
                         <extent>
                            <measure unit="leaf">44</measure>
+                           <measure type="weight" unit="g">261</measure>
                            <dimensions type="outer" unit="mm">
                               <height>138</height>
                               <width>98</width>
                               <depth>31</depth>
                            </dimensions>
+                           <dimensions type="leaf" unit="mm" xml:id="leafdim">
+                              <height>138</height>
+                              <width>95</width>
+                           </dimensions>
+                           <note corresp="#leafdim">Data on leaf dimensions taken from <locus target="#13r"/>.</note>
                         </extent>
 
                         <foliation>The manuscript is foliated in pencil in the middle of the bottom margin.</foliation>
