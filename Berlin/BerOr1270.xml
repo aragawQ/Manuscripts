@@ -218,7 +218,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 </decoNote>
 <decoNote type="ornamentation" xml:id="d7">
 <locus target="#28r"></locus>
-<desc>Ornamental bands (incipit page of text 1.2); geometric, interlaces and floral motifs; two lateral pendants and one in the intercolumn space (three colours: red, yellow and black).</desc>
+<desc>Ornamental bands (incipit page of the Miracles of Mary); geometric, interlaces and floral motifs; two lateral pendants and one in the intercolumn space (three colours: red, yellow and black).</desc>
 </decoNote>
 <decoNote type="ornamentation" xml:id="d8">
 <locus target="#30ra"></locus>
