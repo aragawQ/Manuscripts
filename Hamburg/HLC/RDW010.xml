@@ -224,7 +224,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <lb n="1"/><hi rend="rubric">በስመ፡ አብ፡ ወወልድ ወ
                            <lb n="2"/>መንፈስ፡ ቅዱስ፡ ፩ አም
                         <lb n="3"/>ላ</hi>ክ፡ ጸሎት፡ በእንተ፡
-                        <lb n="4"/>ዓይነ፡ ጥላ፡ ወመደን
+                        <lb n="4"/>ዓይነ፡ ጥላ፡ ወመ<hi rend="rubric">ደ</hi>ን
                         <lb n="5"/>ግጸ፡ አጋንንት፡ ወመ
                         <lb n="6"/>ደንግጸ፡ ሰይጣናት፡ ሰ
                         <lb n="7"/>ላም፡ ለተፈጥሮት
@@ -233,7 +233,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <lb n="10"/>ከውን፡ ቅድመ፡ ወእን
                         <lb n="11"/>ዘ ኢይዴኃር፡ ድኅረ፡ ሰ
                         <lb n="12"/>ዳዴ፡ አጋንንት፡ ፋኑኤ
-                        <lb n="13"/>ል፡ እምላእለ፡ ፍጡሬን፡ ወ
+                        <lb n="13"/>ል፡ እምላእለ፡ ፍጡራን፡ ወ
                         <lb n="14"/>ትረ፡ ሰድዶሙ፡ ለአንን
                         <lb n="15"/>ት፡ ወአርአዮሙ፡ ሐሳ
                         <lb n="16"/>ረ፡ ስመ፡ ኢይግበሩ፡ ኪ
@@ -245,15 +245,15 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <lb n="22"/>ቱ፡</persName> ይቤ፡ ሚካኤል፡ በ
                         <lb n="23"/>ስመ፡ እግዚአብሔር
                         <lb n="24"/>ዘሐረየ፡ በርእሱ፡ ዘንተ
-                        <lb n="25"/>ስመ፡ ወዝንቱ፡ ስም <gap reason="illegible"/>
-                           <lb n="26"/><gap reason="illegible"/></hi> ርኩስ
+                        <lb n="25"/>ስመ፡ ወዝንቱ፡ ስም፡ እ
+                           <lb n="26"/>መንፈስ፡ <del rend="strikethrough">ቅዱስ፡</del></hi> ርኩስ
                         <lb n="27"/>እምስጋሁ፡ ወነፍሱ፡
                         <lb n="28"/>ለአመትከ፡ <space/> ሰብ
                         <lb n="29"/>ኡ ወውሉዱ፡ ወንዋ
                            <lb n="30"/>ዩ፡ ወጥሪቱ፡ ለአመተ
                         <lb n="31"/>እግዚአብሔር፡ <space/>
                         <lb n="32"/>ዓቢይ ወግሩም፡ ወበ
-                        <lb n="33"/><gap reason="illegible"/>ሩም፡ ስሙ
+                        <lb n="33"/>ግሩም፡ ስሙ
                         <milestone unit="parchmentStrip" n="2"/>
                         <lb n="34"/>ወሑር፡ ዘእንበለ፡ ተው
                         <lb n="35"/>ለጥ፡ ናላሆሙ፡ ኢትል
@@ -266,8 +266,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <lb n="42"/>ኢትቅርጽ፡ አጽሩ
                         <lb n="43"/>ረሃ፡ ወጸጉራ፡ ፃእ፡ ፃ
                         <lb n="44"/>እ፡ ፃእ፡ በስመ፡ አምላ
-                        <lb n="45"/>ክ፡ ወእመሰ፡ ኢተውጽ
-                        <lb n="46"/>አ፡ አምላክክሙ፡ ወ
+                        <lb n="45"/>ክ፡ ወእመሰ፡ ኢታውጽ
+                        <lb n="46"/>እ፡ አምላክክሙ፡ ወ
                         <lb n="47"/>በስመ፡ እግዚአብሔ
                         <lb n="48"/>ር፡ ልዑል፡ ወዓቢይ
                         <lb n="49"/>ማኅያዊ፡ ዘኢይትወ
@@ -288,7 +288,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <lb n="58"/>ልድ፡ ወመንፈስ፡ ቅዱስ
                                  <lb n="59"/>፩ አምላክ፡ ጸሎ</hi>ት፡ በእን
                                  <lb n="60"/>ተ፡ ሕማመ፡ ባርያ፡ ወ
-                                 <lb n="61"/>ደም፡ ፋርደ፡ የማን፡ ጽ
+                                 <lb n="61"/>ደም፡ ፋረደ፡ የማን፡ ጽ
                                  <lb n="62"/>ጽቅ፡ የአ፡ ሰሃኔ፡ ድ፡ ከም
                                  <lb n="63"/>ጅጅ፡ ይእዜሰ፡ ወ<gap reason="illegible"/>
                                     <lb n="64"/>ጅ፡ ከማሁ፡ ክትር፡ ወ
@@ -304,9 +304,9 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <lb n="74"/>ንተምር፡ ሰንተ
                               <lb n="75"/>ምር፡
                               <lb n="76"/>ሰንከሬም
-                                    <lb n="77"/>ስንተከራም፡ ስ<gap reason="illegible"/>
-                                    <lb n="78"/><gap reason="illegible"/>
-                                    <lb n="79"/><gap reason="illegible"/></hi> ሰንተከራም
+                                    <lb n="77"/>ስንተከራም፡ ስንከሬ
+                                    <lb n="78"/>ም፡ ስንተከራም፡<gap reason="illegible"/>
+                                    <lb n="79"/><gap reason="illegible"/>ም</hi> ሰንተከራም
                               <lb n="80"/>ሰንከራም፡ ሰንተ
                               <lb n="81"/>ከራም፡ ሰንተከ
                               <lb n="82"/>ራም፡ ሰንተከራ
@@ -318,9 +318,9 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                                  <lb n="88"/>ዝንቱ፡ ደም፡ ዘወጽ
                                  <lb n="89"/>አ፡ እምገቦሁ <hi rend="rubric">ለእግዚ
                                  <lb n="90"/>እነ፡ ኢየሱስ፡ ክርስ
-                                    <lb n="91"/>ቶስ፡ ከማሁ<gap reason="illegible"/>
-                                    <lb n="92"/><gap reason="illegible"/> ወአቁም፡ ወለ
-                                    <lb n="93"/>ተ፡ <gap reason="illegible"/></hi> አመተ፡ እ
+                                    <lb n="91"/>ቶስ፡ ከማሁ፡ ክት
+                                    <lb n="92"/>ር፡ ወአቁም፡ ውስ
+                                    <lb n="93"/>ተ፡ ደም፡</hi> አመተ፡ እ
                                  <lb n="94"/>እቀባ፡ ወአድኅና
                         <lb n="95"/>ለአመትከ፡ <hi rend="rubric"><persName ref="PRS13493Taytu" role="owner">ጣይቱ</persName>
                         </hi>
@@ -331,15 +331,15 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                      <ab>
                         <lb n="96"/><hi rend="rubric">ጸሎት፡ በእንተ፡ ሕ
                               <lb n="97"/>ማመ፡ ደም፡ ቆርቆ
-                                 <lb n="98"/><gap reason="illegible"/></hi>
-                              <lb n="99"/>ኤል፡ ቆርቆታኤ
+                                 <lb n="98"/><gap reason="illegible"/>፡ ቆርቆር
+                        <lb n="99"/><gap reason="illegible"/></hi>ኤል፡ ቆርቆታኤ
                               <lb n="100"/>ል፡ ቆርቆታኤል
                               <lb n="101"/>ቆርቆርቆርታ
                               <lb n="102"/>ኤል፡ ቆርቆርታ
                               <lb n="103"/>ኤል፡ ቆርቆርታ
                               <lb n="104"/>ኤል፡ በዝንቱ፡ አስማ
                         <lb n="105"/>ት፡ አድኅና፡ ለአመ
-                        <lb n="106"/>ትከ <hi rend="rubric"><gap reason="illegible"/> ርወነ
+                        <lb n="106"/>ትከ <hi rend="rubric">ጣይቱ፡ ርወነ
                                  <lb n="107"/>ርወነ፡ ርወነ፡ ርወ
                                  <lb n="108"/>ነ</hi> ርወነ፡ ርወነ፡ ር
                                  <lb n="109"/>ወነ፡ ርወነ፡ ርወነ
@@ -349,7 +349,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <lb n="113"/>ዘአቀምከ፡ ደማ፡ እ
                               <lb n="114"/>ንተ፡ ሰም፡ ዘይው
                               <lb n="115"/>ዝ፡ እም፡ ፲ወ፩ክረ
-                        <lb n="116"/><gap reason="illegible"/>
+                        <lb n="116"/>ም
                        <milestone unit="parchmentStrip" n="3"/>
                         <lb n="117"/>ታ፡ ከማሁ፡ አቁም
                            <lb n="118"/>ወክትር፡ ደማ፡ ሌ
@@ -393,7 +393,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <lb n="145"/>ፈውሳ፡ ለአመትከ
                         <lb n="146"/><hi rend="rubric"><persName ref="PRS13493Taytu" role="owner">ጣይቱ፡</persName> እልማይከከ
                         <lb n="147"/>ል፡ እዝሬ<gap reason="illegible"/>አራቢ፡ በ
-                        <lb n="148"/><gap reason="illegible"/>ስ፡ አልፋ፡ ወኢ<gap reason="illegible"/>
+                        <lb n="148"/><gap reason="illegible"/>ስ፡ አልፋ፡ ወኢየሱስ
                            <lb n="149"/>ክርስቶስ፡</hi> ባርያ፡ ዘ
                         <lb n="150"/>የሐንቅቅ፡ ክሳዳ
                         <lb n="151"/>ወዘይበር፡ በሕልም
@@ -406,12 +406,12 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                   
                   <div type="textpart" subtype="text" n="5" corresp="#ms_i5" xml:id="text5">
                      <ab>
-                        <hi rend="rubric">ጸሎት፡ <gap reason="illegible"/></hi>
-                        <lb n="155"/><gap reason="illegible"/> ዓይነ፡ ጥላ፡ ዘይ
+                        <hi rend="rubric">ጸሎት፡ በእ
+                        <lb n="155"/>ንተ</hi> ዓይነ፡ ጥላ፡ ዘይ
                         <lb n="156"/>ሰልብ፡ ልበ፡ ሰብእ፡ ወ
                         <lb n="157"/>ወይጸልማም፡ ዓዕደ
                         <lb n="158"/>ኀተ፡ ወይመጽእ፡ ከ
-                        <lb n="159"/>መ፡ ጽላሎት፡ እም<gap reason="illegible"/>
+                        <lb n="159"/>መ፡ ጽላሎት፡ እምህ
                         <lb n="160"/>ላክ፡ በ፭ ቅ<hi rend="rubric">ንዋተ
                         <lb n="161"/>መስቀሉ፡ ለእግዚ
                         <lb n="162"/>እነ፡ ኢየሱስ፡ ክር
