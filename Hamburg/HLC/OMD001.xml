@@ -58,14 +58,14 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <extent>
                            <note>Consists of <measure unit="strips">2</measure> strips sewn together.</note>
                            <dimensions type="outer" unit="mm">
-                              <height></height>
+                              <height>1556</height>
                            </dimensions>
                            <dimensions type="outer" unit="mm" xml:id="strip1">
-                              <height></height>
+                              <height>824</height>
                               <width>74</width>
                            </dimensions>
                            <dimensions type="outer" unit="mm" xml:id="strip2">
-                              <height></height>
+                              <height>743</height>
                               <width>70</width>
                            </dimensions>
                         </extent>
@@ -77,7 +77,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                               <note>Number of characters per line: </note>
                               <note>The outer margins are delimited by a black waved line.</note>
                                  <dimensions unit="mm" xml:id="textarea1">
-                              <height></height>
+                              <height>581</height>
                               <width>65</width>
                            </dimensions>
                            </layout>
@@ -85,7 +85,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <layout columns="1" writtenLines="70" corresp="#sec4">
                               <note>Number of characters per line: </note>
                               <dimensions unit="mm" xml:id="textarea2">
-                                 <height></height>
+                                 <height>452</height>
                                  <width>60</width>
                               </dimensions>
                            </layout>
@@ -132,7 +132,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
 
                <history>
                   <origin>
-                     <origDate notBefore="1800" notAfter="2003"/>
+                     <origDate notBefore="1800" notAfter="2005"/>
                   </origin>
                </history>
                
@@ -188,69 +188,69 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                         <div type="textpart" subtype="text" n="1" corresp="#ms_i1" xml:id="text1">
                <ab>
                   <pb n="1r"/>
-                  <lb n="1"/>
-                  <lb n="2"/>
-                  <lb n="3"/>
-                     <lb n="4"/>
-               <lb n="5"/>
-               <lb n="6"/>
-               <lb n="7"/>
-               <lb n="8"/>
-               <lb n="9"/>
-               <lb n="10"/>
-               <lb n="11"/>
-               <lb n="12"/>
-               <lb n="13"/>
-               <lb n="14"/>
-               <lb n="15"/>
-                     <lb n="16"/>
-               <lb n="17"/>
-                     <lb n="18"/>
-                     <lb n="19"/>
-                     <lb n="20"/>
-                     <lb n="21"/>
-                  <lb n="22"/>
-                     <lb n="23"/>
-                     <lb n="24"/>
-                     <lb n="25"/>
-                     <lb n="26"/>
-                     <lb n="28"/>
-                     <lb n="29"/>
-               <lb n="30"/>
-               <lb n="31"/>
-               <lb n="32"/>
-               <lb n="33"/>
-                  <lb n="34"/>
-               <lb n="35"/>
-                     <lb n="36"/>
-                     <lb n="37"/>
-               <lb n="38"/>
-                        <lb n="39"/>
-                  <lb n="40"/>
-                  <lb n="41"/>
-                  <lb n="42"/>
-                  <lb n="43"/>
-                  <lb n="44"/>
-                  <lb n="45"/>
-                  <lb n="46"/>
-                  <lb n="47"/>
-                  <lb n="48"/>
-                  <lb n="49"/>
-                  <lb n="50"/>
-                  <lb n="51"/>
-                  <lb n="52"/>
-                  <lb n="53"/>
-                  <lb n="54"/>
-                  <lb n="55"/>
-                  <lb n="56"/>
-                  <lb n="57"/>
+                  <lb n="1"/><hi rend="rubric">በስመ አብ፡ ወወል
+                  <lb n="2"/>ድ፡ ወመንፈስ፡ ቅዱስ
+                  <lb n="3"/>፩፡</hi> አምላክ፡ ጸሎት
+                     <lb n="4"/>በእንተ፡ ማዕሠ
+               <lb n="5"/>ረ፡ አጋንንት፡ በስሙ
+               <lb n="6"/>ለአብ በስሙ፡ ለመን
+               <lb n="7"/>ፈስ፡ ቅዱስ፡ ታኦስ፡
+                  <lb n="8"/><hi rend="rubric">ማስያስ፡ አቅዴፌር
+               <lb n="9"/>ለሐራፈር፡ ሐራፌኬ
+                     <lb n="10"/>ህ፡ ፍልፍማኤል፡ በ</hi>
+               <lb n="11"/>ስመ፡ ሳዶር፡ አላዶር 
+               <lb n="12"/>ዳናት፡ አዴራ፡ ሮዳ
+               <lb n="13"/>ስ፡ እብስቱር፡ ፀባዖት
+               <lb n="14"/>፡ ሸጭርዋቅ፡ እምር
+               <lb n="15"/>አሥር፡ ወእንሱራፌ
+                  <lb n="16"/>፡ አንሂሃ፡ <hi rend="rubric">፡ ቀያጢን፡ አ
+               <lb n="17"/>ንቀጥቃጢን፡ ወያፍ
+                     <lb n="18"/>ጢን፡ እልህያሹን፡ መር
+                     <lb n="19"/>ኮብዮን፡ ማኅፈረኪ፡
+                     <lb n="20"/>ወያሹን፡ ሊሃላ፡ ኢየ
+                     <lb n="21"/>ሱስ፡ ክርስቶስ</hi> በሰይ
+                  <lb n="22"/>ፈ ሚካኤል፡ ወገብር
+                     <lb n="23"/>ኤል፡ ይትገዘም፡ ወፃ
+                     <lb n="24"/>ዕ፡ መንፈስ፡ ርኩስ፡ ወ
+                     <lb n="25"/>ዘአኃዘ፡ እደ፡ ሰብእ፡ ወ
+                     <lb n="26"/>ተግባረ፡ ሰብእ፡ ይይ
+                  <lb n="28"/><hi rend="rubric">ትገዘም፡ ወይፃዕ፡ መንፈስ፡ 
+                     <lb n="29"/>ርኩስ፡ ወዘአኃዞ፡ እዶ፡ <del rend="expunctuated">ወ</del>ሰ
+               <lb n="30"/>ብእ፡ ወተግባረ፡ ሰብእ
+               <lb n="31"/>ይደምስስ፡ ኀበ፡ ዘቦአ፡ ዝ
+               <lb n="32"/>ንቱ፡ ጸሎት፡ እምላዕለ፡
+               <lb n="33"/>ነፍሱ፡ ወሥጋሁ፡ ለገብር
+                  <lb n="34"/>ከ፡ <add place="overstrike"><persName ref="" role="owner">ገብረ፡ ሥላሴ፡</persName></add></hi> አልፍ
+               <lb n="35"/>፡ አልፍ፡ ፃዕ፡ ወፂአከ፡ ኢት
+                     <lb n="36"/>ግባዕ፡ ይቤለከ፡ እግዚአ
+                     <lb n="37"/>ብሔር፡ ወዝክረ፡ ስም
+               <lb n="38"/>ከ፡ ይደምስስ፡ ለዓለመ
+                  <lb n="39"/>፡ <hi rend="rubric">ዓለም፡ ያቁድ፡ ያቁድኅ
+                  <lb n="40"/>አንተ፡ ባርያ፡ ወአንተ፡ ጋ
+                  <lb n="41"/>ኔን፡ አንተ፡ ሰይጣን፡ ወ
+                  <lb n="42"/>አንተ፡ ትግርትያ፡ አንተ</hi>
+                  <lb n="43"/>፡ ዓይነት፡ ወአንተ፡ ቡዳ፡ አ
+                  <lb n="44"/>ንተ፡ ዘትትሜሰል፡ በብዙ
+                  <lb n="45"/>ኅ፡ <del rend="expunctuated">ፆ</del>ፇታ፡ አህያ፡ ሸምራ
+                  <lb n="46"/>ኤል፡ ኃይለ፡ እግዚአብሔር
+                  <lb n="47"/>እግዚእ፡ ያሸኩት፡ ሩሃ
+                  <lb n="48"/>ል፡ ጋዴ፡ ዓምደ፡ <hi rend="rubric">ብርሃ
+                  <lb n="49"/>ን፡ ልብሰ፡ ብርሃን፡ ይበር
+                  <lb n="50"/>ቅ፡ በቅድመ፡ ገጸ፡ ፅዐላዒ፡
+                     <lb n="51"/>ባርያ፡ ፓውፕማ፡</hi> አርእ 
+                  <lb n="52"/>ዮ፡ ኃይለከ፡ በግርማ፡ ንጉ
+                  <lb n="53"/>ሠ፡ ስብሐት፡ ፡ ይርአዩ፡ ገ
+                  <lb n="54"/>ጸ፡ ወኢይልክፈ፡ ነፍሱ፡
+                  <lb n="55"/>ወሥጋሁ፡ ለገብርከ፡ <del rend="erasure"/>
+                  <lb n="56"/><hi rend="rubric"><add place="overstrike"><persName ref="" role="owner">ገብረ፡ ሥላሴ፡</persName></add></hi>
                </ab>
                         </div>
                   
                   <div type="textpart" subtype="text" n="2" corresp="#ms_i2" xml:id="text2part1">
                      <ab>
-                        <lb n="58"/>
-                        <lb n="59"/>
+                        <lb n="57"/><hi rend="rubric">ጸሎት፡ በእ
+                        <lb n="58"/>ንተ፡ ሕማመ፡ ውግዓት፡
+                        <lb n="59"/>ምድምያስ፡ ምድምያ</hi>
                      </ab>
                   </div>
                </div>
@@ -262,90 +262,92 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                            <div type="textpart" subtype="section" n="4" xml:id="sec4">
                               <div type="textpart" subtype="text" n="2" corresp="#ms_i2" xml:id="text2part2">
                                  <ab>
-                                    <lb n="60"/>
-                                    <lb n="61"/>
-                                    <lb n="62"/>
-                                    <lb n="63"/>
-                                    <lb n="64"/>
-                                    <lb n="65"/>
+                                    <lb n="60"/>ስ፡ ምስምያስ፡ የሀቂ፡ የ
+                                    <lb n="61"/>ሀቂ፡ የህብራሰቂ፡ የሀብራ
+                                    <lb n="62"/>ሰቂ፡ የሀብራሰ፡ በከመ፡ አ
+                                    <lb n="63"/>ድኃንከ፡ ለወልድከ
+                                    <lb n="64"/>ራሰቀ
+                                    <milestone unit="parchmentStrip" n="2"/>
+                                    <lb n="65"/>ከማሁ፡ አድኅሮ፡ ለገ
+                                    <lb n="66"/>ብርከ፡ <hi rend="rubric"><add place="overstrike"><persName ref="" role="owner">ገብረ፡ ሥላሴ፡</persName></add></hi>
                </ab>
                         </div>
                            
                   <div type="textpart" subtype="text" n="3" corresp="#ms_i3" xml:id="text3">
                   <ab>
-                     <lb n="66"/>
-                     <lb n="67"/>
-                     <lb n="68"/>
-                     <lb n="69"/>
-                     <lb n="70"/>
-                     <lb n="71"/>
-                     <lb n="72"/>
-                     <lb n="73"/>
-                     <lb n="74"/>
-                     <lb n="75"/>
-                     <lb n="76"/>
+                     <lb n="67"/><hi rend="rubric">ጸሎት፡ በእንተ፡ ሕ
+                        <lb n="68"/>ማመ ቍርፀት፡</hi> ድ
+                     <lb n="69"/>ሜጥሮስ፡ ድሜጥ
+                     <lb n="70"/>ሮስ፡ ድሜጥሮስ፡ ሰ
+                     <lb n="71"/>ይሰጠሰ፡ ጋይሰወወ፡ ጋ
+                     <lb n="72"/>ይሰጠሰ፡ በቶማታው፡
+                     <lb n="73"/>ሰቆታው፡ ሰይቆይ፡
+                     <lb n="74"/>በኃይለ፡ ዝንቱ፡ አ
+                     <lb n="75"/>ስማቲከ፡ አድኅኖ፡ ለ
+                     <lb n="76"/>ገብርከ፡ <hi rend="rubric"><add place="overstrike"><persName ref="" role="owner">ገብረ፡ ሥላሴ፡</persName></add></hi>
                   </ab>
                </div>
                               
                               <div type="textpart" subtype="text" n="4" corresp="#ms_i4" xml:id="text4">
                                  <ab>
-                                    <lb n="77"/>
-                                    <lb n="78"/>
-                                    <lb n="79"/>
-                                    <lb n="80"/>
-                                    <lb n="81"/>
-                                    <lb n="82"/>
-                                    <lb n="83"/>
-                                    <lb n="84"/>
-                                    <lb n="85"/>
-                                    <lb n="86"/>
-                                    <lb n="87"/>
-                                    <lb n="88"/>
-                                    <lb n="89"/>
-                                    <lb n="90"/>
-                                    <lb n="91"/>
-                                    <lb n="92"/>
-                                    <lb n="93"/>
-                                    <lb n="94"/>
-                                    <lb n="95"/>
-                                    <lb n="96"/>
-                                    <lb n="97"/>
-                                    <lb n="98"/>
-                                    <lb n="99"/>
-                                    <lb n="100"/>
-                                    <lb n="101"/>
-                                    <lb n="102"/>
-                                    <lb n="103"/>
-                                    <lb n="104"/>
+                                    <lb n="77"/><del rend="erasure"/> <hi rend="rubric">ጸሎት፡ በእንተ፡
+                                       <lb n="78"/>ማዕሠረ፡ አጋንንት</hi>፡
+                                    <lb n="79"/>፩ አላሁማ፡ ወያኑራ
+                                    <lb n="80"/>ሐሸምራጅ፡ ለሐቅእ
+                                    <lb n="81"/>ጅ፡ መግሩን፡ እልዋ
+                                    <lb n="82"/>ን፡ መ<del rend="expunctuated">ግ</del>በስስ፡ ዘረበበ
+                                    <lb n="83"/>ሙ፡ ለአጋንንት፡ ሎ
+                                    <lb n="84"/>ፍሐም፡ ሎፍሐም
+                                    <lb n="85"/><hi rend="rubric">ሎፍሐም፡ ሰሎሞ
+                                    <lb n="86"/>ን፡ ሰሎሞን፡ ሰሎ
+                                    <lb n="87"/>ሞን፡ እሰሮሙ</hi>፡ በዝ
+                                    <lb n="88"/>ንቱ፡ አስማቲከ፡ ወበ
+                                    <lb n="89"/>ዝንቱ፡ ቃላት፡ አስተ
+                                    <lb n="90"/>ናግሮ፡ ለቡዳ፡ መሠ
+                                    <lb n="91"/>ርይ፡ ወለጌዎን፡ ርኩ
+                                    <lb n="92"/>ስ፡ ለእመ፡ አኃዞ፡ እደ
+                                    <lb n="93"/>፡ ይትናገር፡ ሕሙም፡
+                                    <lb n="94"/><hi rend="rubric">ፈለሹን፡ ንሕጅን፡ ከመ
+                                    <lb n="95"/>ተናፌ፡ ሸሹን፡ ረበ፡ ቀ
+                                    <lb n="96"/>በ፡ ስሙ፡ ለእግዚአብ
+                                    <lb n="97"/>ሔር፡</hi> ኬንያ፡ ቴርቴና
+                                    <lb n="98"/>፡ ፌፌድራሆን፡ በኃይ
+                                    <lb n="99"/>ለ፡ ዝንቱ፡ አስማቲከ፡
+                                    <lb n="100"/>አንብቦ፡ ወአስተናግ
+                                    <lb n="101"/>ሮ፡ ለዘተአኅዘ፡ በደዌ፡
+                                    <lb n="102"/>በኃይለ፡ ዝንቱ፡ ቃለ፡ ኪ
+                                    <lb n="103"/>ዳንከ፡ ኢየሱስ፡ ክርስ
+                                    <lb n="104"/>ቶስ፡ አድኅኖ፡ ለገብር
+                                    <lb n="105"/>ከ፡ <persName ref="" role="">ተክለ፡ እግዚእ፡</persName> 
                                  </ab>
                               </div>
                               
                               <div type="textpart" subtype="text" n="5" corresp="#ms_i5" xml:id="text5">
                                  <ab>
-                                    <lb n="105"/>
-                                    <lb n="106"/>
-                                    <lb n="107"/>
-                                    <lb n="108"/>
-                                    <lb n="109"/>
-                                    <lb n="110"/>
-                                    <lb n="111"/>
-                                    <lb n="112"/>
-                                    <lb n="113"/>
-                                    <lb n="114"/>
-                                    <lb n="115"/>
-                                    <lb n="116"/>
-                                    <lb n="117"/>
-                                    <lb n="118"/>
-                                    <lb n="119"/>
-                                    <lb n="120"/>
-                                    <lb n="121"/>
-                                    <lb n="122"/>
-                                    <lb n="123"/>
-                                    <lb n="124"/>
-                                    <lb n="125"/>
-                                    <lb n="126"/>
-                                    <lb n="127"/>
-                                    <lb n="128"/>
+ጸ
+                                    <lb n="106"/>ሎት፡ በእንተ፡ መፍ
+                                    <lb n="107"/>ትሔ፡ ሥራይ፡ በስም
+                                    <lb n="108"/>ላሂ፡ በአራሂም፡ አራሂማን፡ ያጀር<del rend="expunctuated">የ</del>አለ፡ <hi rend="rubric">ነቢ
+                                    <lb n="109"/>የ፡ ሹሩለ፡ አ<del rend="expunctuated">ህ</del>ላህ፡ መ
+                                       <lb n="110"/>ሐመድ፡ ሐጅፍቂራ፡</hi>
+                                    <lb n="111"/>፡ እስላም፡ ስናር፡ በቃ
+                                    <lb n="112"/>ለ፡ አህመድ፡ ወበቃለ፡
+                                    <lb n="113"/>ሸርኤላ፡ ያሙሽ፡ ፍታ
+                                    <lb n="114"/>ሕ፡ ወዘርዝር፡ ሠዓር
+                                    <lb n="115"/>ወመዝንር፡ ኵሎ፡
+                                    <lb n="116"/>ሥራየ፡ ወኵሎ፡ አስማ
+                                    <lb n="117"/>ተ፡ ዘተገብረ፡ ቅድ
+                                    <lb n="118"/>መ፡ <del rend="expunctuated">ቅ</del>ወዘይትገበር
+                                    <lb n="119"/>ዳግመ፡ ፍታሕ፡ ሥራየ፡
+                                    <lb n="120"/><hi rend="rubric">ጋላ፡ ወሸቅላ፡ ሥራየ፡
+                                    <lb n="121"/>ተልፌ፡ ወጥልጠል፡
+                                       <lb n="122"/>ፍታሕ፡ ሥራየ፡</hi> ፅራዕ፡
+                                    <lb n="123"/>ወመበርታ፡ ሥራየ፡ አ
+                                    <lb n="124"/>ጽቢ፡ <del rend="expunctuated">አ</del>ወደራ፡ ወሰ
+                                    <lb n="125"/>ንአፌ፡ ሥራየ፡ አይበ፡ ወ
+                                    <lb n="126"/>ፍሾ፡ ሥራየ፡ ፍታሕ፡
+                                    <lb n="127"/>ሥራየ፡ ገብርከ፡ <del rend="erasure"/>
+                                    <lb n="128"/><hi rend="rubric"><add place="overstrike"><persName ref="" role="owner">ገብረ፡ ሥላሴ፡</persName></add></hi>
                                  </ab>
                               </div>
                            </div>  
