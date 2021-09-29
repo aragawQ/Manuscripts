@@ -34,10 +34,10 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                   <locus from="1r"></locus>
                   <title xml:lang="en" type="incomplete" ref="LIT2293Sawase"></title>
                   <textLang mainLang="am" otherLangs="gez"></textLang>
-                  <note>The text is imperfect at the beginning.</note>
+                  <note> The text is imperfect at the beginning.</note>
                 </msItem>
 
-              </msContents>
+              </msContents> 
 
                <physDesc>
                   <objectDesc form="Codex">
@@ -133,7 +133,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"
                       <item xml:id="e1">
                         <locus target="#16v #17v"></locus>
                         <desc>Crude note or addition to the text in pen.</desc>
-                      </item>
+                      </item> 
                     </list>
                   </additions>
                   <bindingDesc>
